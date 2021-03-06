@@ -1,5 +1,6 @@
 ! Title: 瞎弄的广告过滤规则
-! by: 酷安@大萌主
+！创建人：酷安@大萌主
+123456789
 s.fengmishop.cn
 www.qwupoq.com
 www.zvnjghj.com
