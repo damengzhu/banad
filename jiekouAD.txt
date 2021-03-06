@@ -1,6 +1,7 @@
 ! Title: 瞎弄的广告过滤规则
 ! by: 酷安@大萌主
 s.fengmishop.cn
+www.qwupoq.com
 www.zvnjghj.com
 yds.kebi1.top
 wxr.kebi1.top
