@@ -932,6 +932,7 @@ xn--wxtr9fwyxk9c.site
 xn--wxtr9fwyxk9c.xn--io0a7i
 duboku.net##div.container:nth-child(2) > div.row:last-child > div.col-md-wide-7.col-xs-1.padding-0:first-child > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1
 5dm.tv##[src*="sinaimg.cn"]
+a.maorx.cn##[style^='display: block; opacity: 1; transform: ']
 5dm.tv/html/5dmm.jpg
 milimili.tv/js/loadjs/jquery10.4.js
 milimili.tv/js/loadjs/jquery10.7.js
