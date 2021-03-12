@@ -658,11 +658,7 @@ www.9ekk.com##[class^='vod-db']
 mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
 88btbtt.com,51btbtt.com,52btbtt.com,91btbtt.com,mebtbtt.com,btbtt.life,btbtt.live,btbtt.xyz##[id="wrapper_left_bg"],[id="wrapper_right_bg"],[class="width imgs_1"]
 m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
-www.nicotv.biz,www.nicotv.club,www.nicotv.me##[id*="MyDiv"]
-www.nicotv.biz,www.nicotv.club,www.nicotv.me##p.text-center.ff-ads
-www.nicotv.biz,www.nicotv.club,www.nicotv.me##div.carousel-inner
-www.nicotv.biz,www.nicotv.club,www.nicotv.me##[id="asdw2"],[src='https://img.qrgjwz.cn/all/mh05_640200.gif']
-www.nicotv.biz,www.nicotv.me,www.nicotv.club##DIV[id*='A'],[id*='B'],[id*='C'],[id*='D'],[id*='E'],[id*='F'],[id*='G'],[id*='H'],[id*='I'],[id*='J'],[id*='K'],[id*='L'],[id*='Y'],[id*='W']
+www.nicotv.biz,www.nicotv.club,www.nicotv.me##IMG[src='https://img.qrgjwz.cn/all/mh05_640200.gif'],[onclick]
 t.pd74.top
 b1.51yangsheng.com
 b2.51yangsheng.com
