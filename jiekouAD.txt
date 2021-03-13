@@ -4,6 +4,9 @@ s.fengmishop.cn
 www.qwupoq.com
 ads.exoclick.com
 dserver.juicyads.com
+m.ilzivarmx.icu
+qin.1111.fx-blog.top
+activity.tuigorilla.com
 yd.pingseli.com
 tj.tianwenhu.com
 chanel.wohewodejxz.top
@@ -461,6 +464,7 @@ https://m.manhuapi.com/style/js/common.js
 statics.woozooo.com/img/m277.js
 https://statics.weiyuedu.cc/skin/v3/js/dibu.js
 http://www.97kpz.com/js/bbk/g.js
+https://m.tutufu.com/bd/b-c1.js
 cdn.szjhons.com
 g.aisouk.cn
 xuanmin.wang
