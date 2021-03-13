@@ -2,6 +2,15 @@
 ！创建人：酷安@大萌主
 s.fengmishop.cn
 www.qwupoq.com
+ads.exoclick.com
+dserver.juicyads.com
+a.exosrv.com
+poweredby.jads.co
+bngpt.com
+fonts.gstatic.com
+fonts.googleapis.com
+yndication.exosrv.com
+run.zxptw.cn
 www.zvnjghj.com
 dm.cw49z0.cn
 wap.bntxt.com
@@ -470,6 +479,7 @@ http://www.zd518.cn/statics/js/home.js
 https://c.mipcdn.com/c/s/by.manhuachi.com
 https://m.qimiaomh.com/muban/m/static/js/hhh.js
 https://m.qimiaomh.com/muban/m/static/js/common.js
+www.mhhanman.xyz/data/my/myjs.js
 4kfv18.cn
 87d.xv5b.com
 sd6hon.cn
