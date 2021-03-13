@@ -693,6 +693,10 @@ www.zhenbuka.com##[id='ad_img'],[src*='p3-tt.byteimg.com']
 lanzoui.com##DIV[style='margin-top:17px;min-width: 130px;']
 www.bimiacg.com##[class='ssr1']
 www.9ekk.com##[class^='vod-db']
+zhcedu.cn##DIV#yrcma5696
+zhcedu.cn##VIDEO[x5-video-player-fullscreen='false']
+zhcedu.cn##IMG.vd_bt[src*='https://ae01.alicdn.com/kf/']
+8666.tv##DIV.vdgd
 mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
 88btbtt.com,51btbtt.com,52btbtt.com,91btbtt.com,mebtbtt.com,btbtt.life,btbtt.live,btbtt.xyz##[id="wrapper_left_bg"],[id="wrapper_right_bg"],[class="width imgs_1"]
 m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
@@ -704,6 +708,7 @@ www.5zi2.top
 news.ssp.qq.com/app
 btrace.qq.com
 www.oiwjcsh010.top
+tld.kaixintou8.com
 gorgon.youdao.com
 rlogs.youdao.com
 jxbtl.com
