@@ -1,7 +1,7 @@
 ! Title: 瞎弄的广告过滤规则
 ！创建人：酷安@大萌主
 --10443/\w*/x-\w*\-33.js
---.\w*/o.js
+--://\w*.\w*.\w*/o.js
 s.fengmishop.cn
 www.qwupoq.com
 www.zvnjghj.com
@@ -999,6 +999,7 @@ bfniq.theta.sogou.com
 xtruh.uranus.sogou.com
 ipyo.theta.sogou.com
 m.konshan.com
+api.dedayuntong.com
 sp.chemacid.cn
 tfw.ymima360.com
 www.abie19.top
