@@ -1,10 +1,12 @@
 ! Title: 瞎弄的广告过滤规则
 ！创建人：酷安@大萌主
 --10443/\w*/x-\w*\-33.js
---://\w*.\w*.\w*/o.js
+--.\w*/o.js
 s.fengmishop.cn
 www.qwupoq.com
 www.zvnjghj.com
+dm.cw49z0.cn
+wap.bntxt.com
 yds.kebi1.top
 wxr.kebi1.top
 rte.fuoo1.top
