@@ -705,6 +705,7 @@ www.zhenbuka.com##[id='ad_img'],[src*='p3-tt.byteimg.com']
 lanzoui.com##DIV[style='margin-top:17px;min-width: 130px;']
 www.bimiacg.com##[class='ssr1']
 www.9ekk.com##[class^='vod-db']
+www.ncdj24.com##[href='https://gcsyslc.com/'],[href='https://865761.com/'],[id*='KdW']
 zhcedu.cn##DIV#yrcma5696
 zhcedu.cn##VIDEO[x5-video-player-fullscreen='false']
 zhcedu.cn##IMG.vd_bt[src*='https://ae01.alicdn.com/kf/']
