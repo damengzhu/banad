@@ -715,6 +715,7 @@ zhcedu.cn##DIV#yrcma5696
 zhcedu.cn##VIDEO[x5-video-player-fullscreen='false']
 zhcedu.cn##IMG.vd_bt[src*='https://ae01.alicdn.com/kf/']
 8666.tv##DIV.vdgd
+m.kkkkwu.cc##DIV.vdgdo
 mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
 88btbtt.com,51btbtt.com,52btbtt.com,91btbtt.com,mebtbtt.com,btbtt.life,btbtt.live,btbtt.xyz##[id="wrapper_left_bg"],[id="wrapper_right_bg"],[class="width imgs_1"],[class="wrapper_bg_c hidden-xs"]
 m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
