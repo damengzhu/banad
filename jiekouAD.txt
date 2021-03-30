@@ -712,6 +712,7 @@ www.zhenbuka.com##[id='ad_img'],[src*='p3-tt.byteimg.com']
 lanzoui.com##DIV[style='margin-top:17px;min-width: 130px;']
 www.bimiacg.com##[class='ssr1']
 www.9ekk.com##[class^='vod-db']
+baike.baidu.com##[class="BK-content-load"],[class="qtqy-container"]
 www.ncdj24.com##[href='https://gcsyslc.com/'],[href='https://865761.com/'],[id*='KdW'],[class*='col-style d-4 m-2 lo1ad1ed ']
 zhcedu.cn##DIV#yrcma5696
 zhcedu.cn##VIDEO[x5-video-player-fullscreen='false']
@@ -766,6 +767,7 @@ baidu.com###relative_shop_flow
 cpu.baidu.com##A[href*='cpro.baidu.com']
 baidu.com###page-pre
 baidu.com##.ec_wise_ad
+baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 www.onemanhua.com##IMG[src*='pic66557.oss-cn-beijing.aliyuncs.com']
 onemanhua.com###rn_ad_native_2u1bh > div.mn-related-container
