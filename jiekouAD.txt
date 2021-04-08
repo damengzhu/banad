@@ -519,6 +519,8 @@ xl.msspgw.cn
 ks66666661.com
 d.haireig.com
 56fba.cn
+http://m.pufei.cc/skin/footer.js
+http://m.pufei.cc/skin/middle.js
 https://shimo.im/lizard-api/ads
 https://www.zhenbuka.com/gg/lunbo.js
 http://www.zd518.cn/template/qpg6080/baidufx/baidufx.js
