@@ -6,6 +6,7 @@
 
 !--域名--
 m.abc88866.com
+s3.amazonaws.com
 g47iq.bolimen.top
 www.ilaohuyou.xyz
 parse.fzcjjx.com
