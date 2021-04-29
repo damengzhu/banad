@@ -5,6 +5,8 @@
 @@$app=com.x.addon.cast
 
 !--域名--
+bi.ui.doulaihai.top
+puqer.cn
 m.abc88866.com
 s3.amazonaws.com
 g47iq.bolimen.top
