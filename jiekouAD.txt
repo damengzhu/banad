@@ -5,6 +5,11 @@
 @@$app=com.x.addon.cast
 
 !--域名--
+js.363lm.com
+sd.shtiesen.cn
+www.govshenzhen.cn
+www.abcdlm.com
+ppl.xunzhuo123.com
 bi.ui.doulaihai.top
 ppl.xunzhuo123.com
 puqer.cn
