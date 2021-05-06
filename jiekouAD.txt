@@ -5,6 +5,14 @@
 @@$app=com.x.addon.cast
 
 !--域名--
+sdk.51.la
+collect-v6.51.la
+agilehw.online
+v.greenere.cn
+dat8.cc
+l.bjzsyx.cn
+ktdlsb.com
+2vun.intelligente.cn
 js.363lm.com
 sd.shtiesen.cn
 www.govshenzhen.cn
@@ -989,6 +997,7 @@ www.aoyou5.top
 f.x91n4a.com
 
 !--链接--
+http://m.yhdm.so/bar/yfgg.js
 https://www.zxzj.me/slade2.js
 https://m.x4jdm.tv/mdp.js
 https://m.xinxindm.com/gog.js
