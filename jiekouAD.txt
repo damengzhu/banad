@@ -6,6 +6,11 @@
 
 !--域名--
 sdk.51.la
+quanxiaozi.com
+www.bibilm.com
+www.ppslsa.com
+caishuitonghr.com
+dk.zeronethree.xyz
 collect-v6.51.la
 agilehw.online
 v.greenere.cn
@@ -1112,6 +1117,7 @@ www.nicotv.work,nicotv.vip,www.nicotv.biz,www.nicotv.club,www.nicotv.me##IMG[src
 www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##.ec-ad
+www.bde4.cc##[src*='p.qpic.cn/vshpic']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
 m.zzzfun.com##DIV#show-2415689770463175004-8179
