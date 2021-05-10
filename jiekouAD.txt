@@ -1,5 +1,6 @@
 ! Title: 瞎弄的广告过滤规则
 ！创建人：酷安@大萌主
+
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 
