@@ -6,6 +6,8 @@
 
 !--域名--
 ck.foxyier.xyz
+js.bluecarvin.xyz
+m.ffowo.com
 sdk.51.la
 quanxiaozi.com
 www.bibilm.com
