@@ -4,6 +4,10 @@
 @@$app=com.x.addon.cast
 !--域名--
 ck.foxyier.xyz
+www.govhangzhou.cn
+xg.binkens.cn
+shop.yipanhaocai.com
+m.do.downcdn.top
 lyra.iscrv.com
 mao.jp88888887.cn
 js.bluecarvin.xyz
