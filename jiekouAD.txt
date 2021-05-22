@@ -4,6 +4,15 @@
 @@$app=com.x.addon.cast
 !--域名--
 ck.foxyier.xyz
+dg.sawadeca.com
+www.jmine.cn
+js.keeyekey.xyz
+oceanbot-steam.com
+tetiao9.com
+caishuitonghr.com
+just-machinery.com
+zzdsjxsb.com
+hbandier.com
 www.govhangzhou.cn
 xg.binkens.cn
 shop.yipanhaocai.com
