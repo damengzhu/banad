@@ -4,6 +4,10 @@
 @@$app=com.x.addon.cast
 !--域名--
 ck.foxyier.xyz
+vrdih.jiancaiwy.top
+m.s.ailuolim.club
+ym.yinmofun.com
+23.dlads.cn
 dg.sawadeca.com
 www.jmine.cn
 js.keeyekey.xyz
