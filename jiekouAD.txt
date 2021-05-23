@@ -4,6 +4,10 @@
 @@$app=com.x.addon.cast
 !--域名--
 ck.foxyier.xyz
+m3.myyj.net
+j.jixiangniutanrou.net
+j.guotaotaoci.net
+qj.ituanhui.com
 vrdih.jiancaiwy.top
 m.s.ailuolim.club
 ym.yinmofun.com
@@ -996,7 +1000,6 @@ www.58wk.com##[src="/111/1.gif"]
 www.58wk.com##div#gdggw2
 www.58wk.com##div#bottomJuSha
 nfmovies.com##DIV[class='clearfix']
-m.bimibimi.me##DIV.ssr1
 duboku.net##div.container:nth-child(2) > div.row:last-child > div.col-md-wide-7.col-xs-1.padding-0:first-child > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1
 5dm.tv##[src*="sinaimg.cn"]
 a.maorx.cn##[style^='display: block; opacity: 1; transform: ']
@@ -1027,6 +1030,7 @@ m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
 www.nicotv.work,nicotv.vip,www.nicotv.biz,www.nicotv.club,www.nicotv.me##IMG[src='https://img.qrgjwz.cn/all/mh05_640200.gif'],[onclick]
 www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
+bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
 baidu.com##.rel-exp-feed-ad-item
