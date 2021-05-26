@@ -3,6 +3,10 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+ssh.dajb0oh.cn
+www.kanglingjiu.com
+dao.daodegou.com
+click.abi.run
 ck.foxyier.xyz
 m.shixiong.xyz
 e3.ximinkeji.cn
