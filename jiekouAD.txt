@@ -4,6 +4,10 @@
 @@$app=com.x.addon.cast
 !--域名--
 ssh.dajb0oh.cn
+km.anlgh.com
+cp.eoncreativity.com
+k.40fenzhong.com
+city.youpukeji.cn
 f4db.kanwby.com
 hkjs.shuake.ink
 www.kanglingjiu.com
@@ -1028,6 +1032,8 @@ www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
+##A[href='https://hARXH7WXA2.eosean.com']
+##A[href='https://hARXH7WXA2.eosean.com']->m:0
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
