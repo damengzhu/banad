@@ -1010,6 +1010,8 @@ http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
 !--元素--
+##[src*='555889.xyz/'],[src*='https://3338658.com/'],[src*='https://p3.toutiaoimg.com/'],[onclick*="https://x3341.xyz"],[src*='https://ae01.alicdn.com/'],[src*='https://3336650.com/'],[href*='http://z2.shuichuli3600.com:'],[src*='https://img.downk.cc/item'],[src*='https://p.qlogo.cn/qqmail_head']->0
+##[src*='555889.xyz/'],[src*='https://3338658.com/'],[src*='https://p3.toutiaoimg.com/'],[onclick*="https://x3341.xyz"],[src*='https://ae01.alicdn.com/'],[src*='https://3336650.com/'],[href*='http://z2.shuichuli3600.com:'],[src*='https://img.downk.cc/item'],[src*='https://p.qlogo.cn/qqmail_head']
 ##[src^="https://732336.com/"]
 ##[src^="https://732336.com/"]->0
 ##[href='https://hARXH7WXA2.eosean.com']
