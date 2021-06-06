@@ -3,6 +3,8 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+dx.dihuizs.cn
+lke.liuchengming.com
 syndication.realsrv.com
 fhsmtrnsfnt.com
 ilyf4amifh.com
