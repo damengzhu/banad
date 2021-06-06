@@ -3,6 +3,9 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+xinlimaoyi2.xinlimaoyi.cn
+vue.nnsbbd.com
+cdn.zjmao.net
 wa.xsjyun.cn
 ifeng3.yylady.cn
 xnt.di2y21.top
