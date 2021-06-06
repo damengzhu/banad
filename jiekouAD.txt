@@ -1007,6 +1007,10 @@ http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
 !--元素--
+##[src^="https://732336.com/"]
+##[src^="https://732336.com/"]->0
+##[href='https://hARXH7WXA2.eosean.com']
+##[href='https://hARXH7WXA2.eosean.com']->m:0
 www.58wk.com##qhd
 www.58wk.com##[src*="640200.gif"]
 www.58wk.com##rrk
@@ -1046,8 +1050,6 @@ www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
-##A[href='https://hARXH7WXA2.eosean.com']
-##A[href='https://hARXH7WXA2.eosean.com']->m:0
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
