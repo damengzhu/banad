@@ -3,6 +3,9 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+syndication.realsrv.com
+fhsmtrnsfnt.com
+ilyf4amifh.com
 xinlimaoyi2.xinlimaoyi.cn
 vue.nnsbbd.com
 cdn.zjmao.net
