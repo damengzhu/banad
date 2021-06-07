@@ -1015,6 +1015,8 @@ http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
 !--元素--
+##[src^="https://763667.com/"][src*=".gif"],[border="0"],[src^="https://763667.com/"][width="100%"]->0
+##[src^="https://763667.com/"][src*=".gif"],[border="0"],[src^="https://763667.com/"][width="100%"]
 www.58wk.com##[style='display: block;']
 www.58wk.com##qhd
 www.58wk.com##[src*="640200.gif"]
