@@ -4,6 +4,9 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+www.googletagmanager.com
+u1.idongde.com
+yqef.hsyfcenter.com
 kkr.realwanghao.com
 gbd.guanmeixiangsu.com
 gbn.magic-future.com
@@ -945,6 +948,7 @@ oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
 !--链接--
+hm.baidu.com$third-party
 --templates_pc/default/scripts/chapter_bottom.js
 templates_pc/default/scripts/chapter_bottom.js
 http://m.yhdm.so/bar/yfgg.js
