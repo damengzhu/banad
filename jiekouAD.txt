@@ -4,6 +4,8 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+swwwxww.oss-cn-hangzhou.aliyuncs.com
+wap.shenzhengov.work
 www.googletagmanager.com
 u1.idongde.com
 yqef.hsyfcenter.com
