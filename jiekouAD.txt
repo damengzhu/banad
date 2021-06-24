@@ -1069,7 +1069,7 @@ www.nangua5.com##[id*="_"][class*="_"],[id^="k"],[style*='height: 130px;'],[styl
 mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
 88btbtt.com,51btbtt.com,52btbtt.com,91btbtt.com,mebtbtt.com,btbtt.life,btbtt.live,btbtt.xyz##[id="wrapper_left_bg"],[id="wrapper_right_bg"],[class="width imgs_1"],[class="wrapper_bg_c hidden-xs"]
 m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
-www.nicotv.work,nicotv.vip,www.nicotv.biz,www.nicotv.club,www.nicotv.me##IMG[src='https://img.qrgjwz.cn/all/mh05_640200.gif'],[onclick],[class^="jSVPH"],[src^='http://img.bzzyx.cn/Uploads/']
+www.nicotv.work,nicotv.vip,www.nicotv.biz,www.nicotv.club,www.nicotv.me##IMG[src='https://img.qrgjwz.cn/all/mh05_640200.gif'],[onclick],[class^="jSVPH"],[src^='http://img.bzzyx.cn/Uploads/'],[title="gg"]
 www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
