@@ -4,6 +4,7 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+o2.jyjyj.cn
 ssh.ylfgybn.cn
 pv.quw1234.icu
 ceh.cehbh.com
