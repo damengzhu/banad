@@ -4,6 +4,14 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+hh.jhxpkd.cn
+shirleyyean.com
+m.slshiye.cn
+www.200ps.com
+kr.sdykcloud.cn
+ehk.trenhdg.com
+h.baminw.cn
+ymm17.cc
 gyjinchuang.vip
 ymm19.cc
 o2.jyjyj.cn
