@@ -4,6 +4,9 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+mg.zgcqxjzny.cn
+mc.muhtbnd.cn
+t.atomicfile.cn
 hh.jhxpkd.cn
 shirleyyean.com
 m.slshiye.cn
