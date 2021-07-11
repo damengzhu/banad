@@ -4,6 +4,12 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+fo.zhangbaochang.top
+www.kowqd3.top
+bl.emotionalworld.cn
+krw.yrehdfer.com
+www.govchengdu.cn
+www.govguilin.cn
 www.govjieyang.cn
 cpoml.iask.sina.com.cn
 mg.zgcqxjzny.cn
