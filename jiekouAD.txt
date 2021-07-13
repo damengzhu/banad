@@ -4,6 +4,9 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+poasotha.com
+a.exdynsrv.com
+ptauxofi.net
 fo.zhangbaochang.top
 www.kowqd3.top
 bl.emotionalworld.cn
