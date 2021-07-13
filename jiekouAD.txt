@@ -564,7 +564,6 @@ daikuanfanli.com
 runative-syndicate.com
 k.innvitor.com
 cdn.xianliao.me
-||qchannel03.cn^$third-party
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
 go.sohu.com
@@ -769,6 +768,7 @@ oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
 !--链接--
+qchannel03.cn$third-party
 hm.baidu.com$third-party
 --templates_pc/default/scripts/chapter_bottom.js
 templates_pc/default/scripts/chapter_bottom.js
@@ -867,6 +867,7 @@ yxdm.tv##[class^="adv"]
 baidu.com##div#J-super-layer-promote
 ddrk.me###obay_hf_i
 ddrk.me##DIV#afc_sidebar_2842
+zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 www.9ekk.com##[rel='nofollow'],[class='onlywap']
 www.zhenbuka.com##[id='ad_img'],[src*='p3-tt.byteimg.com']
