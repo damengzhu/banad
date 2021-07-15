@@ -4,6 +4,12 @@
 !---解除X浏览器投屏扩展被AdGuard屏蔽---
 @@$app=com.x.addon.cast
 !--域名--
+www.sioccu.com
+rf.cnlongshou.com
+1074.dlads.cn
+kl.korings.com
+2.yunsxk.xyz
+www.abblm.com
 poasotha.com
 a.exdynsrv.com
 ptauxofi.net
@@ -893,6 +899,8 @@ www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
+##[href^='https://www.visvn.cn/c.php']->m:0
+##[href^='https://www.visvn.cn/c.php']
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
