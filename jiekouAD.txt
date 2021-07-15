@@ -899,6 +899,8 @@ www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
+##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']->m:0
+##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']
 ##[href^='https://www.visvn.cn/c.php']->m:0
 ##[href^='https://www.visvn.cn/c.php']
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
