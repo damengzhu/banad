@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+ou12.dl12349.net
 l7uhsurj.lihongcheng.com
 aasfalfjsu.ztzcpg.com
 gsp0.baidu.com
@@ -929,6 +930,10 @@ baidu.com##.ec-ad
 ##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']
 ##[href^='https://www.visvn.cn/c.php']->m:0
 ##[href^='https://www.visvn.cn/c.php']
+##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']->m:0
+##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
+##DIV.addg->m:0
+##DIV.addg
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
