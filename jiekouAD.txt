@@ -959,6 +959,8 @@ baidu.com##.ec-ad
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##DIV.addg->m:0
 ##DIV.addg
+##[onclick^="window.location.href = 'http://wd.haoyundm.com"]->m:0
+##[onclick^="window.location.href = 'http://wd.haoyundm.com"]
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
