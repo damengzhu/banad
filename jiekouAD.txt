@@ -964,6 +964,8 @@ baidu.com##.ec-ad
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##DIV.addg->m:0
 ##DIV.addg
+##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
+##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]->m:0
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
