@@ -1005,6 +1005,10 @@ baidu.com##.ec-ad
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##DIV.addg->m:0
 ##DIV.addg
+##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']->m:0
+##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
+##[src^='https://p.jngdg.top/'][alt]->m:0
+##[src^='https://p.jngdg.top/'][alt]
 ##.dise_gd,.dise_db->m:0
 ##.dise_gd,.dise_db
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
