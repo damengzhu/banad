@@ -980,6 +980,7 @@ sogou.com##.ad_result
 baijiahao.baidu.com##SPAN[class='psDTG2YH-UVvL5hI8Ye4a']
 baijiahao.baidu.com##SPAN[class='_2v86xffLyWbTz5nRDFr_L_ _2xxXjJo3ZlFeRRLLUMtAr_']
 ifeng.com##div[class^="ad_"]
+xx7411.com##[width='1230px'][height='97px'],[width='728px'][height='90px'],#Preview_vedio_area,[width='1230px']
 zhidao.baidu.com##[id='knowledge-answer-list']
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 www.onemanhua.com##A[href*='archerrche.com']
