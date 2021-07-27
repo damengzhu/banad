@@ -1017,8 +1017,6 @@ baidu.com##.ec-ad
 ##.dise_gd,.dise_db
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
-##[style='height: auto;']->m:0
-##[style='height: auto;']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]->m:0
