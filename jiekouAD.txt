@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+yuehesh.com
 abc.kfyg.xyz
 xopf.lhy1.xyz
 hks.lhy1.xyz
