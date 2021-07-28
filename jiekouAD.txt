@@ -2,6 +2,15 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+gdsoq.com
+ror12.cc
+3q3l.cn
+8g0j.cn
+code1155
+y74s.xyz
+v6jt.cn
+7282818wednesday.1905715.com
+yoke.arkn81.com
 c.njcengpianwang.cn
 v.njcengpianwang.cn
 vip.infobbs.xyz
@@ -875,6 +884,8 @@ oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
 !--链接--
+567*.xyz
+--567\w?\.xyz
 qchannel03.cn$third-party
 hm.baidu.com$third-party
 --templates_pc/default/scripts/chapter_bottom.js
