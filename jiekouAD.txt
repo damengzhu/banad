@@ -1020,8 +1020,6 @@ baidu.com##.ec-ad
 ##[href^='https://www.visvn.cn/c.php']
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']->m:0
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
-##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']->m:0
-##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[src^='https://p.jngdg.top/'][alt]->m:0
 ##[src^='https://p.jngdg.top/'][alt]
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
