@@ -2,6 +2,25 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+tg.loclog.cn
+www.lm661.com
+km.senxiaopang.top
+hj.sygsyq.com
+lkm.bangyuandianzi.top
+tr.xiaosunxin.cn
+p.qlogo.cn
+mg.ledaren.cn
+mc.xheqbc.cn
+xc.muhnbc.cn
+xg.kmgfjc.cn
+run5.b1byou.com
+run.fintechpi.com
+wo1990.com
+a2.zhanzhang.net
+ja.ouxutong.com
+hk.candaedu.com
+www.govxian.cn
+bn.zhangjunying.top
 lvcha99.cc
 ty.lizehuandian.top
 www.xxmh456.com
@@ -1021,6 +1040,8 @@ baidu.com##.ec-ad
 ##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']
 ##[href^='https://www.visvn.cn/c.php']->m:0
 ##[href^='https://www.visvn.cn/c.php']
+##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']->m:0
+##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']->m:0
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##[src^='https://p.jngdg.top/'][alt]->m:0
