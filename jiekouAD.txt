@@ -1032,6 +1032,8 @@ baidu.com##.ec-ad
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]->m:0
 ##[onclick^="window.location.href = 'http://wd.haoyundm.com"]
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
+##[src*='.jpg'][style='width: 100%;border-radius: 5px;']->m:0
+##[src*='.jpg'][style='width: 100%;border-radius: 5px;']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
 m.zzzfun.com##DIV#show-2415689770463175004-8179
