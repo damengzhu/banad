@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+enl2.96845.com
 tg.loclog.cn
 www.lm661.com
 km.senxiaopang.top
