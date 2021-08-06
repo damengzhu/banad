@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+lsuy579ribd29j.lekhumayou.com
+awekdhfjsl.wsyyt123456.com
+oywhyeehgha.guirui-clothes.com
 ywhyeehgha.guirui-clothes.com
 www.369burn.com
 gb.nbgoodever.cn
@@ -1063,6 +1066,8 @@ baidu.com##.ec-ad
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##[src^='https://p.jngdg.top/'][alt]->m:0
 ##[src^='https://p.jngdg.top/'][alt]
+##[src*='.wdach.com/']->m:0
+##[src*='.wdach.com/']
 ##[href="/js/c-7-16.html"][title="2021"]->m:0
 ##[href="/js/c-7-16.html"][title="2021"]
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
