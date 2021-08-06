@@ -956,6 +956,7 @@ http://www.5nj.com/js/cnzz33.js
 http://www.5nj.com/js/cnzz22.js
 https://www.wandouys.com/slade.js
 https://m.kukudm.com/mg/show2.js
+https://www.daishudy.com/js/g/b_1.js
 https://m.zwdu.com/getuserinfo.php
 pstatp.com/growth/fe_sdk/bannersdk
 http://s2.m.ikkdm.com/mg/show2.js
@@ -1068,6 +1069,10 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+##[src*='.gif'][width='99%'][height='118'][style='border:0;']->m:0
+##[src*='.gif'][width='99%'][height='118'][style='border:0;']
+##[href='http://www.fcf0020.xyz']->m:0
+##[href='http://www.fcf0020.xyz']
 ##[href="/js/c-7-16.html"][title="2021"]->m:0
 ##[href="/js/c-7-16.html"][title="2021"]
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
