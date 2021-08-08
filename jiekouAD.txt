@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+r.qq-hls.xyz
 securepubads.g.doubleclick.net
 2785.chushoushijian.cn
 fg.daochengwowo.top
