@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+ios.xyadtlyy.com
+lt.goodgoodluck.cn
 mimg.meihu56.cn
 mc.mmkkhhnn.cn
 mc.mssdhde.cn
