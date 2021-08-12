@@ -1127,7 +1127,6 @@ baidu.com###qtqy_container
 javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3)
 baidu.com###relative_shop_flow
 cpu.baidu.com##A[href*='cpro.baidu.com']
-baidu.com###page-pre
 baidu.com##.ec_wise_ad
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
