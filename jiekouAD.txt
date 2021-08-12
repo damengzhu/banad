@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+mimg.meihu56.cn
+mc.mmkkhhnn.cn
+mc.mssdhde.cn
+js.brstke.top
+mg.lingqinga.cn
+j.wesat.cn
 www.kowqd7.top
 et.dexuanyu.top
 local.adguard.org
@@ -1090,6 +1096,9 @@ baidu.com##.ec-ad
 ##UL[style='margin:0px; padding:0px;overflow:hidden;width:100%;']
 ##[href="/js/c-7-16.html"][title="2021"]->m:0
 ##[href="/js/c-7-16.html"][title="2021"]
+##[alt='腐乐漫'],[alt='西瓜社']->m:0
+##[alt='腐乐漫'],[alt='西瓜社']
+yimmh.com##[class^="x2021"]
 ##[href^='https://www.xxmh608.com/u.htm']->m:0
 ##[href^='https://www.xxmh608.com/u.htm']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
