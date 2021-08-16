@@ -1099,6 +1099,8 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+##[href^="https://www.ex311.com:"]->m:0
+##[href^="https://www.ex311.com:"]
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']->m:0
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']
 ##[href='http://www.fcf0020.xyz']->m:0
