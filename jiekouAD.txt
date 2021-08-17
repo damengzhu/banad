@@ -2,6 +2,11 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+device.fishmobi.com
+6g.sybnzs.cn
+fc.focusonus.top
+3d.sybnzs.cn
+o9jsljls.gaomingbo.com
 xg.jisukuaisong.cn
 js.loveshop8.com
 ios.xyadtlyy.com
