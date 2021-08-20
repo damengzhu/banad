@@ -2,6 +2,17 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+c.wsnew.cn
+v.wsnew.cn
+wsnew.cn
+zhibo2.gjpu.net
+2.ytelc.com
+oaftaijo.net
+inpage-push.com
+outoctillerytor.com
+sc.ksdr.xyz
+px.eiasia.ltd
+ap.eiasia.ltd
 cxdcn9c.fjshxjs.cn
 dat1.jzjxmj.com
 gjh9v.tianshilv.cn
@@ -1101,6 +1112,10 @@ baidu.com##.ec-ad
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
 ##[alt='腐乐漫'],[alt='西瓜社']
 yimmh.com##[class^="x2021"]
+##.appguide-wrap[onclick*="bcebos.com"]->m:0
+##.appguide-wrap[onclick*="bcebos.com"]
+##[onclick^="window.location.href"][onclick*=".bcebos."]->m:0
+##[onclick^="window.location.href"][onclick*=".bcebos."]
 ##[poster^="https://yun.lhqykq.cn/shandong/"],[poster^='https://yun.fayscb.cn/shandong/']->m:0
 ##[poster^="https://yun.lhqykq.cn/shandong/"],[poster^='https://yun.fayscb.cn/shandong/']
 ##[href^='https://www.xxmh608.com/u.htm']->m:0
