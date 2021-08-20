@@ -1101,6 +1101,8 @@ baidu.com##.ec-ad
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
 ##[alt='腐乐漫'],[alt='西瓜社']
 yimmh.com##[class^="x2021"]
+##[poster^="https://yun.lhqykq.cn/shandong/"]->m:0
+##[poster^="https://yun.lhqykq.cn/shandong/"]
 ##[href^='https://www.xxmh608.com/u.htm']->m:0
 ##[href^='https://www.xxmh608.com/u.htm']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
