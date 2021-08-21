@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+hws.biquter.xyz
 c.wsnew.cn
 v.wsnew.cn
 wsnew.cn
@@ -1112,6 +1113,10 @@ baidu.com##.ec-ad
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
 ##[alt='腐乐漫'],[alt='西瓜社']
 yimmh.com##[class^="x2021"]
+##[href^='http://pai.597606.com:']->m:0
+##[href^='http://pai.597606.com:']
+##[onclick="window.location.href='https://www.biquge.app'"]->m:0
+##[onclick="window.location.href='https://www.biquge.app'"]
 ##.appguide-wrap[onclick*="bcebos.com"]->m:0
 ##.appguide-wrap[onclick*="bcebos.com"]
 ##[onclick^="window.location.href"][onclick*=".bcebos."]->m:0
