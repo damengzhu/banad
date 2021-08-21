@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+xerkv.com
+analytics.163.com
 hws.biquter.xyz
 c.wsnew.cn
 v.wsnew.cn
@@ -954,6 +956,15 @@ oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
 !--链接--
+pstatp.com/toutiao/push.js
+--126.net/.+analysis
+||126.net^*analysis
+--nex.163.com/q?
+||nex.163.com/q?
+||g.163.com/*&affiliate=
+--g.163.com/.+&affiliate=
+--163.com/wap/special/article_cooper_piapia/
+||163.com/wap/special/article_cooper_piapia/
 567*.xyz
 --567\w?\.xyz
 qchannel03.cn$third-party
