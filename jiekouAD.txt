@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+m.xinghuolm.top
+
+a08.jisz9e.cn
 www.kowqd9.top
 mjg0310.com
 img.hylmxing.com
@@ -1139,6 +1142,8 @@ yimmh.com##[class^="x2021"]
 ##[poster^="https://yun.lhqykq.cn/shandong/"],[poster^='https://yun.fayscb.cn/shandong/']
 ##[href^='https://www.xxmh608.com/u.htm']->m:0
 ##[href^='https://www.xxmh608.com/u.htm']
+##A[href='/xinghuo-20.html']->m:0
+##A[href='/xinghuo-20.html']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
