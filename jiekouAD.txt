@@ -1105,8 +1105,6 @@ baidu.com##.ec-ad
 ##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']
 ##[href^='https://www.visvn.cn/c.php']->m:0
 ##[href^='https://www.visvn.cn/c.php']
-##IMG#wz_dp_img[width='100%'][height='98px'][src*='.gif']->m:0
-##IMG#wz_dp_img[width='100%'][height='98px'][src*='.gif']
 ##[href^='https://www.xdh0808.com/']->m:0
 ##[href^='https://www.xdh0808.com/']
 ##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']->m:0
