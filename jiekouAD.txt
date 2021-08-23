@@ -1121,8 +1121,6 @@ baidu.com##.ec-ad
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']
 ##[href='http://www.fcf0020.xyz']->m:0
 ##[href='http://www.fcf0020.xyz']
-##UL[style='margin:0px; padding:0px;overflow:hidden;width:100%;']->m:0
-##UL[style='margin:0px; padding:0px;overflow:hidden;width:100%;']
 ##[href="/js/c-7-16.html"][title="2021"]->m:0
 ##[href="/js/c-7-16.html"][title="2021"]
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
