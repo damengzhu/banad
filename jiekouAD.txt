@@ -2,6 +2,11 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+xg.mvlkvth.cn
+xc.nuheoub.cn
+xg.lgygy.cn
+ja.yushuha.com
+www.wndlkj.com
 sspservice.ad-survey.com
 32.huanqiu.com
 1a.sybnzs.cn
@@ -1146,6 +1151,10 @@ yimmh.com##[class^="x2021"]
 ##[href^='https://www.xxmh608.com/u.htm']
 ##A[href='/xinghuo-20.html']->m:0
 ##A[href='/xinghuo-20.html']
+##[src='/js/ad_/mobile_bottom.gif']->m:0
+##[src='/js/ad_/mobile_bottom.gif']
+##[src='/js/ad_/mobile_f.jpg']->m:0
+##[src='/js/ad_/mobile_f.jpg']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
