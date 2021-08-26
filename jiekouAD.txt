@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+lkd287f7.lpvision.net
+ausjfu28.fwzljd.com
+okslfki.guanxingyule.com
 m5.bwdhuanbao.com
 ssh.mn123cass.xyz
 u.v-vlog.cn
@@ -1163,6 +1166,10 @@ yimmh.com##[class^="x2021"]
 ##[src='/js/ad_/mobile_bottom.gif']
 ##[src='/js/ad_/mobile_f.jpg']->m:0
 ##[src='/js/ad_/mobile_f.jpg']
+##a[href*=".vxzmok.com"]->m:0
+##a[href*=".vxzmok.com"]
+##a[href*=".yixing-hb.com"]->m:0
+##a[href*=".yixing-hb.com"]
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
