@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+m5.bwdhuanbao.com
+ssh.mn123cass.xyz
+u.v-vlog.cn
+api.wipmania.com
+eo.zchange.xyz
+ssh.lknlkndasda.top
 xg.mvlkvth.cn
 xc.nuheoub.cn
 xg.lgygy.cn
@@ -1041,6 +1047,8 @@ http://m.pufei.cc/skin/middle.js
 https://www.qsptv.net/tpl/newstyle/js/pv.js
 https://m.y3600.cc/js/jquery.min.js
 https://shimo.im/lizard-api/ads
+--/adjs/
+/adjs/*
 https://www.zhenbuka.com/gg/lunbo.js
 google-analytics.com/analytics.js
 http://www.zd518.cn/template/qpg6080/baidufx/baidufx.js
