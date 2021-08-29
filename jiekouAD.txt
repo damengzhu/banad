@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+t23o.cn
+4dyt.cn
 www.wqetqi.vip
 wan.lm995.com
 xsdj.lm663.com
@@ -1173,6 +1175,10 @@ yimmh.com##[class^="x2021"]
 ##a[href*=".vxzmok.com"]
 ##a[href*=".yixing-hb.com"]->m:0
 ##a[href*=".yixing-hb.com"]
+m.iqiyi.com##DIV.iqyGuide-content,cover->m:0
+m.iqiyi.com##DIV.iqyGuide-content,cover
+##[src='https://new.163.com/xf.ts']->m:0
+##[src='https://new.163.com/xf.ts'
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
