@@ -996,6 +996,8 @@ www.aoyou5.top
 pstatp.com/toutiao/push.js
 --126.net/.+analysis
 ||126.net^*analysis
+*tplv-noop.gif*
+--tplv-noop.gif
 --nex.163.com/q?
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
