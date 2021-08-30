@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+jq65pd47n1.jcheys.com
+lls.mblai.com
 www.xxmh645.com
 tv.fuentekj.com
 eg.jinyaoshi8888.com
@@ -1153,6 +1155,14 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+##div.gr_slide_car_inner->m:0
+##[class*="isboostSideSlideShow"]->m:0
+##[id^="active_overlay"]->m:0
+##DIV.__isboostOverContent->m:0
+##div.gr_slide_car_inner
+##[class*="isboostSideSlideShow"]
+##[id^="active_overlay"]
+##DIV.__isboostOverContent
 ##[href^="https://www.ex311.com:"]->m:0
 ##[href^="https://www.ex311.com:"]
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']->m:0
