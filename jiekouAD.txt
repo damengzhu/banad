@@ -1086,7 +1086,7 @@ http://m.pufei.cc/skin/middle.js
 https://www.qsptv.net/tpl/newstyle/js/pv.js
 https://m.y3600.cc/js/jquery.min.js
 https://shimo.im/lizard-api/ads
---/adjs/
+/adjs
 /adjs/*
 https://www.zhenbuka.com/gg/lunbo.js
 google-analytics.com/analytics.js
