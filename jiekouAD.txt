@@ -2,6 +2,19 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+jscr.fcxxsl.com
+fc.tiepan.cn
+fg.zgnajue.com
+m.whwxxny.com
+mg.tumeite.cn
+j8.ccjudian.com
+pp.9k0p01l.cn
+rf.1w5ddx.cn
+www.govkunming.cn
+fb.simpasa.cn
+simiyue2.com
+4d0m.cn
+hdzb6.cc
 fb.simpasa.cn
 wof.hnltcw.com
 yoke.jyhlo0.com
@@ -1200,6 +1213,10 @@ yimmh.com##[class^="x2021"]
 ##[src='/js/ad_/mobile_f.jpg']
 ##a[href*=".vxzmok.com"]->m:0
 ##a[href*=".vxzmok.com"]
+##[href^='https://www.xxmh639.com/']->m:0
+##[href^='https://www.ex312.com:']->m:0
+##[href^='https://www.xxmh639.com/']
+##[href^='https://www.ex312.com:']
 ##a[href*=".yixing-hb.com"]->m:0
 ##a[href*=".yixing-hb.com"]
 m.iqiyi.com##DIV.iqyGuide-content,cover->m:0
