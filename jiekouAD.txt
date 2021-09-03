@@ -458,6 +458,10 @@ wap.bntxt.com
 yds.kebi1.top
 wxr.kebi1.top
 rte.fuoo1.top
+viworld.a8cd.com
+j.dailiqing.net
+j.zhuyonglawyer.com
+m3.51minbingtuan.net
 wap.xwkchcl.top
 js.yzyszy.com
 m.ysyhljt.vip
@@ -1205,6 +1209,12 @@ baidu.com##.ec-ad
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
 ##[alt='腐乐漫'],[alt='西瓜社']
 yimmh.com##[class^="x2021"]
+##[href='https://xiaoya358.com']->m:0
+##[href='https://www.ivyelite.net/school-cooperation/']->m:0
+##[src*='/chen-xing/figure_bed_']->m:0
+##[href='https://xiaoya358.com']
+##[href='https://www.ivyelite.net/school-cooperation/']
+##[src*='/chen-xing/figure_bed_']
 ##[href^='http://pai.597606.com:']->m:0
 ##[href^='http://pai.597606.com:']
 ##[onclick="window.location.href='https://www.biquge.app'"]->m:0
