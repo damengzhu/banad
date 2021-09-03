@@ -769,6 +769,10 @@ jfsdiwmnbsk010.top
 zhuangxiu567.com
 dtrcw.cc
 2725.dlads.cn
+m.bonawuzi.xyz
+tb.pagetest.top
+rg.nukebomb.cn
+lh.lctcw.top
 xww360.com
 xxyxmdq.cn
 thefatherofsalmon.com
@@ -1044,6 +1048,8 @@ http://m.yhdm.tv/bar/yfgg.js
 --www.oiwjcsh0
 --baidu.com/api/wapui/getrelatedbusiness
 baidu.com/rec
+download.2345.cn/2345yd1/apk/*
+--https://download.2345.cn/2345yd1/apk/
 ifeng.com/showcode
 baidu.com/api/wapui/getrelatedbusiness
 music.163.com/weapi/activity/downloadpage/config/get
@@ -1212,6 +1218,10 @@ yimmh.com##[class^="x2021"]
 ##[src='/js/ad_/mobile_f.jpg']
 ##a[href*=".vxzmok.com"]->m:0
 ##a[href*=".vxzmok.com"]
+##[href='/qp-3.html']->m:0
+##[href="javascript:GoDb();"]->m:0
+##[href='/qp-3.html']
+##[href="javascript:GoDb();"]
 ##[href^='https://www.xxmh639.com/']->m:0
 ##[href^='https://www.ex312.com:']->m:0
 ##[href^='https://www.xxmh639.com/']
