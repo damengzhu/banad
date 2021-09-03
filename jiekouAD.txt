@@ -1200,6 +1200,8 @@ baidu.com##.ec-ad
 ##.__isboostOverContent
 ##[href^="https://www.ex311.com:"]->m:0
 ##[href^="https://www.ex311.com:"]
+##.C1U,.C1M,.C2L,.C2R->m:0
+##.C1U,.C1M,.C2L,.C2R
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']->m:0
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']
 ##[href='http://www.fcf0020.xyz']->m:0
