@@ -11,6 +11,11 @@ j8.ccjudian.com
 pp.9k0p01l.cn
 rf.1w5ddx.cn
 www.govkunming.cn
+lblu7qldju7.elegant-creator.com
+ah2hglsi8.ydand.com
+oyjsuy89lsj8.hbuweb.net
+2431.vainews.cn
+hl.brownfox.top
 fb.simpasa.cn
 simiyue2.com
 4d0m.cn
@@ -1023,6 +1028,8 @@ www.aoyou5.top
 pstatp.com/toutiao/push.js
 --126.net/.+analysis
 ||126.net^*analysis
+chen-xing/figure_bed*
+--chen-xing/figure_bed
 *tplv-noop.gif*
 --tplv-noop.gif
 --nex.163.com/q?
@@ -1228,6 +1235,10 @@ yimmh.com##[class^="x2021"]
 ##[href^='https://www.ex312.com:']
 ##a[href*=".yixing-hb.com"]->m:0
 ##a[href*=".yixing-hb.com"]
+##[src='/pic/0001.gif']->m:0
+##[src='/pic/0001.gif']
+##[src^='https://qing.hellocdn.top/Cartoon/sss']->m:0
+##[src^='https://qing.hellocdn.top/Cartoon/sss']
 m.iqiyi.com##DIV.iqyGuide-content,cover->m:0
 m.iqiyi.com##DIV.iqyGuide-content,cover
 ##[src='https://new.163.com/xf.ts']->m:0
