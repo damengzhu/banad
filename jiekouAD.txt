@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+2020mustang.com
+evtubescms.phncdn.com
+etahub.com
+adtng.com
+trafficjunky.net
+alexandraeden.com
 xxba.cc
 www.wqddq.com
 nmgyllh.cn
@@ -1132,6 +1138,8 @@ http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
 !--元素--
+pornhub.com##DIV.adContainer
+pornhub.com##DIV.topAdContainter
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]->0
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]
 www.58wk.com##[style='display: block;']
@@ -1215,6 +1223,8 @@ baidu.com##.ec-ad
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
 ##[alt='腐乐漫'],[alt='西瓜社']
 yimmh.com##[class^="x2021"]
+##[href^='https://www.ex329.com:']->m:0
+##[href^='https://www.ex329.com:']
 ##[href='https://xiaoya358.com']->m:0
 ##[href='https://www.ivyelite.net/school-cooperation/']->m:0
 ##[src*='/chen-xing/figure_bed_']->m:0
