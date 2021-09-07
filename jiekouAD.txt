@@ -1037,12 +1037,6 @@ tfw.ymima360.com
 oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
-!--小米电视--
-ad.xiaomi.com
-ad1.xiaomi.com
-ad.mi.com
-tat.pandora.xiaomi.com
-api.ad.xiaomi.com
 !--爱奇艺--
 api.cupid.iqiyi.com
 list3.ppstream.com.iqiyi.com
