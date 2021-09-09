@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+api.cxzudwk.com
+m.b.xiangwangdesh.com
+ken.kenxq.com
+m.pmtong.shop
 2020mustang.com
 evtubescms.phncdn.com
 etahub.com
@@ -1104,6 +1108,12 @@ wspeed.qq.com
 log.wtlogin.qq.com
 ysdk.qq.com
 !--链接--
+/360mse/360mse_*.apk?
+/app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
+/app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
+--/360mse/360mse_.+.apk?
+--/app/.+/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
+--/app/market/.+/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%88%E5%99%A8.apk
 pstatp.com/toutiao/push.js
 --126.net/.+analysis
 ||126.net^*analysis
