@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+q.baminw.com.cn
+m.weimeinvsheng.com
+huojub.com
+m.wantemachine.com.cn
 api.cxzudwk.com
 m.b.xiangwangdesh.com
 ken.kenxq.com
