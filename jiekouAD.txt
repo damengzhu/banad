@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+adskeeper.co.uk
+dq06u9lt5akr2.cloudfront.net
 q.baminw.com.cn
 m.weimeinvsheng.com
 huojub.com
@@ -1349,6 +1351,8 @@ baidu.com##.ec-ad
 ##a[href*=".yixing-hb.com"]
 ##[src='/pic/0001.gif']->m:0
 ##[src='/pic/0001.gif']
+##[href^='https://aisite.wejianzhan.com/site/m.vip.com/']->m:0
+##[href^='https://aisite.wejianzhan.com/site/m.vip.com/']
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']->m:0
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']
 m.iqiyi.com##DIV.iqyGuide-content,cover->m:0
