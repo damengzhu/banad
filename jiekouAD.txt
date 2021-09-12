@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+link.jzzxapp.cn
+an.hswfj.cn
 adskeeper.co.uk
 dq06u9lt5akr2.cloudfront.net
 q.baminw.com.cn
@@ -1114,6 +1116,8 @@ wspeed.qq.com
 log.wtlogin.qq.com
 ysdk.qq.com
 !--链接--
+--uf.haoyu666.top/uploads.+%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
+uf.haoyu666.top/uploads*%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 /360mse/360mse_*.apk?
 /app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
 /app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
