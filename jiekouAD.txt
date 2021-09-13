@@ -2,6 +2,20 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+hyzb87.cc
+hh0212.cc
+lh.lctcw.top
+oykdkjy0jj8.wshlcgj.com
+um.afcav.com
+img.dubyc.com
+videocloud.cn-hangzhou.log.aliyuncs.com
+o0o29lj2.kaiguangdou.com
+lujfjh8kfj1l8u3.njxmsz.com
+amjf7jfj28.textile86.com
+oukj73ljf.ynslvyou.com
+www.xxmh429.com
+weimeinvsheng.com
+fticbox.qifake.com
 link.jzzxapp.cn
 an.hswfj.cn
 adskeeper.co.uk
@@ -1116,6 +1130,8 @@ wspeed.qq.com
 log.wtlogin.qq.com
 ysdk.qq.com
 !--链接--
+--www.xxmh.+.com
+www.xxmh*.com
 --uf.haoyu666.top/uploads.+%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 uf.haoyu666.top/uploads*%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 /360mse/360mse_*.apk?
@@ -1294,6 +1310,10 @@ baidu.com##.ec-ad
 ##[id^="active_overlay"]->m:0
 ##.__isboostOverContent->m:0
 ##.gr_slide_car_inner
+##[src='/pic/111.jpeg'][style='width: 100%;']->m:0
+##[href='javascript:GoTp();']->m:0
+##[src='/pic/111.jpeg'][style='width: 100%;']
+##[href='javascript:GoTp();']
 ##[class*="isboostSideSlideShow"]
 ##[id^="active_overlay"]
 ##.__isboostOverContent
