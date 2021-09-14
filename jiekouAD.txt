@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+dianying-1304791696.cos.ap-shanghai.myqcloud.com
 hyzb87.cc
 hh0212.cc
 lh.lctcw.top
@@ -1287,6 +1288,8 @@ m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
 ###topNavad
 ###bottomNavad
 ##.ff-ads
+##[href^='https://at.umtrack.com/']->m:0
+##[href^='https://at.umtrack.com/']
 www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
