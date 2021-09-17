@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+toblog.ctobsnssdk.com
+log-api.pangolin-sdk-toutiao.com
 so.clzgd.com
 fc.gaizong.cn
 fg.eezu.cn
@@ -1157,6 +1159,7 @@ pstatp.com/toutiao/push.js
 ||126.net^*analysis
 chen-xing/figure_bed*
 --chen-xing/figure_bed
+^ad|
 *tplv-noop.gif*
 --tplv-noop.gif
 --nex.163.com/q?
