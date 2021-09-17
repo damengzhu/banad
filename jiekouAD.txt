@@ -2,8 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
-toblog.ctobsnssdk.com
+pglstatp-toutiao.com
+sayhi.360.cn
 log-api.pangolin-sdk-toutiao.com
+toblog.ctobsnssdk.com
 so.clzgd.com
 fc.gaizong.cn
 fg.eezu.cn
