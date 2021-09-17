@@ -1099,8 +1099,6 @@ aexception.bugly.qq.com
 android.bugly.qq.com
 astat.bugly.qq.com
 ios.bugly.qq.com
-e.qq.com
-sdk.e.qq.com
 fw.qq.com
 mi.gdt.qq.com
 v.gdt.qq.com
