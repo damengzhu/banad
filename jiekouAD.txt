@@ -1086,6 +1086,7 @@ pic1.qiyipic.com
 qiyu.iqiyi.com
 t7z.cupid.iqiyi.com
 !--腾讯--
+e.qq.com
 lcsdk.3g.qq.com
 masdk.3g.qq.com
 pmir.3g.qq.com
@@ -1160,6 +1161,8 @@ pstatp.com/toutiao/push.js
 chen-xing/figure_bed*
 --chen-xing/figure_bed
 ^ad|
+/api/ad/*
+--/api/ad/
 *tplv-noop.gif*
 --tplv-noop.gif
 --nex.163.com/q?
