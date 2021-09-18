@@ -2,6 +2,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+azjfh2jf737.shanxihaowu.com
+fk.wanyitianxia.com
+www.hiweha.com
+llkskjfkl3kj.wacsec.com
+ohjfk7jf28.gsjzlssws.com
+oyyqkdf879f.asleyty.com
+toutiao.xn--fiqs8s
 io.9k0p01l.cn
 fg.kzxsrxf.cn
 ljfkdjkeju.sichuanliangku.com
@@ -1286,7 +1293,9 @@ share.acgnx.se##IMG[src*='share.acgnx.se']
 yxdm.tv##[class^="adv"]
 baidu.com##div#J-super-layer-promote
 ddrk.me###obay_hf_i
-ddrk.me##DIV#afc_sidebar_2842
+ddrk.me##DIV#afc_sidebar_2842azjfh2jf737.shanxihaowu.com
+##[href^='https://www.hiweha.com/']->m:0
+##[href^='https://www.hiweha.com/']
 zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 www.9ekk.com##[rel='nofollow'],[class='onlywap']
