@@ -1419,7 +1419,9 @@ baidu.com##.ec-ad
 m.iqiyi.com##DIV.iqyGuide-content,cover->m:0
 m.iqiyi.com##DIV.iqyGuide-content,cover
 ##[src='https://new.163.com/xf.ts']->m:0
-##[src='https://new.163.com/xf.ts'
+##[src='https://new.163.com/xf.ts']
+##[href^='https://stock.weibo.cn/zh/match']->m:0
+##[href^='https://stock.weibo.cn/zh/match']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
 ##[href^='https://vip.infobbs.xyz/atl.php']
 ##[href='http://953u.cc'],[href^='https://lz.vxzmok.com/']->m:0
