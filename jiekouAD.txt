@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+io.9k0p01l.cn
+fg.kzxsrxf.cn
+ljfkdjkeju.sichuanliangku.com
+aljdkjkdlskf.shunlianhudong.com
+ojfkudkfjhj.jinyingbaozhuang.com
+al8.ytxdzc.com
 pglstatp-toutiao.com
 sayhi.360.cn
 log-api.pangolin-sdk-toutiao.com
@@ -1318,6 +1324,8 @@ baidu.com##.ec-ad
 ##[href^='https://www.visvn.cn/c.php']
 ##[href^='https://www.xdh0808.com/']->m:0
 ##[href^='https://www.xdh0808.com/']
+###ad-header-mobile-contener->m:0
+###ad-header-mobile-contener
 ##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']->m:0
 ##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']->m:0
