@@ -1412,6 +1412,18 @@ baidu.com##.ec-ad
 ##a[href*=".yixing-hb.com"]
 ##[src='/pic/0001.gif']->m:0
 ##[src='/pic/0001.gif']
+###ad1[url][onclick='window.open(this.url)'][src^='https://bj.bcebos.com/im-cs/'][width='100%']->m:0
+##[onclick="window.open('/statics/js/hth906.html')"]->m:0
+###ad_a[href^='https://www.xxmh'][target='_blank']->m:0
+##[href='#'][onclick='openurl(); return false'][target='_blank']->m:0
+##[href^='https://nf.brushshopy.com/']->m:0
+##[href='http://66.dsx.tf/']->m:0
+###ad1[url][onclick='window.open(this.url)'][src^='https://bj.bcebos.com/im-cs/'][width='100%']
+##[onclick="window.open('/statics/js/hth906.html')"]
+###ad_a[href^='https://www.xxmh'][target='_blank']
+##[href='#'][onclick='openurl(); return false'][target='_blank']
+##[href^='https://nf.brushshopy.com/']
+##[href='http://66.dsx.tf/']
 ##[href^='https://aisite.wejianzhan.com/site/m.vip.com/']->m:0
 ##[href^='https://aisite.wejianzhan.com/site/m.vip.com/']
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']->m:0
