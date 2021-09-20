@@ -2,6 +2,14 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+ockfjk3kjk7kjkf.xmangoculture.com
+uo.9k0p01l.cn
+rt.imnvgma.cn
+mc.msdsd2.cn
+mg.shengminsy.com
+s.shufapeixun.shop
+dat.sxsysy.com
+yyd.sxsysy.com
 azjfh2jf737.shanxihaowu.com
 fk.wanyitianxia.com
 www.hiweha.com
@@ -1268,6 +1276,7 @@ http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
 !--元素--
+913e.com###footad_913e
 bing.com##.b_ad
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
@@ -1295,6 +1304,8 @@ ddrk.me###obay_hf_i
 ddrk.me##DIV#afc_sidebar_2842azjfh2jf737.shanxihaowu.com
 ##[href^='https://www.hiweha.com/']->m:0
 ##[href^='https://www.hiweha.com/']
+##[href^='https://5376.exing150.com:']->m:0
+##[href^='https://5376.exing150.com:']
 zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 www.9ekk.com##[rel='nofollow'],[class='onlywap']
