@@ -1352,6 +1352,8 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+##[href^='https://23538595.com:']->m:0
+##[href^='https://23538595.com:']
 ##.gr_slide_car_inner->m:0
 ##[class*="isboostSideSlideShow"]->m:0
 ##[id^="active_overlay"]->m:0
