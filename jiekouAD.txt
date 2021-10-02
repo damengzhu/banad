@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+tj-yijiajing.com
+89.yunqishi8.com
 hyjss.tkshyp.com
 wsf.e7ymqu6.cn
 scannapp.xyz
