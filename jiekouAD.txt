@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+xg.wdswgjn.cn
+wdn.lm343.com
+ydjs.zol.com.cn
 j8.njaeqjx.com
 a.zhujw.cn
 tf.yujianmeihao179.cn
@@ -1295,6 +1298,7 @@ https://m.sodu2020.com/js/ppc.js
 !--元素--
 913e.com###footad_913e
 bing.com##.b_ad
+m.baidu.com##a.ball-wrapper__3BTBO.c-blocka
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 smartapps.cn##swan-nest-banner-ad.ad-expose
