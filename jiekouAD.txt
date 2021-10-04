@@ -1351,6 +1351,8 @@ m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
 ###topNavad
 ###bottomNavad
 ##.ff-ads
+##[onclick="window.open('https://docs.qq.com/doc/DZEpZc2pOaFdXa0tD');"]->m:0
+##[onclick="window.open('https://docs.qq.com/doc/DZEpZc2pOaFdXa0tD');"]
 ##[href^='https://at.umtrack.com/']->m:0
 ##[href^='https://at.umtrack.com/']
 www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
