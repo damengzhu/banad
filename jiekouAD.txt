@@ -2,6 +2,11 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+www.mdfsbn.com
+mywb3.com
+qdt.zjzh2019.com
+ee.zhujw.cn
+rv.shijixinrui.cn
 k.xww360.com
 alskdj9u7.xcj-pmi.com
 xg.wdswgjn.cn
@@ -1201,7 +1206,8 @@ pstatp.com/toutiao/push.js
 ||126.net^*analysis
 chen-xing/figure_bed*
 --chen-xing/figure_bed
-^ad|
+.com/gg.js
+--.com/gg.js
 /api/ad/*
 --/api/ad/
 *tplv-noop.gif*
