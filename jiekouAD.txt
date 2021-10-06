@@ -1417,6 +1417,8 @@ baidu.com##.ec-ad
 ##[href^="http://ldy.fanlimanhua.cn/"]
 ##[href^='https://www.ex329.com:']->m:0
 ##[href^='https://www.ex329.com:']
+##.fed-part-advs.fed-text-center.fed-font-xvi->m:0
+##.fed-part-advs.fed-text-center.fed-font-xvi
 ##[href='https://xiaoya358.com']->m:0
 ##[href='https://www.ivyelite.net/school-cooperation/']->m:0
 ##[src*='/chen-xing/figure_bed_']->m:0
