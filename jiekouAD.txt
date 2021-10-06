@@ -1409,6 +1409,8 @@ baidu.com##.ec-ad
 ##[href="/js/c-7-16.html"][title="2021"]
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
 ##[alt='腐乐漫'],[alt='西瓜社']
+##[href="http://dx106.live"]->m:0
+##[href="http://dx106.live"]
 ##[src="https://i.hhhjiimg.com/xall/sp37.gif"]->m:0
 ##[kidjhy=""]->m:0
 ##[onclick="window.open('/kapi/tj.php')"]->m:0
