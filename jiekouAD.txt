@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+k.xww360.com
+alskdj9u7.xcj-pmi.com
 xg.wdswgjn.cn
 wdn.lm343.com
 ydjs.zol.com.cn
@@ -1401,6 +1403,12 @@ baidu.com##.ec-ad
 ##[href="/js/c-7-16.html"][title="2021"]
 ##[alt='腐乐漫'],[alt='西瓜社']->m:0
 ##[alt='腐乐漫'],[alt='西瓜社']
+##[src="https://i.hhhjiimg.com/xall/sp37.gif"]->m:0
+##[kidjhy=""]->m:0
+##[onclick="window.open('/kapi/tj.php')"]->m:0
+##[src="https://i.hhhjiimg.com/xall/sp37.gif"]
+##[kidjhy=""]
+##[onclick="window.open('/kapi/tj.php')"]
 ##.ads->m:0
 ##[href^="https://l.tyrantdb.com/"]->m:0
 ##[href^="http://ldy.fanlimanhua.cn/"]->m:0
