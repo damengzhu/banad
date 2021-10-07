@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+fengjinshuo.com
+szipkp.com
 www.mdfsbn.com
 mywb3.com
 qdt.zjzh2019.com
@@ -1483,6 +1485,10 @@ baidu.com##.ec-ad
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']
 m.iqiyi.com##DIV.iqyGuide-content,cover->m:0
 m.iqiyi.com##DIV.iqyGuide-content,cover
+##[href='javascript:gl0212();'][ontouchstart='this.click();']->m:0
+##[src^='https://img.hylmxing.com:']->m:0
+##[href='javascript:gl0212();'][ontouchstart='this.click();']
+##[src^='https://img.hylmxing.com:']
 ##[src='https://new.163.com/xf.ts']->m:0
 ##[src='https://new.163.com/xf.ts']
 ##[href^='https://stock.weibo.cn/zh/match']->m:0
