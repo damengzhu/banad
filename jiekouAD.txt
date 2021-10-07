@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+z2.fakutownee.cn
 fengjinshuo.com
 szipkp.com
 www.mdfsbn.com
