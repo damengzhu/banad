@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+lkjk8jdk2.jnwpzq.com
+ojskdjfks.kc-valves.com
+oskfj2kdkf0.yirendajiankang.com
+manguan.vip
+5i103xb.wuplexv.cn
+60198956.jcpecb.com
 ds.websitequan.com
 www.zhangjiaqi.top
 www.koudaikeji.info
@@ -1478,6 +1484,14 @@ baidu.com##.ec-ad
 ##a[href*=".yixing-hb.com"]
 ##[src='/pic/0001.gif']->m:0
 ##[src='/pic/0001.gif']
+##[src^='https://www.zxucii.com:']->m:0
+##[onclick^='window.open("https://www.zxucii.com:']->m:0
+##[src^='https://yngdms.com:']->m:0
+##[evhrumjx]->m:0
+##[src^='https://www.zxucii.com:']
+##[onclick^='window.open("https://www.zxucii.com:']
+##[src^='https://yngdms.com:']
+##[evhrumjx]
 ###ad1[url][onclick='window.open(this.url)'][src^='https://bj.bcebos.com/im-cs/'][width='100%']->m:0
 ##[onclick="window.open('/statics/js/hth906.html')"]->m:0
 ###ad_a[href^='https://www.xxmh'][target='_blank']->m:0
