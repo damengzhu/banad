@@ -1459,6 +1459,8 @@ baidu.com##.ec-ad
 ##[href='/qp-3.html']->m:0
 ##[href="javascript:GoDb();"]->m:0
 ##[href='/qp-3.html']
+##[src^='/static/'][onclick='openurl()'][lazyload][importance='low']->m:0
+##[src^='/static/'][onclick='openurl()'][lazyload][importance='low']
 ##[href="javascript:GoDb();"]
 ##[href^='https://www.xxmh639.com/']->m:0
 ##[href^='https://www.ex312.com:']->m:0
