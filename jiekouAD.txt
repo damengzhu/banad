@@ -436,7 +436,6 @@ qw.idingwei.com.cn
 m.tongruitex.cn
 888lianmeng.com
 m.toutiaogov.cn
-data.video.iqiyi.com
 js.bbdsdy.com
 ff.591maishu.com
 op.ynyyx168.com
