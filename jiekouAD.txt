@@ -1322,6 +1322,7 @@ https://m.sodu2020.com/js/ppc.js
 !--元素--
 913e.com###footad_913e
 bing.com##.b_ad
+m.baidu.com##[style^="bottom:"][class^="ball-wrapper__"]
 m.baidu.com##div.se-recommend-word-list,#se-recommend-word-list-container
 m.baidu.com##a.ball-wrapper__3BTBO.c-blocka
 pornhub.com##DIV.adContainer
