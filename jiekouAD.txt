@@ -1507,8 +1507,8 @@ baidu.com##.ec-ad
 ##[href^='https://aisite.wejianzhan.com/site/m.vip.com/']
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']->m:0
 ##[src^='https://qing.hellocdn.top/Cartoon/sss']
-m.iqiyi.com##DIV.iqyGuide-content,cover->m:0
-m.iqiyi.com##DIV.iqyGuide-content,cover
+m.iqiyi.com##DIV.iqyGuide-content,.cover->m:0
+m.iqiyi.com##DIV.iqyGuide-content,.cover
 ##[href='javascript:gl0212();'][ontouchstart='this.click();']->m:0
 ##[src^='https://img.hylmxing.com:']->m:0
 ##[href='javascript:gl0212();'][ontouchstart='this.click();']
