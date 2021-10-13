@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+sanme2.lanzoui.com
 eo.dongdm.cn
 www.soviewo.com
 lkjk8jdk2.jnwpzq.com
