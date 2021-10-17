@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+fv.u1n6ok.cn
+qaq.lm665.com
+jinbao888.com
+qdt.lxksalary.com
+app.bho1.com
+615o.nq63sh1.com
 hj.xinbo-lora.cn
 ck.tcsgcdn.top
 sanme2.lanzoui.com
@@ -1325,6 +1331,7 @@ http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
 !--元素--
+m.sohu.com##[data-v-7a7c15af][href^='https://m.sohu.com/promotion'],[data-v-7a7c15af][data-spm-type='resource'][data-spm-data='4']
 913e.com###footad_913e
 bing.com##.b_ad
 m.baidu.com##[style^="bottom:"][class^="ball-wrapper__"]
@@ -1440,6 +1447,8 @@ baidu.com##.ec-ad
 ##[src="https://i.hhhjiimg.com/xall/sp37.gif"]
 ##[kidjhy=""]
 ##[onclick="window.open('/kapi/tj.php')"]
+##[href^='https://www.hthty601.com:']->m:0
+##[href^='https://www.hthty601.com:']
 ##.ads->m:0
 ##[href^="https://l.tyrantdb.com/"]->m:0
 ##[href^="http://ldy.fanlimanhua.cn/"]->m:0
