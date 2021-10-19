@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 !--域名--
+www.xiewje.com
+m.nereus.live
 fv.u1n6ok.cn
 qaq.lm665.com
 jinbao888.com
@@ -1413,6 +1415,8 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+##[src^='https://mydisplay.ctfile.com/popview.php']->m:0
+##[src^='https://mydisplay.ctfile.com/popview.php']
 ##[href^='https://23538595.com:']->m:0
 ##[href^='https://23538595.com:']
 ##.gr_slide_car_inner->m:0
