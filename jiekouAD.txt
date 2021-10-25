@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+qq.000123456789.online
+yyt.heshun365.cn
+mm3.mylmad.com
+agathaedith.com
+fjctlnn.top
+j.iklda.cn
 kn.zhangdujia.com
 b.idc9pk.com
 bbk5831.yncjsc.cn
@@ -1176,6 +1182,20 @@ yxdm.tv##[class^="adv"]
 baidu.com##div#J-super-layer-promote
 ddrk.me###obay_hf_i
 ddrk.me##DIV#afc_sidebar_2842azjfh2jf737.shanxihaowu.com
+##[href^='https://vip.huijujiavip.com']->m:0
+##[href='/sswj.html'][target='_self'][rel='nofolllow']->m:0
+##[href='https://segucrwj.taobao.com'][rel='nofollow']->m:0
+##[href='/cwm2.html'][rel='nofollow']->m:0
+##[href^='https://item.taobao.com/item.htm'][rel='nofollow']->m:0
+##[style*="http://demon-uploader.rosepink.us/uploads/2021092615471716347.gif"]->m:0
+##[href='/gg1.html'][rel='nofollow']->m:0
+##[href^='https://vip.huijujiavip.com']
+##[href='/sswj.html'][target='_self'][rel='nofolllow']
+##[href='https://segucrwj.taobao.com'][rel='nofollow']
+##[href='/cwm2.html'][rel='nofollow']
+##[href^='https://item.taobao.com/item.htm'][rel='nofollow']
+##[style*="http://demon-uploader.rosepink.us/uploads/2021092615471716347.gif"]
+##[href='/gg1.html'][rel='nofollow']
 ##[href^='https://www.hiweha.com/']->m:0
 ##[href^='https://www.hiweha.com/']
 ##[href^='https://5376.exing150.com:']->m:0
