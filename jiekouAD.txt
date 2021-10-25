@@ -2,6 +2,25 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+images.kxuexue.com
+t.cx0001.cn
+h.cx0001.cn
+mc.maljxp.cn
+mc.meaqcj.cn
+mg.mngjrn.cn
+eladies.23taoke.xyz
+zl.shenhl.top
+i04.ipc08dt.com
+land2.fish882.xyz
+c.nuannuanqi.top
+xn.duier.top
+newa.nuannuanqi.top
+qc.wqshui.com
+eo.xiaojifly.cn
+city.cbh365.club
+px.nmgxhcf.xyz
+a01.abovede6.com
+sv.log57.top
 eo.chaungpin.top
 niu.tzlit.cn
 nzqf.b2xy4m.xyz
@@ -1184,6 +1203,10 @@ m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
 ##[onclick="window.open('https://docs.qq.com/doc/DZEpZc2pOaFdXa0tD');"]
 ##[href^='https://at.umtrack.com/']->m:0
 ##[href^='https://at.umtrack.com/']
+##[href='https://hongxiu.me']->m:0
+##[target='_blank'][href='https://u.jd.com/J7NwrL ']->m:0
+##[href='https://hongxiu.me']
+##[target='_blank'][href='https://u.jd.com/J7NwrL ']-
 www.cocomanhua.com##[sandbox*='allow-forms allow-pointer-lock']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
