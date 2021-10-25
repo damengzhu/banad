@@ -2,6 +2,15 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+kn.zhangdujia.com
+b.idc9pk.com
+bbk5831.yncjsc.cn
+auto.srmdz.vip
+sports.shareman.xyz
+hf.7caidai.xyz
+niu.axcdy.cn
+u.jinhaitun888.xyz
+ap.itresource.vip
 images.kxuexue.com
 t.cx0001.cn
 h.cx0001.cn
@@ -1305,6 +1314,14 @@ baidu.com##.ec-ad
 ##[src='/js/ad_/mobile_f.jpg']
 ##a[href*=".vxzmok.com"]->m:0
 ##a[href*=".vxzmok.com"]
+##[href='https://fkub.xyz/umko']->m:0
+###hongbao20201217->m:0
+##[href^='/client/getapp.aspx']->m:0
+##[href^='http://web-bookstore.cread.com/haizhuishushare']->m:0
+##[href='https://fkub.xyz/umko']
+###hongbao20201217
+##[href^='/client/getapp.aspx']
+##[href^='http://web-bookstore.cread.com/haizhuishushare']
 ##[href='/qp-3.html']->m:0
 ##[href="javascript:GoDb();"]->m:0
 ##[href='/qp-3.html']
