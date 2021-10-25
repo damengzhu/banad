@@ -2,6 +2,20 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+eo.chaungpin.top
+niu.tzlit.cn
+nzqf.b2xy4m.xyz
+api.bwdhuanbao.com
+play.z-xiao.xyz
+yu.axcdt.cn
+u.sgaga.xyz
+dou.aspwg.cn
+47.107.65.95
+lskdjfksl.hebeihuayun.com
+allskjdf.shunligoumall.com
+v.zhuozhongfangshui.cn
+p.motuopj.cn
+ojskdlfjkdk.hdypw.com
 yt.egrent.cn
 eoy.zhisuyunonline.cn
 j8.pdjyzx.com
@@ -1190,6 +1204,10 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+##[href='http://d2.wenqiche.com/xnk.apk']->m:0
+##[href='http://danm.xsgyfm.com:15889']->m:0
+##[href='http://d2.wenqiche.com/xnk.apk']
+##[href='http://danm.xsgyfm.com:15889']
 ##[src^='https://mydisplay.ctfile.com/popview.php']->m:0
 ##[src^='https://mydisplay.ctfile.com/popview.php']
 ##[href^='https://23538595.com:']->m:0
