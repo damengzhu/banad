@@ -1186,6 +1186,14 @@ yxdm.tv##[class^="adv"]
 baidu.com##div#J-super-layer-promote
 ddrk.me###obay_hf_i
 ddrk.me##DIV#afc_sidebar_2842azjfh2jf737.shanxihaowu.com
+##[href='https://app.kkj.cn/']->m:0
+##[href^='https://dt.mydrivers.com/zt.ashx']->m:0
+##[href^='https://dt.mydrivers.com/qq.ashx']->m:0
+##[href^='https://s.click.taobao.com/']->m:0
+##[href='https://app.kkj.cn/']
+##[href^='https://dt.mydrivers.com/zt.ashx']
+##[href^='https://dt.mydrivers.com/qq.ashx']
+##[href^='https://s.click.taobao.com/']
 ##[href^='https://vip.huijujiavip.com']->m:0
 ##[href='/sswj.html'][target='_self'][rel='nofolllow']->m:0
 ##[href='https://segucrwj.taobao.com'][rel='nofollow']->m:0
