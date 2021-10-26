@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+i.cidianwang.com
+k2.dancihu.com
 jkf2.rpahyhn.cn
 gun.371113.com
 flower.257772.com
@@ -1158,6 +1160,7 @@ https://m.sodu2020.com/js/ppc.js
 m.sohu.com##[data-v-7a7c15af][href^='https://m.sohu.com/promotion'],[data-v-7a7c15af][data-spm-type='resource'][data-spm-data='4']
 913e.com###footad_913e
 bing.com##.b_ad
+baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##[class^='ball-wrapper']
 baidu.com##[style^="bottom:"][class^="ball-wrapper__"]
 baidu.com##div.se-recommend-word-list,#se-recommend-word-list-container
