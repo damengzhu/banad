@@ -1216,7 +1216,7 @@ ddrk.me##DIV#afc_sidebar_2842azjfh2jf737.shanxihaowu.com
 ##[href^='https://www.hiweha.com/']
 ##[href^='https://5376.exing150.com:']->m:0
 ##[href^='https://5376.exing150.com:']
-zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag
+zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 www.9ekk.com##[rel='nofollow'],[class='onlywap']
 www.zhenbuka.com##[id='ad_img'],[src*='p3-tt.byteimg.com']
