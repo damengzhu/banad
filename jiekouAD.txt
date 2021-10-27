@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+pos.baidu.com
+cdb.zhanggu.net.cn
 i.cidianwang.com
 k2.dancihu.com
 jkf2.rpahyhn.cn
