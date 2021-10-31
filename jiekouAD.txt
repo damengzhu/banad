@@ -2,6 +2,11 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+www.govyunnan.cn
+gej.effectivehealthy.cn
+j8.zzxlhwyp.com
+hpl.tyjnwg.top
+gft.aobuygo.com
 47.106.90.106
 hbt.alwayzcars.com
 oqjkskjkdsl.yuhunwang.net
@@ -1444,6 +1449,12 @@ m.iqiyi.com##DIV.iqyGuide-content,.cover
 ##[src^='https://img.hylmxing.com:']
 ##[src='https://new.163.com/xf.ts']->m:0
 ##[src='https://new.163.com/xf.ts']
+##[id^="_vdo_ads_player"]->m:0
+##.zozoads->m:0
+##[href='https://www.kissyvape.com/']->m:0
+##[id^="_vdo_ads_player"]
+##.zozoads
+##[href='https://www.kissyvape.com/']
 ##[href^='https://stock.weibo.cn/zh/match']->m:0
 ##[href^='https://stock.weibo.cn/zh/match']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
