@@ -2,6 +2,19 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+gun.371113.com
+flower.257772.com
+fc.zuixinchao.com
+sky.tongjiai.com
+fg.yilianqing.com
+hf.hflwgg.xyz
+hf.itxinrou.com
+js.wangxialin.top
+di.rhlxm.top
+hy.tyjnwj.top
+www.cpro88.vip
+www.statics88.vip
+gp.botsforger.com.cn
 gj.ityangstudy.cn
 rgh.tyjnwj.top
 ooikjdn.tyxshy.com
@@ -1206,6 +1219,12 @@ ddrk.me##DIV#afc_sidebar_2842azjfh2jf737.shanxihaowu.com
 ##[href^='https://dt.mydrivers.com/zt.ashx']
 ##[href^='https://dt.mydrivers.com/qq.ashx']
 ##[href^='https://s.click.taobao.com/']
+##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']->m:0
+##[href^='https://l.h-ero.games/']->m:0
+###pppimg[src='/m2.gif']->m:0
+##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']
+##[href^='https://l.h-ero.games/']
+###pppimg[src='/m2.gif']
 ##[href^='https://vip.huijujiavip.com']->m:0
 ##[href='/sswj.html'][target='_self'][rel='nofolllow']->m:0
 ##[href='https://segucrwj.taobao.com'][rel='nofollow']->m:0
