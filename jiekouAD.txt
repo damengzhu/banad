@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+www.16m.cc
+m.s.tpcdn.top
 gun.371113.com
 flower.257772.com
 fc.zuixinchao.com
@@ -1301,6 +1303,10 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+##[href^='http://www.blmh77.com/']->m:0
+##[href^='https://e.akmhw.com/c.html']->m:0
+##[href^='http://www.blmh77.com/']
+##[href^='https://e.akmhw.com/c.html']
 ##[href='http://d2.wenqiche.com/xnk.apk']->m:0
 ##[href='http://danm.xsgyfm.com:15889']->m:0
 ##[href='http://d2.wenqiche.com/xnk.apk']
