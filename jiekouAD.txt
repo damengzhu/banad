@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+cns.wxdal.cn
 www.govyunnan.cn
 gej.effectivehealthy.cn
 j8.zzxlhwyp.com
