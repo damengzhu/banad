@@ -1472,13 +1472,11 @@ m.iqiyi.com##DIV.iqyGuide-content,.cover
 ##.zozoads
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']->m:0
-##[align='center']->m:0
 ##[href^='https://www.44553606.com:']->m:0
 ##[href^='https://v44868.com:']->m:0
 ##[href^='https://yh.133svip.com/']->m:0
 ##[href^='https://t2406.com:']->m:0
 ##[href^='https://2022025.com/']
-##[align='center']
 ##[href^='https://www.44553606.com:']
 ##[href^='https://v44868.com:']
 ##[href^='https://yh.133svip.com/']
