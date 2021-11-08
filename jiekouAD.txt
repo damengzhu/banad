@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+wuliao.jingyanben.com
+unjs.jingyanben.com
+mofeiso.com
+hbt.gz-hongxin.com
 k.braincf.com
 ff.027pbj.net
 5c.tepusi888.cn
@@ -1470,6 +1474,16 @@ m.iqiyi.com##DIV.iqyGuide-content,.cover
 ##[href='https://www.kissyvape.com/']->m:0
 ##[id^="_vdo_ads_player"]
 ##.zozoads
+##[href='http://856882.com']->m:0
+##[href='http://938966.com']->m:0
+##[href='http://732199.com']->m:0
+##[href^='http://hbalsm.com:']->m:0
+##[href^='http://amlyg.com:']->m:0
+##[href='http://856882.com']
+##[href='http://938966.com']
+##[href='http://732199.com'
+##[href^='http://hbalsm.com:']
+##[href^='http://amlyg.com:']
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']->m:0
 ##[href^='https://www.44553606.com:']->m:0
