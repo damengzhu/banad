@@ -2,6 +2,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+ff.qichetansuo.com
+cc.qichetansuo.com
+www.kukulm.com
+hbt.haihongzg.com
+xqc23.jnyayk.xyz
+m59f.oi9rp7.online
+jlt47.lxg8s.xyz
 wuliao.jingyanben.com
 unjs.jingyanben.com
 mofeiso.com
@@ -1508,6 +1515,10 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[src*='.jpg'][style='width: 100%;border-radius: 5px;']
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
+##[href^='https://www.lyty648.com']->m:0
+##[href^='https://www.vofcr2a.com']->m:0
+##[href^='https://www.lyty648.com']
+##[href^='https://www.vofcr2a.com']
 m.zzzfun.com##DIV#show-2415689770463175004-8179
 jingyan.baidu.com##div.ad-card
 jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
