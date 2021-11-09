@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+aksldkjfkdl.bhichong.com
 ff.qichetansuo.com
 cc.qichetansuo.com
 www.kukulm.com
@@ -1502,6 +1503,8 @@ m.iqiyi.com##DIV.iqyGuide-content,.cover
 ##[href^='https://v44868.com:']
 ##[href^='https://yh.133svip.com/']
 ##[href^='https://t2406.com:']
+##[href^='https://www.xxmh'][href*='.htm']->m:0
+##[href^='https://www.xxmh'][href*='.htm']
 ##[href^='https://stock.weibo.cn/zh/match']->m:0
 ##[href^='https://stock.weibo.cn/zh/match']
 ##[href^='https://vip.infobbs.xyz/atl.php']->m:0
