@@ -1520,6 +1520,10 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']
 ##[href^='https://l.h-ero.games/']
 ###pppimg[src='/m2.gif']
+##[onclick='window.open(this.url)']->m:0
+##[onclick="window.open('/statics/js/hth112.html')"]->m:0
+##[onclick='window.open(this.url)']
+##[onclick="window.open('/statics/js/hth112.html')"]
 ##[href^='https://vip.huijujiavip.com']->m:0
 ##[href='/sswj.html'][target='_self'][rel='nofolllow']->m:0
 ##[href='https://segucrwj.taobao.com'][rel='nofollow']->m:0
