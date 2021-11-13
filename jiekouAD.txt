@@ -2,6 +2,18 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+hgb.cqwzjx.cn
+city.baiwb.com
+3xy1.dvv9dkv.site
+xg.y0764.cn
+pn.qijpaih.cn
+xc.nhpwwd.cn
+www.24klm.net
+dbkdwe1.com
+v.qufengo.com
+www.jghklz.xyz
+qo.asu05mm.cn
+prelandappslab.com
 aksldkjfkdl.bhichong.com
 ff.qichetansuo.com
 cc.qichetansuo.com
@@ -1466,6 +1478,8 @@ baidu.com##.ec-ad
 ##[href='https://www.kissyvape.com/']->m:0
 ##[id^="_vdo_ads_player"]
 ##.zozoads
+##[src='/gold.jpg'][alt='温馨提醒']->m:0
+##[src='/gold.jpg'][alt='温馨提醒'
 ##[href='http://856882.com']->m:0
 ##[href='http://938966.com']->m:0
 ##[href='http://732199.com']->m:0
