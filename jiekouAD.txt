@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+www.lthwsj.com
+res.zqcdesign.com
+k.braincf.com
 hgb.cqwzjx.cn
 city.baiwb.com
 3xy1.dvv9dkv.site
@@ -1534,6 +1537,8 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']
 ##[href^='https://l.h-ero.games/']
 ###pppimg[src='/m2.gif']
+##[href^='http://mh'][href*='tiklink.cc']->m:0
+##[href^='http://mh'][href*='tiklink.cc']
 ##[onclick='window.open(this.url)']->m:0
 ##[onclick="window.open('/statics/js/hth112.html')"]->m:0
 ##[onclick='window.open(this.url)']
