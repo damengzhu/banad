@@ -1526,11 +1526,9 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href='https://app.kkj.cn/']->m:0
 ##[href^='https://dt.mydrivers.com/zt.ashx']->m:0
 ##[href^='https://dt.mydrivers.com/qq.ashx']->m:0
-##[href^='https://s.click.taobao.com/']->m:0
 ##[href='https://app.kkj.cn/']
 ##[href^='https://dt.mydrivers.com/zt.ashx']
 ##[href^='https://dt.mydrivers.com/qq.ashx']
-##[href^='https://s.click.taobao.com/']
 ##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']->m:0
 ##[href^='https://l.h-ero.games/']->m:0
 ###pppimg[src='/m2.gif']->m:0
