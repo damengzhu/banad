@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+o29kdkfjlsl.fujincenter.com
 cdns.mbxt.net
 cdn.baidu.xahycw.com
 jsc.adskeeper.co.uk
