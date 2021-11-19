@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+cdns.mbxt.net
+cdn.baidu.xahycw.com
+jsc.adskeeper.co.uk
 www.lthwsj.com
 res.zqcdesign.com
 k.braincf.com
@@ -1504,6 +1507,8 @@ baidu.com##.ec-ad
 ##[href^='https://v44868.com:']
 ##[href^='https://yh.133svip.com/']
 ##[href^='https://t2406.com:']
+##[href^='http://91mh.co']->m:0
+##[href^='http://91mh.co']
 ##[href^='https://www.xxmh'][href*='.htm']->m:0
 ##[href^='https://www.xxmh'][href*='.htm']
 ##[href^='https://stock.weibo.cn/zh/match']->m:0
