@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+statics.woozooo.com
 ackcdn.net
 o29kdkfjlsl.fujincenter.com
 cdns.mbxt.net
@@ -1205,7 +1206,6 @@ https://cpu.baidu.com/api/1022/ddbb7b45/ads/40057304543988676/news
 https://m.tuhao456.com/Public/wap/zymk/js/guanggao.js
 news.ssp.qq.com/app
 https://m.manhuapi.com/style/js/common.js
-statics.woozooo.com/img/m277.js
 https://statics.weiyuedu.cc/skin/v3/js/dibu.js
 http://www.97kpz.com/js/bbk/g.js
 https://m.tutufu.com/bd/b-c1.js
