@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+pc.stgowan.com
+c.gzasiatech.net
+m.vcsoat.cn
+feng.kauomod.cn
 statics.woozooo.com
 ackcdn.net
 o29kdkfjlsl.fujincenter.com
@@ -1542,6 +1546,8 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']
 ##[href^='https://l.h-ero.games/']
 ###pppimg[src='/m2.gif']
+##[href='/tiao/'][target='_blank']->m:0
+##[href='/tiao/'][target='_blank']
 ##[href^='http://mh'][href*='tiklink.cc']->m:0
 ##[href^='http://mh'][href*='tiklink.cc']
 ##[onclick='window.open(this.url)']->m:0
