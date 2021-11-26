@@ -2,6 +2,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+t.bbbazlp.cn
+h.bbbazlp.cn
+j8.gzxnqkf.cn
+hng.duoqushop.cn
+kme.duoquwawa.cn
+frh.jnzhongding.cn
+j8.rsctljb.cn
 x1.52aoteman.com
 x2.52aoteman.com
 lskdkfjskdl.muchenzhongguo.com
