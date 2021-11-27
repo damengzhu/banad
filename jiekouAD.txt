@@ -51,7 +51,6 @@ wuliao.jingyanben.com
 unjs.jingyanben.com
 mofeiso.com
 hbt.gz-hongxin.com
-k.braincf.com
 ff.027pbj.net
 5c.tepusi888.cn
 dfg.penghy.top
@@ -104,8 +103,6 @@ cdb.zhanggu.net.cn
 i.cidianwang.com
 k2.dancihu.com
 jkf2.rpahyhn.cn
-gun.371113.com
-flower.257772.com
 zs.zyzlpt.com
 qq.000123456789.online
 yyt.heshun365.cn
@@ -157,7 +154,6 @@ p.motuopj.cn
 ojskdlfjkdk.hdypw.com
 yt.egrent.cn
 eoy.zhisuyunonline.cn
-j8.pdjyzx.com
 aksjkdfjk.shqdwh.com
 www.xiewje.com
 m.nereus.live
@@ -1587,4 +1583,3 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 !--- 解除 X 浏览器投屏扩展被 AdGuard 屏蔽 (需在 AdGuard 导入本规则) ---
 @@$app=com.x.addon.cast
-
