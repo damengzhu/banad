@@ -2,6 +2,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+ykp.anjiedgcym.com
+hh.luoditai.cn
+mm.zhizhoudianshang.cn
+gjt.games95.com
+xxyi.cc
+m.haoyuntj.com
+1.98765432100.online
 t.bbbazlp.cn
 h.bbbazlp.cn
 j8.gzxnqkf.cn
@@ -1204,6 +1211,7 @@ http://s1.m.ikkdm.com/mg/show2.js
 shimo.im^*/ads?
 shimo.im/kong-api/ads
 yxdm.tv/js/gad.js
+91mjw.com/hy-66-90.php
 omlube.com/O/1000970O3001405O1O.js
 5dm.tv/html/5dmm.jpg
 milimili.tv/js/loadjs/jquery10.4.js
@@ -1329,6 +1337,12 @@ baidu.com##.ec-ad
 ###topNavad
 ###bottomNavad
 ##.ff-ads
+##[href='/hy-66-90.php']->m:0
+##[href='javascript:GoDb58649();']->m:0
+##[poster^='https://img.hylmxing.com:']->m:0
+##[href='/hy-66-90.php']
+##[href='javascript:GoDb58649();']
+##[poster^='https://img.hylmxing.com:']
 ##[rel='nofollow'][href*='com:'][target='_blank']->m:0
 ##[rel='nofollow'][href*='com:'][target='_blank']
 ##[style="width:100%;height:30vw;"][src^="https://oddsds.com/img/"]->m:0
