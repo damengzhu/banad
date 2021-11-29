@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+www.09jsufg.com
 top-web-online-free.cyou
 techiewebonlinespeed.cyou
 clldirectasianew.club
@@ -1146,6 +1147,8 @@ www.aoyou4.top
 www.aoyou5.top
 ||qurl.f.360.cn^
 !-- 链接 --
+--.?/statics/js/hth1111.html
+*/statics/js/hth1111.html
 asacdn.com/prod/redirect.html
 163487*.qmgmw.com
 --163487\.+\.qmgmw.com
@@ -1484,6 +1487,8 @@ baidu.com##.ec-ad
 ##a[href*=".yixing-hb.com"]
 ##[src='/pic/0001.gif']->m:0
 ##[src='/pic/0001.gif']
+##[onclick="window.open('/statics/js/hth1111.html')"]->m:0
+##[onclick="window.open('/statics/js/hth1111.html')"]
 ##[src^='https://www.zxucii.com:']->m:0
 ##[onclick^='window.open("https://www.zxucii.com:']->m:0
 ##[src^='https://yngdms.com:']->m:0
