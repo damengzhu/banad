@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+t.axbdlox.cn
+oskdjfkds.52pipaxing.com
+p.yw800.com.cn
+h.axbdlox.cn
+pir.czshenyue.cn
+www.vaxgyly.cn
 www.09jsufg.com
 top-web-online-free.cyou
 techiewebonlinespeed.cyou
@@ -1580,6 +1586,12 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']
 ##[href^='https://l.h-ero.games/']
 ###pppimg[src='/m2.gif']
+##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']->m:0
+##.adsbygoogle->m:0
+##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']->m:0
+##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']
+##.adsbygoogle
+##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
 ##[href='/tiao/'][target='_blank']->m:0
 ##[href='/tiao/'][target='_blank']
 ##[href^='http://mh'][href*='tiklink.cc']->m:0
