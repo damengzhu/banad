@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+hbt.milecctv.cn
 t.axbdlox.cn
 oskdjfkds.52pipaxing.com
 p.yw800.com.cn
@@ -1594,6 +1595,10 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
 ##[href='/tiao/'][target='_blank']->m:0
 ##[href='/tiao/'][target='_blank']
+##.width.imgs_1->m:0
+##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]->m:0
+##.width.imgs_1
+##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]
 ##[href^='http://mh'][href*='tiklink.cc']->m:0
 ##[href^='http://mh'][href*='tiklink.cc']
 ##[onclick='window.open(this.url)']->m:0
