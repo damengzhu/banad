@@ -1376,6 +1376,8 @@ baidu.com##.ec-ad
 ##[onclick="window.open('https://docs.qq.com/doc/DZEpZc2pOaFdXa0tD');"]
 ##[href^='https://at.umtrack.com/']->m:0
 ##[href^='https://at.umtrack.com/']
+##[href='https://leyu001.ee/']->m:0
+##[href='https://leyu001.ee/']
 ##[href='https://hongxiu.me']->m:0
 ##[target='_blank'][href='https://u.jd.com/J7NwrL ']->m:0
 ##[href='https://hongxiu.me']
