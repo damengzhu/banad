@@ -2,6 +2,22 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+mroft.gubgonx.cn
+qr3dz.gzfzcj.cn
+vm5.i7akpd1.xyz
+aiq36.g1kb9u.xyz
+cul.rrgapzw.cn
+hdpbr.yahekby.cn
+www.bjjabc.com
+ppp1z.lm865.com
+pj.looedu.top
+mk.zlnmzc.top
+rss.hongchaony.com
+hh.dapingguo800.cn
+gjt.pfjzzl.com
+mm.ficea.cn
+xxtu.cc
+www.govzhajian.cn
 mwzbp.iask.com.cn
 okskdjfdk.hongfachn.com
 alkdfjksl.yijiahyvip.com
@@ -1607,6 +1623,10 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]->m:0
 ##.width.imgs_1
 ##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]
+##[ontouchstart='this.click();'][href^='https://wd.haoyundm.com']->m:0
+##[onclick^="window.open('http://jx2.dxsdkw.cn"]->m:0
+##[ontouchstart='this.click();'][href^='https://wd.haoyundm.com']
+##[onclick^="window.open('http://jx2.dxsdkw.cn"]
 ##[href^='http://mh'][href*='tiklink.cc']->m:0
 ##[href^='http://mh'][href*='tiklink.cc']
 ##[onclick='window.open(this.url)']->m:0
