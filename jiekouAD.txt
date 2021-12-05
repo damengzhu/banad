@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+ding.xdwqq.cn
 mroft.gubgonx.cn
 qr3dz.gzfzcj.cn
 vm5.i7akpd1.xyz
