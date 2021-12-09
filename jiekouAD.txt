@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- 域名 --
+pc.wegowan.com
 6as.lm832.com
 u.katelin.top
 dnzrx.blsenpg.cn
@@ -1311,6 +1312,7 @@ http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
 !-- 元素 --
+baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
 m.zzzfun.com##DIV#show-2415689770463175004-8179
