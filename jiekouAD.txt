@@ -1626,6 +1626,8 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href^='https://detail.tmall.com/item.htm'][rel='nofollow']
 ##[href^='https://l.h-ero.games/']
 ###pppimg[src='/m2.gif']
+##[width='100%'][src^='/js/ad_/mobile'][src*='jpg']->m:0
+##[width='100%'][src^='/js/ad_/mobile'][src*='jpg']
 ##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']->m:0
 ##.adsbygoogle->m:0
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']->m:0
