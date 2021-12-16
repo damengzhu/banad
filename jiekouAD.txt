@@ -1,7 +1,7 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
-!-- 域名 --
+!-- Host --
 777.qweewq2021.online
 dianhanjiw.com
 lskdjfslkd.bjzysd.net
@@ -1206,7 +1206,7 @@ oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
 ||qurl.f.360.cn^
-!-- 链接 --
+!-- URL --
 --boxer.baidu.com/scheme
 boxer.baidu.com/scheme
 jialingmm.net/dm/tj.js
@@ -1331,7 +1331,7 @@ http://5dyx.com/static/jquery.js
 http://m.90mh.com/mip/qdbao77.js
 https://jiexi.071811.cc/js/cpa.js
 https://m.sodu2020.com/js/ppc.js
-!-- 元素 --
+!-- CSS --
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
