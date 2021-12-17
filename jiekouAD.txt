@@ -1655,6 +1655,13 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']->m:0
 ##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']
 ##.adsbygoogle
+##.banner[align='center']->m:0
+###coupletBox->m:0
+*
+##.broadcastMe-item > [href] > [src]->m:0
+##.banner[align='center']
+###coupletBox
+##.broadcastMe-item > [href] > [src]
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
 ##[href='/tiao/'][target='_blank']->m:0
 ##[href='/tiao/'][target='_blank']
