@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+5aa.lm811.com
+gh.chuxi888.top
+as.kuanxin.top
 hmy.rongnuo.top
 kmr.jiujigroup.top
 tg.xc7789.top
@@ -1695,6 +1698,12 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##.width.imgs_1->m:0
 ##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]->m:0
 ##.width.imgs_1
+##[href^='https://1815844.com/'],.playtop.col-pd->m:0
+#.col-12 position-relative,[onclick*='www.l4lui.com'],.col-12.position-relative>b->m:0
+##.theme-dark>.ayx>a->m:0
+##[href^='https://1815844.com/'],.playtop.col-pd
+#.col-12 position-relative,[onclick*='www.l4lui.com'],.col-12.position-relative>b
+##.theme-dark>.ayx>a
 ##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]
 ##[ontouchstart='this.click();'][href^='https://wd.haoyundm.com']->m:0
 ##[onclick^="window.open('http://jx2.dxsdkw.cn"]->m:0
