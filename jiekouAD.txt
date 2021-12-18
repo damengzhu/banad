@@ -1681,11 +1681,8 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##.adsbygoogle
 ##.banner[align='center']->m:0
 ###coupletBox->m:0
-*
-##.broadcastMe-item > [href] > [src]->m:0
 ##.banner[align='center']
 ###coupletBox
-##.broadcastMe-item > [href] > [src]
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
 ##[href='/tiao/'][target='_blank']->m:0
 ##[href='/tiao/'][target='_blank']
