@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+gb.zhaiqichao.top
+azs.fcheng.top
+ty.szhszxfw.cn
+www.govhebie.cn
 5aa.lm811.com
 gh.chuxi888.top
 as.kuanxin.top
@@ -1448,6 +1452,10 @@ baidu.com##.ec-ad
 ##oxk
 ###ppphref[rel='nofollow']
 ##[href='http://yb6277.vip']
+##div>span>[href='###']->m:0
+##.afc_close_content,.cfa_popup,[href='http://kst6632.com/']->m:0
+##div>span>[href='###']
+##.afc_close_content,.cfa_popup,[href='http://kst6632.com/']
 ##[href='http://app.tianbo17.com/']->m:0
 ##[href='http://page.shokuhou.com/']->m:0
 ##[href*='taobao.com/'][target='_blank']->m:0
