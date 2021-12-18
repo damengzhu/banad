@@ -1585,6 +1585,10 @@ baidu.com##.ec-ad
 ##[onclick^='window.open("https://www.zxucii.com:']
 ##[src^='https://yngdms.com:']
 ##[evhrumjx]
+###t4>a->m:0
+##[class^=c_c][style^='text-align:']->m:0
+###t4>a
+##[class^=c_c][style^='text-align:']
 ###ad1[url][onclick='window.open(this.url)'][src^='https://bj.bcebos.com/im-cs/'][width='100%']->m:0
 ##[onclick="window.open('/statics/js/hth906.html')"]->m:0
 ###ad_a[href^='https://www.xxmh'][target='_blank']->m:0
