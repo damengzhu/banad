@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+www.xaqsl.com
+js.njupt-sacc.com
 gb.zhaiqichao.top
 azs.fcheng.top
 ty.szhszxfw.cn
@@ -1596,6 +1598,8 @@ baidu.com##.ec-ad
 ##[onclick^='window.open("https://www.zxucii.com:']
 ##[src^='https://yngdms.com:']
 ##[evhrumjx]
+##[href^='https://6f2929.com']->m:0
+##[href^='https://6f2929.com']
 ###t4>a->m:0
 ##[class^=c_c][style^='text-align:']->m:0
 ###t4>a
