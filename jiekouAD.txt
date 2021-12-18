@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+hmy.rongnuo.top
+kmr.jiujigroup.top
+tg.xc7789.top
+df.szhszxfw.cn
 fg.glwxw.net
 lixianghaodian.com
 oskdjkfsl.arts-cloud.net
@@ -1435,6 +1439,12 @@ baidu.com##.ec-ad
 ##[href^='https://at.umtrack.com/']
 ##[href='https://leyu001.ee/']->m:0
 ##[href='https://leyu001.ee/']
+##oxk->m:0
+###ppphref[rel='nofollow']->m:0
+##[href='http://yb6277.vip']->m:0
+##oxk
+###ppphref[rel='nofollow']
+##[href='http://yb6277.vip']
 ##[href='http://app.tianbo17.com/']->m:0
 ##[href='http://page.shokuhou.com/']->m:0
 ##[href*='taobao.com/'][target='_blank']->m:0
