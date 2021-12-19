@@ -1,0 +1,20 @@
+name: Update Rules
+on: push
+
+jobs:
+  Pushed:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@main                     
+      - name: Git push assets to coding
+        run: |
+          rm -rf .git/
+          git init
+          git config --local user.name "action"
+          git config --local user.email "action@github.com"
+          git branch -m main
+          git add .
+          git commit -m "Updated at $(date)"
+          git remote add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/damengzhu/banad/banad.git"
+          #git fetch --unshallow origin
+          git push -u -f origin main
