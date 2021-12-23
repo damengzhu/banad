@@ -735,8 +735,6 @@ b.chuangjulm.cn
 a.exosrv.com
 poweredby.jads.co
 bngpt.com
-fonts.gstatic.com
-fonts.googleapis.com
 cmz2.stm65i8.com
 viq3.fb360xp.com
 www.abovede6.com
