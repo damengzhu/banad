@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+www.google-analytics.com
 bea-s.dinghuoche.com
 dup.baidustatic.com
 www.xaqsl.com
