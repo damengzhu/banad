@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+wss.haoyundm.com
+qdff.zxwstong.com
+gjt.xuanyaosp.com
+gft.xuanyaosp.com
 www.google-analytics.com
 bea-s.dinghuoche.com
 dup.baidustatic.com
@@ -1274,6 +1278,8 @@ hm.baidu.com$third-party
 templates_pc/default/scripts/chapter_bottom.js
 m.yhdm.so/bar/yfgg.js
 www.zxzj.me/slade2.js
+/bar/yfgg.js
+/bar/yfdi.js
 m.x4jdm.tv/mdp.js
 m.xinxindm.com/gog.js
 m.manhuabei.com/assets/xiwang.js
