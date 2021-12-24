@@ -1250,6 +1250,7 @@ asacdn.com/prod/redirect.html
 ||bing.com/fd/ls/lsp.aspx
 --www.xxmh.+.com
 www.xxmh*.com
+m.yinghuacd.com/bar
 --uf.haoyu666.top/uploads.+%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 uf.haoyu666.top/uploads*%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 /360mse/360mse_*.apk?
