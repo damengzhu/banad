@@ -1337,6 +1337,7 @@ m.pufei.cc/skin/middle.js
 www.qsptv.net/tpl/newstyle/js/pv.js
 m.y3600.cc/js/jquery.min.js
 shimo.im/lizard-api/ads
+/obj/ad-app-package
 /adjs
 /adjs/*
 www.zhenbuka.com/gg/lunbo.js
