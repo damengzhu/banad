@@ -1390,6 +1390,8 @@ baidu.com##[class^='ball-wrapper']
 baidu.com##[style^="bottom:"][class^="ball-wrapper__"]
 baidu.com##div.se-recommend-word-list,#se-recommend-word-list-container
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
+www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click="{"]
+so.toutiao.com##section.commonbox.hasfooter
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 smartapps.cn##swan-nest-banner-ad.ad-expose
