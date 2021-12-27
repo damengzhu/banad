@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+hby.ppedp.cn
 tgu.tjqwb.cn
 kmg.fshanys-vip.top
 mm.njkyjyc.cn
@@ -1241,6 +1242,8 @@ www.aoyou5.top
 --boxer.baidu.com/scheme
 boxer.baidu.com/scheme
 jialingmm.net/dm/tj.js
+hnt.58jingxuan.top/115
+hnt.58jingxuan.top/dhbioperhbvoprwm
 --.?/statics/js/hth1111.html
 */statics/js/hth1111.html
 asacdn.com/prod/redirect.html
