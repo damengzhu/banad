@@ -2,6 +2,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+ka.xgzdys.com
+www.xinym1.xyz
+2296.chushoushijian.cn
 hby.ppedp.cn
 tgu.tjqwb.cn
 kmg.fshanys-vip.top
@@ -1651,6 +1654,8 @@ baidu.com##.ec-ad
 ##[href='https://www.kissyvape.com/']->m:0
 ##[id^="_vdo_ads_player"]
 ##.zozoads
+##[href^='https://bvipsa.com']->m:0
+##[href^='https://bvipsa.com']
 ##[src='/gold.jpg'][alt='温馨提醒']->m:0
 ##[src='/gold.jpg'][alt='温馨提醒'
 ##[href='http://856882.com']->m:0
