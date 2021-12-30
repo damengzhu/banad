@@ -2,6 +2,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+33221.qqq123987.site
+1640831964042.se-life.cn
+data.lichenqx.com
+p1-feedback.byteimg.com
+zx.kuanxin.top
+zxc.yijiayi07.top
+adserver.juicyads.com
 ka.xgzdys.com
 www.xinym1.xyz
 2296.chushoushijian.cn
@@ -1544,6 +1551,8 @@ baidu.com##.ec-ad
 ##[alt=' 腐乐漫 '],[alt=' 西瓜社 ']
 ##[href="http://dx106.live"]->m:0
 ##[href="http://dx106.live"]
+##[href^='https://jwmic.91lu001.com']->m:0
+##[href^='https://jwmic.91lu001.com']
 ##[src="https://i.hhhjiimg.com/xall/sp37.gif"]->m:0
 ##[kidjhy=""]->m:0
 ##[onclick="window.open('/kapi/tj.php')"]->m:0
