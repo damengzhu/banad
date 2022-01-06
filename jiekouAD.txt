@@ -2,6 +2,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+pm.pexnjio.cn
+mc.nithisp.cn
+mg.nnocsin.cn
+www.yueyuego.com
 sx.wxjj94.top
 zs.dingyar.top
 qw.kuanxin.top
