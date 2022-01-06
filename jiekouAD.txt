@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+gjt.shanjewelry.com
+oskjfkdlsjfds.szfhl99.com
 pm.pexnjio.cn
 mc.nithisp.cn
 mg.nnocsin.cn
@@ -1516,6 +1518,8 @@ baidu.com##.ec-ad
 ##[href^='https://www.visvn.cn/c.php']
 ##[href^='https://www.xdh0808.com/']->m:0
 ##[href^='https://www.xdh0808.com/']
+##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']->m:0
+##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ###ad-header-mobile-contener->m:0
 ###ad-header-mobile-contener
 ##[href^='https://www.exing118.com'][rel='nofollow'][target='_new']->m:0
