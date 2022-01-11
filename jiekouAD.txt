@@ -2,6 +2,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+mgo.jwl.hk.cn
+js.qygzbxpt.com
+dibaiweiai.com
+mqjs.jsdocker.com
+macnc.shenfire.cn
+bbk6384.xhzmjs.com
 gjt.shanjewelry.com
 oskjfkdlsjfds.szfhl99.com
 pm.pexnjio.cn
@@ -57,7 +63,6 @@ fg.glwxw.net
 lixianghaodian.com
 oskdjkfsl.arts-cloud.net
 mm28j.com
-oskdjkfsl.arts-cloud.net
 lkr.autotrading.com.cn
 777.qweewq2021.online
 dianhanjiw.com
@@ -66,8 +71,6 @@ www.renrenhaigou.com
 hcll20.oxjaus.com
 luoyangjinmeii.com
 oskdjfkdsl.saimone.com
-lkr.autotrading.com.cn
-lskdjfslkd.bjzysd.net
 aslkdjfkdls.lzljhs.com
 pm.birjkhm.cn
 mc.wbesryx.cn
@@ -146,7 +149,6 @@ a89f23kdjl.sxguowei.com
 oskdjfkdl3kl.shproud.com
 pc.stgowan.com
 c.gzasiatech.net
-m.vcsoat.cn
 feng.kauomod.cn
 statics.woozooo.com
 ackcdn.net
@@ -365,7 +367,6 @@ fg.eezu.cn
 xg.monsteredward.com
 aaliyaheartha.com
 alexanberton.com
-k.ttzhongbao.com
 dianying-1304791696.cos.ap-shanghai.myqcloud.com
 hyzb87.cc
 hh0212.cc
