@@ -2,6 +2,11 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+mnr.gaojiaju.net
+mkt.mcfarland.cn
+zc.tiandesign.top
+rf.llyqy.top
+bbk6384.hanjw1988.com
 fg.cqbuchouhua.com
 fc.080999.cn
 btg.auogiv.cn
