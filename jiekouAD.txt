@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+zb.387635.com
 oqkdjkdokj4l.xinerdact.com
 www.rdezbie.com
 mnr.gaojiaju.net
@@ -1572,6 +1573,8 @@ baidu.com##.ec-ad
 ##[href^="https://www.ex311.com:"]
 ##.C1U,.C1M,.C2L,.C2R->m:0
 ##.C1U,.C1M,.C2L,.C2R
+##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']->m:0
+##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']->m:0
 ##[src*='.gif'][width='99%'][height='118'][style='border:0;']
 ##[href='http://www.fcf0020.xyz']->m:0
