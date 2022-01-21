@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+api.7017k.com
+api.lwxs99.com
 v.eojphlm.cn
 c.eojphlm.cn
 askdfjkls.moxiaoqihuoguo.com
