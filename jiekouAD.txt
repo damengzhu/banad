@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+sanme2.taisantech.com
 www.govlaibing.cn
 bbk6371.hanjw1988.com
 33789.qqqwww987.site
@@ -1504,6 +1505,8 @@ baidu.com##.ec-ad
 ###topNavad
 ###bottomNavad
 ##.ff-ads
+##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]->m:0
+##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[href='/hy-66-90.php']->m:0
 ##[href='javascript:GoDb58649();']->m:0
 ##[poster^='https://img.hylmxing.com:']->m:0
