@@ -1505,6 +1505,8 @@ baidu.com##.ec-ad
 ###topNavad
 ###bottomNavad
 ##.ff-ads
+##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']->m:0
+##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]->m:0
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[href='/hy-66-90.php']->m:0
