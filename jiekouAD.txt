@@ -2,6 +2,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+kmt.zhwpg.cn
+tgr.ygqjt.cn
 sanme2.taisantech.com
 www.govlaibing.cn
 bbk6371.hanjw1988.com
