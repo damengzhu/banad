@@ -2,6 +2,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+mjr.zqslg.cn
 bbk6133.hanjw1988.com
 ssh.mzya5718.xyz
 ja.wenluoxi.com
@@ -1436,6 +1437,8 @@ m.90mh.com/mip/qdbao77.js
 jiexi.071811.cc/js/cpa.js
 m.sodu2020.com/js/ppc.js
 !-- CSS --
+www.xvideos.com###ad-footer
+www.xvideos.com##.thumb-ad
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
