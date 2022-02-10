@@ -1301,7 +1301,7 @@ tfw.ymima360.com
 oneyearonechange.com
 www.aoyou4.top
 www.aoyou5.top
-||qurl.f.360.cn^
+qurl.f.360.cn
 !-- URL --
 --baidu.com/newspage/api/getmobads?
 ||baidu.com/newspage/api/getmobads?
