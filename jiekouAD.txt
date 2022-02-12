@@ -1506,7 +1506,7 @@ lanzoui.com##DIV[style='margin-top:17px;min-width: 130px;']
 www.bimiacg.com##[class='ssr1']
 www.9ekk.com##[class^='vod-db']
 www.58wk.com##[src*='.gif']
-www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item]
+www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel
 www.ncdj24.com##[href='https://gcsyslc.com/'],[href='https://865761.com/'],[id*='KdW'],[class*='col-style d-4 m-2 lo1ad1ed ']
 zhcedu.cn##DIV#yrcma5696
 zhcedu.cn##VIDEO[x5-video-player-fullscreen='false']
