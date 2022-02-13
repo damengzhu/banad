@@ -2,6 +2,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+kjggk1.xyz
+qzqd2.com
+ycc90.xyz
+178city.cn
+jwhk.wasaidailian.com
+tsdf.ajzsa.xyz
+where.ud783c02.com
 a.gougou88.xyz
 www.livemz.com
 tg.dongzhichun.top
@@ -1825,6 +1832,10 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##.mi_btcon.ad->m:0
 ##.bottom-pic,.col-pd.mb10
 ##.mi_btcon.ad
+###mobile-index > div[id^="ins"]->m:0
+###mobile-index > div#vodbm->m:0
+###mobile-index > div[id^="ins"]
+###mobile-index > div#vodbm
 #.col-12 position-relative,[onclick*='www.l4lui.com'],.col-12.position-relative>b->m:0
 ##.theme-dark>.ayx>a->m:0
 ##[href^='https://1815844.com/'],.playtop.col-pd
