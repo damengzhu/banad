@@ -1,4 +1,5 @@
-[at sixes and sevens Block 1.0]
+[Adblock Plus 2.0]
+! correct: 才不是abp2.0
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
