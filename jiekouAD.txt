@@ -1758,7 +1758,7 @@ baidu.com##.ec-ad
 ##[href^='https://bvipsa.com']->m:0
 ##[href^='https://bvipsa.com']
 ##[src='/gold.jpg'][alt='温馨提醒']->m:0
-##[src='/gold.jpg'][alt='温馨提醒'
+##[src='/gold.jpg'][alt='温馨提醒']
 ##[href='http://856882.com']->m:0
 ##[href='http://938966.com']->m:0
 ##[href='http://732199.com']->m:0
@@ -1766,7 +1766,7 @@ baidu.com##.ec-ad
 ##[href^='http://amlyg.com:']->m:0
 ##[href='http://856882.com']
 ##[href='http://938966.com']
-##[href='http://732199.com'
+##[href='http://732199.com']
 ##[href^='http://hbalsm.com:']
 ##[href^='http://amlyg.com:']
 ##[href='https://www.kissyvape.com/']
