@@ -4,6 +4,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+qpb.sohu.com
+go.sohu.com
+pv.sohu.com
 bbk6375.xhzmjs.com
 kmt.xkzjq.cn
 bhtbnb.qqqwww987.space
@@ -31,7 +34,6 @@ lsdkjfslkdf.jiumai88.com
 www.ywquyq.com
 tgr.ygqjt.cn
 kmt.zhwpg.cn
-tgr.ygqjt.cn
 sanme2.taisantech.com
 www.govlaibing.cn
 bbk6371.hanjw1988.com
@@ -48,7 +50,6 @@ de3.linyongming.top
 mqjs.jsdocker.com
 macnc.shenfire.cn
 bbk6384.xhzmjs.com
-www.govlaibing.cn
 zb.387635.com
 oqkdjkdokj4l.xinerdact.com
 www.rdezbie.com
@@ -1136,9 +1137,7 @@ k.innvitor.com
 cdn.xianliao.me
 adv-sv-show.focus.cn
 adv-sv-stat.focus.cn
-go.sohu.com
 track.sohu.com
-qpb.sohu.com
 m.chinachooses.com
 js.mosflower.cn
 k.mindopu.com
