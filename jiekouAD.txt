@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+ss.zuixinyiqi.com
 qpb.sohu.com
 go.sohu.com
 pv.sohu.com
