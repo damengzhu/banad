@@ -4,6 +4,12 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+js.bcrealm.com
+www.repyua.com
+pn.mdkjefq.cn
+xc.yynncbn.cn
+xg.svvbrkk.cn
+fg.geoparker.net
 ss.zuixinyiqi.com
 qpb.sohu.com
 go.sohu.com
