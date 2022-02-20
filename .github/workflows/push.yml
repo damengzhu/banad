@@ -1,6 +1,9 @@
 name: Update Rules
 on: push
 
+env:
+  GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
+
 jobs:
   Pushed:
     runs-on: ubuntu-latest
@@ -18,3 +21,6 @@ jobs:
           git remote add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/damengzhu/banad/banad.git"
           #git fetch --unshallow origin
           git push -u -f origin main
+      - name: Manual-Update AdRules Repository
+        run: |
+          bash ./manual-update.sh
