@@ -1,5 +1,7 @@
 name: Update Rules
-on: push
+on:
+  push:
+  workflow_dispatch:
 
 env:
   GITHUBTOKEN: ${{ secrets.GITHUBTOKEN }}
