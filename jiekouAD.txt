@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+mfe.paqpq.com
 mkt.xhtlw.cn
 kmr.yvfnb.cn
 www.govliuzhou.cn
