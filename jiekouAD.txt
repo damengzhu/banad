@@ -4,6 +4,23 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+asdklfjal.shanxicloud.net
+mg.rywnvzd.cn
+pm.mdkjefq.cn
+mc.kmhmyaj.cn
+asdfkskf.cloudasbook.com
+llsdkfjkls.cnlouissegur.com
+api.ldjx.cc
+link.21373.com
+az.tiandesign.top
+wk.eccbb.com
+js.whfyhouse.com
+bbk6133.jianchajingmk.net
+kos.qasqs.com
+cdn.holmesmind.com
+banner-cfnetwork.cdn.hinet.net
+a.breaktime.com.tw
+mfe.paqpq.com
 mfe.paqpq.com
 mkt.xhtlw.cn
 kmr.yvfnb.cn
@@ -1335,6 +1352,7 @@ www.aoyou5.top
 qurl.f.360.cn
 yar7faf2a8cadf.zjlanbikm.xinray.net
 !-- URL --
+/js/ads
 --baidu.com/newspage/api/getmobads?
 ||baidu.com/newspage/api/getmobads?
 --boxer.baidu.com/scheme
