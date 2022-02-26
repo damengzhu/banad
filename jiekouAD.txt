@@ -4,6 +4,23 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+mfe.paqpq.com
+asdklfjal.shanxicloud.net
+zz.bdstatic.com
+zz.bdustatic.com
+js.moeamv.com
+js.tongdianku.com
+js.whfyhouse.com
+dmya.lflmdm.com
+img.ishanggao.com
+eew2ss.kbneks00.online
+oksdfjkskd.5ibanma.com
+llsdkfjkls.cnlouissegur.com
+zb.516624.com
+mg.rywnvzd.cn
+mc.kmhmyaj.cn
+pm.mdkjefq.cn
+kos.qasqs.com
 asdklfjal.shanxicloud.net
 mg.rywnvzd.cn
 pm.mdkjefq.cn
@@ -1878,6 +1895,8 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##.mi_btcon.ad->m:0
 ##.bottom-pic,.col-pd.mb10
 ##.mi_btcon.ad
+##.fc_foot->m:0
+##.fc_foot
 ###mobile-index > div[id^="ins"]->m:0
 ###mobile-index > div#vodbm->m:0
 ###mobile-index > div[id^="ins"]
