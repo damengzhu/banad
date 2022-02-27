@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+js.ysfzf.cn
 mfe.paqpq.com
 asdklfjal.shanxicloud.net
 zz.bdstatic.com
@@ -1654,6 +1655,8 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']->m:0
 ##[src*='.wdach.com/']
+###downapp1->m:0
+###downapp1
 ##[href^='http://www.blmh77.com/']->m:0
 ##[href^='https://e.akmhw.com/c.html']->m:0
 ##[href^='http://www.blmh77.com/']
