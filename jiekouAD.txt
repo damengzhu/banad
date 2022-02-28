@@ -4,7 +4,6 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
-##DIV#logo.noTapColor.use-festival
 js.ysfzf.cn
 mfe.paqpq.com
 asdklfjal.shanxicloud.net
