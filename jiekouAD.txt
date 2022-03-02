@@ -1425,6 +1425,7 @@ www.zxzj.me/slade2.js
 /bar/yfgg.js
 /bar/yfdi.js
 m.x4jdm.tv/mdp.js
+cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 m.xinxindm.com/gog.js
 m.manhuabei.com/assets/xiwang.js
 m.yhdm.tv/bar/yfyh.js
@@ -1916,6 +1917,8 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[onclick^="window.open('http://jx2.dxsdkw.cn"]
 ##[href^='http://mh'][href*='tiklink.cc']->m:0
 ##[href^='http://mh'][href*='tiklink.cc']
+##[href^='https://65564535.com']->m:0
+##[href^='https://65564535.com']
 ##[onclick='window.open(this.url)']->m:0
 ##[onclick="window.open('/statics/js/hth112.html')"]->m:0
 ##[onclick='window.open(this.url)']
