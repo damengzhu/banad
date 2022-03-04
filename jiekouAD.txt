@@ -59,7 +59,6 @@ fg.geoparker.net
 ss.zuixinyiqi.com
 qpb.sohu.com
 go.sohu.com
-pv.sohu.com
 bbk6375.xhzmjs.com
 kmt.xkzjq.cn
 bhtbnb.qqqwww987.space
@@ -1265,7 +1264,6 @@ js.penxiangge.com
 seordl.cn
 ayidaye.m.zwdu.com
 m.gz-bz.cn
-jspassport.ssl.qhimg.com
 pj.u5m4.cn
 gdt.qq.com
 n.35kds.com
@@ -1321,7 +1319,6 @@ dakawm.cc
 xn--wxtr44c.video
 xn--wxtr9fwyxk9c.site
 xn--wxtr9fwyxk9c.xn--io0a7i
-livere.com
 ssl.bbbr8.com
 xn--wxtr9fwyxk9c.club 
 xn--xhq9mt12cf5v.ink
