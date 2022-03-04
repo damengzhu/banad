@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+goblin.hupu.com
 js.ysfzf.cn
 mfe.paqpq.com
 asdklfjal.shanxicloud.net
@@ -1508,6 +1509,7 @@ m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
 www.xvideos.com###ad-footer
 www.xvideos.com##.thumb-ad
+m.hupu.com##[class^="show_ad"]
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
