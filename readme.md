@@ -8,6 +8,8 @@
 `https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt` [订阅到AdBlock或AdGuard](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
 ### coding 镜像
 `https://damengzhu.coding.net/p/banad/d/banad/git/raw/main/jiekouAD.txt` [订阅到AdBlock或AdGuard](https://subscribe.adblockplus.org/?location=https://damengzhu.coding.net/p/banad/d/banad/git/raw/main/jiekouAD.txt)
+### IQDNS提供的RAW镜像：
+`https://raw.iqiq.io/damengzhu/banad/main/jiekouAD.txt` [订阅到AdBlock或AdGuard](https://subscribe.adblockplus.org/?location=https://raw.iqiq.io/damengzhu/banad/main/jiekouAD.txt)
 
 ## 反馈
 - **酷安: 大萌主**
