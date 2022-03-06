@@ -4,6 +4,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+xg.eqlidke.cn
+xc.ognujxj.cn
+fg.rmzbfum.cn
+fc.dt243100.com
 hf.hushenqiquan.com
 goblin.hupu.com
 js.ysfzf.cn
@@ -1856,6 +1860,10 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[href^='https://www.vofcr2a.com']->m:0
 ##[href^='https://www.lyty648.com']
 ##[href^='https://www.vofcr2a.com']
+##[href='http://li.hmwang.cc']->m:0
+##[href='https://blfanss.com']->m:0
+##[href='http://li.hmwang.cc']
+##[href='https://blfanss.com']
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]->m:0
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]
 ##[href='https://app.kkj.cn/']->m:0
