@@ -4,6 +4,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+c.ubxqerc.cn
+p.bswsmlp.cn
+v.ubxqerc.cn
 xg.eqlidke.cn
 xc.ognujxj.cn
 fg.rmzbfum.cn
