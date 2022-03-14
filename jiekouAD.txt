@@ -4,6 +4,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+cdn.weiye.net
 haoyundmtaotao.com
 k5ggua.xyz
 jr.captivias.site
