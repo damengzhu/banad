@@ -4,6 +4,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+jjjak.com
+mg.npftmqv.cn
+kry.jknrwe.cn
+js.js-tianqilm.com
+js.quanmindi.com
+hudiecaifu.com
+henanqiuzhige.com
 cdn.weiye.net
 haoyundmtaotao.com
 k5ggua.xyz
@@ -1740,6 +1747,9 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##.adsbygoogle
 ##.banner[align='center']
 ###coupletBox
+##.advertise
+##[href='https://cai35b9.com/']
+##[href^='https://0414483.com/']
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
 ##[href='/tiao/'][target='_blank']
 ##[style^="position:fixed;left:0;top:3px;height:122px;width:100%"]
