@@ -1,5 +1,4 @@
 [Adblock Plus 2.0]
-! correct: 才不是abp2.0
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
@@ -1487,56 +1486,36 @@ qurl.f.360.cn
 yar7faf2a8cadf.zjlanbikm.xinray.net
 !-- URL --
 /js/ads
---baidu.com/newspage/api/getmobads?
 ||baidu.com/newspage/api/getmobads?
 jialingmm.net/dm/tj.js
 hnt.58jingxuan.top/115
 :12443/*/*-*-*.$script,third-party
 bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 hnt.58jingxuan.top/dhbioperhbvoprwm
---.+/statics/js/hth1111.html
 */statics/js/hth1111.html
 asacdn.com/prod/redirect.html
 163487*.qmgmw.com
---163487\.+\.qmgmw.com
---bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/l?IG=
---bing.com/fd/ls/lsp.aspx
 ||bing.com/fd/ls/lsp.aspx
---www.xxmh.+.com
 www.xxmh*.com
 m.yinghuacd.com/bar
 ||hm.baidu.com^$third-party
---uf.haoyu666.top/uploads.+%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 uf.haoyu666.top/uploads*%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
 /360mse/360mse_*.apk?
 /app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
 /app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
---/360mse/360mse_.+.apk?
---/app/.+/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
---/app/market/.+/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%88%E5%99%A8.apk
 pstatp.com/toutiao/push.js
---126.net/.+analysis
 ||126.net^*analysis
 chen-xing/figure_bed*
---chen-xing/figure_bed
 .com/gg.js
---.com/gg.js
 /api/ad/*
---/api/ad/
 *tplv-noop.gif*
---tplv-noop.gif
---nex.163.com/q?
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
---g.163.com/.+&affiliate=
---163.com/wap/special/article_cooper_piapia/
 ||163.com/wap/special/article_cooper_piapia/
 567*.xyz
---567\w?\.xyz
 qchannel03.cn$third-party
 hm.baidu.com$third-party
---templates_pc/default/scripts/chapter_bottom.js
 templates_pc/default/scripts/chapter_bottom.js
 m.yhdm.so/bar/yfgg.js
 www.zxzj.me/slade2.js
@@ -1548,10 +1527,8 @@ m.xinxindm.com/gog.js
 m.manhuabei.com/assets/xiwang.js
 m.yhdm.tv/bar/yfyh.js
 m.yhdm.tv/bar/yfgg.js
---baidu.com/api/wapui/getrelatedbusiness
 baidu.com/rec
 download.2345.cn/2345yd1/apk/*
---download.2345.cn/2345yd1/apk/
 ifeng.com/showcode
 baidu.com/api/wapui/getrelatedbusiness
 music.163.com/weapi/activity/downloadpage/config/get
@@ -1677,7 +1654,6 @@ m.yhdm.io##[style='width: 100%; height: 90px;']
 share.acgnx.se##IMG[src*='share.acgnx.se']
 0du123.com,24en.com,3gsc.com.cn,591hx.com,5g0a.com,acgnx.se,aguitar.cn,btzx2017.com,e0514.com,eastmoney.com,guitarchina.com,gz0668.com,hk.on.cc,iguaji.com,iqiyi.com,jia360.com,joy.cn,kdnet.net,kumi.cn,manyuancs8.xyz,newnet.cc,rain2.top,tiboo.cn,toocle.com,wallstreetcn.com,xingkbjm.com,xizi.com,zgfznews.com,zyue.com##.banner
 yxdm.tv##[class^="adv"]
-
 m.iqiyi.com##DIV.iqyGuide-content,.cover
 baidu.com##div#J-super-layer-promote
 ddrk.me###obay_hf_i
