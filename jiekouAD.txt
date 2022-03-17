@@ -1490,8 +1490,6 @@ yar7faf2a8cadf.zjlanbikm.xinray.net
 /js/ads
 --baidu.com/newspage/api/getmobads?
 ||baidu.com/newspage/api/getmobads?
---boxer.baidu.com/scheme
-boxer.baidu.com/scheme
 jialingmm.net/dm/tj.js
 hnt.58jingxuan.top/115
 :12443/*/*-*-*.$script,third-party
