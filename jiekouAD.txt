@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+omr.ttayy.cn
 mnr.jajjo.cn
 ia.51.la
 hfawdgz.cn
@@ -1833,6 +1834,7 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##.banner[align='center']
 ###coupletBox
 ##.advertise
+##a.gggg[href^="https"]
 ##[href='https://cai35b9.com/']
 ##[href^='https://0414483.com/']
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
