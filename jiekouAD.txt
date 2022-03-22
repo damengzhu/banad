@@ -3,7 +3,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+91p20.space
+nbk.lm336.com
 omr.ttayy.cn
+kmt.oomll.cn
 mnr.jajjo.cn
 ia.51.la
 hfawdgz.cn
@@ -1685,6 +1688,8 @@ baidu.com##.ec-ad
 ###bottomNavad
 ##.ff-ads
 ##.ssr1
+##.ad_img
+##[onclick="window.open('/statics/js/hth1111.html')"]
 ##.swiper-wrapper.leo-source-cho
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
 ##[href*="/entry/register/?i_code="]
@@ -1775,7 +1780,6 @@ baidu.com##.ec-ad
 ##[href^='https://www.ex312.com:']
 ##a[href*=".yixing-hb.com"]
 ##[src='/pic/0001.gif']
-##[onclick="window.open('/statics/js/hth1111.html')"]
 ##[src^='https://www.zxucii.com:']
 ##[onclick^='window.open("https://www.zxucii.com:']
 ##[src^='https://yngdms.com:']
