@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+img.starpc.cn
 91p20.space
 nbk.lm336.com
 omr.ttayy.cn
@@ -1650,6 +1651,7 @@ www.58wk.com##rrk
 www.58wk.com##[src="/111/1.gif"]
 www.58wk.com##div#gdggw2
 www.58wk.com##div#bottomJuSha
+www.dldxdyfsyy.com##DIV[style='position:relative;']
 nfmovies.com##DIV[class='clearfix']
 duboku.net##div.container:nth-child(2) > div.row:last-child > div.col-md-wide-7.col-xs-1.padding-0:first-child > div.myui-panel.myui-panel-bg.clearfix:nth-child(3) > div.myui-panel-box.clearfix > div.myui-panel_bd > div.col-xs-1
 5dm.tv##[src*="sinaimg.cn"]
