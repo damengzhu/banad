@@ -1608,6 +1608,8 @@ m.90mh.com/mip/qdbao77.js
 jiexi.071811.cc/js/cpa.js
 m.sodu2020.com/js/ppc.js
 !-- CSS --
+m.baidu.com#@#div[class*="ads"]
+www.baidu.com#@#div[class*="ads"]
 baidu.com#@##page-pre
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
