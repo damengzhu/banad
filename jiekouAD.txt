@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+mg.jomwihn.cn
+mc.tohpeu.cn
 askdjfsl.alictibet.com
 dc.emilyz.top
 lsdkfjks.fvsymbol.net
@@ -1493,6 +1495,7 @@ www.aoyou5.top
 qurl.f.360.cn
 yar7faf2a8cadf.zjlanbikm.xinray.net
 !-- URL --
+n5m5.com/static/js/playcon.js
 /js/ads
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||www.google-analytics.com^$domain=myqqjd.com
