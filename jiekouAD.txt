@@ -1494,6 +1494,10 @@ qurl.f.360.cn
 yar7faf2a8cadf.zjlanbikm.xinray.net
 !-- URL --
 /js/ads
+@@||pagead2.googlesyndication.com^$domain=myqqjd.com
+@@||www.google-analytics.com^$domain=myqqjd.com
+@@||www.googletagmanager.com^$domain=myqqjd.com
+@@||myqqjd.com^
 @@www.cocomanga.com/js/ad_/ad2.js
 ||baidu.com/newspage/api/getmobads?
 jialingmm.net/dm/tj.js
