@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+changshuohr.net
+www.govshangxi.cn
 mg.jomwihn.cn
 mc.tohpeu.cn
 askdjfsl.alictibet.com
@@ -1703,6 +1705,7 @@ bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
 ###topNavad
 ###bottomNavad
+##[href^='https://www.uerlqe.com']
 ##.ff-ads
 ##.ssr1
 ##.ad_img
@@ -1863,7 +1866,6 @@ www.bde4.cc##[src*='p.qpic.cn/vshpic']
 ##[style^="position:fixed;left:0;top:3px;height:122px;width:100%"]
 ##[style="visibility: visible; display: block;"]
 ##[style*="https://777.qweewq"]
-##[href^='https://www.uerlqe.com']
 ##.width.imgs_1
 ##.bottom-pic,.col-pd.mb10
 ##.mi_btcon.ad
