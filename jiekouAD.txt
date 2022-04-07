@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+||pool.wenrunyu.com^
 ||kmt.cslpf.cn^
 ||krt.zhengxiaoliu.top^
 ||abb.lxiaoxin.com^
@@ -1615,6 +1616,7 @@ shimo.im/lizard-api/ads
 /obj/ad-app-package
 /adjs
 /adjs/*
+pic.rmb.bdstatic.com/bjh/*.gif
 www.zhenbuka.com/gg/lunbo.js
 google-analytics.com/analytics.js
 www.zd518.cn/template/qpg6080/baidufx/baidufx.js
