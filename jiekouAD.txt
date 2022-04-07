@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+||99999999.club^
 ||xflsj.com^
 ||pool.wenrunyu.com^
 ||kmt.cslpf.cn^
@@ -1519,6 +1520,7 @@
 ||qurl.f.360.cn^
 ||yar7faf2a8cadf.zjlanbikm.xinray.net^
 !-- URL --
+*.gif$domain=m.imomoe.live
 n5m5.com/static/js/playcon.js
 /js/ads
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
