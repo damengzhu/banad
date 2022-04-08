@@ -1571,7 +1571,7 @@ m.xinxindm.com/gog.js
 m.manhuabei.com/assets/xiwang.js
 m.yhdm.tv/bar/yfyh.js
 m.yhdm.tv/bar/yfgg.js
-baidu.com/rec
+baidu.com/rec?*=ad&
 download.2345.cn/2345yd1/apk/*
 ifeng.com/showcode
 baidu.com/api/wapui/getrelatedbusiness
