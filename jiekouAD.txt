@@ -1539,7 +1539,8 @@ n5m5.com/static/js/playcon.js
 @@||www.googletagmanager.com^$domain=myqqjd.com
 @@||myqqjd.com^
 @@www.cocomanga.com/js/ad_/ad2.js
-@@.baidu.com/it/u=$domain=baijiahao.baidu.com
+@@f*.baidu.com/it/u=*,*&fm=*JPEG
+@@f*.baidu.com/it/u=*,*&fm=*PNG
 ||baidu.com/newspage/api/getmobads?
 jialingmm.net/dm/tj.js
 hnt.58jingxuan.top/115
