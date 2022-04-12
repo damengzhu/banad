@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+||imasdk.googleapis.com^
 ||cxs.mibaoge.com^
 ||asdkfjskl.guiliangtechnology.com^
 ||vxs.mibaoge.com^
@@ -1576,6 +1577,8 @@ hm.baidu.com$third-party
 templates_pc/default/scripts/chapter_bottom.js
 m.yhdm.so/bar/yfgg.js
 www.zxzj.me/slade2.js
+widgets.outbrain.com/outbrain.js
+.com/adv1/?q=
 /bar/yfgg.js
 /bar/yfdi.js
 m.x4jdm.tv/mdp.js
