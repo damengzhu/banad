@@ -3,17 +3,20 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+||tydouke.com^
+||kmpxq.cn^
+||lccfjszp.cn^
 ||i7pnx0t.cn^
-||mc.zygscl.cn^
-||mg.42yenxh.cn^
-||xg.1w73a5d.cn^
-||xc.skxuueby.cn^
+||zygscl.cn^
+||42yenxh.cn^
+||1w73a5d.cn^
+||skxuueby.cn^
 ||m.uscdn.top^
 ||imasdk.googleapis.com^
 ||cxs.mibaoge.com^
 ||asdkfjskl.guiliangtechnology.com^
 ||vxs.mibaoge.com^
-||p.zcy821.com^
+||zcy821.com^
 ||d89.d8962a.xyz^
 ||stunthedge.com^
 ||a-mo.net^
@@ -26,10 +29,10 @@
 ||krt.zhengxiaoliu.top^
 ||abb.lxiaoxin.com^
 ||ja.stmzzs.com^
-||mc.yqgzaewe.cn^
-||mg.excsyrv.cn^
-||fc.holor857.cn^
-||fg.yystzl.cn^
+||yqgzaewe.cn^
+||excsyrv.cn^
+||holor857.cn^
+||yystzl.cn^
 ||osdfjsk5.dikematou.com^
 ||cpt.9136.com^
 ||haoyun.lb-lt.com.cn^
@@ -44,10 +47,10 @@
 ||zjjbtl.com^
 ||changshuohr.net^
 ||www.govshangxi.cn^
-||mg.jomwihn.cn^
+||jomwihn.cn^
 ||mc.tohpeu.cn^
 ||askdjfsl.alictibet.com^
-||dc.emilyz.top^
+||emilyz.top^
 ||lsdkfjks.fvsymbol.net^
 ||img.starpc.cn^
 ||91p20.space^
