@@ -1079,7 +1079,6 @@
 ||cdn.jinfu.love^
 ||www.mitao17.com^
 ||show.aklm.cc^
-||r1.ykimg.com^
 ||gg.cnco.me^
 ||xg.huataisangao.cn^
 ||ximg.0c1q0l.cn^
