@@ -1839,6 +1839,7 @@ baidu.com##.ec-ad
 ##[href^='https://jwmic.91lu001.com']
 ##[src="https://i.hhhjiimg.com/xall/sp37.gif"]
 ##[kidjhy=""]
+##img#hth[onclick$="hth.html')"]
 ##[onclick="window.open('/kapi/tj.php')"]
 ##[href^='https://www.hthty601.com:']
 ##.ads
