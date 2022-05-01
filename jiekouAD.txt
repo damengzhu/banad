@@ -1847,6 +1847,7 @@ baidu.com##.ec-ad
 ##[href='http://danm.xsgyfm.com:15889']
 ##[src^='https://mydisplay.ctfile.com/popview.php']
 ##[href^='https://23538595.com:']
+##DIV#ad-index.col-12.position-relative
 ##.gr_slide_car_inner
 ##[src='/pic/111.jpeg'][style='width: 100%;']
 ##[href='javascript:GoTp();']
