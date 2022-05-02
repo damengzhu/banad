@@ -1834,6 +1834,7 @@ baidu.com##.ec-ad
 ##[onclick="window.open('https://docs.qq.com/doc/DZEpZc2pOaFdXa0tD');"]
 ##[href^='https://at.umtrack.com/']
 ##[href='https://leyu001.ee/']
+##[href^='https://dcc.sclanlian.com/cc/']
 ##oxk
 ###ppphref[rel='nofollow']
 ##[href='http://yb6277.vip']
