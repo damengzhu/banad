@@ -3,6 +3,13 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安 @大萌主
 !-- Host --
+||pn.zxsnllo.cn^
+||kme.dncvj.cn^
+||kmpl.rnqxp.cn^
+||kmt.cslpf.cn^
+||xc.afablca.cn^
+||xg.s4zqj3m.cn^
+||hkep.fqxkj.cn^
 ||www.youzonggw.com^
 ||vdj1e.skogsborg.net^
 ||j.sun66387567606.online^
@@ -27,8 +34,6 @@
 ||ssl.linyiccic.com^
 ||www.govguiyang.cn^
 ||mkn.hlzyb.cn^
-||kmpl.rnqxp.cn^
-||hkep.fqxkj.cn^
 ||ktu.twdjn.cn^
 ||as.dingyar.top^
 ||duyixpy.top^
@@ -45,7 +50,6 @@
 ||mc.lingcde.cn^
 ||mb.tianyuewangluo.top^
 ||xc.shigl.top^
-||kme.dncvj.cn^
 ||hnd.pfdth.cn^
 ||www.qkixi.com^
 ||ot.jizy.cn^
@@ -82,7 +86,6 @@
 ||99999999.club^
 ||xflsj.com^
 ||pool.wenrunyu.com^
-||kmt.cslpf.cn^
 ||krt.zhengxiaoliu.top^
 ||abb.lxiaoxin.com^
 ||ja.stmzzs.com^
@@ -1699,7 +1702,6 @@ m.pufei.cc/skin/middle.js
 www.qsptv.net/tpl/newstyle/js/pv.js
 m.y3600.cc/js/jquery.min.js
 shimo.im/lizard-api/ads
-/obj/ad-app-package
 /adjs
 /adjs/*
 www.zhenbuka.com/gg/lunbo.js
@@ -1855,6 +1857,7 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']
 ###downapp1
+##[onclick*='https://i.opiwb.com:']
 ##[href='https://click.aliyun.com/m/1000332699/']
 ##[href^='http://www.blmh77.com/']
 ##[href^='https://e.akmhw.com/c.html']
