@@ -3,6 +3,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||www.chunaisese12.com^
+||kry.ztshg.cn^
+||fgn.nphqw.cn^
 ||what.uebabuf.cn^
 ||api.scwsf.com^
 ||tylll.paohao.com^
