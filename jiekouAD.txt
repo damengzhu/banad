@@ -3,6 +3,28 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||dmfjeu.xyz^
+||lanmeiyu.work^
+||zhangfeiyijuepifa.com^
+||jcde.site^
+||chinaxinhe.net^
+||ppyibei.com^
+||yaodaipeishi.cn^
+||wn68din.cn^
+||metauniverse88.com^
+||dreamlikeverse.com^
+||llaxl.com^
+||fxxrllt.com^
+||gdzshoes.com^
+||mobrkbb.com^
+||zgdshoes.com^
+||gxzxiww.com^
+||ixnrmco.com^
+||botonmetaverse.com^
+||cvsheil.com^
+||zgfshoes.com^
+||erjiyouhuiquan.com^
+||hbzshoes.com^
 ||hackeraa.xyz^
 ||jacksonyee.club^
 ||ylznwl.cn^
@@ -109,7 +131,6 @@
 ||qw.dingyar.top^
 ||tcy.knbtpty.xyz^
 ||etdxjycpaeaawdyu.chh2.cc^
-||qw.dingyar.top^
 ||dingyar.top^
 ||mosangkeji.com^
 ||www.jsifaja.com^
@@ -2077,6 +2098,7 @@ baidu.com##.ec-ad
 ##[href^='https://yh.133svip.com/']
 ##[href^='https://t2406.com:']
 ##[href^='http://91mh.co']
+##[onclick='gourl()'][src^='/images/bfq/']
 ##[href^='https://www.xxmh'][href*='.htm']
 ##[href^='https://stock.weibo.cn/zh/match']
 ##[href^='https://vip.infobbs.xyz/atl.php']
