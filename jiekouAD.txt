@@ -3,6 +3,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||qhonzpl.cn^
+||ihtqqws.cn^
+||statics.jialuode.com^
+||h45pmx1.cn^
 ||dmfjeu.xyz^
 ||lanmeiyu.work^
 ||zhangfeiyijuepifa.com^
