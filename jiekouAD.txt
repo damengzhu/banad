@@ -3,6 +3,18 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||hackeraa.xyz^
+||jacksonyee.club^
+||ylznwl.cn^
+||7r227ut.cn^
+||7jkzmbd.cn^
+||0m483y7.cn^
+||dj09j5u.cn^
+||h4b0srs.cn^
+||uk529u0.cn^
+||kb8ixcm.cn^
+||cwc494e.cn^
+||2g9x9uf.cn^
 ||99e333.nbrlzy.com^
 ||yh.zg-zxzx.net^
 ||7c4432.zouxinmall.com^
@@ -1927,6 +1939,7 @@ baidu.com##.ec-ad
 ##[href^='https://www.uerlqe.com']
 ##.ff-ads
 ##.ssr1
+##[poster^='https://i.opiwb.com:']
 ##.ad_img
 ##[onclick="window.open('/statics/js/hth1111.html')"]
 ##.swiper-wrapper.leo-source-cho
