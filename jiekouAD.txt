@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||yzc35326.top^
 ||ssl.yiniyiwo.org^
 ||dg.miludata.com^
 ||dc.yuntuxianzhi.com^
