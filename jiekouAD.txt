@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||ssl.yiniyiwo.org^
 ||dg.miludata.com^
 ||dc.yuntuxianzhi.com^
 ||pkjl00l.cn^
@@ -2150,6 +2151,7 @@ baidu.com##.ec-ad
 ##[href='https://www.riqingxs.com/']
 ##[alt='52bl']
 ##[alt='西瓜社']
+##[src='https://pnm.hpvitycz.cn/00.jpg']
 ###mobile-index > div[id^="ins"]
 ###mobile-index > div#vodbm
 ##[href^='https://1815844.com/'],.playtop.col-pd
