@@ -3,6 +3,11 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||aksjdfk.guohexinxiang.com^
+||tsdflsdk.cypcb.net^
+||askdfjsl.hntezhi.com^
+||lsdkjfdk.jxgd1688.com^
+||dgb.hnbhrt.xyz^
 ||dgxlm.xyz^
 ||yzc35326.top^
 ||ssl.yiniyiwo.org^
@@ -1463,6 +1468,9 @@ widgets.outbrain.com/outbrain.js
 .com/adv1/?q=
 /bar/yfgg.js
 /bar/yfdi.js
+/_xa/ads_
+/ht.js?site_
+/_xa/ads?
 m.x4jdm.tv/mdp.js
 cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 m.xinxindm.com/gog.js
