@@ -1428,6 +1428,8 @@ anluyg.net/static/js/channel*.js
 @@www.cocomanga.com/js/ad_/ad2.js
 @@f*.baidu.com/it/u=*,*&fm=*JPEG
 @@f*.baidu.com/it/u=*,*&fm=*PNG
+@@guokr.com/apis/flowingboard/item/m_article
+@@guokr.com/apis/flowingboard/item/m_home_
 ||baidu.com/newspage/api/getmobads?
 lewenma.com/js/read.js
 jialingmm.net/dm/tj.js
