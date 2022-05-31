@@ -3,6 +3,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||yangjie.asia^
+||qfnoyix.cn^
+||xmkbrfyu.cn^
+||cpro.zol.com.cn^
 ||mbt.tangk.top^
 ||kmb.gaoyuhu.top^
 ||ssl.caopanshou.top^
@@ -1809,6 +1813,7 @@ baidu.com##.ec-ad
 ##[href^='https://www.vofcr2a.com']
 ##[href='http://li.hmwang.cc']
 ##[href='https://blfanss.com']
+##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]
 ##[href='https://app.kkj.cn/']
 ##[href^='https://dt.mydrivers.com/zt.ashx']
