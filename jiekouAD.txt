@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||ljarfvg.cn^
+||szdaqi88.com^
 ||sh-qiruizx.com^
 ||lakjdskls.zhdchb.com^
 ||slfango.ltd^
@@ -1535,6 +1537,8 @@ m.zwdu.com/getuserinfo.php
 pstatp.com/growth/fe_sdk/bannersdk
 s2.m.ikkdm.com/mg/show2.js
 s1.m.ikkdm.com/mg/show2.js
+www.cocomanga.com/js/atmp.html
+www.cocomanga.com/template/vfed/asset/js/global.js
 shimo.im^*/ads?
 shimo.im/kong-api/ads
 yxdm.tv/js/gad.js
@@ -1684,6 +1688,7 @@ baidu.com##.ec-ad
 ##[href^='https://www.uerlqe.com']
 ##.ff-ads
 ##.ssr1
+##[href^='https://xcc.nvnxxrk.cn']
 ##[poster^='https://i.opiwb.com:']
 ##.ad_img
 ##[onclick="window.open('/statics/js/hth1111.html')"]
