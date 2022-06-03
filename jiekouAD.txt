@@ -1478,6 +1478,8 @@ asacdn.com/prod/redirect.html
 .com/ads.
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
+hhdmh.net/bd/36mh.js
+hhdmh.net/js/g1.js
 www.xxmh*.com
 m.yinghuacd.com/bar
 ||hm.baidu.com^$third-party
