@@ -1538,7 +1538,6 @@ pstatp.com/growth/fe_sdk/bannersdk
 s2.m.ikkdm.com/mg/show2.js
 s1.m.ikkdm.com/mg/show2.js
 www.cocomanga.com/js/atmp.html
-www.cocomanga.com/template/vfed/asset/js/global.js
 shimo.im^*/ads?
 shimo.im/kong-api/ads
 yxdm.tv/js/gad.js
