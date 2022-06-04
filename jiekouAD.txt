@@ -3,6 +3,11 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||adpushup.com^
+||adrecover.com^
+||doubleclick.net^
+||outbrain.com^
+||criteo.net^
 ||ljarfvg.cn^
 ||szdaqi88.com^
 ||sh-qiruizx.com^
@@ -1567,7 +1572,11 @@ www.qsptv.net/tpl/newstyle/js/pv.js
 m.y3600.cc/js/jquery.min.js
 shimo.im/lizard-api/ads
 /adjs
-/adjs/*
+m.addthis.com/live/red_lojson/300lo.json
+/amp-analytics-
+.openx.
+*/ads.
+addthis.com/live/
 www.zhenbuka.com/gg/lunbo.js
 google-analytics.com/analytics.js
 www.zd518.cn/template/qpg6080/baidufx/baidufx.js
