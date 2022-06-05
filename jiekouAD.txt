@@ -1569,10 +1569,10 @@ www.97kpz.com/js/bbk/g.js
 m.tutufu.com/bd/b-c1.js
 m.pufei.cc/skin/footer.js
 m.pufei.cc/skin/middle.js
-/js/yys/Pfhl365.js
-/Mplay/kk1.js
+js/yys/Pfhl365.js
+Mplay/kk1.js
 static/pull/qwe1021.js
-/com/js/lp365.js
+com/js/lp365.js
 www.qsptv.net/tpl/newstyle/js/pv.js
 m.y3600.cc/js/jquery.min.js
 shimo.im/lizard-api/ads
