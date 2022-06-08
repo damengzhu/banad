@@ -1730,6 +1730,7 @@ baidu.com##.ec-ad
 ##[href^='https://w5979.com:']
 ##oxk
 ###ppphref[rel='nofollow']
+##[href='https://91.yelang8.cc/']
 ##[href='http://yb6277.vip']
 ##div>span>[href='###']
 ##.afc_close_content,.cfa_popup,[href='http://kst6632.com/']
