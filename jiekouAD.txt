@@ -3,6 +3,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||a-d.7dh26aja.com^
+||xn--2ss830adjbqy7h.xn--fiqs8s^
+||ltp.jiantiquan.cn^
+||knt.viplp.top^
 ||v.jsczde.cn^
 ||data.gzuzfa.cn^
 ||wof.matchkj.com^
@@ -1722,6 +1726,8 @@ baidu.com##.ec-ad
 ##[href^='https://at.umtrack.com/']
 ##[href='https://leyu001.ee/']
 ##[href^='https://dcc.sclanlian.com/cc/']
+##[href^='https://x7463.com:']
+##[href^='https://w5979.com:']
 ##oxk
 ###ppphref[rel='nofollow']
 ##[href='http://yb6277.vip']
