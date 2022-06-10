@@ -3,6 +3,9 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||brt.studylabs.cn^
+||kmt.cslpf.cn^
+||mbr.baiyishaonian.cn^
 ||js.btgoo.cc^
 ||cdn.xianchengyou.com^
 ||cdn0.sxhjty.cn^
