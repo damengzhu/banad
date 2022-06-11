@@ -10,7 +10,11 @@ jobs:
   Pushed:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@main                     
+      - uses: actions/checkout@main
+      - name: Make Rules and Git push assets to github
+        run: |
+         ./make.sh
+         git push -f           
       - name: Git push assets to coding
         run: |
           rm -rf .git/
