@@ -13,8 +13,10 @@ jobs:
       - uses: actions/checkout@main
       - name: Make Rules and Git push assets to github
         run: |
-         ./make.sh
-         git push -f           
+          bash ./make.sh
+          git add --all
+          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          git push --force -u          
       - name: Git push assets to coding
         run: |
           rm -rf .git/
