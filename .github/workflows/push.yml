@@ -14,6 +14,10 @@ jobs:
       - name: Make Rules and Git push assets to github
         run: |
           bash ./make.sh
+          git init
+          git config --local user.name "action"
+          git config --local user.email "action@github.com"
+          git branch -m main
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
           git push --force -u          
