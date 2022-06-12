@@ -3,6 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||sifa.aak7.cn^
 ||cdn.smilk.cc^
 ||cdn.vue-js.cyou^
 ||brt.studylabs.cn^
@@ -1594,6 +1595,7 @@ shimo.im/lizard-api/ads
 m.addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
 .openx.
+/cupfox/_next/static/chunks/webpack-52be397443c1d38b.js
 */ads.
 /baidu/tg.js
 /baidu/189/999.php
@@ -1625,6 +1627,7 @@ myqqjd.com##.adsbygoogle
 m.baidu.com#@#div[class*="ads"]
 www.baidu.com#@#div[class*="ads"]
 baidu.com#@##page-pre
+cupfox.app#@#.adsbygoogle
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
