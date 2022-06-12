@@ -3,6 +3,8 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Host
+||api.yuanzun888.com^
+||zhflodsix.cn^
 ||sifa.aak7.cn^
 ||cdn.smilk.cc^
 ||cdn.vue-js.cyou^
