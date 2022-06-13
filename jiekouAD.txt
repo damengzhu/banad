@@ -1602,7 +1602,6 @@ shimo.im/lizard-api/ads
 m.addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
 .openx.
-/cupfox/_next/static/chunks/webpack-52be397443c1d38b.js
 */ads.
 /baidu/tg.js
 /baidu/189/999.php
