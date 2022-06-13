@@ -18,9 +18,9 @@ jobs:
           git config --local user.name "action"
           git config --local user.email "action@github.com"
           git branch -m main
-          #git add --all
-          #git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
-          git push --force -u          
+          git add --all
+          git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
+          git push --force -u origin          
       - name: Git push assets to coding
         run: |
           rm -rf .git/
