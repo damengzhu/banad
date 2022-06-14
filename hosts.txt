@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1473
-#Update Time: 2022-06-14 00:59:38（北京时间） 
+#Total Count:1483
+#Update Time: 2022-06-14 18:24:31（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -324,6 +324,7 @@
 0.0.0.0 data.lichenqx.com
 0.0.0.0 data.zhongquanjy.com
 0.0.0.0 dbkdwe1.com
+0.0.0.0 dc.wtiaw.top
 0.0.0.0 dc.yuntuxianzhi.com
 0.0.0.0 dc.zj-yxw.com
 0.0.0.0 dcsd.cnnywz.cn
@@ -432,6 +433,7 @@
 0.0.0.0 fo.tiqu.io
 0.0.0.0 fo.zhangbaochang.top
 0.0.0.0 fticbox.qifake.com
+0.0.0.0 fv.nftjjw.com
 0.0.0.0 fxxrllt.com
 0.0.0.0 fych.uranus.sogou.com
 0.0.0.0 g.rain8.com
@@ -715,6 +717,7 @@
 0.0.0.0 lmxxxz.com
 0.0.0.0 lnk9c.amvecurt.cn
 0.0.0.0 lnk9v.amvecurt.cn
+0.0.0.0 lnm.guozhongwang.cn
 0.0.0.0 local.adguard.org
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log.daqi.com
@@ -772,6 +775,7 @@
 0.0.0.0 maobujie.com
 0.0.0.0 mb.tianyuewangluo.top
 0.0.0.0 mbr.baiyishaonian.cn
+0.0.0.0 mbt.hongmao39.top
 0.0.0.0 mbt.tangk.top
 0.0.0.0 mc.a48505.cn
 0.0.0.0 mc.aefmbeq.cn
@@ -840,6 +844,7 @@
 0.0.0.0 nbk.lm226.com
 0.0.0.0 nbk.lm336.com
 0.0.0.0 nbk.lm553.com
+0.0.0.0 nbr.yangshengzu.cn
 0.0.0.0 new.xiongzhangad.com
 0.0.0.0 new.zhuanquxian.com
 0.0.0.0 newa.nuannuanqi.top
@@ -916,7 +921,9 @@
 0.0.0.0 pc.weizhenwx.com
 0.0.0.0 pcxzo.pluto.sogou.com
 0.0.0.0 pdrtcgfx.cn
+0.0.0.0 percent.nbgsintl.com
 0.0.0.0 percent.pfiparts.com
+0.0.0.0 pernet.zzycj.com
 0.0.0.0 pflrv.cn
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 pic.lixiaodongcy.com
@@ -948,6 +955,7 @@
 0.0.0.0 ppyibei.com
 0.0.0.0 prelandappslab.com
 0.0.0.0 propeller-tracking.com
+0.0.0.0 prt.uwnvcxb.cn
 0.0.0.0 psfq.gou.sogou.com
 0.0.0.0 ptauxofi.net
 0.0.0.0 ptgdb.cn
@@ -1171,10 +1179,12 @@
 0.0.0.0 v.njcengpianwang.cn
 0.0.0.0 v.wsnew.cn
 0.0.0.0 v.zhuozhongfangshui.cn
+0.0.0.0 v1qs.ywsywh.cn
 0.0.0.0 v2.thefatherofsalmon.com
 0.0.0.0 v2.uyan.cc
 0.0.0.0 v3.fstats.xyz
 0.0.0.0 v6jt.cn
+0.0.0.0 vb.yubingyuan.top
 0.0.0.0 vdj1e.skogsborg.net
 0.0.0.0 veyu.idubwz.cn
 0.0.0.0 video.new-eve.com

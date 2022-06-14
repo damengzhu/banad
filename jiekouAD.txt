@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2022-06-14 00:59:38（北京时间） 
-! Total Count: 1932
+! Update Time: 2022-06-14 18:24:31（北京时间） 
+! Total Count: 1948
 ! by: 酷安@大萌主
 ! Host
 ||v1qs.ywsywh.cn^

@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1473
-! Update Time:2022-06-14 00:59:38（北京时间） 
+! Total Count:1483
+! Update Time:2022-06-14 18:24:31（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -323,6 +323,7 @@
 ||data.lichenqx.com^
 ||data.zhongquanjy.com^
 ||dbkdwe1.com^
+||dc.wtiaw.top^
 ||dc.yuntuxianzhi.com^
 ||dc.zj-yxw.com^
 ||dcsd.cnnywz.cn^
@@ -431,6 +432,7 @@
 ||fo.tiqu.io^
 ||fo.zhangbaochang.top^
 ||fticbox.qifake.com^
+||fv.nftjjw.com^
 ||fxxrllt.com^
 ||fych.uranus.sogou.com^
 ||g.rain8.com^
@@ -714,6 +716,7 @@
 ||lmxxxz.com^
 ||lnk9c.amvecurt.cn^
 ||lnk9v.amvecurt.cn^
+||lnm.guozhongwang.cn^
 ||local.adguard.org^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log.daqi.com^
@@ -771,6 +774,7 @@
 ||maobujie.com^
 ||mb.tianyuewangluo.top^
 ||mbr.baiyishaonian.cn^
+||mbt.hongmao39.top^
 ||mbt.tangk.top^
 ||mc.a48505.cn^
 ||mc.aefmbeq.cn^
@@ -839,6 +843,7 @@
 ||nbk.lm226.com^
 ||nbk.lm336.com^
 ||nbk.lm553.com^
+||nbr.yangshengzu.cn^
 ||new.xiongzhangad.com^
 ||new.zhuanquxian.com^
 ||newa.nuannuanqi.top^
@@ -915,7 +920,9 @@
 ||pc.weizhenwx.com^
 ||pcxzo.pluto.sogou.com^
 ||pdrtcgfx.cn^
+||percent.nbgsintl.com^
 ||percent.pfiparts.com^
+||pernet.zzycj.com^
 ||pflrv.cn^
 ||pglstatp-toutiao.com^
 ||pic.lixiaodongcy.com^
@@ -947,6 +954,7 @@
 ||ppyibei.com^
 ||prelandappslab.com^
 ||propeller-tracking.com^
+||prt.uwnvcxb.cn^
 ||psfq.gou.sogou.com^
 ||ptauxofi.net^
 ||ptgdb.cn^
@@ -1170,10 +1178,12 @@
 ||v.njcengpianwang.cn^
 ||v.wsnew.cn^
 ||v.zhuozhongfangshui.cn^
+||v1qs.ywsywh.cn^
 ||v2.thefatherofsalmon.com^
 ||v2.uyan.cc^
 ||v3.fstats.xyz^
 ||v6jt.cn^
+||vb.yubingyuan.top^
 ||vdj1e.skogsborg.net^
 ||veyu.idubwz.cn^
 ||video.new-eve.com^
