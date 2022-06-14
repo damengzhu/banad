@@ -5,6 +5,16 @@
 ! Total Count: 1932
 ! by: 酷安@大萌主
 ! Host
+||v1qs.ywsywh.cn^
+||percent.nbgsintl.com^
+||nbr.yangshengzu.cn^
+||pernet.zzycj.com^
+||dc.wtiaw.top^
+||fv.nftjjw.com^
+||vb.yubingyuan.top^
+||mbt.hongmao39.top^
+||lnm.guozhongwang.cn^
+||prt.uwnvcxb.cn^
 ||ahm.jiankang123.net^
 ||lf1-cdn-tos.bytegoofy.com^
 ||url.3400.org^
@@ -1772,6 +1782,12 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']
 ###downapp1
+##[href='https://ad.ysgc.xyz/zb.html']
+##[href^="https://9996867.com"]
+##[href="/ad/007.html"]
+##A[href='/hth.html']
+##img#hth[onclick^="window.open"]
+##A[href='/hth.html']
 ##[onclick*='https://i.opiwb.com:']
 ##[href='https://click.aliyun.com/m/1000332699/']
 ##[href^='http://www.blmh77.com/']
