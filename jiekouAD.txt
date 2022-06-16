@@ -5,6 +5,9 @@
 ! Total Count: 1947
 ! by: 酷安@大萌主
 ! Host
+||s.eybstar.com^
+||admhbl.xyz^
+||lovegg.club^
 ||v1qs.ywsywh.cn^
 ||percent.nbgsintl.com^
 ||nbr.yangshengzu.cn^
@@ -1878,6 +1881,7 @@ baidu.com##.ec-ad
 ##[href='http://732199.com']
 ##[href^='http://hbalsm.com:']
 ##[href^='http://amlyg.com:']
+###bl_mobile_float[style='height: 152px;']
 ###sOIcquIT
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']
