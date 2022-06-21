@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1486
-#Update Time: 2022-06-16 16:25:02（北京时间） 
+#Total Count:1496
+#Update Time: 2022-06-21 10:03:31（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -412,6 +412,7 @@
 0.0.0.0 fc.080999.cn
 0.0.0.0 fc.dt243100.com
 0.0.0.0 fc.gaizong.cn
+0.0.0.0 fc.hxwxfc.cn
 0.0.0.0 fc.tiepan.cn
 0.0.0.0 fc.zuixinchao.com
 0.0.0.0 ff.027pbj.net
@@ -420,6 +421,7 @@
 0.0.0.0 fg.daochengwowo.top
 0.0.0.0 fg.geoparker.net
 0.0.0.0 fg.glwxw.net
+0.0.0.0 fg.qdzilh.cn
 0.0.0.0 fg.rmzbfum.cn
 0.0.0.0 fg.yilianqing.com
 0.0.0.0 fgn.nphqw.cn
@@ -514,12 +516,14 @@
 0.0.0.0 hl.brownfox.top
 0.0.0.0 hl.smartmuchang.com
 0.0.0.0 hmjs.cnmo-img.com.cn
+0.0.0.0 hmt.zygkzytb.cn
 0.0.0.0 hn.sportsdream.top
 0.0.0.0 hnd.pfdth.cn
 0.0.0.0 hnnuange.com
 0.0.0.0 hnr.sbldw.cn
 0.0.0.0 holor857.cn
 0.0.0.0 hqf.aldkfsd.cn
+0.0.0.0 hrt.yukariyakumo.cn
 0.0.0.0 hssapp.shop
 0.0.0.0 httpsjs.com
 0.0.0.0 hudiecaifu.com
@@ -566,7 +570,9 @@
 0.0.0.0 ixnrmco.com
 0.0.0.0 j.55555555555.xyz
 0.0.0.0 j.5idoy8p7.live
+0.0.0.0 j.afk3rs.xyz
 0.0.0.0 j.aishangdaike.com
+0.0.0.0 j.b0rbgroup.xyz
 0.0.0.0 j.dailiqing.net
 0.0.0.0 j.guotaotaoci.net
 0.0.0.0 j.gxlsjt.com
@@ -724,6 +730,7 @@
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.vdisk.cn
 0.0.0.0 log.zongheng.com
+0.0.0.0 lop.lamimi.cn
 0.0.0.0 lovegg.club
 0.0.0.0 lpjxzs.com
 0.0.0.0 lpmzt.cn
@@ -777,6 +784,7 @@
 0.0.0.0 marjorienice.com
 0.0.0.0 mb.tianyuewangluo.top
 0.0.0.0 mbr.baiyishaonian.cn
+0.0.0.0 mbt.deeterno.cn
 0.0.0.0 mbt.hongmao39.top
 0.0.0.0 mbt.tangk.top
 0.0.0.0 mc.a48505.cn
@@ -864,6 +872,7 @@
 0.0.0.0 ns2.chinayms.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 ntt.postserviceuk.com
+0.0.0.0 nvr.jiangjiu.org.cn
 0.0.0.0 nxes.mercury.sogou.com
 0.0.0.0 nzqf.b2xy4m.xyz
 0.0.0.0 o.alimb.top
@@ -974,6 +983,7 @@
 0.0.0.0 px.rhinogo.cn
 0.0.0.0 px.xiaomifood.cn
 0.0.0.0 q.baminw.com.cn
+0.0.0.0 q.e49.xyz
 0.0.0.0 q8.ttly888.com
 0.0.0.0 qaq.lm665.com
 0.0.0.0 qaxkwxpf.cn

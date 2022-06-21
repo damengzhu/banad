@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1486
-! Update Time:2022-06-16 16:25:02（北京时间） 
+! Total Count:1496
+! Update Time:2022-06-21 10:03:31（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -411,6 +411,7 @@
 ||fc.080999.cn^
 ||fc.dt243100.com^
 ||fc.gaizong.cn^
+||fc.hxwxfc.cn^
 ||fc.tiepan.cn^
 ||fc.zuixinchao.com^
 ||ff.027pbj.net^
@@ -419,6 +420,7 @@
 ||fg.daochengwowo.top^
 ||fg.geoparker.net^
 ||fg.glwxw.net^
+||fg.qdzilh.cn^
 ||fg.rmzbfum.cn^
 ||fg.yilianqing.com^
 ||fgn.nphqw.cn^
@@ -513,12 +515,14 @@
 ||hl.brownfox.top^
 ||hl.smartmuchang.com^
 ||hmjs.cnmo-img.com.cn^
+||hmt.zygkzytb.cn^
 ||hn.sportsdream.top^
 ||hnd.pfdth.cn^
 ||hnnuange.com^
 ||hnr.sbldw.cn^
 ||holor857.cn^
 ||hqf.aldkfsd.cn^
+||hrt.yukariyakumo.cn^
 ||hssapp.shop^
 ||httpsjs.com^
 ||hudiecaifu.com^
@@ -565,7 +569,9 @@
 ||ixnrmco.com^
 ||j.55555555555.xyz^
 ||j.5idoy8p7.live^
+||j.afk3rs.xyz^
 ||j.aishangdaike.com^
+||j.b0rbgroup.xyz^
 ||j.dailiqing.net^
 ||j.guotaotaoci.net^
 ||j.gxlsjt.com^
@@ -723,6 +729,7 @@
 ||log.music.baidu.com^
 ||log.vdisk.cn^
 ||log.zongheng.com^
+||lop.lamimi.cn^
 ||lovegg.club^
 ||lpjxzs.com^
 ||lpmzt.cn^
@@ -776,6 +783,7 @@
 ||marjorienice.com^
 ||mb.tianyuewangluo.top^
 ||mbr.baiyishaonian.cn^
+||mbt.deeterno.cn^
 ||mbt.hongmao39.top^
 ||mbt.tangk.top^
 ||mc.a48505.cn^
@@ -863,6 +871,7 @@
 ||ns2.chinayms.com^
 ||nsclick.baidu.com^
 ||ntt.postserviceuk.com^
+||nvr.jiangjiu.org.cn^
 ||nxes.mercury.sogou.com^
 ||nzqf.b2xy4m.xyz^
 ||o.alimb.top^
@@ -973,6 +982,7 @@
 ||px.rhinogo.cn^
 ||px.xiaomifood.cn^
 ||q.baminw.com.cn^
+||q.e49.xyz^
 ||q8.ttly888.com^
 ||qaq.lm665.com^
 ||qaxkwxpf.cn^
