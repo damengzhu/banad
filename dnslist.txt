@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1496
-! Update Time:2022-06-21 10:03:31（北京时间） 
+! Total Count:1508
+! Update Time:2022-06-24 18:42:06（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -761,6 +761,7 @@
 ||m.konshan.com^
 ||m.nereus.live^
 ||m.pmtong.shop^
+||m.qc-meta.com^
 ||m.robot61.cn^
 ||m.s.tpcdn.top^
 ||m.slshiye.cn^
@@ -835,6 +836,7 @@
 ||mm3.mylmad.com^
 ||mmszxc.top^
 ||mnr.jajjo.cn^
+||mobivx.smfjfgie.xyz^
 ||mobixc.vnfjsus.xyz^
 ||mobrkbb.com^
 ||mosangkeji.com^
@@ -981,6 +983,7 @@
 ||pvtest.zol.com.cn^
 ||px.rhinogo.cn^
 ||px.xiaomifood.cn^
+||px.yangzheqing.cn^
 ||q.baminw.com.cn^
 ||q.e49.xyz^
 ||q8.ttly888.com^
@@ -1009,6 +1012,7 @@
 ||qw.dingyar.top^
 ||qw.kuanxin.top^
 ||qwe0231141.bj.bcebos.com^
+||qybs.mclseww.top^
 ||qyzyd.top^
 ||qzda.cc^
 ||qzqd2.com^
@@ -1166,6 +1170,7 @@
 ||ty.lizehuandian.top^
 ||ty.szhszxfw.cn^
 ||tydouke.com^
+||tylll.allykitchen.com^
 ||tylll.igame2steam.com^
 ||tylll.paohao.com^
 ||tylll.zgystsd.com^
@@ -1305,6 +1310,7 @@
 ||www.jmine.cn^
 ||www.jsifaja.com^
 ||www.kanglingjiu.com^
+||www.kjfxzeggca.com^
 ||www.kldsam.com^
 ||www.koudaikeji.info^
 ||www.kowqd1.top^

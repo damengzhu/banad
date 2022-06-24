@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1496
-#Update Time: 2022-06-21 10:03:31（北京时间） 
+#Total Count:1508
+#Update Time: 2022-06-24 18:42:06（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -762,6 +762,7 @@
 0.0.0.0 m.konshan.com
 0.0.0.0 m.nereus.live
 0.0.0.0 m.pmtong.shop
+0.0.0.0 m.qc-meta.com
 0.0.0.0 m.robot61.cn
 0.0.0.0 m.s.tpcdn.top
 0.0.0.0 m.slshiye.cn
@@ -836,6 +837,7 @@
 0.0.0.0 mm3.mylmad.com
 0.0.0.0 mmszxc.top
 0.0.0.0 mnr.jajjo.cn
+0.0.0.0 mobivx.smfjfgie.xyz
 0.0.0.0 mobixc.vnfjsus.xyz
 0.0.0.0 mobrkbb.com
 0.0.0.0 mosangkeji.com
@@ -982,6 +984,7 @@
 0.0.0.0 pvtest.zol.com.cn
 0.0.0.0 px.rhinogo.cn
 0.0.0.0 px.xiaomifood.cn
+0.0.0.0 px.yangzheqing.cn
 0.0.0.0 q.baminw.com.cn
 0.0.0.0 q.e49.xyz
 0.0.0.0 q8.ttly888.com
@@ -1010,6 +1013,7 @@
 0.0.0.0 qw.dingyar.top
 0.0.0.0 qw.kuanxin.top
 0.0.0.0 qwe0231141.bj.bcebos.com
+0.0.0.0 qybs.mclseww.top
 0.0.0.0 qyzyd.top
 0.0.0.0 qzda.cc
 0.0.0.0 qzqd2.com
@@ -1167,6 +1171,7 @@
 0.0.0.0 ty.lizehuandian.top
 0.0.0.0 ty.szhszxfw.cn
 0.0.0.0 tydouke.com
+0.0.0.0 tylll.allykitchen.com
 0.0.0.0 tylll.igame2steam.com
 0.0.0.0 tylll.paohao.com
 0.0.0.0 tylll.zgystsd.com
@@ -1306,6 +1311,7 @@
 0.0.0.0 www.jmine.cn
 0.0.0.0 www.jsifaja.com
 0.0.0.0 www.kanglingjiu.com
+0.0.0.0 www.kjfxzeggca.com
 0.0.0.0 www.kldsam.com
 0.0.0.0 www.koudaikeji.info
 0.0.0.0 www.kowqd1.top
