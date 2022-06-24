@@ -5,6 +5,18 @@
 ! Total Count: 1962
 ! by: 酷安@大萌主
 ! Host
+||px.yangzheqing.cn^
+||www.kjfxzeggca.com^
+||m.qc-meta.com^
+||tylll.allykitchen.com^
+||qybs.mclseww.top^
+||mobivx.smfjfgie.xyz^
+||lnm.guozhongwang.cn^
+||hmt.zygkzytb.cn^
+||hrt.yukariyakumo.cn^
+||kmt.cslpf.cn^
+||nvr.jiangjiu.org.cn^
+||mbt.deeterno.cn^
 ||nvr.jiangjiu.org.cn^
 ||lop.lamimi.cn^
 ||fg.qdzilh.cn^
@@ -1773,6 +1785,7 @@ baidu.com##.ec-ad
 ##[href^='https://x7463.com:']
 ##[href^='https://w5979.com:']
 ##oxk
+##[onclick="window.open('http://682kg.com/')"]
 ###ppphref[rel='nofollow']
 ##[href='https://91.yelang8.cc/']
 ##[href='http://yb6277.vip']
