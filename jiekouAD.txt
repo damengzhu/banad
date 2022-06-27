@@ -5,6 +5,11 @@
 ! Total Count: 1975
 ! by: 酷安@大萌主
 ! Host
+||poweredby.jads.co^
+||img.91p51.com^
+||jbr.lhippac.cn^
+||vsw2.21cnbm.com^
+||ko2v.eiya.net^
 ||px.yangzheqing.cn^
 ||www.kjfxzeggca.com^
 ||m.qc-meta.com^
@@ -1532,6 +1537,8 @@ anluyg.net/static/js/channel*.js
 @@guokr.com/apis/flowingboard/item/m_article
 @@guokr.com/apis/flowingboard/item/m_home_
 ||baidu.com/newspage/api/getmobads?
+google-analytics.com$third-party
+killcovid2021.com/*.mp4
 lewenma.com/js/read.js
 jialingmm.net/dm/tj.js
 hnt.58jingxuan.top/115
