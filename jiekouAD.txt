@@ -5,6 +5,8 @@
 ! Total Count: 1987
 ! by: 酷安@大萌主
 ! Host
+||xg.unypud.cn^
+||xc.qaxkwxpf.cn^
 ||wap.embnvut.com^
 ||nvr.jiangjiu.org.cn^
 ||kbt.yhbsk.cn^
@@ -1664,6 +1666,7 @@ c.mipcdn.com/c/s/by.manhuachi.com
 m.qimiaomh.com/muban/m/static/js/hhh.js
 m.qimiaomh.com/muban/m/static/js/common.js
 www.mhhanman.xyz/data/my/myjs.js
+zhhbqg.com/ww/*.js
 liweidianqi.com/a.js
 liweidianqi.com/a2.js
 liweidianqi.com/a1.js
@@ -1919,6 +1922,7 @@ baidu.com##.ec-ad
 ##[href^='http://amlyg.com:']
 ###bl_mobile_float[style='height: 152px;']
 ###sOIcquIT
+##[href^='https://xcc.ztdzpyf.cn/']
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']
 ##[href^='https://www.44553606.com:']
