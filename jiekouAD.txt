@@ -5,6 +5,8 @@
 ! Total Count: 1996
 ! by: 酷安@大萌主
 ! Host
+||vfq1.xmsrd.com^
+||wknfr6791.zdhm.cn^
 ||connect.kjuwxmi.xyz^
 ||j.k31bpzf.xyz^
 ||gsp0.kj-gov.cn^
@@ -1647,6 +1649,9 @@ m.tutufu.com/bd/b-c1.js
 m.pufei.cc/skin/footer.js
 m.pufei.cc/skin/middle.js
 js/yys/Pfhl365.js
+www.tz659.com/js/chapte*.js
+www.tz659.com/js/html*.js
+www.tz659.com/js/cdn.js
 Mplay/kk1.js
 static/pull/qwe1021.js
 com/js/lp365.js
