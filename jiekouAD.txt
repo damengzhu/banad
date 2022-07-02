@@ -5,7 +5,6 @@
 ! Total Count: 2005
 ! by: 酷安@大萌主
 ! Host
-
 ||vfq1.xmsrd.com^
 ||wknfr6791.zdhm.cn^
 ||connect.kjuwxmi.xyz^
@@ -1814,6 +1813,7 @@ m.dmh8.com##[id^="test"]
 ##[href^='https://x7463.com:']
 ##[href^='https://w5979.com:']
 ##oxk
+##[href='https://xkk5.com/sqy.png']
 ##[onclick="window.open('http://682kg.com/')"]
 ###ppphref[rel='nofollow']
 ##[href='https://91.yelang8.cc/']
