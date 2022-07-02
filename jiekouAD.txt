@@ -5,6 +5,7 @@
 ! Total Count: 2001
 ! by: 酷安@大萌主
 ! Host
+
 ||vfq1.xmsrd.com^
 ||wknfr6791.zdhm.cn^
 ||connect.kjuwxmi.xyz^
@@ -1689,6 +1690,8 @@ www.duodada.com/Tpl/default/system.js
 m.90mh.com/mip/qdbao77.js
 jiexi.071811.cc/js/cpa.js
 m.sodu2020.com/js/ppc.js
+mini.yyrtv.com/static/js/statistics/user_ad.js
+mini.yyrtv.com/static/js/miniyyrtv-config.js
 ! CSS
 myqqjd.com##.adsbygoogle
 m.baidu.com#@#div[class*="ads"]
@@ -1736,6 +1739,7 @@ pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 smartapps.cn##swan-nest-banner-ad.ad-expose
 smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
+mini.yyrtv.com##.right-gg
 www.58wk.com##[style='display: block;']
 www.58wk.com##qhd
 www.58wk.com##[src*="640200.gif"]
