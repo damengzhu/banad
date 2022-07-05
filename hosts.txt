@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1532
-#Update Time: 2022-07-03 20:28:21（北京时间） 
+#Total Count:1535
+#Update Time: 2022-07-05 19:16:15（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -1230,10 +1230,12 @@
 0.0.0.0 vsw2.21cnbm.com
 0.0.0.0 vwhi.gou.sogou.com
 0.0.0.0 vxs.mibaoge.com
+0.0.0.0 w01.fhfgg.com
 0.0.0.0 wan.lm995.com
 0.0.0.0 wanm.lm335.com
 0.0.0.0 wap.bntxt.com
 0.0.0.0 wap.embnvut.com
+0.0.0.0 wap.mbveryu.top
 0.0.0.0 wap2.laogu.wang
 0.0.0.0 waptripareportlog.dfxwdc.com
 0.0.0.0 wapunionreportlog.dfxwdc.com
@@ -1249,6 +1251,7 @@
 0.0.0.0 wknfr6791.zdhm.cn
 0.0.0.0 wn68din.cn
 0.0.0.0 wo1990.com
+0.0.0.0 wo8iq1z.dxzky.love
 0.0.0.0 wof.arkn81.com
 0.0.0.0 wof.betylife.com
 0.0.0.0 wof.hnltcw.com
