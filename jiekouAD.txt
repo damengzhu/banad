@@ -1565,6 +1565,8 @@ lewenma.com/js/read.js
 jialingmm.net/dm/tj.js
 hnt.58jingxuan.top/115
 xmh/200/200-*.gif
+zhhbqg.com/xxgg/*.js
+zhhbqg.com/ee/*.js
 :12443/*/*-*-*.$script,third-party
 bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 hnt.58jingxuan.top/dhbioperhbvoprwm
