@@ -5,6 +5,7 @@
 ! Total Count: 2021
 ! by: 酷安@大萌主
 ! Host
+||mg.xhkvff.cn^
 ||pm.poqwua.cn^
 ||mc.hpg786n.cn^
 ||mg.xhkvff.cn^
@@ -1828,6 +1829,7 @@ m.dmh8.com##[id^="test"]
 ##[href^='https://x7463.com:']
 ##[href^='https://w5979.com:']
 ##oxk
+##[href^='https://mcc.rhwg4js.cn/']
 ##[href='https://xkk5.com/sqy.png']
 ##[onclick="window.open('http://682kg.com/')"]
 ###ppphref[rel='nofollow']
