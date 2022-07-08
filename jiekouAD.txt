@@ -852,6 +852,10 @@
 ||pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||toblog.ctobsnssdk.com^
+||ctobsnssdk.com^
+||pangolin.snssdk.com^
+||pangolin-sdk-toutiao.com^
+||pangolin-sdk-toutiao-b.com^
 ||so.clzgd.com^
 ||fc.gaizong.cn^
 ||xg.monsteredward.com^
@@ -951,7 +955,6 @@
 ||j.wesat.cn^
 ||www.kowqd7.top^
 ||et.dexuanyu.top^
-||local.adguard.org^
 ||eo.tchkcc.cn^
 ||data.zhongquanjy.com^
 ||r.qq-hls.xyz^
