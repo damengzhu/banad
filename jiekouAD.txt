@@ -5,6 +5,11 @@
 ! Total Count: 2026
 ! by: 酷安@大萌主
 ! Host
+||mdt.qq.com^
+||toggle.qq.com^
+||ctobsnssdk.com^
+||beacon.qq.com^
+||umeng.com^
 ||mg.xhkvff.cn^
 ||pm.poqwua.cn^
 ||mc.hpg786n.cn^
