@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2022-07-14 08:33:22（北京时间） 
+! Update Time: 2022-07-14 08:33:22（北京时间）
 ! Total Count: 2040
 ! by: 酷安@大萌主
 ! Host
@@ -21,7 +21,6 @@ i||o.wenjinsai.top^
 ||mg.xhkvff.cn^
 ||pm.poqwua.cn^
 ||mc.hpg786n.cn^
-||mg.xhkvff.cn^
 ||wap.mbveryu.top^
 ||wo8iq1z.dxzky.love^
 ||w01.fhfgg.com^
@@ -58,19 +57,13 @@ i||o.wenjinsai.top^
 ||lnm.guozhongwang.cn^
 ||hmt.zygkzytb.cn^
 ||hrt.yukariyakumo.cn^
-||kmt.cslpf.cn^
-||nvr.jiangjiu.org.cn^
 ||mbt.deeterno.cn^
-||nvr.jiangjiu.org.cn^
 ||lop.lamimi.cn^
 ||fg.qdzilh.cn^
 ||fc.hxwxfc.cn^
-||hrt.yukariyakumo.cn^
 ||q.e49.xyz^
-||hmt.zygkzytb.cn^
 ||j.afk3rs.xyz^
 ||j.b0rbgroup.xyz^
-||mbt.deeterno.cn^
 ||marjorienice.com^
 ||s.eybstar.com^
 ||admhbl.xyz^
@@ -83,7 +76,6 @@ i||o.wenjinsai.top^
 ||fv.nftjjw.com^
 ||vb.yubingyuan.top^
 ||mbt.hongmao39.top^
-||lnm.guozhongwang.cn^
 ||prt.uwnvcxb.cn^
 ||ahm.jiankang123.net^
 ||url.3400.org^
@@ -95,7 +87,6 @@ i||o.wenjinsai.top^
 ||cdn.smilk.cc^
 ||cdn.vue-js.cyou^
 ||brt.studylabs.cn^
-||kmt.cslpf.cn^
 ||mbr.baiyishaonian.cn^
 ||js.btgoo.cc^
 ||cdn.xianchengyou.com^
@@ -154,7 +145,6 @@ i||o.wenjinsai.top^
 ||lsdkjfdk.jxgd1688.com^
 ||dgb.hnbhrt.xyz^
 ||dgxlm.xyz^
-||yzc35326.top^
 ||ssl.yiniyiwo.org^
 ||dg.miludata.com^
 ||dc.yuntuxianzhi.com^
@@ -299,7 +289,6 @@ i||o.wenjinsai.top^
 ||pn.zxsnllo.cn^
 ||kme.dncvj.cn^
 ||kmpl.rnqxp.cn^
-||kmt.cslpf.cn^
 ||xc.afablca.cn^
 ||xg.s4zqj3m.cn^
 ||hkep.fqxkj.cn^
@@ -865,7 +854,6 @@ i||o.wenjinsai.top^
 ||pglstatp-toutiao.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||toblog.ctobsnssdk.com^
-||ctobsnssdk.com^
 ||pangolin.snssdk.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
@@ -1185,7 +1173,6 @@ i||o.wenjinsai.top^
 ||tj.tianwenhu.com^
 ||chanel.wohewodejxz.top^
 ||a.exosrv.com^
-||poweredby.jads.co^
 ||bngpt.com^
 ||www.abovede6.com^
 ||www.mitao17.com^
@@ -1560,6 +1547,8 @@ i||o.wenjinsai.top^
 ||www.aoyou4.top^
 ||www.aoyou5.top^
 ||qurl.f.360.cn^
+||err.ifengcloud.ifeng.com^
+||ztyumn.ifeng.com^
 ! URL
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
@@ -1876,7 +1865,6 @@ m.dmh8.com##[id^="test"]
 ##[href="/ad/007.html"]
 ##A[href='/hth.html']
 ##img#hth[onclick^="window.open"]
-##A[href='/hth.html']
 ##[onclick*='https://i.opiwb.com:']
 ##[href='https://click.aliyun.com/m/1000332699/']
 ##[href^='http://www.blmh77.com/']
