@@ -5,6 +5,7 @@
 ! Total Count: 2033
 ! by: 酷安@大萌主
 ! Host
+||kmu.gwmrb.cn^
 ||stats.wp.com^
 ||sobakenchmaphk.com^
 ||galopelikeantelope.com^
