@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1550
-! Update Time:2022-07-18 19:43:36（北京时间） 
+! Total Count:1552
+! Update Time:2022-07-19 12:26:59（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -1013,6 +1013,7 @@
 ||px.yangzheqing.cn^
 ||q.baminw.com.cn^
 ||q.e49.xyz^
+||q.stricaik.com^
 ||q8.ttly888.com^
 ||qaq.lm665.com^
 ||qaxkwxpf.cn^
@@ -1384,6 +1385,7 @@
 ||www.repyua.com^
 ||www.s184.com^
 ||www.seainan333.com^
+||www.seinse27.com^
 ||www.serversad.com^
 ||www.sioccu.com^
 ||www.soviewo.com^
