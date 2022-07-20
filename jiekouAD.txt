@@ -5,6 +5,10 @@
 ! Total Count: 2038
 ! by: 酷安@大萌主
 ! Host
+||abb.gdls114.com^
+||wap.gxzhshop.com^
+||sky.urlkwqi.cn^
+||ccs.holor0701.cn^
 ||q.stricaik.com^
 ||www.seinse27.com^
 ||www.xpdyqax.cn^
@@ -1825,6 +1829,8 @@ baidu.com##.ec-ad
 ##[href^='https://m.jgg18.org/']
 ##[href^='https://xcc.nvnxxrk.cn']
 ##[poster^='https://i.opiwb.com:']
+##[href="http://www.28cpw.com"]
+##[href^='https://ccs.holor0701.cn/']
 ##.ad_img
 ##[onclick="window.open('/statics/js/hth1111.html')"]
 ##.swiper-wrapper.leo-source-cho
