@@ -1863,7 +1863,7 @@ baidu.com##.ec-ad
 ##[href='http://page.shokuhou.com/']
 ##[href*='taobao.com/'][target='_blank']
 ##[href='https://hongxiu.me']
-##[href='https://record.brave108.com/']
+##[href^='https://record.brave108.com/']
 ##[href^='https://gougew.lanzoub.com/']
 ##[target='_blank'][href='https://u.jd.com/J7NwrL ']
 ##[href^='https://7segu.taobao.com/'],[href='http://m.shokuhou.com/download/']
