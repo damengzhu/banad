@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1559
-! Update Time:2022-07-22 11:06:03（北京时间） 
+! Total Count:1565
+! Update Time:2022-07-22 21:14:36（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -109,6 +109,7 @@
 ||activity.hnhnmg.com^
 ||activity.tuigorilla.com^
 ||ad.kshuiz.top^
+||ad.mazc.org^
 ||ad.wamxb.info^
 ||ada.baidu.com^
 ||adayvquq.cn^
@@ -546,6 +547,7 @@
 ||hy.luassane.cn^
 ||hytzp.cn^
 ||hzdaye.m.zwdu.com^
+||i.6v6.work^
 ||i.cidianwang.com^
 ||i04.ipc08dt.com^
 ||i7pnx0t.cn^
@@ -731,6 +733,7 @@
 ||lanmeiyu.work^
 ||lblu7qldju7.elegant-creator.com^
 ||lccfjszp.cn^
+||lg.mbxsku.cn^
 ||lgjygg.com^
 ||lianmeng.xgxhy.com^
 ||lie.vgijoh.com^
@@ -984,6 +987,7 @@
 ||pm.sbdebcz.cn^
 ||pn.birjkhm.cn^
 ||pn.mdkjefq.cn^
+||pn.poqwua.cn^
 ||pn.qijpaih.cn^
 ||pn.sbdebcz.cn^
 ||pn.zxsnllo.cn^
@@ -1425,6 +1429,7 @@
 ||www.yueyuego.com^
 ||www.yuyue008.cn^
 ||www.ywquyq.com^
+||www.zbinview.com^
 ||www.zhangjiaqi.top^
 ||www.zhaohainan.cn^
 ||wx.uc.downcdn.top^
@@ -1435,6 +1440,7 @@
 ||x2.52aoteman.com^
 ||xc.afablca.cn^
 ||xc.ejboayh.cn^
+||xc.f8ejqxp.cn^
 ||xc.hubeijieshikj.cn^
 ||xc.ksqfwxu.cn^
 ||xc.muhnbc.cn^

@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1559
-#Update Time: 2022-07-22 11:06:03（北京时间） 
+#Total Count:1565
+#Update Time: 2022-07-22 21:14:36（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -110,6 +110,7 @@
 0.0.0.0 activity.hnhnmg.com
 0.0.0.0 activity.tuigorilla.com
 0.0.0.0 ad.kshuiz.top
+0.0.0.0 ad.mazc.org
 0.0.0.0 ad.wamxb.info
 0.0.0.0 ada.baidu.com
 0.0.0.0 adayvquq.cn
@@ -547,6 +548,7 @@
 0.0.0.0 hy.luassane.cn
 0.0.0.0 hytzp.cn
 0.0.0.0 hzdaye.m.zwdu.com
+0.0.0.0 i.6v6.work
 0.0.0.0 i.cidianwang.com
 0.0.0.0 i04.ipc08dt.com
 0.0.0.0 i7pnx0t.cn
@@ -732,6 +734,7 @@
 0.0.0.0 lanmeiyu.work
 0.0.0.0 lblu7qldju7.elegant-creator.com
 0.0.0.0 lccfjszp.cn
+0.0.0.0 lg.mbxsku.cn
 0.0.0.0 lgjygg.com
 0.0.0.0 lianmeng.xgxhy.com
 0.0.0.0 lie.vgijoh.com
@@ -985,6 +988,7 @@
 0.0.0.0 pm.sbdebcz.cn
 0.0.0.0 pn.birjkhm.cn
 0.0.0.0 pn.mdkjefq.cn
+0.0.0.0 pn.poqwua.cn
 0.0.0.0 pn.qijpaih.cn
 0.0.0.0 pn.sbdebcz.cn
 0.0.0.0 pn.zxsnllo.cn
@@ -1426,6 +1430,7 @@
 0.0.0.0 www.yueyuego.com
 0.0.0.0 www.yuyue008.cn
 0.0.0.0 www.ywquyq.com
+0.0.0.0 www.zbinview.com
 0.0.0.0 www.zhangjiaqi.top
 0.0.0.0 www.zhaohainan.cn
 0.0.0.0 wx.uc.downcdn.top
@@ -1436,6 +1441,7 @@
 0.0.0.0 x2.52aoteman.com
 0.0.0.0 xc.afablca.cn
 0.0.0.0 xc.ejboayh.cn
+0.0.0.0 xc.f8ejqxp.cn
 0.0.0.0 xc.hubeijieshikj.cn
 0.0.0.0 xc.ksqfwxu.cn
 0.0.0.0 xc.muhnbc.cn
