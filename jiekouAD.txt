@@ -5,6 +5,7 @@
 ! Total Count: 2048
 ! by: 酷安@大萌主
 ! Host
+||csygxdym.com^
 ||udiab1.jianshu.com^
 ||abb.gdls114.com^
 ||wap.gxzhshop.com^
@@ -1570,6 +1571,7 @@
 *.gif$domain=m.imomoe.live
 n5m5.com/static/js/playcon.js
 /js/ads
+/tongji.js
 anluyg.net/static/js/channel*.js
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||www.google-analytics.com^$domain=myqqjd.com
