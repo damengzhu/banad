@@ -1633,7 +1633,6 @@ chen-xing/figure_bed*
 ||163.com/wap/special/article_cooper_piapia/
 567*.xyz
 qchannel03.cn$third-party
-hm.baidu.com$third-party
 templates_pc/default/scripts/chapter_bottom.js
 m.yhdm.so/bar/yfgg.js
 www.zxzj.me/slade2.js
