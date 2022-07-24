@@ -5,6 +5,7 @@
 ! Total Count: 2061
 ! by: 酷安@大萌主
 ! Host
+||rkm.wlhcb.cn^
 ||mutk.twjsx.cn^
 ||xc.mcdwfed.cn^
 ||pn.pogwua.cn^
@@ -1673,6 +1674,8 @@ www.cocomanga.com/js/atmp.html
 shimo.im^*/ads?
 shimo.im/kong-api/ads
 yxdm.tv/js/gad.js
+.xyz/*/*/12194286116933？
+.xyz/g21934*.v3h
 91mjw.com/hy-66-90.php
 omlube.com/O/1000970O3001405O1O.js
 5dm.tv/html/5dmm.jpg
