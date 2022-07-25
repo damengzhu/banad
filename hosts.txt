@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1569
-#Update Time: 2022-07-24 14:17:52（北京时间） 
+#Total Count:1574
+#Update Time: 2022-07-25 10:29:46（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -38,6 +38,7 @@
 0.0.0.0 3316.dlads.cn
 0.0.0.0 33221.qqq123987.site
 0.0.0.0 33789.qqqwww987.site
+0.0.0.0 37b57c.91xzba.com
 0.0.0.0 3d.sybnzs.cn
 0.0.0.0 3q3l.cn
 0.0.0.0 3xy1.dvv9dkv.site
@@ -81,6 +82,7 @@
 0.0.0.0 91p20.space
 0.0.0.0 9282821monday.hqnpwzu.cn
 0.0.0.0 95520saturday.hqnpwzu.cn
+0.0.0.0 961020.91xzba.com
 0.0.0.0 997.000123456789.site
 0.0.0.0 99999999.club
 0.0.0.0 99e333.nbrlzy.com
@@ -230,6 +232,7 @@
 0.0.0.0 c.nuannuanqi.top
 0.0.0.0 c.v4dwkcv.com
 0.0.0.0 c.wsnew.cn
+0.0.0.0 c55735.91xzba.com
 0.0.0.0 caishuitonghr.com
 0.0.0.0 carstat.bitauto.com
 0.0.0.0 cav.cavuc.com
@@ -387,6 +390,7 @@
 0.0.0.0 dxs.00xvppy.cn
 0.0.0.0 dycwt.cn
 0.0.0.0 dykeep.com
+0.0.0.0 dz.kengi.top
 0.0.0.0 e.n5ta9.site
 0.0.0.0 e.qbj8.com
 0.0.0.0 ed.gumoda.top
@@ -479,6 +483,7 @@
 0.0.0.0 go.sohu.com
 0.0.0.0 goblin.hupu.com
 0.0.0.0 gorgon.youdao.com
+0.0.0.0 gov.oiuqwppcsdf.com
 0.0.0.0 greenxcx.com
 0.0.0.0 gsnlc.cn
 0.0.0.0 gsp0.kj-gov.cn

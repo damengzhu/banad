@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1569
-! Update Time:2022-07-24 14:17:52（北京时间） 
+! Total Count:1574
+! Update Time:2022-07-25 10:29:46（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -37,6 +37,7 @@
 ||3316.dlads.cn^
 ||33221.qqq123987.site^
 ||33789.qqqwww987.site^
+||37b57c.91xzba.com^
 ||3d.sybnzs.cn^
 ||3q3l.cn^
 ||3xy1.dvv9dkv.site^
@@ -80,6 +81,7 @@
 ||91p20.space^
 ||9282821monday.hqnpwzu.cn^
 ||95520saturday.hqnpwzu.cn^
+||961020.91xzba.com^
 ||997.000123456789.site^
 ||99999999.club^
 ||99e333.nbrlzy.com^
@@ -229,6 +231,7 @@
 ||c.nuannuanqi.top^
 ||c.v4dwkcv.com^
 ||c.wsnew.cn^
+||c55735.91xzba.com^
 ||caishuitonghr.com^
 ||carstat.bitauto.com^
 ||cav.cavuc.com^
@@ -386,6 +389,7 @@
 ||dxs.00xvppy.cn^
 ||dycwt.cn^
 ||dykeep.com^
+||dz.kengi.top^
 ||e.n5ta9.site^
 ||e.qbj8.com^
 ||ed.gumoda.top^
@@ -478,6 +482,7 @@
 ||go.sohu.com^
 ||goblin.hupu.com^
 ||gorgon.youdao.com^
+||gov.oiuqwppcsdf.com^
 ||greenxcx.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
