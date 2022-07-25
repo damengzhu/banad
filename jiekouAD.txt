@@ -5,6 +5,11 @@
 ! Total Count: 2065
 ! by: 酷安@大萌主
 ! Host
+||961020.91xzba.com^
+||37b57c.91xzba.com^
+||c55735.91xzba.com^
+||dz.kengi.top^
+||gov.oiuqwppcsdf.com^
 ||rkm.wlhcb.cn^
 ||mutk.twjsx.cn^
 ||xc.mcdwfed.cn^
@@ -1688,6 +1693,8 @@ milimili.tv/js/loadjs/jquery10.7.js
 www.yxdm.tv/js/mbootstrap_nei.js
 halihali2.com/js/wap2-jm-100ftop.js
 m.pufei8.com/skin/t6.html
+bkimg.cdn.bcebos.com/pic/4b90f603738da9773912c418c702ef198618367a45fe?x-bce-process=image/format,f_auto
+baikebcs.bdimg.com/*banner*.jpg
 m.milimili.tv/js/loadjs/jquery10.8.js
 pic.dlili.tv/ufile/22222.js
 cpu.baidu.com/api/1022/ddbb7b45/ads/40057304543988676/news
@@ -1900,6 +1907,7 @@ baidu.com##.ec-ad
 ##[href^="https://9996867.com"]
 ##[href="/ad/007.html"]
 ##A[href='/hth.html']
+##[alt="要恰饭的嘛"]
 ##img#hth[onclick^="window.open"]
 ##[onclick*='https://i.opiwb.com:']
 ##[href='https://click.aliyun.com/m/1000332699/']
