@@ -5,11 +5,9 @@
 ! Total Count: 2073
 ! by: 酷安@大萌主
 ! Host
-||961020.91xzba.com^
-||37b57c.91xzba.com^
-||c55735.91xzba.com^
-||dz.kengi.top^
-||gov.oiuqwppcsdf.com^
+||91xzba.com^
+||kengi.top^
+||oiuqwppcsdf.com^
 ||rkm.wlhcb.cn^
 ||mutk.twjsx.cn^
 ||xc.mcdwfed.cn^
