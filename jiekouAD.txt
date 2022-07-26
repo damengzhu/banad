@@ -1751,6 +1751,7 @@ mini.yyrtv.com/static/js/miniyyrtv-config.js
 myqqjd.com##.adsbygoogle
 m.baidu.com#@#div[class*="ads"]
 www.baidu.com#@#div[class*="ads"]
+baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 cupfox.app#@#.adsbygoogle
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
