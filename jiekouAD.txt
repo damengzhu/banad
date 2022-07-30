@@ -1,10 +1,15 @@
 [Adblock Plus 2.0]
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2022-07-29 21:27:44（北京时间） 
+! Update Time: 2022-07-29 21:27:44（北京时间）
 ! Total Count: 2076
 ! by: 酷安@大萌主
 ! Host
+||pn.pzkrgcp.cn^
+||xc.qzpmx.cn^
+||puui.qpic.cn^
+||xg.unypud.cn^
+||collect-v6.51.la^
 ||enennsa.gushiwen.cn^
 ||h5.xm360.vip^
 ||1224.zg-babyroo.com^
@@ -68,7 +73,6 @@
 ||j.k31bpzf.xyz^
 ||gsp0.kj-gov.cn^
 ||dg.yaomuzhubao.com^
-||xg.unypud.cn^
 ||xc.qaxkwxpf.cn^
 ||wap.embnvut.com^
 ||nvr.jiangjiu.org.cn^
@@ -1169,7 +1173,6 @@
 ||www.bibilm.com^
 ||www.ppslsa.com^
 ||dk.zeronethree.xyz^
-||collect-v6.51.la^
 ||v.greenere.cn^
 ||dat8.cc^
 ||ktdlsb.com^
