@@ -5,6 +5,10 @@
 ! Total Count: 2082
 ! by: 酷安@大萌主
 ! Host
+||sb6k.top^
+||xg.jiezoiq.cn^
+||xc.idawziv.cn^
+||xcc.rpkcqtf.cn^
 ||pzkrgcp.cn^
 ||kwdgudw.cn^
 ||eiykmtb.cn^
@@ -2046,6 +2050,7 @@ baidu.com##.ec-ad
 ##.banner[align='center']
 ###coupletBox
 ##.advertise
+##[href^='https://xcc.rpkcqtf.cn/']
 ##a.gggg[href^="https"]
 ##[href='https://cai35b9.com/']
 ##[href^='https://0414483.com/']
