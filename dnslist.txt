@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1594
-! Update Time:2022-08-05 12:52:00（北京时间） 
+! Total Count:1604
+! Update Time:2022-08-05 13:11:16（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -20,6 +20,7 @@
 ||177.lyszsz.cn^
 ||18dui.com^
 ||1a.sybnzs.cn^
+||1dfsdfg.com^
 ||1w73a5d.cn^
 ||2.ytelc.com^
 ||2.yunsxk.xyz^
@@ -100,7 +101,6 @@
 ||a89f23kdjl.sxguowei.com^
 ||aac.kegood.com^
 ||abb.csyys0731.com^
-||abb.gdls114.com^
 ||abb.lxiaoxin.com^
 ||abb.ycdywl.com^
 ||abc.kfyg.xyz^
@@ -154,7 +154,6 @@
 ||ap.sunriseoutdoor.cn^
 ||ap.xiaomifood.cn^
 ||apfobmfr.cn^
-||api.1dfsdfg.com^
 ||api.7017k.com^
 ||api.bwdhuanbao.com^
 ||api.callget.cn^
@@ -347,6 +346,7 @@
 ||device.fishmobi.com^
 ||dexun.lzjzyjh.com^
 ||df.szhszxfw.cn^
+||dfsvhv88.com^
 ||dfxwdc.com^
 ||dg.miludata.com^
 ||dg.sawadeca.com^
@@ -425,6 +425,7 @@
 ||f.qwer220.cn^
 ||f4.uaevivi.top^
 ||f4db.kanwby.com^
+||f8ejqxp.cn^
 ||famorlymal.com^
 ||fb.cbgyhe.cn^
 ||fb50h1.sydz.tw^
@@ -454,6 +455,7 @@
 ||fnv2v.caimlkh.com^
 ||fo.tiqu.io^
 ||fo.zhangbaochang.top^
+||fsgsfaf6.com^
 ||fticbox.qifake.com^
 ||fv.nftjjw.com^
 ||fxxrllt.com^
@@ -466,6 +468,7 @@
 ||gardens.shjha.top^
 ||gb.nbgoodever.cn^
 ||gbsp002.com^
+||gdls114.com^
 ||gdsoq.com^
 ||gdt.qq.com^
 ||gdzshoes.com^
@@ -697,6 +700,7 @@
 ||kelvy.iomsew.com^
 ||ken.kenxq.com^
 ||kengi.top^
+||kfejnjs.cn^
 ||kh.whyfate.cn^
 ||khj.dtsxn.cn^
 ||khn.txscn.cn^
@@ -708,9 +712,7 @@
 ||kl.yditweb.cn^
 ||km.senxiaopang.top^
 ||kmb.gaoyuhu.top^
-||kmbr.mkqdj.cn^
 ||kme.dncvj.cn^
-||kmp.twbymc.cn^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
@@ -747,7 +749,6 @@
 ||lanmeiyu.work^
 ||lblu7qldju7.elegant-creator.com^
 ||lccfjszp.cn^
-||lg.mbxsku.cn^
 ||lgjygg.com^
 ||lianmeng.xgxhy.com^
 ||lie.vgijoh.com^
@@ -786,6 +787,7 @@
 ||lvcha99.cc^
 ||lwz.ffhre.com^
 ||lyra.iscrv.com^
+||lywdoo.cn^
 ||m.56fba.cn^
 ||m.abc88866.com^
 ||m.b.xiangwangdesh.com^
@@ -826,6 +828,7 @@
 ||mbt.deeterno.cn^
 ||mbt.hongmao39.top^
 ||mbt.tangk.top^
+||mbxsku.cn^
 ||mc.a48505.cn^
 ||mc.aefmbeq.cn^
 ||mc.eedudwr.cn^
@@ -872,6 +875,7 @@
 ||mjg0310.com^
 ||mk.zlnmzc.top^
 ||mkn.hlzyb.cn^
+||mkqdj.cn^
 ||mkt.zihuiguochao.top^
 ||mlog.aipai.com^
 ||mm.ficea.cn^
@@ -974,6 +978,7 @@
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
+||paradisemall.net^
 ||parse.fzcjjx.com^
 ||pc.jinrongwang.net^
 ||pc.stgowan.com^
@@ -1004,12 +1009,11 @@
 ||pm.sbdebcz.cn^
 ||pn.birjkhm.cn^
 ||pn.mdkjefq.cn^
-||pn.pogwua.cn^
-||pn.poqwua.cn^
 ||pn.qijpaih.cn^
 ||pn.sbdebcz.cn^
 ||pn.zxsnllo.cn^
 ||poasotha.com^
+||pogwua.cn^
 ||poneer.hnlczgjx.com^
 ||pos.baidu.com^
 ||position.dftoutiao.com^
@@ -1070,6 +1074,7 @@
 ||qybs.mclseww.top^
 ||qyzyd.top^
 ||qzda.cc^
+||qzpmx.cn^
 ||qzqd2.com^
 ||qzxcvb.m.zwdu.com^
 ||r.alimc1.top^
@@ -1078,13 +1083,13 @@
 ||r36ku.site^
 ||rbioclv.cn^
 ||redbaby.hk^
+||rengbali.fun^
 ||reportlog.dftoutiao.com^
 ||restorationbowelsunflower.com^
 ||rf.cnlongshou.com^
 ||rg.nukebomb.cn^
 ||rjgw.theta.sogou.com^
-||rjl.rkzby.cn^
-||rkm.wlhcb.cn^
+||rkzby.cn^
 ||rlogs.youdao.com^
 ||rmoeu.mercury.sogou.com^
 ||rndhaunteran.com^
@@ -1205,6 +1210,7 @@
 ||tf.yujianmeihao179.cn^
 ||tfw.ymima360.com^
 ||tg.loclog.cn^
+||tgfyq.cn^
 ||tgu.tjqwb.cn^
 ||thefatherofsalmon.com^
 ||tj-yijiajing.com^
@@ -1233,6 +1239,7 @@
 ||tsdflsdk.cypcb.net^
 ||ttpp.xsbooktxt.com^
 ||tv.fuentekj.com^
+||twbymc.cn^
 ||tx.sunriseoutdoor.cn^
 ||txscn.cn^
 ||ty.lizehuandian.top^
@@ -1243,6 +1250,7 @@
 ||tylll.paohao.com^
 ||tylll.zgystsd.com^
 ||tz.yuanmengbi.com^
+||tzcfyre.cn^
 ||u.guannin.com^
 ||u.jinhaitun888.xyz^
 ||u.katelin.top^
@@ -1258,6 +1266,7 @@
 ||umeng.com^
 ||unetall.com^
 ||unjs.jingyanben.com^
+||unypud.cn^
 ||up1ep9mauzpsblrhtg.youku6.top^
 ||url.3400.org^
 ||v.2pogg4c.cn^
@@ -1274,6 +1283,7 @@
 ||v6jt.cn^
 ||vb.yubingyuan.top^
 ||vdj1e.skogsborg.net^
+||venator.link^
 ||veyu.idubwz.cn^
 ||vfq1.xmsrd.com^
 ||video.new-eve.com^
@@ -1307,6 +1317,7 @@
 ||where.ud783c02.com^
 ||wk.eccbb.com^
 ||wknfr6791.zdhm.cn^
+||wlhcb.cn^
 ||wn68din.cn^
 ||wo1990.com^
 ||wo8iq1z.dxzky.love^
@@ -1466,7 +1477,6 @@
 ||x2.52aoteman.com^
 ||xc.afablca.cn^
 ||xc.ejboayh.cn^
-||xc.f8ejqxp.cn^
 ||xc.hubeijieshikj.cn^
 ||xc.ksqfwxu.cn^
 ||xc.muhnbc.cn^
@@ -1475,12 +1485,12 @@
 ||xc.nuheoub.cn^
 ||xc.ognujxj.cn^
 ||xc.qaxkwxpf.cn^
-||xc.qzpmx.cn^
 ||xc.shigl.top^
 ||xc.wagzqhq.cn^
 ||xc.yynncbn.cn^
 ||xcc.nbfieef.cn^
 ||xcmz999.com^
+||xcwzq.xyz^
 ||xfgctg.com^
 ||xflsj.com^
 ||xg.adbeuch.cn^
@@ -1496,7 +1506,6 @@
 ||xg.s4zqj3m.cn^
 ||xg.sciillr.cn^
 ||xg.svvbrkk.cn^
-||xg.unypud.cn^
 ||xg.wdswgjn.cn^
 ||xg.y0764.cn^
 ||xiarikui08.com^
@@ -1540,6 +1549,7 @@
 ||yh.jialingmm.net^
 ||yh.zg-zxzx.net^
 ||yhbsk.cn^
+||yhz18.com^
 ||ykcjxvg.cn^
 ||ykl.qnipkk.xyz^
 ||ylznwl.cn^
