@@ -2,8 +2,8 @@
 ! Title: 瞎弄的广告过滤规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1603
-! Update Time:2022-08-05 13:34:01（北京时间） 
+! Total Count:1612
+! Update Time:2022-08-05 13:47:19（北京时间） 
 ||036e.cn^
 ||0m483y7.cn^
 ||1.98765432100.online^
@@ -28,6 +28,7 @@
 ||2296.chushoushijian.cn^
 ||23.dlads.cn^
 ||2431.vainews.cn^
+||24klm.cn^
 ||26gg.bnq86.com^
 ||2725.dlads.cn^
 ||2785.chushoushijian.cn^
@@ -282,11 +283,13 @@
 ||click.tianyaui.com^
 ||click.ynxjf.com^
 ||clldirectasianew.club^
+||cncnails.net^
 ||cns.wxdal.cn^
 ||cnzz.com^
 ||cnzz.hhttm.top^
 ||coll.v00yvd.xyz^
 ||collect-v6.51.la^
+||collegepre.net^
 ||connect.kjuwxmi.xyz^
 ||count.candou.com^
 ||count.enet.com.cn^
@@ -422,6 +425,7 @@
 ||etdxjycpaeaawdyu.chh2.cc^
 ||evtubescms.phncdn.com^
 ||excsyrv.cn^
+||ezu6rd5.houge.in^
 ||f.qwer220.cn^
 ||f4.uaevivi.top^
 ||f4db.kanwby.com^
@@ -487,10 +491,13 @@
 ||gnqxd.cn^
 ||go.sohu.com^
 ||goblin.hupu.com^
+||goeyxwhp.site^
 ||gorgon.youdao.com^
 ||greenxcx.com^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
+||gsxbxvd.cn^
+||gtcqbnu.cn^
 ||gxbnp.cn^
 ||gxe.husky.sogou.com^
 ||gxzxiww.com^
@@ -753,6 +760,7 @@
 ||lianmeng.xgxhy.com^
 ||lie.vgijoh.com^
 ||lijunkai.com^
+||lingke05.top^
 ||link.21373.com^
 ||link.jzzxapp.cn^
 ||lixianghaodian.com^
@@ -1264,6 +1272,7 @@
 ||uk529u0.cn^
 ||um.afcav.com^
 ||umeng.com^
+||umkezbh.cn^
 ||unetall.com^
 ||unjs.jingyanben.com^
 ||unypud.cn^
@@ -1364,6 +1373,7 @@
 ||www.cpro88.vip^
 ||www.dgtauto.com^
 ||www.diyuxa.com^
+||www.doca182.com^
 ||www.ewtyewj.com^
 ||www.google-analytics.com^
 ||www.googletagmanager.com^

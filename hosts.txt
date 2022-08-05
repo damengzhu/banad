@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1603
-#Update Time: 2022-08-05 13:34:01（北京时间） 
+#Total Count:1612
+#Update Time: 2022-08-05 13:47:19（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -29,6 +29,7 @@
 0.0.0.0 2296.chushoushijian.cn
 0.0.0.0 23.dlads.cn
 0.0.0.0 2431.vainews.cn
+0.0.0.0 24klm.cn
 0.0.0.0 26gg.bnq86.com
 0.0.0.0 2725.dlads.cn
 0.0.0.0 2785.chushoushijian.cn
@@ -283,11 +284,13 @@
 0.0.0.0 click.tianyaui.com
 0.0.0.0 click.ynxjf.com
 0.0.0.0 clldirectasianew.club
+0.0.0.0 cncnails.net
 0.0.0.0 cns.wxdal.cn
 0.0.0.0 cnzz.com
 0.0.0.0 cnzz.hhttm.top
 0.0.0.0 coll.v00yvd.xyz
 0.0.0.0 collect-v6.51.la
+0.0.0.0 collegepre.net
 0.0.0.0 connect.kjuwxmi.xyz
 0.0.0.0 count.candou.com
 0.0.0.0 count.enet.com.cn
@@ -423,6 +426,7 @@
 0.0.0.0 etdxjycpaeaawdyu.chh2.cc
 0.0.0.0 evtubescms.phncdn.com
 0.0.0.0 excsyrv.cn
+0.0.0.0 ezu6rd5.houge.in
 0.0.0.0 f.qwer220.cn
 0.0.0.0 f4.uaevivi.top
 0.0.0.0 f4db.kanwby.com
@@ -488,10 +492,13 @@
 0.0.0.0 gnqxd.cn
 0.0.0.0 go.sohu.com
 0.0.0.0 goblin.hupu.com
+0.0.0.0 goeyxwhp.site
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 greenxcx.com
 0.0.0.0 gsnlc.cn
 0.0.0.0 gsp0.kj-gov.cn
+0.0.0.0 gsxbxvd.cn
+0.0.0.0 gtcqbnu.cn
 0.0.0.0 gxbnp.cn
 0.0.0.0 gxe.husky.sogou.com
 0.0.0.0 gxzxiww.com
@@ -754,6 +761,7 @@
 0.0.0.0 lianmeng.xgxhy.com
 0.0.0.0 lie.vgijoh.com
 0.0.0.0 lijunkai.com
+0.0.0.0 lingke05.top
 0.0.0.0 link.21373.com
 0.0.0.0 link.jzzxapp.cn
 0.0.0.0 lixianghaodian.com
@@ -1265,6 +1273,7 @@
 0.0.0.0 uk529u0.cn
 0.0.0.0 um.afcav.com
 0.0.0.0 umeng.com
+0.0.0.0 umkezbh.cn
 0.0.0.0 unetall.com
 0.0.0.0 unjs.jingyanben.com
 0.0.0.0 unypud.cn
@@ -1365,6 +1374,7 @@
 0.0.0.0 www.cpro88.vip
 0.0.0.0 www.dgtauto.com
 0.0.0.0 www.diyuxa.com
+0.0.0.0 www.doca182.com
 0.0.0.0 www.ewtyewj.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www.googletagmanager.com
