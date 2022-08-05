@@ -1569,7 +1569,6 @@
 ||pagead2.googlesyndication.com^
 ||push.bearad.com^
 ||s5.cnzz.com^
-||www.uulucky.com^
 ||www.3aym.cn^
 ||ruanjiancms.com^
 ||www.yuyue008.cn^
