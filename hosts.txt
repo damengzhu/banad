@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1589
-#Update Time: 2022-08-04 16:33:48（北京时间） 
+#Total Count:1593
+#Update Time: 2022-08-05 09:42:45（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -304,6 +304,7 @@
 0.0.0.0 cpro.zol.com.cn
 0.0.0.0 cpt.9136.com
 0.0.0.0 cpucdn.baidu.com
+0.0.0.0 cqygmb.com
 0.0.0.0 criteo.net
 0.0.0.0 cs.ltht.tech
 0.0.0.0 cslpf.cn
@@ -561,6 +562,7 @@
 0.0.0.0 i7pnx0t.cn
 0.0.0.0 ia.51.la
 0.0.0.0 ic.aliyune.xyz
+0.0.0.0 idawziv.cn
 0.0.0.0 idubwz.cn
 0.0.0.0 ifdvlh.cn
 0.0.0.0 ifeng3.yylady.cn
@@ -627,6 +629,7 @@
 0.0.0.0 jfsdiwmnbsk009.top
 0.0.0.0 jiaju.ssjy.shop
 0.0.0.0 jianxinshanghai.com
+0.0.0.0 jiezoiq.cn
 0.0.0.0 jinbao888.com
 0.0.0.0 jiuyuntian3.cn
 0.0.0.0 jjjak.com
@@ -841,6 +844,7 @@
 0.0.0.0 mc.tohpeu.cn
 0.0.0.0 mc.wbesryx.cn
 0.0.0.0 mc.xheqbc.cn
+0.0.0.0 mcdwfed.cn
 0.0.0.0 mdt.qq.com
 0.0.0.0 meethanshi.com
 0.0.0.0 mengbli.com
@@ -1073,6 +1077,8 @@
 0.0.0.0 r.qq-hls.xyz
 0.0.0.0 r.zaitouwang.com
 0.0.0.0 r36ku.site
+0.0.0.0 rbioclv.cn
+0.0.0.0 redbaby.hk
 0.0.0.0 reportlog.dftoutiao.com
 0.0.0.0 restorationbowelsunflower.com
 0.0.0.0 rf.cnlongshou.com
@@ -1084,6 +1090,7 @@
 0.0.0.0 rmoeu.mercury.sogou.com
 0.0.0.0 rndhaunteran.com
 0.0.0.0 ror12.cc
+0.0.0.0 rpkcqtf.cn
 0.0.0.0 rte.fuoo1.top
 0.0.0.0 ruanjiancms.com
 0.0.0.0 run.fintechpi.com
@@ -1461,9 +1468,7 @@
 0.0.0.0 xc.ejboayh.cn
 0.0.0.0 xc.f8ejqxp.cn
 0.0.0.0 xc.hubeijieshikj.cn
-0.0.0.0 xc.idawziv.cn
 0.0.0.0 xc.ksqfwxu.cn
-0.0.0.0 xc.mcdwfed.cn
 0.0.0.0 xc.muhnbc.cn
 0.0.0.0 xc.nhpwwd.cn
 0.0.0.0 xc.nimaxrv.cn
@@ -1475,15 +1480,14 @@
 0.0.0.0 xc.wagzqhq.cn
 0.0.0.0 xc.yynncbn.cn
 0.0.0.0 xcc.nbfieef.cn
-0.0.0.0 xcc.rpkcqtf.cn
 0.0.0.0 xcmz999.com
+0.0.0.0 xfgctg.com
 0.0.0.0 xflsj.com
 0.0.0.0 xg.adbeuch.cn
 0.0.0.0 xg.binkens.cn
 0.0.0.0 xg.eqlidke.cn
 0.0.0.0 xg.hbzhenquan.cn
 0.0.0.0 xg.huataisangao.cn
-0.0.0.0 xg.jiezoiq.cn
 0.0.0.0 xg.jisukuaisong.cn
 0.0.0.0 xg.kmgfjc.cn
 0.0.0.0 xg.lgygy.cn
