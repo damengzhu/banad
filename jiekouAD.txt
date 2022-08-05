@@ -1,10 +1,21 @@
 [Adblock Plus 2.0]
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2022-08-05 13:34:01（北京时间） 
+! Update Time: 2022-08-05 13:34:01（北京时间）
 ! Total Count: 2107
 ! by: 酷安@大萌主
 ! Host
+||www.doca182.com^
+||umkezbh.cn^
+||xfgctg.com^
+||collegepre.net^
+||lingke05.top^
+||cncnails.net^
+||ezu6rd5.houge.in^
+||gsxbxvd.cn^
+||gtcqbnu.cn^
+||24klm.cn^
+||goeyxwhp.site^
 ||rengbali.fun^
 ||xcwzq.xyz^
 ||venator.link^
@@ -20,7 +31,6 @@
 ||rbioclv.cn^
 ||redbaby.hk^
 ||cqygmb.com^
-||xfgctg.com^
 ||rkzby.cn^
 ||mkqdj.cn^
 ||twbymc.cn^
@@ -32,7 +42,6 @@
 ||pzkrgcp.cn^
 ||kwdgudw.cn^
 ||eiykmtb.cn^
-||pzkrgcp.cn^
 ||qzpmx.cn^
 ||unypud.cn^
 ||collect-v6.51.la^
@@ -2112,4 +2121,3 @@ baidu.com##.ec-ad
 ##[href^='https://www.hiweha.com/']
 ##[href^='https://5376.exing150.com:']
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
-
