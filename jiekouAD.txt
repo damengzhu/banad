@@ -5,14 +5,18 @@
 ! Total Count: 2094
 ! by: 酷安@大萌主
 ! Host
+||rbioclv.cn^
+||redbaby.hk^
+||cqygmb.com^
+||xfgctg.com^
 ||rjl.rkzby.cn^
 ||kmbr.mkqdj.cn^
 ||kmp.twbymc.cn^
 ||api.1dfsdfg.com^
 ||sb6k.top^
-||xg.jiezoiq.cn^
-||xc.idawziv.cn^
-||xcc.rpkcqtf.cn^
+||jiezoiq.cn^
+||idawziv.cn^
+||rpkcqtf.cn^
 ||pzkrgcp.cn^
 ||kwdgudw.cn^
 ||eiykmtb.cn^
@@ -29,7 +33,7 @@
 ||oiuqwppcsdf.com^
 ||rkm.wlhcb.cn^
 ||mutk.twjsx.cn^
-||xc.mcdwfed.cn^
+||mcdwfed.cn^
 ||pn.pogwua.cn^
 ||ad.mazc.org^
 ||pn.poqwua.cn^
@@ -1659,6 +1663,7 @@ www.zxzj.me/slade2.js
 widgets.outbrain.com/outbrain.js
 jx.xbiqu5.com/12345678.js
 .com/adv1/?q=
+1biqug.com/js/ajax.js
 /bar/yfgg.js
 /bar/yfdi.js
 /_xa/ads_
