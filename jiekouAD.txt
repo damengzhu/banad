@@ -1946,6 +1946,7 @@ baidu.com##.ec-ad
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']
 ###downapp1
+##[src^='https://n5893.com'],[src^='https://gezkdx7.com'],[src^='https://n8182.com']
 ##[href='https://ad.ysgc.xyz/zb.html']
 ##[href^="https://9996867.com"]
 ##[href="/ad/007.html"]
