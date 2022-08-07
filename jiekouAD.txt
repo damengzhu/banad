@@ -5,6 +5,7 @@
 ! Total Count: 2122
 ! by: 酷安@大萌主
 ! Host
+||qrjxween.com^
 ||uxbd4id.xyz^
 ||uyflu0x7.xyz^
 ||hcbmg.cn^
@@ -2027,6 +2028,7 @@ baidu.com##.ec-ad
 ##[evhrumjx]
 ##[href^='https://6f2929.com']
 ###t4>a
+##[href^='https://kcc.qrjxween.com/cc/']
 ##[class^=c_c][style^='text-align:']
 ###ad1[url][onclick='window.open(this.url)'][src^='https://bj.bcebos.com/im-cs/'][width='100%']
 ##[onclick="window.open('/statics/js/hth906.html')"]
