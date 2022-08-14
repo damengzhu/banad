@@ -1,8 +1,8 @@
 #Title: 瞎弄的广告过滤规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1621
-#Update Time: 2022-08-13 19:28:13（北京时间） 
+#Total Count:1628
+#Update Time: 2022-08-14 11:06:12（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
@@ -498,6 +498,7 @@
 0.0.0.0 goeyxwhp.site
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 greenxcx.com
+0.0.0.0 gscatk.cn
 0.0.0.0 gsnlc.cn
 0.0.0.0 gsp0.kj-gov.cn
 0.0.0.0 gsxbxvd.cn
@@ -542,6 +543,7 @@
 0.0.0.0 hf.shenfagg.com
 0.0.0.0 hfawdgz.cn
 0.0.0.0 hfctx.cn
+0.0.0.0 hft.ofooe.cn
 0.0.0.0 hh0212.cc
 0.0.0.0 hhff.xsbooktxt.com
 0.0.0.0 hikin.online
@@ -559,6 +561,7 @@
 0.0.0.0 hnd.pfdth.cn
 0.0.0.0 hnnuange.com
 0.0.0.0 hnr.sbldw.cn
+0.0.0.0 holor0804.cn
 0.0.0.0 holor857.cn
 0.0.0.0 hot.tuiquanqiu.cn
 0.0.0.0 hqf.aldkfsd.cn
@@ -1063,6 +1066,7 @@
 0.0.0.0 qaxkwxpf.cn
 0.0.0.0 qc.whmn.shop
 0.0.0.0 qc.wqshui.com
+0.0.0.0 qczcxe.cn
 0.0.0.0 qdff.zxwstong.com
 0.0.0.0 qdp.qidian.com
 0.0.0.0 qdt.lxksalary.com
@@ -1075,6 +1079,7 @@
 0.0.0.0 qin.1111.fx-blog.top
 0.0.0.0 qiyeshangpu1.qiyeshangpu.net
 0.0.0.0 qj.ituanhui.com
+0.0.0.0 qjxys.cn
 0.0.0.0 qly7hr.sydz.tw
 0.0.0.0 qpb.sohu.com
 0.0.0.0 qq.000123456789.online
@@ -1116,6 +1121,7 @@
 0.0.0.0 run5.b1byou.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 rv.shijixinrui.cn
+0.0.0.0 rvbztg.cn
 0.0.0.0 s.btime.com
 0.0.0.0 s.cchvc.net
 0.0.0.0 s.eybstar.com
@@ -1443,6 +1449,7 @@
 0.0.0.0 www.ppslsa.com
 0.0.0.0 www.q4ee.top
 0.0.0.0 www.qkixi.com
+0.0.0.0 www.qlspx.com
 0.0.0.0 www.qqads.com
 0.0.0.0 www.qsixi.com
 0.0.0.0 www.qwupoq.com
