@@ -5,6 +5,19 @@
 ! Total Count: 2135
 ! by: 酷安@大萌主
 ! Host
+||jquery.wwggnaw.xyz^
+||jquery.wwkh9ku.xyz^
+||xsjh001.xyz^
+||jquery.x8kwcr3l.xyz^
+||jquery.wogukcd.xyz^
+||kbae.qiqqh.cn^
+||xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s^
+||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
+||dke.hgkzl.cn^
+||rinshy17.xyz^
+||cheh9k4t.com^
+||zblz.me^
+||b.1th.app^
 ||www.pcuois.com^
 ||xg.jiezoiq.cn^
 ||rvbztg.cn^
@@ -2129,6 +2142,7 @@ baidu.com##.ec-ad
 ##[onclick^="window.open('http://jx2.dxsdkw.cn"]
 ##[href^='http://mh'][href*='tiklink.cc']
 ##[href^='https://65564535.com']
+##[href^='https://ccs.holor0803.cn']
 ##[onclick='window.open(this.url)']
 ##[onclick="window.open('/statics/js/hth112.html')"]
 ##[href^='https://vip.huijujiavip.com']
