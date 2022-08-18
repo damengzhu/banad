@@ -2079,6 +2079,7 @@ baidu.com##.ec-ad
 ##[href^='https://xcc.ztdzpyf.cn/']
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']
+##[class^="chapter_"] > .baiduCenter
 ##[href^='https://www.44553606.com:']
 ##[href^='https://v44868.com:']
 ##[href^='https://yh.133svip.com/']
