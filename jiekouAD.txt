@@ -1915,6 +1915,8 @@ m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
+sohu.com##[data-spm^='ad-']
+##div.cbd-plate-bill.common-ad
 ##[href='/jump.html']
 ##[href='/ad.html']
 ###topNavad
