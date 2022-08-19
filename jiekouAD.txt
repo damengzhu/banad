@@ -1925,6 +1925,9 @@ sohu.com##[data-spm^='ad-']
 sohu.com##div.cbd-plate-bill.common-ad
 sohu.com##DIV.nice-img-clz
 sohu.com##DIV[id^="ceans_"]
+sohu.com##.float-discuss-up.float-discuss-enter
+sohu.com##.float-discuss-container
+sohu.com##.feedback
 ##[data-url='http://xixi.stylar.hk/']
 ##[href^='https://jincai.sohu.com/']
 ##[href*='sohu.com/hy-op']
