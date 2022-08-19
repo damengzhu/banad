@@ -1916,6 +1916,7 @@ m.silisili.in##DIV[style='height:100px;margin : 10px 0px 50px 0px;']
 baidu.com##div[class$="-ecom-ads"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
 baidu.com##.ec-ad
+sohu.com##A[href='javascript:void(0);']
 sohu.com##DIV#bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com##DIV.middle-insert-ad
 sohu.com##DIV#middleBanner[data-spm='a-mb'][data-spm-stop='init']
