@@ -5,6 +5,12 @@
 ! Total Count: 2177
 ! by: 酷安@大萌主
 ! Host
+||wn80drk.shop^
+||cw9twuas.xyz^
+||cw9twua9.shop^
+||gscatk.cn^
+||kbae.qiqqh.cn^
+||qw2v.taoxiehui.cn^
 ||tvabqt.cn^
 ||8pjqjxmr.com^
 ||flsfzr.cn^
@@ -1883,6 +1889,9 @@ www.58wk.com##rrk
 www.58wk.com##[src="/111/1.gif"]
 www.58wk.com##div#gdggw2
 www.58wk.com##div#bottomJuSha
+dmh8.com##[style^='display: block; z-index: ']
+dmh8.com##[style^='box-sizing: border-box; position: relative']
+dmh8.com##[style^='display: flex']
 www.olevod.com##DIV.B1Lss,.B1Rss
 www.dldxdyfsyy.com##DIV[style='position:relative;']
 nfmovies.com##DIV[class='clearfix']
