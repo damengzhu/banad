@@ -1946,9 +1946,8 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
-dyxs13.com##[src*='/player.gif']
-dyxs13.com##div.close-player_pic
-##[src^='../211109/player.gif']
+##.player_pic_link > [src*='/player.gif']
+##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
 ##[data-url='http://xixi.stylar.hk/']
 ##[href^='https://jincai.sohu.com/']
 ##[href*='sohu.com/hy-op']
