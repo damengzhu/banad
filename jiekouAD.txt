@@ -1662,6 +1662,17 @@
 ||err.ifengcloud.ifeng.com^
 ||ztyumn.ifeng.com^
 ! URL
+@@qhres2.com$domain=baike.so.com
+@@||pagead2.googlesyndication.com^$domain=myqqjd.com
+@@||www.google-analytics.com^$domain=myqqjd.com
+@@||www.googletagmanager.com^$domain=myqqjd.com
+@@||myqqjd.com^
+@@www.cocomanga.com/js/ad_/ad2.js
+@@f*.baidu.com/it/u=*,*&fm=*JPEG
+@@f*.baidu.com/it/u=*,*&fm=*PNG
+@@guokr.com/apis/flowingboard/item/m_article
+@@guokr.com/apis/flowingboard/item/m_home_
+||baidu.com/newspage/api/getmobads?
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
 ||pubfuture.com^$third-party
@@ -1673,16 +1684,6 @@ n5m5.com/static/js/playcon.js
 /js/ads
 /tongji.js
 anluyg.net/static/js/channel*.js
-@@||pagead2.googlesyndication.com^$domain=myqqjd.com
-@@||www.google-analytics.com^$domain=myqqjd.com
-@@||www.googletagmanager.com^$domain=myqqjd.com
-@@||myqqjd.com^
-@@www.cocomanga.com/js/ad_/ad2.js
-@@f*.baidu.com/it/u=*,*&fm=*JPEG
-@@f*.baidu.com/it/u=*,*&fm=*PNG
-@@guokr.com/apis/flowingboard/item/m_article
-@@guokr.com/apis/flowingboard/item/m_home_
-||baidu.com/newspage/api/getmobads?
 google-analytics.com$third-party
 killcovid2021.com/*.mp4
 lewenma.com/js/read.js
