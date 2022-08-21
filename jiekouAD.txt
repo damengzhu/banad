@@ -1944,6 +1944,8 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+dyxs13.com##div.close-player_pic
+##[src^='../211109/player.gif']
 ##[data-url='http://xixi.stylar.hk/']
 ##[href^='https://jincai.sohu.com/']
 ##[href*='sohu.com/hy-op']
