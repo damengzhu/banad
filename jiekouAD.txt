@@ -1879,6 +1879,7 @@ www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"
 so.toutiao.com##section.commonbox.hasfooter
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
+baike.so.com##section#business-flow.business-flow
 smartapps.cn##swan-nest-banner-ad.ad-expose
 smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
 mini.yyrtv.com##.right-gg
