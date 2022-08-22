@@ -1985,6 +1985,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://dcc.sclanlian.com/cc/']
 ##[href^='https://x7463.com:']
 ##[href^='https://w5979.com:']
+##[href^='https://dc.vvsmse72']
 ##oxk
 ##[href^='https://mcc.rhwg4js.cn/']
 ##[href='https://xkk5.com/sqy.png']
