@@ -1676,6 +1676,7 @@
 @@guokr.com/apis/flowingboard/item/m_article
 @@guokr.com/apis/flowingboard/item/m_home_
 ||baidu.com/newspage/api/getmobads?
+jmb.izzcwww*.*
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
 ||pubfuture.com^$third-party
