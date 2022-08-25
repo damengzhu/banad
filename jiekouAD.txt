@@ -5,6 +5,8 @@
 ! Total Count: 2197
 ! by: 酷安@大萌主
 ! Host
+||qdvideo.xyz^
+||exevcl.cn^
 ||7cl.app^
 ||show.worldcrm.cn^
 ||hgjxp.cn^
@@ -1929,6 +1931,7 @@ zhcedu.cn##DIV#yrcma5696
 zhcedu.cn##VIDEO[x5-video-player-fullscreen='false']
 zhcedu.cn##IMG.vd_bt[src*='https://ae01.alicdn.com/kf/']
 8666.tv##DIV.vdgd
+luoqiuzw.com##DIV[id^="a-loading-"]
 m.kkkkwu.cc##DIV.vdgdo
 www.nangua5.com##[id*="_"][class*="_"],[id^="k"],[style*='height: 130px;'],[style*='left: 0px; ']
 mengmiandaxia.com,mengmiandaxia.cn##[id="mmdx-bottom-ad"]
