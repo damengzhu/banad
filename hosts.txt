@@ -1,8 +1,8 @@
-#Title: 瞎弄的广告过滤规则
+#Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
 #Total Count:1664
-#Update Time: 2022-08-26 17:36:50（北京时间） 
+#Update Time: 2022-08-26 22:30:55（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 036e.cn
