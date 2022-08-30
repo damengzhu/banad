@@ -5,6 +5,8 @@
 ! Total Count: 2204
 ! by: 酷安@大萌主
 ! Host
+||zykwnj.cn^
+||cmpxaup.cn^
 ||api.06fgej.com^
 ||yrqwnc.cn^
 ||uvnjlm.cn^
@@ -1880,6 +1882,7 @@ www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 m.sohu.com##[data-v-7a7c15af][href^='https://m.sohu.com/promotion'],[data-v-7a7c15af][data-spm-type='resource'][data-spm-data='4']
 913e.com###footad_913e
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
+4pcc.com##[style^='display: flex; margin: 0px; padding:']
 bing.com##.b_ad
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##[class^='ball-wrapper']
