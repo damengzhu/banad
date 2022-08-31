@@ -5,6 +5,9 @@
 ! Total Count: 2210
 ! by: 酷安@大萌主
 ! Host
+||0272aa.com^
+||hxdwsfg.cn^
+||aymtdcg.cn^
 ||dxwsty.cn^
 ||ecudsc.cn^
 ||mfxyqh.cn^
@@ -2182,6 +2185,7 @@ sohu.com##DIV#recommendSearch
 ##.bottom-pic,.col-pd.mb10
 ##.mi_btcon.ad
 ##.fc_foot
+##[href^='https://fcc.hxaxfcc.cn/']
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
 ##SPAN#qdSZ2
 ##.popup + .shortcuts-mobile-overlay
