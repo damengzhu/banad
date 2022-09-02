@@ -5,6 +5,9 @@
 ! Total Count: 2218
 ! by: 酷安@大萌主
 ! Host
+||hollg8023.745c.cn^
+||23jgiy.com^
+||pageview.kgsz.cn^
 ||f77j6t2b.com^
 ||jf2v.mnpool.cn^
 ||0272aa.com^
@@ -1695,6 +1698,8 @@
 jmb.izzcwww*.*
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
+745c.cn$third-party
+kgsz.cn$third-party
 ||pubfuture.com^$third-party
 ||outbrain.com^$third-party
 .xyz$domain=yinghuacd.com
