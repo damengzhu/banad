@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1678
-! Update Time:2022-09-02 15:56:07（北京时间） 
+! Total Count:1687
+! Update Time:2022-09-06 21:37:41（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0m483y7.cn^
@@ -357,6 +357,7 @@
 ||dc.yuntuxianzhi.com^
 ||dc.zj-yxw.com^
 ||dcsd.cnnywz.cn^
+||ddbuwo.cn^
 ||de3.linyongming.top^
 ||dehua.mengtubo.com^
 ||device.fishmobi.com^
@@ -370,6 +371,7 @@
 ||dg.yaomuzhubao.com^
 ||dg186.cn^
 ||dgb.hnbhrt.xyz^
+||dgfgflod.com^
 ||dgxlm.xyz^
 ||di.rhlxm.top^
 ||dianhanjiw.com^
@@ -387,6 +389,7 @@
 ||dmmzkfd82wayn.cloudfront.net^
 ||dmya.lflmdm.com^
 ||dmyrza.com^
+||dnyzbp.cn^
 ||dnzrx.blsenpg.cn^
 ||dnzrx.skfqxkk.cn^
 ||doiney.pandasone.com^
@@ -484,6 +487,7 @@
 ||fsgsfaf6.com^
 ||fticbox.qifake.com^
 ||fv.nftjjw.com^
+||fwmbjrl.cn^
 ||fxxrllt.com^
 ||fych.uranus.sogou.com^
 ||g.rain8.com^
@@ -1358,6 +1362,7 @@
 ||vnfjsus.xyz^
 ||vole.3hbox.com^
 ||vsw2.21cnbm.com^
+||vuhidf.cn^
 ||vwhi.gou.sogou.com^
 ||vxs.mibaoge.com^
 ||w01.fhfgg.com^
@@ -1376,6 +1381,7 @@
 ||wdn.lm343.com^
 ||weifengtianxia.com^
 ||weixin.qq.huigun.top^
+||wenjinsai.top^
 ||wfil.bpnhgan.cn^
 ||what.uebabuf.cn^
 ||where.ud783c02.com^
@@ -1576,6 +1582,7 @@
 ||xg.y0764.cn^
 ||xiarikui08.com^
 ||ximg.0c1q0l.cn^
+||ximit8023.maijijo.com^
 ||xinlimaoyi2.xinlimaoyi.cn^
 ||xlpe.husky.sogou.com^
 ||xls.go.sohu.com^
@@ -1618,6 +1625,7 @@
 ||yh.jialingmm.net^
 ||yh.zg-zxzx.net^
 ||yhbsk.cn^
+||yhjccj.cn^
 ||yhz18.com^
 ||ykcjxvg.cn^
 ||ykl.qnipkk.xyz^
@@ -1670,6 +1678,7 @@
 ||zt.hylmfeifei.com^
 ||zt.imgwdyey.com^
 ||ztyumn.ifeng.com^
+||zwlikv.cn^
 ||zx.kuanxin.top^
 ||zx.tiandesign.top^
 ||zxc.yijiayi07.top^

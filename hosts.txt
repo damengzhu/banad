@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1678
-#Update Time: 2022-09-02 15:56:07（北京时间） 
+#Total Count:1687
+#Update Time: 2022-09-06 21:37:41（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -358,6 +358,7 @@
 0.0.0.0 dc.yuntuxianzhi.com
 0.0.0.0 dc.zj-yxw.com
 0.0.0.0 dcsd.cnnywz.cn
+0.0.0.0 ddbuwo.cn
 0.0.0.0 de3.linyongming.top
 0.0.0.0 dehua.mengtubo.com
 0.0.0.0 device.fishmobi.com
@@ -371,6 +372,7 @@
 0.0.0.0 dg.yaomuzhubao.com
 0.0.0.0 dg186.cn
 0.0.0.0 dgb.hnbhrt.xyz
+0.0.0.0 dgfgflod.com
 0.0.0.0 dgxlm.xyz
 0.0.0.0 di.rhlxm.top
 0.0.0.0 dianhanjiw.com
@@ -388,6 +390,7 @@
 0.0.0.0 dmmzkfd82wayn.cloudfront.net
 0.0.0.0 dmya.lflmdm.com
 0.0.0.0 dmyrza.com
+0.0.0.0 dnyzbp.cn
 0.0.0.0 dnzrx.blsenpg.cn
 0.0.0.0 dnzrx.skfqxkk.cn
 0.0.0.0 doiney.pandasone.com
@@ -485,6 +488,7 @@
 0.0.0.0 fsgsfaf6.com
 0.0.0.0 fticbox.qifake.com
 0.0.0.0 fv.nftjjw.com
+0.0.0.0 fwmbjrl.cn
 0.0.0.0 fxxrllt.com
 0.0.0.0 fych.uranus.sogou.com
 0.0.0.0 g.rain8.com
@@ -1359,6 +1363,7 @@
 0.0.0.0 vnfjsus.xyz
 0.0.0.0 vole.3hbox.com
 0.0.0.0 vsw2.21cnbm.com
+0.0.0.0 vuhidf.cn
 0.0.0.0 vwhi.gou.sogou.com
 0.0.0.0 vxs.mibaoge.com
 0.0.0.0 w01.fhfgg.com
@@ -1377,6 +1382,7 @@
 0.0.0.0 wdn.lm343.com
 0.0.0.0 weifengtianxia.com
 0.0.0.0 weixin.qq.huigun.top
+0.0.0.0 wenjinsai.top
 0.0.0.0 wfil.bpnhgan.cn
 0.0.0.0 what.uebabuf.cn
 0.0.0.0 where.ud783c02.com
@@ -1577,6 +1583,7 @@
 0.0.0.0 xg.y0764.cn
 0.0.0.0 xiarikui08.com
 0.0.0.0 ximg.0c1q0l.cn
+0.0.0.0 ximit8023.maijijo.com
 0.0.0.0 xinlimaoyi2.xinlimaoyi.cn
 0.0.0.0 xlpe.husky.sogou.com
 0.0.0.0 xls.go.sohu.com
@@ -1619,6 +1626,7 @@
 0.0.0.0 yh.jialingmm.net
 0.0.0.0 yh.zg-zxzx.net
 0.0.0.0 yhbsk.cn
+0.0.0.0 yhjccj.cn
 0.0.0.0 yhz18.com
 0.0.0.0 ykcjxvg.cn
 0.0.0.0 ykl.qnipkk.xyz
@@ -1671,6 +1679,7 @@
 0.0.0.0 zt.hylmfeifei.com
 0.0.0.0 zt.imgwdyey.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 zwlikv.cn
 0.0.0.0 zx.kuanxin.top
 0.0.0.0 zx.tiandesign.top
 0.0.0.0 zxc.yijiayi07.top
