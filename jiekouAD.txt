@@ -5,6 +5,8 @@
 ! Total Count: 2232
 ! by: 酷安@大萌主
 ! Host
+||googletagmanager.com^
+||carbonads.com^
 ||ximit8023.maijijo.com^
 ||dgfgflod.com^
 ||ddbuwo.cn^
@@ -1707,8 +1709,8 @@
 jmb.izzcwww*.*
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
-745c.cn$third-party
-kgsz.cn$third-party
+||745c.cn$third-party
+||kgsz.cn$third-party
 ||pubfuture.com^$third-party
 ||outbrain.com^$third-party
 .xyz$domain=yinghuacd.com
@@ -1718,7 +1720,7 @@ n5m5.com/static/js/playcon.js
 /js/ads
 /tongji.js
 anluyg.net/static/js/channel*.js
-google-analytics.com$third-party
+||google-analytics.com$third-party
 killcovid2021.com/*.mp4
 lewenma.com/js/read.js
 jialingmm.net/dm/tj.js
@@ -1843,7 +1845,6 @@ m.addthis.com/live/red_lojson/300lo.json
 /baidu/189/999.php
 addthis.com/live/
 www.zhenbuka.com/gg/lunbo.js
-google-analytics.com/analytics.js
 www.zd518.cn/template/qpg6080/baidufx/baidufx.js
 m.ykmh.com/js/aajquery.img01.js
 www.zd518.cn/statics/js/home.js
