@@ -5,7 +5,6 @@
 ! Total Count: 2233
 ! by: 酷安@大萌主
 ! Host
-||googletagmanager.com^
 ||carbonads.com^
 ||ximit8023.maijijo.com^
 ||dgfgflod.com^
