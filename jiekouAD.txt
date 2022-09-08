@@ -5,6 +5,9 @@
 ! Total Count: 2231
 ! by: 酷安@大萌主
 ! Host
+||jy8izgie.xyz^
+||arwh4scr.xyz^
+||ksdayhtj.shop^
 ||carbonads.com^
 ||ximit8023.maijijo.com^
 ||dgfgflod.com^
@@ -1705,6 +1708,8 @@
 @@guokr.com/apis/flowingboard/item/m_home_
 ||baidu.com/newspage/api/getmobads?
 jmb.izzcwww*.*
+*:*/*.html?k=*&_=*
+*.*.*:*/*/*.add.*.add
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
 ||745c.cn$third-party
