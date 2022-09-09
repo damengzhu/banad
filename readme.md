@@ -10,4 +10,4 @@
 `https://code.gitlink.org.cn/damengzhu/banad/raw/branch/main/jiekouAD.txt` [订阅到AdBlock或AdGuard](https://subscribe.adblockplus.org/?location=https://damengzhu.coding.net/p/banad/d/banad/git/raw/main/jiekouAD.txt)
 
 ## 反馈
-- **酷安: 大萌主**
+- **酷安: [大萌主](http://www.coolapk.com/u/843395)**
