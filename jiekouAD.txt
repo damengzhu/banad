@@ -5,6 +5,8 @@
 ! Total Count: 2237
 ! by: 酷安@大萌主
 ! Host
+||zailet.com^
+||ibozys.cn^
 ||jy8izgie.xyz^
 ||arwh4scr.xyz^
 ||ksdayhtj.shop^
@@ -1996,6 +1998,7 @@ sohu.com##DIV#recommendSearch
 ##[href*='sohu.com/hy-op']
 ##[href='/jump.html']
 ##[href='/ad.html']
+##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
 ###topNavad
 ###bottomNavad
 ##[href^='https://www.uerlqe.com']
