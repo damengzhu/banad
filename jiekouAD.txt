@@ -1880,6 +1880,9 @@ www.baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 cupfox.app#@#.adsbygoogle
+18comic.vip##DIV.col-lg-3.col-md-3
+18comic.vip##DIV.bot-per-times
+18comic.vip##.bot-per-context
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
