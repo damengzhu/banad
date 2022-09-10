@@ -2030,6 +2030,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://w5979.com:']
 ##[href^='https://dc.vvsmse72']
 ##oxk
+##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##[href^='https://mcc.rhwg4js.cn/']
 ##[href='https://xkk5.com/sqy.png']
 ##[onclick="window.open('http://682kg.com/')"]
