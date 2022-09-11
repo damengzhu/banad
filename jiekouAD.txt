@@ -2110,7 +2110,6 @@ sohu.com##DIV#recommendSearch
 ##.fed-part-advs.fed-text-center.fed-font-xvi
 ##[href='https://xiaoya358.com']
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
-##.padding-0 > ul > li
 ##[href='https://www.ivyelite.net/school-cooperation/']
 ##[src*='/chen-xing/figure_bed_']
 ##[href^='http://pai.597606.com:']
