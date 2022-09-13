@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1694
-! Update Time:2022-09-11 15:29:16（北京时间） 
+! Total Count:1700
+! Update Time:2022-09-13 21:32:32（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0m483y7.cn^
@@ -476,6 +476,7 @@
 ||fg.rmzbfum.cn^
 ||fg.yilianqing.com^
 ||fgn.nphqw.cn^
+||fhitagd.cn^
 ||fhsmtrnsfnt.com^
 ||fja9881.niulai0323166.space^
 ||fjctlnn.top^
@@ -591,6 +592,7 @@
 ||holor0804.cn^
 ||holor857.cn^
 ||hot.tuiquanqiu.cn^
+||hpiekt.cn^
 ||hqf.aldkfsd.cn^
 ||hrt.yukariyakumo.cn^
 ||hssapp.shop^
@@ -616,6 +618,7 @@
 ||ihclam.cn^
 ||ihtqqws.cn^
 ||ii.joqtfa.cn^
+||ijgocb.cn^
 ||ilyf4amifh.com^
 ||images.kxuexue.com^
 ||imasdk.googleapis.com^
@@ -790,6 +793,8 @@
 ||ktdlsb.com^
 ||ktu.twdjn.cn^
 ||kwdgudw.cn^
+||kyxw9itc.xyz^
+||kyxw9itv.club^
 ||kz.zf678.com^
 ||l.glrcy.cn^
 ||l.kscmt.cn^
@@ -1049,6 +1054,7 @@
 ||pernet.zzycj.com^
 ||pflrv.cn^
 ||pglstatp-toutiao.com^
+||phputils.wc-os.com^
 ||pic.lixiaodongcy.com^
 ||pj.looedu.top^
 ||pj.u5m4.cn^

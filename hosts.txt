@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1694
-#Update Time: 2022-09-11 15:29:16（北京时间） 
+#Total Count:1700
+#Update Time: 2022-09-13 21:32:32（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -477,6 +477,7 @@
 0.0.0.0 fg.rmzbfum.cn
 0.0.0.0 fg.yilianqing.com
 0.0.0.0 fgn.nphqw.cn
+0.0.0.0 fhitagd.cn
 0.0.0.0 fhsmtrnsfnt.com
 0.0.0.0 fja9881.niulai0323166.space
 0.0.0.0 fjctlnn.top
@@ -592,6 +593,7 @@
 0.0.0.0 holor0804.cn
 0.0.0.0 holor857.cn
 0.0.0.0 hot.tuiquanqiu.cn
+0.0.0.0 hpiekt.cn
 0.0.0.0 hqf.aldkfsd.cn
 0.0.0.0 hrt.yukariyakumo.cn
 0.0.0.0 hssapp.shop
@@ -617,6 +619,7 @@
 0.0.0.0 ihclam.cn
 0.0.0.0 ihtqqws.cn
 0.0.0.0 ii.joqtfa.cn
+0.0.0.0 ijgocb.cn
 0.0.0.0 ilyf4amifh.com
 0.0.0.0 images.kxuexue.com
 0.0.0.0 imasdk.googleapis.com
@@ -791,6 +794,8 @@
 0.0.0.0 ktdlsb.com
 0.0.0.0 ktu.twdjn.cn
 0.0.0.0 kwdgudw.cn
+0.0.0.0 kyxw9itc.xyz
+0.0.0.0 kyxw9itv.club
 0.0.0.0 kz.zf678.com
 0.0.0.0 l.glrcy.cn
 0.0.0.0 l.kscmt.cn
@@ -1050,6 +1055,7 @@
 0.0.0.0 pernet.zzycj.com
 0.0.0.0 pflrv.cn
 0.0.0.0 pglstatp-toutiao.com
+0.0.0.0 phputils.wc-os.com
 0.0.0.0 pic.lixiaodongcy.com
 0.0.0.0 pj.looedu.top
 0.0.0.0 pj.u5m4.cn
