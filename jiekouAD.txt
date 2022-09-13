@@ -1897,6 +1897,7 @@ m.hupu.com##IMG[alt='NBA英雄'][width='94%']
 www.xvideos.com###ad-footer
 www.xvideos.com##.thumb-ad
 m.hupu.com##[class^="show_ad"]
+hmqg.net##DIV#bottommob.bottommob
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baidu.com##.rel-exp-feed-ad-item
 bde4.com##A[rel='nofollow'][target='_new']
