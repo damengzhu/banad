@@ -1949,6 +1949,7 @@ www.58wk.com##rrk
 www.58wk.com##[src="/111/1.gif"]
 www.58wk.com##div#gdggw2
 www.58wk.com##div#bottomJuSha
+oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 dmh8.com##[style^='display: block; z-index: ']
 dmh8.com##[style^='box-sizing: border-box; position: relative']
 dmh8.com##[style^='display: flex']
