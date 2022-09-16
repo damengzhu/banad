@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1705
-#Update Time: 2022-09-16 10:42:21（北京时间） 
+#Total Count:1712
+#Update Time: 2022-09-16 22:25:37（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -55,9 +55,11 @@
 0.0.0.0 4dyt.cn
 0.0.0.0 4kfv18.cn
 0.0.0.0 4po6iqp9.cn
+0.0.0.0 4sexmail.com
 0.0.0.0 517heiya.com
 0.0.0.0 51jqq.top
 0.0.0.0 54askjdklm.xyz
+0.0.0.0 55zzz.cn
 0.0.0.0 56.phlckj.cn
 0.0.0.0 56fba.cn
 0.0.0.0 56yk.com
@@ -165,6 +167,7 @@
 0.0.0.0 ap.xiaomifood.cn
 0.0.0.0 apfobmfr.cn
 0.0.0.0 api.06fgej.com
+0.0.0.0 api.36dfsa.com
 0.0.0.0 api.7017k.com
 0.0.0.0 api.bwdhuanbao.com
 0.0.0.0 api.callget.cn
@@ -414,6 +417,7 @@
 0.0.0.0 duoyi.com
 0.0.0.0 dup.baidustatic.com
 0.0.0.0 duyixpy.top
+0.0.0.0 dv.amtwcvh.cn
 0.0.0.0 dv.taolingjing.com
 0.0.0.0 dvzk66.cn
 0.0.0.0 dxs.00xvppy.cn
@@ -460,6 +464,7 @@
 0.0.0.0 f4db.kanwby.com
 0.0.0.0 f77j6t2b.com
 0.0.0.0 f8ejqxp.cn
+0.0.0.0 fakjkwp.cn
 0.0.0.0 famorlymal.com
 0.0.0.0 fb.cbgyhe.cn
 0.0.0.0 fb50h1.sydz.tw
@@ -594,6 +599,7 @@
 0.0.0.0 hollg8023.745c.cn
 0.0.0.0 holor0804.cn
 0.0.0.0 holor857.cn
+0.0.0.0 hopefullyapricot.com
 0.0.0.0 hot.tuiquanqiu.cn
 0.0.0.0 hpiekt.cn
 0.0.0.0 hqf.aldkfsd.cn
@@ -835,6 +841,7 @@
 0.0.0.0 log.zongheng.com
 0.0.0.0 lop.lamimi.cn
 0.0.0.0 lovegg.club
+0.0.0.0 lpasdfgwer.com
 0.0.0.0 lpjxzs.com
 0.0.0.0 lpmzt.cn
 0.0.0.0 lsdkfjsld.aynanjianyy.com

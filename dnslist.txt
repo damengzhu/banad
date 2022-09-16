@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1705
-! Update Time:2022-09-16 10:42:21（北京时间） 
+! Total Count:1712
+! Update Time:2022-09-16 22:25:37（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0m483y7.cn^
@@ -54,9 +54,11 @@
 ||4dyt.cn^
 ||4kfv18.cn^
 ||4po6iqp9.cn^
+||4sexmail.com^
 ||517heiya.com^
 ||51jqq.top^
 ||54askjdklm.xyz^
+||55zzz.cn^
 ||56.phlckj.cn^
 ||56fba.cn^
 ||56yk.com^
@@ -164,6 +166,7 @@
 ||ap.xiaomifood.cn^
 ||apfobmfr.cn^
 ||api.06fgej.com^
+||api.36dfsa.com^
 ||api.7017k.com^
 ||api.bwdhuanbao.com^
 ||api.callget.cn^
@@ -413,6 +416,7 @@
 ||duoyi.com^
 ||dup.baidustatic.com^
 ||duyixpy.top^
+||dv.amtwcvh.cn^
 ||dv.taolingjing.com^
 ||dvzk66.cn^
 ||dxs.00xvppy.cn^
@@ -459,6 +463,7 @@
 ||f4db.kanwby.com^
 ||f77j6t2b.com^
 ||f8ejqxp.cn^
+||fakjkwp.cn^
 ||famorlymal.com^
 ||fb.cbgyhe.cn^
 ||fb50h1.sydz.tw^
@@ -593,6 +598,7 @@
 ||hollg8023.745c.cn^
 ||holor0804.cn^
 ||holor857.cn^
+||hopefullyapricot.com^
 ||hot.tuiquanqiu.cn^
 ||hpiekt.cn^
 ||hqf.aldkfsd.cn^
@@ -834,6 +840,7 @@
 ||log.zongheng.com^
 ||lop.lamimi.cn^
 ||lovegg.club^
+||lpasdfgwer.com^
 ||lpjxzs.com^
 ||lpmzt.cn^
 ||lsdkfjsld.aynanjianyy.com^
