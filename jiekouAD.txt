@@ -5,6 +5,10 @@
 ! Total Count: 2265
 ! by: 酷安@大萌主
 ! Host
+||acscdn.com^
+||s.ufile.cc^
+||drbccw04ifva6.cloudfront.net^
+||djv99sxoqpv11.cloudfront.net^
 ||hopefullyapricot.com^
 ||api.36dfsa.com^
 ||dv.amtwcvh.cn^
