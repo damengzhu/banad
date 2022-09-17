@@ -592,7 +592,6 @@
 ||analytics.tv189.cn^
 ||apistat.gao7.com^
 ||bc.qunar.com^
-||bdstatic.eastmoney.com^
 ||carstat.bitauto.com^
 ||cbjg.cqnews.net^
 ||cdnlog.zhenai.com^
@@ -1583,7 +1582,6 @@
 ||js.mosflower.cn^
 ||k.mindopu.com^
 ||www.68710266.com^
-||ae.bdstatic.com^
 ||m.xylmdm.top^
 ||msite.baidu.com^
 ||wvvw.harahero.top^
