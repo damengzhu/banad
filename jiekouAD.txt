@@ -683,8 +683,6 @@
 ||js.ysfzf.cn^
 ||mfe.paqpq.com^
 ||asdklfjal.shanxicloud.net^
-||zz.bdstatic.com^
-||zz.bdustatic.com^
 ||js.moeamv.com^
 ||js.tongdianku.com^
 ||js.whfyhouse.com^
