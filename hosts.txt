@@ -1,12 +1,13 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1731
-#Update Time: 2022-09-18 12:52:15（北京时间） 
+#Total Count:1741
+#Update Time: 2022-09-18 16:22:48（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
 0.0.0.0 036e.cn
+0.0.0.0 0918080.cmspapp83.com
 0.0.0.0 0m483y7.cn
 0.0.0.0 1.98765432100.online
 0.0.0.0 10181819sunday.hqnpwzu.cn
@@ -257,6 +258,7 @@
 0.0.0.0 c.v4dwkcv.com
 0.0.0.0 c.wsnew.cn
 0.0.0.0 caishuitonghr.com
+0.0.0.0 caomeixz7.xyz
 0.0.0.0 carbonads.com
 0.0.0.0 carstat.bitauto.com
 0.0.0.0 cav.cavuc.com
@@ -568,6 +570,7 @@
 0.0.0.0 happy.new.year.kanwby.com
 0.0.0.0 hasdser.com
 0.0.0.0 hbandier.com
+0.0.0.0 hbme.arwh3scr.world
 0.0.0.0 hbt.alwayzcars.com
 0.0.0.0 hbt.gz-hongxin.com
 0.0.0.0 hbt.haihongzg.com
@@ -607,6 +610,7 @@
 0.0.0.0 hnd.pfdth.cn
 0.0.0.0 hnnuange.com
 0.0.0.0 hnr.sbldw.cn
+0.0.0.0 hnt.qtmdzsj.cn
 0.0.0.0 hollg8023.745c.cn
 0.0.0.0 holor0804.cn
 0.0.0.0 holor857.cn
@@ -792,6 +796,7 @@
 0.0.0.0 km.senxiaopang.top
 0.0.0.0 kmb.gaoyuhu.top
 0.0.0.0 kme.dncvj.cn
+0.0.0.0 kmj.jsebmcv.cn
 0.0.0.0 kmpl.rnqxp.cn
 0.0.0.0 kmpxq.cn
 0.0.0.0 kmr.enrosr.cn
@@ -807,6 +812,7 @@
 0.0.0.0 kos.qasqs.com
 0.0.0.0 kp.rongedui.com
 0.0.0.0 kr.sdykcloud.cn
+0.0.0.0 krt.asycxtz.cn
 0.0.0.0 krt.zhengxiaoliu.top
 0.0.0.0 krw.yrehdfer.com
 0.0.0.0 kry.jknrwe.cn
@@ -854,6 +860,7 @@
 0.0.0.0 log.vdisk.cn
 0.0.0.0 log.zongheng.com
 0.0.0.0 lop.lamimi.cn
+0.0.0.0 lou.lowadec.cn
 0.0.0.0 lovegg.club
 0.0.0.0 lpasdfgwer.com
 0.0.0.0 lpjxzs.com
@@ -1229,6 +1236,7 @@
 0.0.0.0 sh-qiruizx.com
 0.0.0.0 sh6929.dftoutiao.com
 0.0.0.0 shop.yipanhaocai.com
+0.0.0.0 shouquan.laohutao.com
 0.0.0.0 show.aklm.cc
 0.0.0.0 show.jiuhui899.com
 0.0.0.0 show.meituangov.cn
@@ -1356,6 +1364,7 @@
 0.0.0.0 tylll.igame2steam.com
 0.0.0.0 tylll.paohao.com
 0.0.0.0 tylll.zgystsd.com
+0.0.0.0 tymh2022.xyz
 0.0.0.0 tz.yuanmengbi.com
 0.0.0.0 tzcfyre.cn
 0.0.0.0 u.guannin.com
@@ -1378,6 +1387,7 @@
 0.0.0.0 unjs.jingyanben.com
 0.0.0.0 unypud.cn
 0.0.0.0 up1ep9mauzpsblrhtg.youku6.top
+0.0.0.0 urm.zwjaoni.cn
 0.0.0.0 uvnjlm.cn
 0.0.0.0 uxbd4id.xyz
 0.0.0.0 uyf1u0x7.xyz

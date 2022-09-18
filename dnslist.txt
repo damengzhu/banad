@@ -2,10 +2,11 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1731
-! Update Time:2022-09-18 12:52:15（北京时间） 
+! Total Count:1741
+! Update Time:2022-09-18 16:22:48（北京时间） 
 ||0272aa.com^
 ||036e.cn^
+||0918080.cmspapp83.com^
 ||0m483y7.cn^
 ||1.98765432100.online^
 ||10181819sunday.hqnpwzu.cn^
@@ -256,6 +257,7 @@
 ||c.v4dwkcv.com^
 ||c.wsnew.cn^
 ||caishuitonghr.com^
+||caomeixz7.xyz^
 ||carbonads.com^
 ||carstat.bitauto.com^
 ||cav.cavuc.com^
@@ -567,6 +569,7 @@
 ||happy.new.year.kanwby.com^
 ||hasdser.com^
 ||hbandier.com^
+||hbme.arwh3scr.world^
 ||hbt.alwayzcars.com^
 ||hbt.gz-hongxin.com^
 ||hbt.haihongzg.com^
@@ -606,6 +609,7 @@
 ||hnd.pfdth.cn^
 ||hnnuange.com^
 ||hnr.sbldw.cn^
+||hnt.qtmdzsj.cn^
 ||hollg8023.745c.cn^
 ||holor0804.cn^
 ||holor857.cn^
@@ -791,6 +795,7 @@
 ||km.senxiaopang.top^
 ||kmb.gaoyuhu.top^
 ||kme.dncvj.cn^
+||kmj.jsebmcv.cn^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
@@ -806,6 +811,7 @@
 ||kos.qasqs.com^
 ||kp.rongedui.com^
 ||kr.sdykcloud.cn^
+||krt.asycxtz.cn^
 ||krt.zhengxiaoliu.top^
 ||krw.yrehdfer.com^
 ||kry.jknrwe.cn^
@@ -853,6 +859,7 @@
 ||log.vdisk.cn^
 ||log.zongheng.com^
 ||lop.lamimi.cn^
+||lou.lowadec.cn^
 ||lovegg.club^
 ||lpasdfgwer.com^
 ||lpjxzs.com^
@@ -1228,6 +1235,7 @@
 ||sh-qiruizx.com^
 ||sh6929.dftoutiao.com^
 ||shop.yipanhaocai.com^
+||shouquan.laohutao.com^
 ||show.aklm.cc^
 ||show.jiuhui899.com^
 ||show.meituangov.cn^
@@ -1355,6 +1363,7 @@
 ||tylll.igame2steam.com^
 ||tylll.paohao.com^
 ||tylll.zgystsd.com^
+||tymh2022.xyz^
 ||tz.yuanmengbi.com^
 ||tzcfyre.cn^
 ||u.guannin.com^
@@ -1377,6 +1386,7 @@
 ||unjs.jingyanben.com^
 ||unypud.cn^
 ||up1ep9mauzpsblrhtg.youku6.top^
+||urm.zwjaoni.cn^
 ||uvnjlm.cn^
 ||uxbd4id.xyz^
 ||uyf1u0x7.xyz^
