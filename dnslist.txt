@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1714
-! Update Time:2022-09-17 23:15:41（北京时间） 
+! Total Count:1731
+! Update Time:2022-09-18 12:52:15（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0m483y7.cn^
@@ -127,6 +127,7 @@
 ||ad.wamxb.info^
 ||ada.baidu.com^
 ||adayvquq.cn^
+||addictedwonder.com^
 ||adhdsb.cn^
 ||adkisdh3897.xyz^
 ||admhbl.xyz^
@@ -141,6 +142,7 @@
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||ahm.jiankang123.net^
+||ahp18.site^
 ||aiq36.g1kb9u.xyz^
 ||aj.drebz4f.shop^
 ||aksdkfj.biexsite.net^
@@ -165,6 +167,7 @@
 ||ao.ndfsl.com^
 ||ap.sunriseoutdoor.cn^
 ||ap.xiaomifood.cn^
+||aparvibices.com^
 ||apfobmfr.cn^
 ||api.06fgej.com^
 ||api.36dfsa.com^
@@ -176,6 +179,8 @@
 ||api.qvpublish.com^
 ||api.scwsf.com^
 ||api.wipmania.com^
+||api.xyhx.cc^
+||api.xyhx.org^
 ||api.yuanzun888.com^
 ||apistat.gao7.com^
 ||arwh4scr.xyz^
@@ -264,6 +269,7 @@
 ||cdn.baidu.xahycw.com^
 ||cdn.holmesmind.com^
 ||cdn.pg88cdn.com^
+||cdn.sb4you1.com^
 ||cdn.smilk.cc^
 ||cdn.vue-js.cyou^
 ||cdn.weiye.net^
@@ -325,6 +331,7 @@
 ||cpt.9136.com^
 ||cpucdn.baidu.com^
 ||cqygmb.com^
+||creepingbrings.com^
 ||criteo.net^
 ||cs.ltht.tech^
 ||cslpf.cn^
@@ -456,6 +463,7 @@
 ||et.dexuanyu.top^
 ||etahub.com^
 ||etdxjycpaeaawdyu.chh2.cc^
+||eujxqgh.cn^
 ||evtubescms.phncdn.com^
 ||excsyrv.cn^
 ||exevcl.cn^
@@ -487,6 +495,7 @@
 ||fgn.nphqw.cn^
 ||fhitagd.cn^
 ||fhsmtrnsfnt.com^
+||firearmtire.com^
 ||fja9881.niulai0323166.space^
 ||fjctlnn.top^
 ||fjjmnh.com^
@@ -614,6 +623,7 @@
 ||hy.luassane.cn^
 ||hytzp.cn^
 ||hzdaye.m.zwdu.com^
+||i.6v4.work^
 ||i.6v6.work^
 ||i.cidianwang.com^
 ||i04.ipc08dt.com^
@@ -759,6 +769,7 @@
 ||k7.kazigua.top^
 ||k8.buzien.top^
 ||ka.xgzdys.com^
+||kasdwergv.com^
 ||kb8ixcm.cn^
 ||kbae.qiqqh.cn^
 ||kbt.yhbsk.cn^
@@ -770,6 +781,7 @@
 ||kh.whyfate.cn^
 ||khj.dtsxn.cn^
 ||khn.txscn.cn^
+||kinhincauking.website^
 ||kjggk1.xyz^
 ||kkpgv2.xunlei.com^
 ||kkr.realwanghao.com^
@@ -1051,6 +1063,7 @@
 ||pagead2.googlesyndication.com^
 ||pageview.kgsz.cn^
 ||pageview.shenfire.cn^
+||panchaxumbilic.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
@@ -1061,6 +1074,7 @@
 ||pc.wegowan.com^
 ||pc.weizhenwx.com^
 ||pcxzo.pluto.sogou.com^
+||pdhhmf.cn^
 ||pdiabbi.cn^
 ||pdrtcgfx.cn^
 ||percent.nbgsintl.com^
@@ -1277,6 +1291,7 @@
 ||sydz.tw^
 ||syndication.exdynsrv.com^
 ||syndication.realsrv.com^
+||syr66.com.cn^
 ||syzjxz2018.cn^
 ||szdaqi88.com^
 ||szipkp.com^
@@ -1313,6 +1328,7 @@
 ||toggle.qq.com^
 ||tongji.xinmin.cn^
 ||toutiao.xn--fiqs8s^
+||tovppl.cn^
 ||tqmcj.cn^
 ||tr.thallus.net^
 ||tr.xiaosunxin.cn^
@@ -1537,6 +1553,7 @@
 ||www.sioccu.com^
 ||www.soviewo.com^
 ||www.statics88.vip^
+||www.t5wm.cc^
 ||www.tctakoh.com^
 ||www.ttyyuuoo.com^
 ||www.uerlqe.com^

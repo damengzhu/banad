@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1714
-#Update Time: 2022-09-17 23:15:41（北京时间） 
+#Total Count:1731
+#Update Time: 2022-09-18 12:52:15（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -128,6 +128,7 @@
 0.0.0.0 ad.wamxb.info
 0.0.0.0 ada.baidu.com
 0.0.0.0 adayvquq.cn
+0.0.0.0 addictedwonder.com
 0.0.0.0 adhdsb.cn
 0.0.0.0 adkisdh3897.xyz
 0.0.0.0 admhbl.xyz
@@ -142,6 +143,7 @@
 0.0.0.0 adv-sv-show.focus.cn
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 ahm.jiankang123.net
+0.0.0.0 ahp18.site
 0.0.0.0 aiq36.g1kb9u.xyz
 0.0.0.0 aj.drebz4f.shop
 0.0.0.0 aksdkfj.biexsite.net
@@ -166,6 +168,7 @@
 0.0.0.0 ao.ndfsl.com
 0.0.0.0 ap.sunriseoutdoor.cn
 0.0.0.0 ap.xiaomifood.cn
+0.0.0.0 aparvibices.com
 0.0.0.0 apfobmfr.cn
 0.0.0.0 api.06fgej.com
 0.0.0.0 api.36dfsa.com
@@ -177,6 +180,8 @@
 0.0.0.0 api.qvpublish.com
 0.0.0.0 api.scwsf.com
 0.0.0.0 api.wipmania.com
+0.0.0.0 api.xyhx.cc
+0.0.0.0 api.xyhx.org
 0.0.0.0 api.yuanzun888.com
 0.0.0.0 apistat.gao7.com
 0.0.0.0 arwh4scr.xyz
@@ -265,6 +270,7 @@
 0.0.0.0 cdn.baidu.xahycw.com
 0.0.0.0 cdn.holmesmind.com
 0.0.0.0 cdn.pg88cdn.com
+0.0.0.0 cdn.sb4you1.com
 0.0.0.0 cdn.smilk.cc
 0.0.0.0 cdn.vue-js.cyou
 0.0.0.0 cdn.weiye.net
@@ -326,6 +332,7 @@
 0.0.0.0 cpt.9136.com
 0.0.0.0 cpucdn.baidu.com
 0.0.0.0 cqygmb.com
+0.0.0.0 creepingbrings.com
 0.0.0.0 criteo.net
 0.0.0.0 cs.ltht.tech
 0.0.0.0 cslpf.cn
@@ -457,6 +464,7 @@
 0.0.0.0 et.dexuanyu.top
 0.0.0.0 etahub.com
 0.0.0.0 etdxjycpaeaawdyu.chh2.cc
+0.0.0.0 eujxqgh.cn
 0.0.0.0 evtubescms.phncdn.com
 0.0.0.0 excsyrv.cn
 0.0.0.0 exevcl.cn
@@ -488,6 +496,7 @@
 0.0.0.0 fgn.nphqw.cn
 0.0.0.0 fhitagd.cn
 0.0.0.0 fhsmtrnsfnt.com
+0.0.0.0 firearmtire.com
 0.0.0.0 fja9881.niulai0323166.space
 0.0.0.0 fjctlnn.top
 0.0.0.0 fjjmnh.com
@@ -615,6 +624,7 @@
 0.0.0.0 hy.luassane.cn
 0.0.0.0 hytzp.cn
 0.0.0.0 hzdaye.m.zwdu.com
+0.0.0.0 i.6v4.work
 0.0.0.0 i.6v6.work
 0.0.0.0 i.cidianwang.com
 0.0.0.0 i04.ipc08dt.com
@@ -760,6 +770,7 @@
 0.0.0.0 k7.kazigua.top
 0.0.0.0 k8.buzien.top
 0.0.0.0 ka.xgzdys.com
+0.0.0.0 kasdwergv.com
 0.0.0.0 kb8ixcm.cn
 0.0.0.0 kbae.qiqqh.cn
 0.0.0.0 kbt.yhbsk.cn
@@ -771,6 +782,7 @@
 0.0.0.0 kh.whyfate.cn
 0.0.0.0 khj.dtsxn.cn
 0.0.0.0 khn.txscn.cn
+0.0.0.0 kinhincauking.website
 0.0.0.0 kjggk1.xyz
 0.0.0.0 kkpgv2.xunlei.com
 0.0.0.0 kkr.realwanghao.com
@@ -1052,6 +1064,7 @@
 0.0.0.0 pagead2.googlesyndication.com
 0.0.0.0 pageview.kgsz.cn
 0.0.0.0 pageview.shenfire.cn
+0.0.0.0 panchaxumbilic.com
 0.0.0.0 pangolin-sdk-toutiao-b.com
 0.0.0.0 pangolin-sdk-toutiao.com
 0.0.0.0 pangolin.snssdk.com
@@ -1062,6 +1075,7 @@
 0.0.0.0 pc.wegowan.com
 0.0.0.0 pc.weizhenwx.com
 0.0.0.0 pcxzo.pluto.sogou.com
+0.0.0.0 pdhhmf.cn
 0.0.0.0 pdiabbi.cn
 0.0.0.0 pdrtcgfx.cn
 0.0.0.0 percent.nbgsintl.com
@@ -1278,6 +1292,7 @@
 0.0.0.0 sydz.tw
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.realsrv.com
+0.0.0.0 syr66.com.cn
 0.0.0.0 syzjxz2018.cn
 0.0.0.0 szdaqi88.com
 0.0.0.0 szipkp.com
@@ -1314,6 +1329,7 @@
 0.0.0.0 toggle.qq.com
 0.0.0.0 tongji.xinmin.cn
 0.0.0.0 toutiao.xn--fiqs8s
+0.0.0.0 tovppl.cn
 0.0.0.0 tqmcj.cn
 0.0.0.0 tr.thallus.net
 0.0.0.0 tr.xiaosunxin.cn
@@ -1538,6 +1554,7 @@
 0.0.0.0 www.sioccu.com
 0.0.0.0 www.soviewo.com
 0.0.0.0 www.statics88.vip
+0.0.0.0 www.t5wm.cc
 0.0.0.0 www.tctakoh.com
 0.0.0.0 www.ttyyuuoo.com
 0.0.0.0 www.uerlqe.com
