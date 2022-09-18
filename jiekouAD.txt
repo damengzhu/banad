@@ -5,6 +5,16 @@
 ! Total Count: 2284
 ! by: 酷安@大萌主
 ! Host
+||tymh2022.xyz^
+||lou.lowadec.cn^
+||caomeixz7.xyz^
+||0918080.cmspapp83.com^
+||hnt.qtmdzsj.cn^
+||hbme.arwh3scr.world^
+||urm.zwjaoni.cn^
+||krt.asycxtz.cn^
+||kmj.jsebmcv.cn^
+||shouquan.laohutao.com^
 ||syr66.com.cn^
 ||firearmtire.com^
 ||cdn.sb4you1.com^
@@ -2277,6 +2287,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='http://mh'][href*='tiklink.cc']
 ##[href^='https://65564535.com']
 ##[href^='https://ccs.holor0803.cn']
+##[href$='/ads.aspx']
 ##[onclick='window.open(this.url)']
 ##[onclick="window.open('/statics/js/hth112.html')"]
 ##[href^='https://vip.huijujiavip.com']
