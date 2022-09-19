@@ -1,14 +1,15 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1742
-#Update Time: 2022-09-19 12:05:30（北京时间） 
+#Total Count:1766
+#Update Time: 2022-09-19 12:23:05（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
 0.0.0.0 036e.cn
 0.0.0.0 0918080.cmspapp83.com
 0.0.0.0 0m483y7.cn
+0.0.0.0 0p7w.cn
 0.0.0.0 1.98765432100.online
 0.0.0.0 10181819sunday.hqnpwzu.cn
 0.0.0.0 10191916monday.hqnpwzu.cn
@@ -143,10 +144,13 @@
 0.0.0.0 adtng.com
 0.0.0.0 adv-sv-show.focus.cn
 0.0.0.0 adv-sv-stat.focus.cn
+0.0.0.0 agdewasmnjktfrdewqjgdser.top
 0.0.0.0 ahm.jiankang123.net
 0.0.0.0 ahp18.site
+0.0.0.0 ahp19.site
 0.0.0.0 aiq36.g1kb9u.xyz
 0.0.0.0 aj.drebz4f.shop
+0.0.0.0 aj4j.icu
 0.0.0.0 aksdkfj.biexsite.net
 0.0.0.0 aksjdfk.guohexinxiang.com
 0.0.0.0 aksldkjfd.11jianzhan.com
@@ -379,6 +383,7 @@
 0.0.0.0 de3.linyongming.top
 0.0.0.0 dehua.mengtubo.com
 0.0.0.0 device.fishmobi.com
+0.0.0.0 dexinyi.cn
 0.0.0.0 dexun.lzjzyjh.com
 0.0.0.0 df.szhszxfw.cn
 0.0.0.0 dfsvhv88.com
@@ -437,6 +442,7 @@
 0.0.0.0 dykeep.com
 0.0.0.0 e.n5ta9.site
 0.0.0.0 e.qbj8.com
+0.0.0.0 eblnzoq.cn
 0.0.0.0 ecudsc.cn
 0.0.0.0 ed.gumoda.top
 0.0.0.0 edssnet.changchunets.com
@@ -544,6 +550,7 @@
 0.0.0.0 goblin.hupu.com
 0.0.0.0 goeyxwhp.site
 0.0.0.0 gorgon.youdao.com
+0.0.0.0 gqdfgyz.cn
 0.0.0.0 greenxcx.com
 0.0.0.0 gscatk.cn
 0.0.0.0 gsnlc.cn
@@ -608,6 +615,7 @@
 0.0.0.0 hmt.zygkzytb.cn
 0.0.0.0 hn.sportsdream.top
 0.0.0.0 hnd.pfdth.cn
+0.0.0.0 hnlphr.cn
 0.0.0.0 hnnuange.com
 0.0.0.0 hnr.sbldw.cn
 0.0.0.0 hnt.qtmdzsj.cn
@@ -655,6 +663,7 @@
 0.0.0.0 img.hylmxing.com
 0.0.0.0 img.ishanggao.com
 0.0.0.0 img.starpc.cn
+0.0.0.0 img.vue-js.cyou
 0.0.0.0 img.ywtd.xyz
 0.0.0.0 img2.qqwangming6.com
 0.0.0.0 imgstat.baidu.com
@@ -667,6 +676,7 @@
 0.0.0.0 ip.tianqiapi.com
 0.0.0.0 ip.ws.126.net
 0.0.0.0 iphone.bjsxljs.com
+0.0.0.0 ipqc5ejfe.icu
 0.0.0.0 ipyo.theta.sogou.com
 0.0.0.0 iv.aliyune.xyz
 0.0.0.0 ixnrmco.com
@@ -697,6 +707,7 @@
 0.0.0.0 ja.wenluoxi.com
 0.0.0.0 ja.yushuha.com
 0.0.0.0 jacksonyee.club
+0.0.0.0 jakisity.top
 0.0.0.0 jbr.lhippac.cn
 0.0.0.0 jc.0351dvd.cn
 0.0.0.0 jcde.site
@@ -787,6 +798,7 @@
 0.0.0.0 khj.dtsxn.cn
 0.0.0.0 khn.txscn.cn
 0.0.0.0 kinhincauking.website
+0.0.0.0 kivo.fun
 0.0.0.0 kjggk1.xyz
 0.0.0.0 kkpgv2.xunlei.com
 0.0.0.0 kkr.realwanghao.com
@@ -865,6 +877,7 @@
 0.0.0.0 lpasdfgwer.com
 0.0.0.0 lpjxzs.com
 0.0.0.0 lpmzt.cn
+0.0.0.0 lqe3.icu
 0.0.0.0 lsdkfjsld.aynanjianyy.com
 0.0.0.0 lsdkjfdk.jxgd1688.com
 0.0.0.0 lsdkjfkdlsf.ydtykj.net
@@ -977,6 +990,7 @@
 0.0.0.0 mmszxc.top
 0.0.0.0 mnr.jajjo.cn
 0.0.0.0 mobivx.smfjfgie.xyz
+0.0.0.0 mobixc.jbazhaheia.top
 0.0.0.0 mobixc.vnfjsus.xyz
 0.0.0.0 mobrkbb.com
 0.0.0.0 mosangkeji.com
@@ -1029,6 +1043,7 @@
 0.0.0.0 oby6i8766jf1.bujiangjiu123.com
 0.0.0.0 oceanbot-steam.com
 0.0.0.0 ockfjk3kjk7kjkf.xmangoculture.com
+0.0.0.0 oewtuho.cn
 0.0.0.0 ohjfk7jf28.gsjzlssws.com
 0.0.0.0 oiuqwppcsdf.com
 0.0.0.0 ojkskdjf.waizongguan.net
@@ -1085,6 +1100,7 @@
 0.0.0.0 pdhhmf.cn
 0.0.0.0 pdiabbi.cn
 0.0.0.0 pdrtcgfx.cn
+0.0.0.0 pejrq.xyz
 0.0.0.0 percent.nbgsintl.com
 0.0.0.0 percent.pfiparts.com
 0.0.0.0 pernet.zzycj.com
@@ -1113,6 +1129,7 @@
 0.0.0.0 pn.sbdebcz.cn
 0.0.0.0 pn.zxsnllo.cn
 0.0.0.0 poasotha.com
+0.0.0.0 poereawer.top
 0.0.0.0 pogwua.cn
 0.0.0.0 poneer.hnlczgjx.com
 0.0.0.0 pos.baidu.com
@@ -1156,6 +1173,7 @@
 0.0.0.0 qdt.lxksalary.com
 0.0.0.0 qdt.zjzh2019.com
 0.0.0.0 qdvideo.xyz
+0.0.0.0 qf1d.top
 0.0.0.0 qfnoyix.cn
 0.0.0.0 qg1v.adroition.net
 0.0.0.0 qhicumg.cn
@@ -1210,6 +1228,7 @@
 0.0.0.0 runative-syndicate.com
 0.0.0.0 rv.shijixinrui.cn
 0.0.0.0 rvbztg.cn
+0.0.0.0 rxlidz.ink
 0.0.0.0 s.btime.com
 0.0.0.0 s.cchvc.net
 0.0.0.0 s.eybstar.com
@@ -1225,6 +1244,7 @@
 0.0.0.0 sanme2.taisantech.com
 0.0.0.0 sb6k.top
 0.0.0.0 scannapp.xyz
+0.0.0.0 schain.group
 0.0.0.0 sd6hon.cn
 0.0.0.0 sdk.sipujia.cn
 0.0.0.0 securepubads.g.doubleclick.net
@@ -1388,7 +1408,9 @@
 0.0.0.0 unypud.cn
 0.0.0.0 up1ep9mauzpsblrhtg.youku6.top
 0.0.0.0 urm.zwjaoni.cn
+0.0.0.0 utywsi.cn
 0.0.0.0 uvnjlm.cn
+0.0.0.0 uwadakest.cyou
 0.0.0.0 uxbd4id.xyz
 0.0.0.0 uyf1u0x7.xyz
 0.0.0.0 uyflu0x7.xyz
@@ -1536,6 +1558,7 @@
 0.0.0.0 www.kowqd5.top
 0.0.0.0 www.kowqd7.top
 0.0.0.0 www.kowqd9.top
+0.0.0.0 www.krr894.top
 0.0.0.0 www.kukulm.com
 0.0.0.0 www.livemz.com
 0.0.0.0 www.lm661.com
@@ -1549,6 +1572,7 @@
 0.0.0.0 www.pksanb.com
 0.0.0.0 www.ppslsa.com
 0.0.0.0 www.q4ee.top
+0.0.0.0 www.qinlinghe.com
 0.0.0.0 www.qkixi.com
 0.0.0.0 www.qlspx.com
 0.0.0.0 www.qqads.com

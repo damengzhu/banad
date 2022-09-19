@@ -2,12 +2,13 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1742
-! Update Time:2022-09-19 12:05:30（北京时间） 
+! Total Count:1766
+! Update Time:2022-09-19 12:23:05（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0918080.cmspapp83.com^
 ||0m483y7.cn^
+||0p7w.cn^
 ||1.98765432100.online^
 ||10181819sunday.hqnpwzu.cn^
 ||10191916monday.hqnpwzu.cn^
@@ -142,10 +143,13 @@
 ||adtng.com^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
+||agdewasmnjktfrdewqjgdser.top^
 ||ahm.jiankang123.net^
 ||ahp18.site^
+||ahp19.site^
 ||aiq36.g1kb9u.xyz^
 ||aj.drebz4f.shop^
+||aj4j.icu^
 ||aksdkfj.biexsite.net^
 ||aksjdfk.guohexinxiang.com^
 ||aksldkjfd.11jianzhan.com^
@@ -378,6 +382,7 @@
 ||de3.linyongming.top^
 ||dehua.mengtubo.com^
 ||device.fishmobi.com^
+||dexinyi.cn^
 ||dexun.lzjzyjh.com^
 ||df.szhszxfw.cn^
 ||dfsvhv88.com^
@@ -436,6 +441,7 @@
 ||dykeep.com^
 ||e.n5ta9.site^
 ||e.qbj8.com^
+||eblnzoq.cn^
 ||ecudsc.cn^
 ||ed.gumoda.top^
 ||edssnet.changchunets.com^
@@ -543,6 +549,7 @@
 ||goblin.hupu.com^
 ||goeyxwhp.site^
 ||gorgon.youdao.com^
+||gqdfgyz.cn^
 ||greenxcx.com^
 ||gscatk.cn^
 ||gsnlc.cn^
@@ -607,6 +614,7 @@
 ||hmt.zygkzytb.cn^
 ||hn.sportsdream.top^
 ||hnd.pfdth.cn^
+||hnlphr.cn^
 ||hnnuange.com^
 ||hnr.sbldw.cn^
 ||hnt.qtmdzsj.cn^
@@ -654,6 +662,7 @@
 ||img.hylmxing.com^
 ||img.ishanggao.com^
 ||img.starpc.cn^
+||img.vue-js.cyou^
 ||img.ywtd.xyz^
 ||img2.qqwangming6.com^
 ||imgstat.baidu.com^
@@ -666,6 +675,7 @@
 ||ip.tianqiapi.com^
 ||ip.ws.126.net^
 ||iphone.bjsxljs.com^
+||ipqc5ejfe.icu^
 ||ipyo.theta.sogou.com^
 ||iv.aliyune.xyz^
 ||ixnrmco.com^
@@ -696,6 +706,7 @@
 ||ja.wenluoxi.com^
 ||ja.yushuha.com^
 ||jacksonyee.club^
+||jakisity.top^
 ||jbr.lhippac.cn^
 ||jc.0351dvd.cn^
 ||jcde.site^
@@ -786,6 +797,7 @@
 ||khj.dtsxn.cn^
 ||khn.txscn.cn^
 ||kinhincauking.website^
+||kivo.fun^
 ||kjggk1.xyz^
 ||kkpgv2.xunlei.com^
 ||kkr.realwanghao.com^
@@ -864,6 +876,7 @@
 ||lpasdfgwer.com^
 ||lpjxzs.com^
 ||lpmzt.cn^
+||lqe3.icu^
 ||lsdkfjsld.aynanjianyy.com^
 ||lsdkjfdk.jxgd1688.com^
 ||lsdkjfkdlsf.ydtykj.net^
@@ -976,6 +989,7 @@
 ||mmszxc.top^
 ||mnr.jajjo.cn^
 ||mobivx.smfjfgie.xyz^
+||mobixc.jbazhaheia.top^
 ||mobixc.vnfjsus.xyz^
 ||mobrkbb.com^
 ||mosangkeji.com^
@@ -1028,6 +1042,7 @@
 ||oby6i8766jf1.bujiangjiu123.com^
 ||oceanbot-steam.com^
 ||ockfjk3kjk7kjkf.xmangoculture.com^
+||oewtuho.cn^
 ||ohjfk7jf28.gsjzlssws.com^
 ||oiuqwppcsdf.com^
 ||ojkskdjf.waizongguan.net^
@@ -1084,6 +1099,7 @@
 ||pdhhmf.cn^
 ||pdiabbi.cn^
 ||pdrtcgfx.cn^
+||pejrq.xyz^
 ||percent.nbgsintl.com^
 ||percent.pfiparts.com^
 ||pernet.zzycj.com^
@@ -1112,6 +1128,7 @@
 ||pn.sbdebcz.cn^
 ||pn.zxsnllo.cn^
 ||poasotha.com^
+||poereawer.top^
 ||pogwua.cn^
 ||poneer.hnlczgjx.com^
 ||pos.baidu.com^
@@ -1155,6 +1172,7 @@
 ||qdt.lxksalary.com^
 ||qdt.zjzh2019.com^
 ||qdvideo.xyz^
+||qf1d.top^
 ||qfnoyix.cn^
 ||qg1v.adroition.net^
 ||qhicumg.cn^
@@ -1209,6 +1227,7 @@
 ||runative-syndicate.com^
 ||rv.shijixinrui.cn^
 ||rvbztg.cn^
+||rxlidz.ink^
 ||s.btime.com^
 ||s.cchvc.net^
 ||s.eybstar.com^
@@ -1224,6 +1243,7 @@
 ||sanme2.taisantech.com^
 ||sb6k.top^
 ||scannapp.xyz^
+||schain.group^
 ||sd6hon.cn^
 ||sdk.sipujia.cn^
 ||securepubads.g.doubleclick.net^
@@ -1387,7 +1407,9 @@
 ||unypud.cn^
 ||up1ep9mauzpsblrhtg.youku6.top^
 ||urm.zwjaoni.cn^
+||utywsi.cn^
 ||uvnjlm.cn^
+||uwadakest.cyou^
 ||uxbd4id.xyz^
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
@@ -1535,6 +1557,7 @@
 ||www.kowqd5.top^
 ||www.kowqd7.top^
 ||www.kowqd9.top^
+||www.krr894.top^
 ||www.kukulm.com^
 ||www.livemz.com^
 ||www.lm661.com^
@@ -1548,6 +1571,7 @@
 ||www.pksanb.com^
 ||www.ppslsa.com^
 ||www.q4ee.top^
+||www.qinlinghe.com^
 ||www.qkixi.com^
 ||www.qlspx.com^
 ||www.qqads.com^
