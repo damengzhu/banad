@@ -2069,6 +2069,7 @@ sohu.com##DIV#recommendSearch
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##[href='/aga2/1661087']
+##[href^='http://jg.awaliwa.com/tg']
 ##.player_pic_link > [src*='/player.gif']
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
 ##[data-url='http://xixi.stylar.hk/']
