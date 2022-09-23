@@ -1791,6 +1791,7 @@
 jmb.izzcwww*.*
 *:*/*.html?k=*&_=*
 boxmp4.com/js/foot.js
+/r/t1/16/
 *.u8hdqyug.*
 *.tfptlgrw.*
 .top/*/*-*-*-*.*?_=*
