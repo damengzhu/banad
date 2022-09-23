@@ -5,6 +5,7 @@
 ! Total Count: 2329
 ! by: 酷安@大萌主
 ! Host
+||j.guanjiabo.net^
 ||obgbok.com^
 ||efangcdn.com^
 ||gndmnrh.cn^
@@ -2270,6 +2271,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://www.vofcr2a.com']
 ##[href='http://li.hmwang.cc']
 ##[href='https://blfanss.com']
+##[href^='https://tz.kefuyuming.vip/']
 ##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
 ##[src^="https://763667.com/"][src*=".gif"],[src^="https://763667.com/"][width="100%"],[onclick^="tj('menu','text'"]
 ##[href='https://app.kkj.cn/']
