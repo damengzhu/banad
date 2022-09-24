@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1780
-#Update Time: 2022-09-24 11:09:08（北京时间） 
+#Total Count:1797
+#Update Time: 2022-09-24 17:33:35（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -100,6 +100,7 @@
 0.0.0.0 997.000123456789.site
 0.0.0.0 99999999.club
 0.0.0.0 99e333.nbrlzy.com
+0.0.0.0 9js6.icu
 0.0.0.0 a-d.7dh26aja.com
 0.0.0.0 a-mo.net
 0.0.0.0 a.breaktime.com.tw
@@ -148,6 +149,7 @@
 0.0.0.0 ahm.jiankang123.net
 0.0.0.0 ahp18.site
 0.0.0.0 ahp19.site
+0.0.0.0 ahp24.site
 0.0.0.0 aiq36.g1kb9u.xyz
 0.0.0.0 aj.drebz4f.shop
 0.0.0.0 aj4j.icu
@@ -239,6 +241,7 @@
 0.0.0.0 become.songche.net
 0.0.0.0 bedrapiona.com
 0.0.0.0 bfniq.theta.sogou.com
+0.0.0.0 bh0874.online
 0.0.0.0 bhtbnb.qqqwww987.space
 0.0.0.0 bi.ui.doulaihai.top
 0.0.0.0 bieqpf.cn
@@ -252,6 +255,7 @@
 0.0.0.0 brt.studylabs.cn
 0.0.0.0 bsiet.husky.sogou.com
 0.0.0.0 btrace.qq.com
+0.0.0.0 bulisite.top
 0.0.0.0 buyihao.com
 0.0.0.0 bv.lyszsz.cn
 0.0.0.0 c.acgshenshicha.cn
@@ -274,7 +278,9 @@
 0.0.0.0 cdn.7nsc.cn
 0.0.0.0 cdn.9823df.com
 0.0.0.0 cdn.baidu.xahycw.com
+0.0.0.0 cdn.hanaya-m.com
 0.0.0.0 cdn.holmesmind.com
+0.0.0.0 cdn.jquery-cdn.cc
 0.0.0.0 cdn.pg88cdn.com
 0.0.0.0 cdn.sb4you1.com
 0.0.0.0 cdn.smilk.cc
@@ -310,6 +316,7 @@
 0.0.0.0 city.youpukeji.cn
 0.0.0.0 cjroq.bealge.sogou.com
 0.0.0.0 ck.tcsgcdn.top
+0.0.0.0 ckerw.xyz
 0.0.0.0 ckl.unetall.com
 0.0.0.0 click.abi.run
 0.0.0.0 click.tianyaui.com
@@ -424,6 +431,7 @@
 0.0.0.0 dq06u9lt5akr2.cloudfront.net
 0.0.0.0 drbccw04ifva6.cloudfront.net
 0.0.0.0 dreamlikeverse.com
+0.0.0.0 dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
 0.0.0.0 ds.websitequan.com
 0.0.0.0 dsa.iigs9.com
 0.0.0.0 dsqzk.cn
@@ -553,6 +561,7 @@
 0.0.0.0 go.sohu.com
 0.0.0.0 goblin.hupu.com
 0.0.0.0 goeyxwhp.site
+0.0.0.0 gongyong002.xyz
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 gqdfgyz.cn
 0.0.0.0 greenxcx.com
@@ -562,6 +571,7 @@
 0.0.0.0 gsp0.kj-gov.cn
 0.0.0.0 gsxbxvd.cn
 0.0.0.0 gtcqbnu.cn
+0.0.0.0 guanggao28.xyz
 0.0.0.0 gxbnp.cn
 0.0.0.0 gxe.husky.sogou.com
 0.0.0.0 gxzxiww.com
@@ -678,6 +688,7 @@
 0.0.0.0 in-page-push.com
 0.0.0.0 inpage-push.com
 0.0.0.0 ios.xyadtlyy.com
+0.0.0.0 iosppk.com
 0.0.0.0 ip.ta.wangkx.xyz
 0.0.0.0 ip.tianqiapi.com
 0.0.0.0 ip.ws.126.net
@@ -1010,6 +1021,7 @@
 0.0.0.0 msg.video.qiyi.com
 0.0.0.0 msite.baidu.com
 0.0.0.0 mutk.twjsx.cn
+0.0.0.0 muxing.city
 0.0.0.0 mwzbp.iask.com.cn
 0.0.0.0 mx.7cbwus.cn
 0.0.0.0 mywb3.com
@@ -1138,6 +1150,7 @@
 0.0.0.0 pn.qijpaih.cn
 0.0.0.0 pn.sbdebcz.cn
 0.0.0.0 pn.zxsnllo.cn
+0.0.0.0 poae2klya.icu
 0.0.0.0 poasotha.com
 0.0.0.0 poereawer.top
 0.0.0.0 pogwua.cn
@@ -1177,6 +1190,7 @@
 0.0.0.0 qc.whmn.shop
 0.0.0.0 qc.wqshui.com
 0.0.0.0 qcmm01.com
+0.0.0.0 qcmm05.com
 0.0.0.0 qczcxe.cn
 0.0.0.0 qdff.zxwstong.com
 0.0.0.0 qdp.qidian.com
@@ -1694,6 +1708,8 @@
 0.0.0.0 xopf.lhy1.xyz
 0.0.0.0 xothl.gbcnvip15.com
 0.0.0.0 xqc23.jnyayk.xyz
+0.0.0.0 xrkadslmgg.top
+0.0.0.0 xrkadslmgg.xyz
 0.0.0.0 xryrylt.cn
 0.0.0.0 xsdj.lm663.com
 0.0.0.0 xsjh001.xyz
@@ -1761,6 +1777,7 @@
 0.0.0.0 zgdshoes.com
 0.0.0.0 zgfshoes.com
 0.0.0.0 zgzxs.weathercn.com
+0.0.0.0 zhangchi.work
 0.0.0.0 zhangfeiyijuepifa.com
 0.0.0.0 zhangyumo.top
 0.0.0.0 zhflodsix.cn

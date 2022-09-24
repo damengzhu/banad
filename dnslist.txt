@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1780
-! Update Time:2022-09-24 11:09:08（北京时间） 
+! Total Count:1797
+! Update Time:2022-09-24 17:33:35（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0918080.cmspapp83.com^
@@ -99,6 +99,7 @@
 ||997.000123456789.site^
 ||99999999.club^
 ||99e333.nbrlzy.com^
+||9js6.icu^
 ||a-d.7dh26aja.com^
 ||a-mo.net^
 ||a.breaktime.com.tw^
@@ -147,6 +148,7 @@
 ||ahm.jiankang123.net^
 ||ahp18.site^
 ||ahp19.site^
+||ahp24.site^
 ||aiq36.g1kb9u.xyz^
 ||aj.drebz4f.shop^
 ||aj4j.icu^
@@ -238,6 +240,7 @@
 ||become.songche.net^
 ||bedrapiona.com^
 ||bfniq.theta.sogou.com^
+||bh0874.online^
 ||bhtbnb.qqqwww987.space^
 ||bi.ui.doulaihai.top^
 ||bieqpf.cn^
@@ -251,6 +254,7 @@
 ||brt.studylabs.cn^
 ||bsiet.husky.sogou.com^
 ||btrace.qq.com^
+||bulisite.top^
 ||buyihao.com^
 ||bv.lyszsz.cn^
 ||c.acgshenshicha.cn^
@@ -273,7 +277,9 @@
 ||cdn.7nsc.cn^
 ||cdn.9823df.com^
 ||cdn.baidu.xahycw.com^
+||cdn.hanaya-m.com^
 ||cdn.holmesmind.com^
+||cdn.jquery-cdn.cc^
 ||cdn.pg88cdn.com^
 ||cdn.sb4you1.com^
 ||cdn.smilk.cc^
@@ -309,6 +315,7 @@
 ||city.youpukeji.cn^
 ||cjroq.bealge.sogou.com^
 ||ck.tcsgcdn.top^
+||ckerw.xyz^
 ||ckl.unetall.com^
 ||click.abi.run^
 ||click.tianyaui.com^
@@ -423,6 +430,7 @@
 ||dq06u9lt5akr2.cloudfront.net^
 ||drbccw04ifva6.cloudfront.net^
 ||dreamlikeverse.com^
+||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||ds.websitequan.com^
 ||dsa.iigs9.com^
 ||dsqzk.cn^
@@ -552,6 +560,7 @@
 ||go.sohu.com^
 ||goblin.hupu.com^
 ||goeyxwhp.site^
+||gongyong002.xyz^
 ||gorgon.youdao.com^
 ||gqdfgyz.cn^
 ||greenxcx.com^
@@ -561,6 +570,7 @@
 ||gsp0.kj-gov.cn^
 ||gsxbxvd.cn^
 ||gtcqbnu.cn^
+||guanggao28.xyz^
 ||gxbnp.cn^
 ||gxe.husky.sogou.com^
 ||gxzxiww.com^
@@ -677,6 +687,7 @@
 ||in-page-push.com^
 ||inpage-push.com^
 ||ios.xyadtlyy.com^
+||iosppk.com^
 ||ip.ta.wangkx.xyz^
 ||ip.tianqiapi.com^
 ||ip.ws.126.net^
@@ -1009,6 +1020,7 @@
 ||msg.video.qiyi.com^
 ||msite.baidu.com^
 ||mutk.twjsx.cn^
+||muxing.city^
 ||mwzbp.iask.com.cn^
 ||mx.7cbwus.cn^
 ||mywb3.com^
@@ -1137,6 +1149,7 @@
 ||pn.qijpaih.cn^
 ||pn.sbdebcz.cn^
 ||pn.zxsnllo.cn^
+||poae2klya.icu^
 ||poasotha.com^
 ||poereawer.top^
 ||pogwua.cn^
@@ -1176,6 +1189,7 @@
 ||qc.whmn.shop^
 ||qc.wqshui.com^
 ||qcmm01.com^
+||qcmm05.com^
 ||qczcxe.cn^
 ||qdff.zxwstong.com^
 ||qdp.qidian.com^
@@ -1693,6 +1707,8 @@
 ||xopf.lhy1.xyz^
 ||xothl.gbcnvip15.com^
 ||xqc23.jnyayk.xyz^
+||xrkadslmgg.top^
+||xrkadslmgg.xyz^
 ||xryrylt.cn^
 ||xsdj.lm663.com^
 ||xsjh001.xyz^
@@ -1760,6 +1776,7 @@
 ||zgdshoes.com^
 ||zgfshoes.com^
 ||zgzxs.weathercn.com^
+||zhangchi.work^
 ||zhangfeiyijuepifa.com^
 ||zhangyumo.top^
 ||zhflodsix.cn^
