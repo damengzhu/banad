@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1772
-#Update Time: 2022-09-23 16:21:30（北京时间） 
+#Total Count:1780
+#Update Time: 2022-09-24 11:09:08（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -546,6 +546,7 @@
 0.0.0.0 gjt.pfjzzl.com
 0.0.0.0 gjt.shanjewelry.com
 0.0.0.0 gjt.xuanyaosp.com
+0.0.0.0 glpca.com
 0.0.0.0 gndmnrh.cn
 0.0.0.0 gnqxd.cn
 0.0.0.0 gnrnws.cn
@@ -555,6 +556,7 @@
 0.0.0.0 gorgon.youdao.com
 0.0.0.0 gqdfgyz.cn
 0.0.0.0 greenxcx.com
+0.0.0.0 grjasq.com
 0.0.0.0 gscatk.cn
 0.0.0.0 gsnlc.cn
 0.0.0.0 gsp0.kj-gov.cn
@@ -631,6 +633,7 @@
 0.0.0.0 hqf.aldkfsd.cn
 0.0.0.0 hrt.yukariyakumo.cn
 0.0.0.0 hssapp.shop
+0.0.0.0 htjrlm.com
 0.0.0.0 httpsjs.com
 0.0.0.0 hudiecaifu.com
 0.0.0.0 huluwa.haoyongdm.com
@@ -681,6 +684,7 @@
 0.0.0.0 iphone.bjsxljs.com
 0.0.0.0 ipqc5ejfe.icu
 0.0.0.0 ipyo.theta.sogou.com
+0.0.0.0 iswgnn.com
 0.0.0.0 iv.aliyune.xyz
 0.0.0.0 ixnrmco.com
 0.0.0.0 j.55555555555.xyz
@@ -765,6 +769,7 @@
 0.0.0.0 jscdn2.ymgjc.com
 0.0.0.0 jsm.godloveme.cn
 0.0.0.0 jsmxkj.com
+0.0.0.0 jsnoownma.fun
 0.0.0.0 jszctech.com
 0.0.0.0 jti.husky.sogou.com
 0.0.0.0 jtu24k.aoqinglv.cn
@@ -1212,12 +1217,14 @@
 0.0.0.0 r.zaitouwang.com
 0.0.0.0 r36ku.site
 0.0.0.0 rbioclv.cn
+0.0.0.0 rc7e.top
 0.0.0.0 redbaby.hk
 0.0.0.0 rengbali.fun
 0.0.0.0 reportlog.dftoutiao.com
 0.0.0.0 restorationbowelsunflower.com
 0.0.0.0 rf.cnlongshou.com
 0.0.0.0 rg.nukebomb.cn
+0.0.0.0 rgvqddo.com
 0.0.0.0 rinshy17.xyz
 0.0.0.0 rjgw.theta.sogou.com
 0.0.0.0 rkzby.cn
@@ -1749,6 +1756,7 @@
 0.0.0.0 zblz.me
 0.0.0.0 zc.tiandesign.top
 0.0.0.0 zcy821.com
+0.0.0.0 zdznsqb.com
 0.0.0.0 zero.wewakir.top
 0.0.0.0 zgdshoes.com
 0.0.0.0 zgfshoes.com

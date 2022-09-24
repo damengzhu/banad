@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1772
-! Update Time:2022-09-23 16:21:30（北京时间） 
+! Total Count:1780
+! Update Time:2022-09-24 11:09:08（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0918080.cmspapp83.com^
@@ -545,6 +545,7 @@
 ||gjt.pfjzzl.com^
 ||gjt.shanjewelry.com^
 ||gjt.xuanyaosp.com^
+||glpca.com^
 ||gndmnrh.cn^
 ||gnqxd.cn^
 ||gnrnws.cn^
@@ -554,6 +555,7 @@
 ||gorgon.youdao.com^
 ||gqdfgyz.cn^
 ||greenxcx.com^
+||grjasq.com^
 ||gscatk.cn^
 ||gsnlc.cn^
 ||gsp0.kj-gov.cn^
@@ -630,6 +632,7 @@
 ||hqf.aldkfsd.cn^
 ||hrt.yukariyakumo.cn^
 ||hssapp.shop^
+||htjrlm.com^
 ||httpsjs.com^
 ||hudiecaifu.com^
 ||huluwa.haoyongdm.com^
@@ -680,6 +683,7 @@
 ||iphone.bjsxljs.com^
 ||ipqc5ejfe.icu^
 ||ipyo.theta.sogou.com^
+||iswgnn.com^
 ||iv.aliyune.xyz^
 ||ixnrmco.com^
 ||j.55555555555.xyz^
@@ -764,6 +768,7 @@
 ||jscdn2.ymgjc.com^
 ||jsm.godloveme.cn^
 ||jsmxkj.com^
+||jsnoownma.fun^
 ||jszctech.com^
 ||jti.husky.sogou.com^
 ||jtu24k.aoqinglv.cn^
@@ -1211,12 +1216,14 @@
 ||r.zaitouwang.com^
 ||r36ku.site^
 ||rbioclv.cn^
+||rc7e.top^
 ||redbaby.hk^
 ||rengbali.fun^
 ||reportlog.dftoutiao.com^
 ||restorationbowelsunflower.com^
 ||rf.cnlongshou.com^
 ||rg.nukebomb.cn^
+||rgvqddo.com^
 ||rinshy17.xyz^
 ||rjgw.theta.sogou.com^
 ||rkzby.cn^
@@ -1748,6 +1755,7 @@
 ||zblz.me^
 ||zc.tiandesign.top^
 ||zcy821.com^
+||zdznsqb.com^
 ||zero.wewakir.top^
 ||zgdshoes.com^
 ||zgfshoes.com^
