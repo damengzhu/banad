@@ -5,6 +5,14 @@
 ! Total Count: 2331
 ! by: 酷安@大萌主
 ! Host
+||jsnoownma.fun^
+||rc7e.top^
+||htjrlm.com^
+||iswgnn.com^
+||zdznsqb.com^
+||glpca.com^
+||grjasq.com^
+||rgvqddo.com^
 ||j.guanjiabo.net^
 ||obgbok.com^
 ||efangcdn.com^
@@ -2126,6 +2134,7 @@ sohu.com##DIV#recommendSearch
 ##[href='https://91.yelang8.cc/']
 ##[href='http://yb6277.vip']
 ##div>span>[href='###']
+##[href^='https://tz.kefuyuming.vip/']
 ##.afc_close_content,.cfa_popup,[href='http://kst6632.com/']
 ##[href='http://app.tianbo17.com/']
 ##[href='http://page.shokuhou.com/']
