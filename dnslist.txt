@@ -2,11 +2,10 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1800
-! Update Time:2022-09-25 17:38:52（北京时间） 
+! Total Count:1799
+! Update Time:2022-09-26 00:21:14（北京时间） 
 ||0272aa.com^
 ||036e.cn^
-||0918080.cmspapp83.com^
 ||0m483y7.cn^
 ||0p7w.cn^
 ||1.98765432100.online^
@@ -191,6 +190,7 @@
 ||api.xyhx.org^
 ||api.yuanzun888.com^
 ||apistat.gao7.com^
+||arwh3scr.world^
 ||arwh4scr.xyz^
 ||as.afenx.top^
 ||as.dingyar.top^
@@ -209,6 +209,7 @@
 ||askdjfsl.51gongxiao.com^
 ||askdjfsl.alictibet.com^
 ||aslkdjfkdls.lzljhs.com^
+||asycxtz.cn^
 ||auto.srmdz.vip^
 ||auwkd7fdk23x.zhengshaoze.com^
 ||awkdjfkdsjk.duxingangtiaoban.com^
@@ -282,7 +283,6 @@
 ||cdn.holmesmind.com^
 ||cdn.jquery-cdn.cc^
 ||cdn.pg88cdn.com^
-||cdn.sb4you1.com^
 ||cdn.smilk.cc^
 ||cdn.vue-js.cyou^
 ||cdn.weiye.net^
@@ -322,7 +322,9 @@
 ||click.tianyaui.com^
 ||click.ynxjf.com^
 ||clldirectasianew.club^
+||cloudfront.net^
 ||cmpxaup.cn^
+||cmspapp83.com^
 ||cncnails.net^
 ||cns.wxdal.cn^
 ||cnzz.com^
@@ -412,9 +414,7 @@
 ||ding.cxzudwk.com^
 ||dingyar.top^
 ||dj09j5u.cn^
-||djv99sxoqpv11.cloudfront.net^
 ||dk.zeronethree.xyz^
-||dke.hgkzl.cn^
 ||dlads.cn^
 ||dmfjeu.xyz^
 ||dmmzkfd82wayn.cloudfront.net^
@@ -429,7 +429,6 @@
 ||doubleclick.net^
 ||douyaobuy.com^
 ||dq06u9lt5akr2.cloudfront.net^
-||drbccw04ifva6.cloudfront.net^
 ||dreamlikeverse.com^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||ds.websitequan.com^
@@ -593,7 +592,6 @@
 ||happy.new.year.kanwby.com^
 ||hasdser.com^
 ||hbandier.com^
-||hbme.arwh3scr.world^
 ||hbt.alwayzcars.com^
 ||hbt.gz-hongxin.com^
 ||hbt.haihongzg.com^
@@ -616,6 +614,7 @@
 ||hfctx.cn^
 ||hft.ofooe.cn^
 ||hgjxp.cn^
+||hgkzl.cn^
 ||hh0212.cc^
 ||hhff.xsbooktxt.com^
 ||hikin.online^
@@ -634,7 +633,6 @@
 ||hnlphr.cn^
 ||hnnuange.com^
 ||hnr.sbldw.cn^
-||hnt.qtmdzsj.cn^
 ||hollg8023.745c.cn^
 ||holor0804.cn^
 ||holor857.cn^
@@ -728,6 +726,7 @@
 ||ja.yushuha.com^
 ||jacksonyee.club^
 ||jakisity.top^
+||jbazhaheia.top^
 ||jbr.lhippac.cn^
 ||jc.0351dvd.cn^
 ||jcde.site^
@@ -779,6 +778,7 @@
 ||js6.efyt6.com^
 ||jsc.adskeeper.co.uk^
 ||jscdn2.ymgjc.com^
+||jsebmcv.cn^
 ||jsm.godloveme.cn^
 ||jsmxkj.com^
 ||jsnoownma.fun^
@@ -829,7 +829,6 @@
 ||km.senxiaopang.top^
 ||kmb.gaoyuhu.top^
 ||kme.dncvj.cn^
-||kmj.jsebmcv.cn^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
@@ -845,7 +844,7 @@
 ||kos.qasqs.com^
 ||kp.rongedui.com^
 ||kr.sdykcloud.cn^
-||krt.asycxtz.cn^
+||krr894.top^
 ||krt.zhengxiaoliu.top^
 ||krw.yrehdfer.com^
 ||kry.jknrwe.cn^
@@ -893,8 +892,8 @@
 ||log.vdisk.cn^
 ||log.zongheng.com^
 ||lop.lamimi.cn^
-||lou.lowadec.cn^
 ||lovegg.club^
+||lowadec.cn^
 ||lpasdfgwer.com^
 ||lpjxzs.com^
 ||lpmzt.cn^
@@ -1008,10 +1007,10 @@
 ||mm.ficea.cn^
 ||mm28j.com^
 ||mm3.mylmad.com^
+||mmfcezwqaz.com^
 ||mmszxc.top^
 ||mnr.jajjo.cn^
 ||mobivx.smfjfgie.xyz^
-||mobixc.jbazhaheia.top^
 ||mobixc.vnfjsus.xyz^
 ||mobrkbb.com^
 ||mosangkeji.com^
@@ -1214,6 +1213,7 @@
 ||qq.000123456789.online^
 ||qr3dz.gzfzcj.cn^
 ||qrjxween.com^
+||qtmdzsj.cn^
 ||quanxiaozi.com^
 ||qurl.f.360.cn^
 ||qutyan8848.com^
@@ -1269,6 +1269,7 @@
 ||saitef.cn^
 ||sanme2.lanzoui.com^
 ||sanme2.taisantech.com^
+||sb4you1.com^
 ||sb6k.top^
 ||scannapp.xyz^
 ||schain.group^
@@ -1434,7 +1435,6 @@
 ||unjs.jingyanben.com^
 ||unypud.cn^
 ||up1ep9mauzpsblrhtg.youku6.top^
-||urm.zwjaoni.cn^
 ||utywsi.cn^
 ||uvnjlm.cn^
 ||uwadakest.cyou^
@@ -1585,14 +1585,12 @@
 ||www.kowqd5.top^
 ||www.kowqd7.top^
 ||www.kowqd9.top^
-||www.krr894.top^
 ||www.kukulm.com^
 ||www.livemz.com^
 ||www.lm661.com^
 ||www.lthwsj.com^
 ||www.mdfsbn.com^
 ||www.mitao17.com^
-||www.mmfcezwqaz.com^
 ||www.mqhzdl.com^
 ||www.okqjdn.com^
 ||www.pcuois.com^
@@ -1793,6 +1791,7 @@
 ||zt.hylmfeifei.com^
 ||zt.imgwdyey.com^
 ||ztyumn.ifeng.com^
+||zwjaoni.cn^
 ||zwlikv.cn^
 ||zx.kuanxin.top^
 ||zx.tiandesign.top^

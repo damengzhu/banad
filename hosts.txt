@@ -1,13 +1,12 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1800
-#Update Time: 2022-09-25 17:38:52（北京时间） 
+#Total Count:1799
+#Update Time: 2022-09-26 00:21:14（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
 0.0.0.0 036e.cn
-0.0.0.0 0918080.cmspapp83.com
 0.0.0.0 0m483y7.cn
 0.0.0.0 0p7w.cn
 0.0.0.0 1.98765432100.online
@@ -192,6 +191,7 @@
 0.0.0.0 api.xyhx.org
 0.0.0.0 api.yuanzun888.com
 0.0.0.0 apistat.gao7.com
+0.0.0.0 arwh3scr.world
 0.0.0.0 arwh4scr.xyz
 0.0.0.0 as.afenx.top
 0.0.0.0 as.dingyar.top
@@ -210,6 +210,7 @@
 0.0.0.0 askdjfsl.51gongxiao.com
 0.0.0.0 askdjfsl.alictibet.com
 0.0.0.0 aslkdjfkdls.lzljhs.com
+0.0.0.0 asycxtz.cn
 0.0.0.0 auto.srmdz.vip
 0.0.0.0 auwkd7fdk23x.zhengshaoze.com
 0.0.0.0 awkdjfkdsjk.duxingangtiaoban.com
@@ -283,7 +284,6 @@
 0.0.0.0 cdn.holmesmind.com
 0.0.0.0 cdn.jquery-cdn.cc
 0.0.0.0 cdn.pg88cdn.com
-0.0.0.0 cdn.sb4you1.com
 0.0.0.0 cdn.smilk.cc
 0.0.0.0 cdn.vue-js.cyou
 0.0.0.0 cdn.weiye.net
@@ -323,7 +323,9 @@
 0.0.0.0 click.tianyaui.com
 0.0.0.0 click.ynxjf.com
 0.0.0.0 clldirectasianew.club
+0.0.0.0 cloudfront.net
 0.0.0.0 cmpxaup.cn
+0.0.0.0 cmspapp83.com
 0.0.0.0 cncnails.net
 0.0.0.0 cns.wxdal.cn
 0.0.0.0 cnzz.com
@@ -413,9 +415,7 @@
 0.0.0.0 ding.cxzudwk.com
 0.0.0.0 dingyar.top
 0.0.0.0 dj09j5u.cn
-0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 dk.zeronethree.xyz
-0.0.0.0 dke.hgkzl.cn
 0.0.0.0 dlads.cn
 0.0.0.0 dmfjeu.xyz
 0.0.0.0 dmmzkfd82wayn.cloudfront.net
@@ -430,7 +430,6 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 douyaobuy.com
 0.0.0.0 dq06u9lt5akr2.cloudfront.net
-0.0.0.0 drbccw04ifva6.cloudfront.net
 0.0.0.0 dreamlikeverse.com
 0.0.0.0 dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
 0.0.0.0 ds.websitequan.com
@@ -594,7 +593,6 @@
 0.0.0.0 happy.new.year.kanwby.com
 0.0.0.0 hasdser.com
 0.0.0.0 hbandier.com
-0.0.0.0 hbme.arwh3scr.world
 0.0.0.0 hbt.alwayzcars.com
 0.0.0.0 hbt.gz-hongxin.com
 0.0.0.0 hbt.haihongzg.com
@@ -617,6 +615,7 @@
 0.0.0.0 hfctx.cn
 0.0.0.0 hft.ofooe.cn
 0.0.0.0 hgjxp.cn
+0.0.0.0 hgkzl.cn
 0.0.0.0 hh0212.cc
 0.0.0.0 hhff.xsbooktxt.com
 0.0.0.0 hikin.online
@@ -635,7 +634,6 @@
 0.0.0.0 hnlphr.cn
 0.0.0.0 hnnuange.com
 0.0.0.0 hnr.sbldw.cn
-0.0.0.0 hnt.qtmdzsj.cn
 0.0.0.0 hollg8023.745c.cn
 0.0.0.0 holor0804.cn
 0.0.0.0 holor857.cn
@@ -729,6 +727,7 @@
 0.0.0.0 ja.yushuha.com
 0.0.0.0 jacksonyee.club
 0.0.0.0 jakisity.top
+0.0.0.0 jbazhaheia.top
 0.0.0.0 jbr.lhippac.cn
 0.0.0.0 jc.0351dvd.cn
 0.0.0.0 jcde.site
@@ -780,6 +779,7 @@
 0.0.0.0 js6.efyt6.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jscdn2.ymgjc.com
+0.0.0.0 jsebmcv.cn
 0.0.0.0 jsm.godloveme.cn
 0.0.0.0 jsmxkj.com
 0.0.0.0 jsnoownma.fun
@@ -830,7 +830,6 @@
 0.0.0.0 km.senxiaopang.top
 0.0.0.0 kmb.gaoyuhu.top
 0.0.0.0 kme.dncvj.cn
-0.0.0.0 kmj.jsebmcv.cn
 0.0.0.0 kmpl.rnqxp.cn
 0.0.0.0 kmpxq.cn
 0.0.0.0 kmr.enrosr.cn
@@ -846,7 +845,7 @@
 0.0.0.0 kos.qasqs.com
 0.0.0.0 kp.rongedui.com
 0.0.0.0 kr.sdykcloud.cn
-0.0.0.0 krt.asycxtz.cn
+0.0.0.0 krr894.top
 0.0.0.0 krt.zhengxiaoliu.top
 0.0.0.0 krw.yrehdfer.com
 0.0.0.0 kry.jknrwe.cn
@@ -894,8 +893,8 @@
 0.0.0.0 log.vdisk.cn
 0.0.0.0 log.zongheng.com
 0.0.0.0 lop.lamimi.cn
-0.0.0.0 lou.lowadec.cn
 0.0.0.0 lovegg.club
+0.0.0.0 lowadec.cn
 0.0.0.0 lpasdfgwer.com
 0.0.0.0 lpjxzs.com
 0.0.0.0 lpmzt.cn
@@ -1009,10 +1008,10 @@
 0.0.0.0 mm.ficea.cn
 0.0.0.0 mm28j.com
 0.0.0.0 mm3.mylmad.com
+0.0.0.0 mmfcezwqaz.com
 0.0.0.0 mmszxc.top
 0.0.0.0 mnr.jajjo.cn
 0.0.0.0 mobivx.smfjfgie.xyz
-0.0.0.0 mobixc.jbazhaheia.top
 0.0.0.0 mobixc.vnfjsus.xyz
 0.0.0.0 mobrkbb.com
 0.0.0.0 mosangkeji.com
@@ -1215,6 +1214,7 @@
 0.0.0.0 qq.000123456789.online
 0.0.0.0 qr3dz.gzfzcj.cn
 0.0.0.0 qrjxween.com
+0.0.0.0 qtmdzsj.cn
 0.0.0.0 quanxiaozi.com
 0.0.0.0 qurl.f.360.cn
 0.0.0.0 qutyan8848.com
@@ -1270,6 +1270,7 @@
 0.0.0.0 saitef.cn
 0.0.0.0 sanme2.lanzoui.com
 0.0.0.0 sanme2.taisantech.com
+0.0.0.0 sb4you1.com
 0.0.0.0 sb6k.top
 0.0.0.0 scannapp.xyz
 0.0.0.0 schain.group
@@ -1435,7 +1436,6 @@
 0.0.0.0 unjs.jingyanben.com
 0.0.0.0 unypud.cn
 0.0.0.0 up1ep9mauzpsblrhtg.youku6.top
-0.0.0.0 urm.zwjaoni.cn
 0.0.0.0 utywsi.cn
 0.0.0.0 uvnjlm.cn
 0.0.0.0 uwadakest.cyou
@@ -1586,14 +1586,12 @@
 0.0.0.0 www.kowqd5.top
 0.0.0.0 www.kowqd7.top
 0.0.0.0 www.kowqd9.top
-0.0.0.0 www.krr894.top
 0.0.0.0 www.kukulm.com
 0.0.0.0 www.livemz.com
 0.0.0.0 www.lm661.com
 0.0.0.0 www.lthwsj.com
 0.0.0.0 www.mdfsbn.com
 0.0.0.0 www.mitao17.com
-0.0.0.0 www.mmfcezwqaz.com
 0.0.0.0 www.mqhzdl.com
 0.0.0.0 www.okqjdn.com
 0.0.0.0 www.pcuois.com
@@ -1794,6 +1792,7 @@
 0.0.0.0 zt.hylmfeifei.com
 0.0.0.0 zt.imgwdyey.com
 0.0.0.0 ztyumn.ifeng.com
+0.0.0.0 zwjaoni.cn
 0.0.0.0 zwlikv.cn
 0.0.0.0 zx.kuanxin.top
 0.0.0.0 zx.tiandesign.top
