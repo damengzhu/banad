@@ -5,6 +5,9 @@
 ! Total Count: 2357
 ! by: 酷安@大萌主
 ! Host
+||yitongwl.cn^
+||1wkg.cn^
+||ft8e.top^
 ||cdn.hanaya-m.com^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||xrkadslmgg.top^
@@ -2350,6 +2353,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://65564535.com']
 ##[href^='https://ccs.holor0803.cn']
 ##[href$='/ads.aspx']
+##[href^='https://mtyshi.com/']
 ##[onclick='window.open(this.url)']
 ##[onclick="window.open('/statics/js/hth112.html')"]
 ##[href^='https://vip.huijujiavip.com']
