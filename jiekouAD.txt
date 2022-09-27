@@ -5,6 +5,7 @@
 ! Total Count: 2366
 ! by: 酷安@大萌主
 ! Host
+||fcqztan.cn^
 ||egsxdp.cn^
 ||www.xjwrq.com^
 ||image.yafytg.cn^
@@ -1872,6 +1873,7 @@ pstatp.com/toutiao/push.js
 chen-xing/figure_bed*
 .com/gg.js
 /api/ad/*
+/j/142610
 *tplv-noop.gif*
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
