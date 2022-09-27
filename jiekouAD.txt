@@ -5,6 +5,8 @@
 ! Total Count: 2368
 ! by: 酷安@大萌主
 ! Host
+||polkmnhytgb.com^
+||gwertyuadf.com^
 ||fcqztan.cn^
 ||egsxdp.cn^
 ||www.xjwrq.com^
@@ -2286,6 +2288,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='http://amlyg.com:']
 ###bl_mobile_float[style='height: 152px;']
 ###sOIcquIT
+##[src^='/MDassets/images/']
 ##[href^='https://xcc.ztdzpyf.cn/']
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']
