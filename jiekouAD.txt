@@ -2192,6 +2192,7 @@ sohu.com##DIV#recommendSearch
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']
 ###downapp1
+##[href='https://www.jubaibai.com']
 ##[href^='https://www.qlspx.com:']
 ##[src^='https://n5893.com'],[src^='https://gezkdx7.com'],[src^='https://n8182.com']
 ##[href='https://ad.ysgc.xyz/zb.html']
