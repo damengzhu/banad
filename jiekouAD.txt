@@ -5,6 +5,9 @@
 ! Total Count: 2373
 ! by: 酷安@大萌主
 ! Host
+||asldmlws.cn^
+||dklwddl.cn^
+||sjdfuvz.cn^
 ||s3t3d2y8.afcdn.net^
 ||w.bnlg.fun^
 ||polkmnhytgb.com^
@@ -2162,6 +2165,9 @@ sohu.com##DIV#recommendSearch
 ##[href='https://xkk5.com/sqy.png']
 ##[onclick="window.open('http://682kg.com/')"]
 ###ppphref[rel='nofollow']
+##[href^='https://www.00285164.com']
+##[href^='https://97749516.com/']
+##[href^='https://www.00426740.com']
 ##[href='https://91.yelang8.cc/']
 ##[href='http://yb6277.vip']
 ##div>span>[href='###']
