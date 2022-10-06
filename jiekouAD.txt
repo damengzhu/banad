@@ -2309,6 +2309,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://yh.133svip.com/']
 ##[href^='https://t2406.com:']
 ##[href^='http://91mh.co']
+##[href*="/?channelCode="] > [referrerpolicy='no-referrer']
 ##[href^='http://mm.alameinv.com/']
 ##[onclick='gourl()'][src^='/images/bfq/']
 ##[href^='https://www.xxmh'][href*='.htm']
