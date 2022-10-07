@@ -2084,6 +2084,7 @@ m.iqiyi.com##DIV.iqyGuide-content,.cover
 baidu.com##div#J-super-layer-promote
 m.4pcc.com##DIV.a-loading
 ddrk.me###obay_hf_i
+m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 ddrk.me##DIV#afc_sidebar_2842azjfh2jf737.shanxihaowu.com
 zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
