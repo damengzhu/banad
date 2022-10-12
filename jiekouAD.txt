@@ -2193,6 +2193,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://www.visvn.cn/c.php']
 ##[href^='https://www.xdh0808.com/']
 ##[href='/ad/bfy.html']
+##[href='/my/gd.html']
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ###ad-header-mobile-contener
 ##[href^='http://cp.kankandy.xyz/']
