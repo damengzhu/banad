@@ -2367,6 +2367,8 @@ sohu.com##DIV#recommendSearch
 ##[href='https://www.riqingxs.com/']
 ##[alt='52bl']
 ##[alt='西瓜社']
+##[src='/images/c_l.png']
+##[href='/my/dp.html']
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ###mobile-index > div[id^="ins"]
