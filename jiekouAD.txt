@@ -1136,6 +1136,8 @@
 ||log-api.pangolin-sdk-toutiao.com^
 ||toblog.ctobsnssdk.com^
 ||pangolin.snssdk.com^
+||saviourketonic.com^
+||alfpair.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin-sdk-toutiao-b.com^
 ||so.clzgd.com^
@@ -1837,6 +1839,8 @@
 @@f*.baidu.com/it/u=*,*&fm=*PNG
 @@guokr.com/apis/flowingboard/item/m_article
 @@guokr.com/apis/flowingboard/item/m_home_
+||google-analytics.com/analytics.js
+||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
 jmb.izzcwww*.*
 *:*/*.html?k=*&_=*
