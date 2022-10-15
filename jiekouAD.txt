@@ -119,7 +119,6 @@
 ||61hhdp.com^
 ||acscdn.com^
 ||s.ufile.cc^
-||cloudfront.net^
 ||hopefullyapricot.com^
 ||api.36dfsa.com^
 ||dv.amtwcvh.cn^
