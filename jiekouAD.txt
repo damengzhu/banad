@@ -2375,8 +2375,7 @@ sohu.com##DIV#recommendSearch
 ##[href='https://www.riqingxs.com/']
 ##[alt='52bl']
 ##[alt='西瓜社']
-##div.row.col5.clearfix:nth-of-type(2)>
-dl:nth-of-type(1)
+##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##[at*='尼斯人注册送]
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##[src='/images/c_l.png']
