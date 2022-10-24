@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1835
-#Update Time: 2022-10-23 20:55:33（北京时间） 
+#Total Count:1841
+#Update Time: 2022-10-24 16:12:35（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -29,6 +29,7 @@
 0.0.0.0 2.ytelc.com
 0.0.0.0 2.yunsxk.xyz
 0.0.0.0 2020mustang.com
+0.0.0.0 2022facaiabc9.xyz
 0.0.0.0 2296.chushoushijian.cn
 0.0.0.0 23.dlads.cn
 0.0.0.0 23jgiy.com
@@ -180,6 +181,7 @@
 0.0.0.0 aparvibices.com
 0.0.0.0 apfobmfr.cn
 0.0.0.0 api.06fgej.com
+0.0.0.0 api.1101yh.com
 0.0.0.0 api.36dfsa.com
 0.0.0.0 api.7017k.com
 0.0.0.0 api.bwdhuanbao.com
@@ -713,6 +715,7 @@
 0.0.0.0 ipyo.theta.sogou.com
 0.0.0.0 iswgnn.com
 0.0.0.0 iv.aliyune.xyz
+0.0.0.0 ivqtrjt.cn
 0.0.0.0 ixelrsd.cn
 0.0.0.0 ixnrmco.com
 0.0.0.0 j.55555555555.xyz
@@ -1063,7 +1066,9 @@
 0.0.0.0 niu.axcdy.cn
 0.0.0.0 niu.tzlit.cn
 0.0.0.0 njcyt.com
+0.0.0.0 nlyuuy.cn
 0.0.0.0 nmgyllh.cn
+0.0.0.0 nmrdnqn.cn
 0.0.0.0 ns1.chinayms.com
 0.0.0.0 ns2.chinayms.com
 0.0.0.0 nsclick.baidu.com
@@ -1682,6 +1687,7 @@
 0.0.0.0 www.zhangjiaqi.top
 0.0.0.0 www.zhaohainan.cn
 0.0.0.0 wx.uc.downcdn.top
+0.0.0.0 wxdqgmr.cn
 0.0.0.0 wxmp.ianyshare.xyz
 0.0.0.0 wxr.kebi1.top
 0.0.0.0 wyxcb3.top

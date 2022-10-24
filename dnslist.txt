@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1835
-! Update Time:2022-10-23 20:55:33（北京时间） 
+! Total Count:1841
+! Update Time:2022-10-24 16:12:35（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0m483y7.cn^
@@ -28,6 +28,7 @@
 ||2.ytelc.com^
 ||2.yunsxk.xyz^
 ||2020mustang.com^
+||2022facaiabc9.xyz^
 ||2296.chushoushijian.cn^
 ||23.dlads.cn^
 ||23jgiy.com^
@@ -179,6 +180,7 @@
 ||aparvibices.com^
 ||apfobmfr.cn^
 ||api.06fgej.com^
+||api.1101yh.com^
 ||api.36dfsa.com^
 ||api.7017k.com^
 ||api.bwdhuanbao.com^
@@ -712,6 +714,7 @@
 ||ipyo.theta.sogou.com^
 ||iswgnn.com^
 ||iv.aliyune.xyz^
+||ivqtrjt.cn^
 ||ixelrsd.cn^
 ||ixnrmco.com^
 ||j.55555555555.xyz^
@@ -1062,7 +1065,9 @@
 ||niu.axcdy.cn^
 ||niu.tzlit.cn^
 ||njcyt.com^
+||nlyuuy.cn^
 ||nmgyllh.cn^
+||nmrdnqn.cn^
 ||ns1.chinayms.com^
 ||ns2.chinayms.com^
 ||nsclick.baidu.com^
@@ -1681,6 +1686,7 @@
 ||www.zhangjiaqi.top^
 ||www.zhaohainan.cn^
 ||wx.uc.downcdn.top^
+||wxdqgmr.cn^
 ||wxmp.ianyshare.xyz^
 ||wxr.kebi1.top^
 ||wyxcb3.top^
