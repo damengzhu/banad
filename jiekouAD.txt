@@ -1919,6 +1919,8 @@ chen-xing/figure_bed*
 .com/gg.js
 /api/ad/*
 /j/142610
+/js/mts66.js
+/js/mts.js
 *tplv-noop.gif*
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
