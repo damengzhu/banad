@@ -5,6 +5,8 @@
 ! Total Count: 2435
 ! by: 酷安@大萌主
 ! Host
+||77qwq.com^
+||1105yh.com^
 ||1017facai8.xyz^
 ||77zz7.com^
 ||ffzz71.com^
@@ -1940,7 +1942,7 @@ jx.xbiqu5.com/12345678.js
 /bar/yfdi.js
 /_xa/ads_
 /ht.js?site_
-myqcloud.com/*/*.add.*.add
+/*/*.add.*.add
 /_xa/ads?
 ?local_ga_js=
 m.x4jdm.tv/mdp.js
@@ -2197,6 +2199,7 @@ sohu.com##DIV#recommendSearch
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[href='/hy-66-90.php']
 ##[href='javascript:GoDb58649();']
+##[href='https://8899add.com/']
 ##[poster^='https://img.hylmxing.com:']
 ##[rel='nofollow'][href*='com:'][target='_blank']
 ##[style="width:100%;height:30vw;"][src^="https://oddsds.com/img/"]
