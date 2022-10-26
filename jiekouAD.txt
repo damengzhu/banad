@@ -5,6 +5,12 @@
 ! Total Count: 2421
 ! by: 酷安@大萌主
 ! Host
+||d1pmhihatyvp1k.cloudfront.net^
+||zdx25.site^
+||8chj9.com^
+||www.geodeep.org^
+||forestseasons.com.cn^
+||api.faba.pw^
 ||kdcxhr.cn^
 ||ophwrh.cn^
 ||api.1101yh.com^
@@ -2001,6 +2007,7 @@ shimo.im/lizard-api/ads
 m.addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
 .openx.
+/ad/dhgg.js
 */ads.
 /js/pingbi.js
 /baidu/tg.js
@@ -2175,6 +2182,7 @@ sohu.com##DIV#recommendSearch
 ##[href="http://www.28cpw.com"]
 ##[href^='https://ccs.holor0701.cn/']
 ##.ad_img
+##[src$='/dibu.adadadad']
 ##[onclick="window.open('/statics/js/hth1111.html')"]
 ##.swiper-wrapper.leo-source-cho
 ##.ayx[style="position: fixed;bottom: -10px;right:0;z-index:999;width:250px"]
