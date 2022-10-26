@@ -5,6 +5,9 @@
 ! Total Count: 2430
 ! by: 酷安@大萌主
 ! Host
+||1017facai8.xyz^
+||77zz7.com^
+||ffzz71.com^
 ||d1pmhihatyvp1k.cloudfront.net^
 ||zdx25.site^
 ||8chj9.com^
@@ -1937,6 +1940,7 @@ jx.xbiqu5.com/12345678.js
 /bar/yfdi.js
 /_xa/ads_
 /ht.js?site_
+myqcloud.com/*/*.add.*.add
 /_xa/ads?
 ?local_ga_js=
 m.x4jdm.tv/mdp.js
@@ -2336,6 +2340,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://bvipsa.com']
 ##[src='/gold.jpg'][alt='温馨提醒']
 ##[href='http://856882.com']
+##[src='http://m.guangzhoubingqing.com/88888.jpg']
 ##[href='http://938966.com']
 ##[href='http://732199.com']
 ##[href^='http://hbalsm.com:']
