@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1844
-#Update Time: 2022-10-24 23:57:35（北京时间） 
+#Total Count:1850
+#Update Time: 2022-10-26 09:59:36（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -89,6 +89,7 @@
 0.0.0.0 888lianmeng.com
 0.0.0.0 88eg.cn
 0.0.0.0 89.yunqishi8.com
+0.0.0.0 8chj9.com
 0.0.0.0 8cnd.com
 0.0.0.0 8g0j.cn
 0.0.0.0 8gp4wjq3.com
@@ -187,6 +188,7 @@
 0.0.0.0 api.bwdhuanbao.com
 0.0.0.0 api.callget.cn
 0.0.0.0 api.cxzudwk.com
+0.0.0.0 api.faba.pw
 0.0.0.0 api.lwxs99.com
 0.0.0.0 api.qvpublish.com
 0.0.0.0 api.scwsf.com
@@ -378,6 +380,7 @@
 0.0.0.0 d.ziyuanm.com
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
+0.0.0.0 d1pmhihatyvp1k.cloudfront.net
 0.0.0.0 d20903hof2l33q.cloudfront.net
 0.0.0.0 d227cncaprzd7y.cloudfront.net
 0.0.0.0 d3mshiiq22wqhz.cloudfront.net
@@ -538,6 +541,7 @@
 0.0.0.0 fnv2v.caimlkh.com
 0.0.0.0 fo.tiqu.io
 0.0.0.0 fo.zhangbaochang.top
+0.0.0.0 forestseasons.com.cn
 0.0.0.0 fsgsfaf6.com
 0.0.0.0 ft8e.top
 0.0.0.0 fticbox.qifake.com
@@ -1582,6 +1586,7 @@
 0.0.0.0 www.diyuxa.com
 0.0.0.0 www.doca182.com
 0.0.0.0 www.ewtyewj.com
+0.0.0.0 www.geodeep.org
 0.0.0.0 www.govchengdu.cn
 0.0.0.0 www.govchongqing.cn
 0.0.0.0 www.govguangxi.cn
@@ -1817,6 +1822,7 @@
 0.0.0.0 zblz.me
 0.0.0.0 zc.tiandesign.top
 0.0.0.0 zcy821.com
+0.0.0.0 zdx25.site
 0.0.0.0 zdznsqb.com
 0.0.0.0 zero.wewakir.top
 0.0.0.0 zgdshoes.com

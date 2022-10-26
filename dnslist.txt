@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1844
-! Update Time:2022-10-24 23:57:35（北京时间） 
+! Total Count:1850
+! Update Time:2022-10-26 09:59:36（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0m483y7.cn^
@@ -88,6 +88,7 @@
 ||888lianmeng.com^
 ||88eg.cn^
 ||89.yunqishi8.com^
+||8chj9.com^
 ||8cnd.com^
 ||8g0j.cn^
 ||8gp4wjq3.com^
@@ -186,6 +187,7 @@
 ||api.bwdhuanbao.com^
 ||api.callget.cn^
 ||api.cxzudwk.com^
+||api.faba.pw^
 ||api.lwxs99.com^
 ||api.qvpublish.com^
 ||api.scwsf.com^
@@ -377,6 +379,7 @@
 ||d.ziyuanm.com^
 ||d10lumateci472.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
+||d1pmhihatyvp1k.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
@@ -537,6 +540,7 @@
 ||fnv2v.caimlkh.com^
 ||fo.tiqu.io^
 ||fo.zhangbaochang.top^
+||forestseasons.com.cn^
 ||fsgsfaf6.com^
 ||ft8e.top^
 ||fticbox.qifake.com^
@@ -1581,6 +1585,7 @@
 ||www.diyuxa.com^
 ||www.doca182.com^
 ||www.ewtyewj.com^
+||www.geodeep.org^
 ||www.govchengdu.cn^
 ||www.govchongqing.cn^
 ||www.govguangxi.cn^
@@ -1816,6 +1821,7 @@
 ||zblz.me^
 ||zc.tiandesign.top^
 ||zcy821.com^
+||zdx25.site^
 ||zdznsqb.com^
 ||zero.wewakir.top^
 ||zgdshoes.com^
