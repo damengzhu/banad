@@ -2236,7 +2236,6 @@ sohu.com##DIV#recommendSearch
 ##.afc_close_content,.cfa_popup,[href='http://kst6632.com/']
 ##[href='http://app.tianbo17.com/']
 ##[href='http://page.shokuhou.com/']
-##[href*='taobao.com/'][target='_blank']
 ##[href='https://hongxiu.me']
 ##[href^='https://record.brave108.com/']
 ##[href^='https://gougew.lanzoub.com/']
