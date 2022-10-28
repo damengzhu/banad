@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1858
-! Update Time:2022-10-28 11:24:30（北京时间） 
+! Total Count:1863
+! Update Time:2022-10-28 15:16:57（北京时间） 
 ||0272aa.com^
 ||036e.cn^
 ||0m483y7.cn^
@@ -194,6 +194,7 @@
 ||api.cxzudwk.com^
 ||api.faba.pw^
 ||api.lwxs99.com^
+||api.qcmm07.com^
 ||api.qvpublish.com^
 ||api.scwsf.com^
 ||api.wipmania.com^
@@ -1285,6 +1286,7 @@
 ||rinshy17.xyz^
 ||rjgw.theta.sogou.com^
 ||rkzby.cn^
+||rljjt.cn^
 ||rlogs.youdao.com^
 ||rmoeu.mercury.sogou.com^
 ||rndhaunteran.com^
@@ -1308,6 +1310,7 @@
 ||s.union.360.cn^
 ||s11.zhangyumo.top^
 ||s3t3d2y8.afcdn.net^
+||s4te24u.com^
 ||s5.cnzz.com^
 ||saitef.cn^
 ||sanme2.lanzoui.com^
@@ -1315,6 +1318,7 @@
 ||saviourketonic.com^
 ||sb4you1.com^
 ||sb6k.top^
+||sc-gov-cn.website^
 ||scannapp.xyz^
 ||schain.group^
 ||scjpqut.cn^
@@ -1585,6 +1589,7 @@
 ||www.bibilm.com^
 ||www.bjjabc.com^
 ||www.bl2030.com^
+||www.ceseasons.com^
 ||www.chunaisese12.com^
 ||www.claiks.com^
 ||www.cpro88.vip^

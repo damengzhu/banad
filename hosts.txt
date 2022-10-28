@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1858
-#Update Time: 2022-10-28 11:24:30（北京时间） 
+#Total Count:1863
+#Update Time: 2022-10-28 15:16:57（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -195,6 +195,7 @@
 0.0.0.0 api.cxzudwk.com
 0.0.0.0 api.faba.pw
 0.0.0.0 api.lwxs99.com
+0.0.0.0 api.qcmm07.com
 0.0.0.0 api.qvpublish.com
 0.0.0.0 api.scwsf.com
 0.0.0.0 api.wipmania.com
@@ -1286,6 +1287,7 @@
 0.0.0.0 rinshy17.xyz
 0.0.0.0 rjgw.theta.sogou.com
 0.0.0.0 rkzby.cn
+0.0.0.0 rljjt.cn
 0.0.0.0 rlogs.youdao.com
 0.0.0.0 rmoeu.mercury.sogou.com
 0.0.0.0 rndhaunteran.com
@@ -1309,6 +1311,7 @@
 0.0.0.0 s.union.360.cn
 0.0.0.0 s11.zhangyumo.top
 0.0.0.0 s3t3d2y8.afcdn.net
+0.0.0.0 s4te24u.com
 0.0.0.0 s5.cnzz.com
 0.0.0.0 saitef.cn
 0.0.0.0 sanme2.lanzoui.com
@@ -1316,6 +1319,7 @@
 0.0.0.0 saviourketonic.com
 0.0.0.0 sb4you1.com
 0.0.0.0 sb6k.top
+0.0.0.0 sc-gov-cn.website
 0.0.0.0 scannapp.xyz
 0.0.0.0 schain.group
 0.0.0.0 scjpqut.cn
@@ -1586,6 +1590,7 @@
 0.0.0.0 www.bibilm.com
 0.0.0.0 www.bjjabc.com
 0.0.0.0 www.bl2030.com
+0.0.0.0 www.ceseasons.com
 0.0.0.0 www.chunaisese12.com
 0.0.0.0 www.claiks.com
 0.0.0.0 www.cpro88.vip
