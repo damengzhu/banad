@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:1855
-#Update Time: 2022-10-26 20:39:30（北京时间） 
+#Total Count:1858
+#Update Time: 2022-10-28 11:24:30（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 0272aa.com
@@ -187,6 +187,7 @@
 0.0.0.0 apfobmfr.cn
 0.0.0.0 api.06fgej.com
 0.0.0.0 api.1101yh.com
+0.0.0.0 api.1106yh.com
 0.0.0.0 api.36dfsa.com
 0.0.0.0 api.7017k.com
 0.0.0.0 api.bwdhuanbao.com
@@ -849,6 +850,7 @@
 0.0.0.0 kengi.top
 0.0.0.0 kfejnjs.cn
 0.0.0.0 kh.whyfate.cn
+0.0.0.0 khgjfm16.com
 0.0.0.0 khj.dtsxn.cn
 0.0.0.0 khn.txscn.cn
 0.0.0.0 kinhincauking.website
@@ -944,6 +946,7 @@
 0.0.0.0 luoyangjinmeii.com
 0.0.0.0 lvcha99.cc
 0.0.0.0 lwz.ffhre.com
+0.0.0.0 lyewe.xyz
 0.0.0.0 lyra.iscrv.com
 0.0.0.0 lywdoo.cn
 0.0.0.0 m.56fba.cn
