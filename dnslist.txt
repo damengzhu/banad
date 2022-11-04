@@ -2,10 +2,11 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:1873
-! Update Time:2022-11-04 16:16:17（北京时间） 
+! Total Count:1902
+! Update Time:2022-11-04 16:18:11（北京时间） 
 ||0272aa.com^
 ||036e.cn^
+||03asdf.com^
 ||0m483y7.cn^
 ||0p7w.cn^
 ||1.98765432100.online^
@@ -84,6 +85,7 @@
 ||77nnv9.xyz^
 ||77qwq.com^
 ||77zz7.com^
+||79zxcv.com^
 ||7c4432.zouxinmall.com^
 ||7cl.app^
 ||7jkzmbd.cn^
@@ -158,6 +160,7 @@
 ||ahp19.site^
 ||ahp24.site^
 ||aiq36.g1kb9u.xyz^
+||aiwei365.net^
 ||aj.drebz4f.shop^
 ||aj4j.icu^
 ||aksdkfj.biexsite.net^
@@ -392,6 +395,7 @@
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d89.d8962a.xyz^
 ||dada.dadawm.cc^
+||dahounian.top^
 ||dakawm.cc^
 ||daliantong.com.cn^
 ||dat.yl-zipper.com^
@@ -504,6 +508,7 @@
 ||etahub.com^
 ||etdxjycpaeaawdyu.chh2.cc^
 ||eujxqgh.cn^
+||evbb.xyz^
 ||evtubescms.phncdn.com^
 ||excsyrv.cn^
 ||exevcl.cn^
@@ -549,11 +554,13 @@
 ||fnv2v.caimlkh.com^
 ||fo.tiqu.io^
 ||fo.zhangbaochang.top^
+||foisml.com^
 ||forestseasons.com.cn^
 ||fsgsfaf6.com^
 ||ft8e.top^
 ||fticbox.qifake.com^
 ||fv.nftjjw.com^
+||fvffd678.xyz^
 ||fwmbjrl.cn^
 ||fxxrllt.com^
 ||fych.uranus.sogou.com^
@@ -690,6 +697,7 @@
 ||ic.aliyune.xyz^
 ||idawziv.cn^
 ||idubwz.cn^
+||iemwbu.cn^
 ||ifdvlh.cn^
 ||ifeng3.yylady.cn^
 ||ifsdg.xyz^
@@ -765,6 +773,7 @@
 ||jc.0351dvd.cn^
 ||jcde.site^
 ||jd5c.top^
+||jessicarace.com^
 ||jf2v.mnpool.cn^
 ||jfn1v.skogsborg.net^
 ||jfsdiwmnbsk009.top^
@@ -934,6 +943,7 @@
 ||lpasdfgwer.com^
 ||lpjxzs.com^
 ||lpmzt.cn^
+||lpxmall.com^
 ||lqe3.icu^
 ||lsdkfjsld.aynanjianyy.com^
 ||lsdkjfdk.jxgd1688.com^
@@ -992,6 +1002,7 @@
 ||mbt.hongmao39.top^
 ||mbt.tangk.top^
 ||mbxsku.cn^
+||mbxw.xyz^
 ||mc.a48505.cn^
 ||mc.aefmbeq.cn^
 ||mc.eedudwr.cn^
@@ -1036,6 +1047,7 @@
 ||mhy.wdpkx.cn^
 ||mic.yun-pdm5000.cn^
 ||mimg.meihu56.cn^
+||mingtians.top^
 ||mixer.sina.cn^
 ||mjg0310.com^
 ||mk.zlnmzc.top^
@@ -1047,6 +1059,7 @@
 ||mm28j.com^
 ||mm3.mylmad.com^
 ||mmfcezwqaz.com^
+||mmgg62.com^
 ||mmszxc.top^
 ||mnr.jajjo.cn^
 ||mobivx.smfjfgie.xyz^
@@ -1134,6 +1147,7 @@
 ||oskdjkfsl.arts-cloud.net^
 ||oskjdfls.zhemaijs.net^
 ||oskjfkdlsjfds.szfhl99.com^
+||osnignsk.xyz^
 ||ot.jizy.cn^
 ||ou12.dl12349.net^
 ||oukj73ljf.ynslvyou.com^
@@ -1242,6 +1256,7 @@
 ||qdt.lxksalary.com^
 ||qdt.zjzh2019.com^
 ||qdvideo.xyz^
+||qexitv.com^
 ||qf1d.top^
 ||qfnoyix.cn^
 ||qg1v.adroition.net^
@@ -1253,11 +1268,13 @@
 ||qj.ituanhui.com^
 ||qjxys.cn^
 ||qly7hr.sydz.tw^
+||qnieo.fun^
 ||qpb.sohu.com^
 ||qpb0.sohu.com^
 ||qq.000123456789.online^
 ||qr3dz.gzfzcj.cn^
 ||qrjxween.com^
+||qstzar.cn^
 ||qtmdzsj.cn^
 ||quanxiaozi.com^
 ||qurl.f.360.cn^
@@ -1279,6 +1296,7 @@
 ||r36ku.site^
 ||rbioclv.cn^
 ||rc7e.top^
+||rcqqlwb.cn^
 ||redbaby.hk^
 ||rengbali.fun^
 ||reportlog.dftoutiao.com^
@@ -1330,6 +1348,7 @@
 ||sd6hon.cn^
 ||sdhjueue.com^
 ||sdk.sipujia.cn^
+||sdzhongke.cn^
 ||securepubads.g.doubleclick.net^
 ||seordl.cn^
 ||ser.uadrc.com^
@@ -1347,6 +1366,7 @@
 ||show.worldcrm.cn^
 ||shtatuo.cn^
 ||sifa.aak7.cn^
+||similm.xyz^
 ||simiyue2.com^
 ||sixiuwl.cn^
 ||sjdfuvz.cn^
@@ -1355,6 +1375,7 @@
 ||sky.tongjiai.com^
 ||sky.urlkwqi.cn^
 ||slfango.ltd^
+||smtwm61.com^
 ||so.clzgd.com^
 ||sobakenchmaphk.com^
 ||sogo.uc.continuefaf.top^
@@ -1471,6 +1492,7 @@
 ||tylll.paohao.com^
 ||tylll.zgystsd.com^
 ||tymh2022.xyz^
+||tyutuyoo.top^
 ||tz.yuanmengbi.com^
 ||tzcfyre.cn^
 ||u.guannin.com^
@@ -1523,9 +1545,11 @@
 ||vm.aty.sohu.com^
 ||vm5.i7akpd1.xyz^
 ||vnfjsus.xyz^
+||vnvmif.cn^
 ||vole.3hbox.com^
 ||vsw2.21cnbm.com^
 ||vuhidf.cn^
+||vvfht.fun^
 ||vwhi.gou.sogou.com^
 ||vxs.mibaoge.com^
 ||w.bnlg.fun^
@@ -1754,6 +1778,8 @@
 ||xg.svvbrkk.cn^
 ||xg.wdswgjn.cn^
 ||xg.y0764.cn^
+||xiaobao8888.com^
+||xiaodongrui.com^
 ||xiarikui08.com^
 ||ximg.0c1q0l.cn^
 ||ximit8023.maijijo.com^
@@ -1814,9 +1840,11 @@
 ||ymm19.cc^
 ||yoke.039nez.com^
 ||yoke.jyhlo0.com^
+||ypzps.com^
 ||yqee.htsrvlink.com^
 ||yqef.hsyfcenter.com^
 ||yqgzaewe.cn^
+||yquqoj.com^
 ||yrqwnc.cn^
 ||ysjkbk.com^
 ||yt.egrent.cn^
@@ -1859,6 +1887,7 @@
 ||zpxw.vip^
 ||zs.dingyar.top^
 ||zs.zyzlpt.com^
+||zt-uc-baidu.cc^
 ||zt.hylmfeifei.com^
 ||zt.imgwdyey.com^
 ||ztyumn.ifeng.com^
