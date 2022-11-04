@@ -1962,6 +1962,11 @@ jx.xbiqu5.com/12345678.js
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
+imanhuapi.com/style/js/mpmh.js
+?adspot_
+scupio.com/js/ad.js
+/template/mytheme/statics/js/listing.js
+/asfile/m/gudings.js
 ?local_ga_js=
 m.x4jdm.tv/mdp.js
 cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
@@ -2196,6 +2201,15 @@ sohu.com##DIV#recommendSearch
 ##[href*='sohu.com/hy-op']
 ##[href='/jump.html']
 ##[href='/ad.html']
+##DIV.bot-per-context[data-width='728'][data-height='90']
+##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
+##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
+##[href*='.lookxmh3']
+##[href='https://dpurl.cn/HifSTUtz']
+##[href^="openapp.jdmobile://virtual?params="]
+##[href^='http://akmh069.vip']
+##[onclick*="trackEvent', 'ad"]
+##[src^='https://ae01.alicdn.com/'][alt='歪歪漫画']
 ##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
 ###topNavad
 ###bottomNavad
