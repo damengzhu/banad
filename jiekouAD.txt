@@ -2076,6 +2076,18 @@
 ||*.51y5.net^
 ||dlswbr.baidu.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
+||im-x.jd.com^
+||zhihu-web-analytics.zhihu.com^
+||c-gtc.getui.net^
+||*.getui.com^
+||b-gtc.getui.net^
+||gepush.com^
+||igexin.com^
+||pingma.qq.com^
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
+||sugar.zhihu.com^
+||access.toggle.qq.com^
 ! URL
 @@qhres2.com$domain=baike.so.com
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
