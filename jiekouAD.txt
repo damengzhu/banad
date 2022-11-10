@@ -5,6 +5,8 @@
 ! Total Count: 2681
 ! by: 酷安@大萌主
 ! Host
+||1104piaoba2022.xyz^
+||www.dahe6f.com^
 ||tradplusad.com^
 ||qktmwiq.cn^
 ||ffnvhig.cn^
@@ -2253,6 +2255,8 @@ m.addthis.com/live/red_lojson/300lo.json
 /js/pingbi.js
 /baidu/tg.js
 /baidu/189/999.php
+/s/page_runtime_*.js
+/v0/amp-addthis-*.js
 addthis.com/live/
 www.zhenbuka.com/gg/lunbo.js
 www.zd518.cn/template/qpg6080/baidufx/baidufx.js
@@ -2372,6 +2376,7 @@ www.bimiacg.com##[class='ssr1']
 www.9ekk.com##[class^='vod-db']
 www.58wk.com##[src*='.gif']
 m.dmh8.com##[id^="test"]
+m.autohome.com.cn##ol > li,.evade-operate
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
 www.ncdj24.com##[href='https://gcsyslc.com/'],[href='https://865761.com/'],[id*='KdW'],[class*='col-style d-4 m-2 lo1ad1ed ']
 zhcedu.cn##DIV#yrcma5696
