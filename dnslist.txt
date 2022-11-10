@@ -2,12 +2,13 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2070
-! Update Time:2022-11-10 17:10:23（北京时间） 
+! Total Count:2082
+! Update Time:2022-11-10 21:34:19（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
 ||*.gentags.net^
+||*.getui.com^
 ||*.go.sohu.com^
 ||*.irs03.com^
 ||*.miaozhen.com^
@@ -144,6 +145,7 @@
 ||abtest-ch.snssdk.com^
 ||abtest.alibaba.com^
 ||abtt.pufenchuanmu.com^
+||access.toggle.qq.com^
 ||access1.tpns.tencent.com^
 ||acgshenshicha.cn^
 ||ackcdn.net^
@@ -277,6 +279,7 @@
 ||aymtdcg.cn^
 ||az.tiandesign.top^
 ||azs.fcheng.top^
+||b-gtc.getui.net^
 ||b.1th.app^
 ||b.g.gongxifc.com^
 ||b.idc9pk.com^
@@ -324,6 +327,7 @@
 ||bulisite.top^
 ||buyihao.com^
 ||bv.lyszsz.cn^
+||c-gtc.getui.net^
 ||c.acgshenshicha.cn^
 ||c.gzasiatech.net^
 ||c.l.qq.com^
@@ -660,6 +664,7 @@
 ||gdtimg.com^
 ||gdzshoes.com^
 ||gej.effectivehealthy.cn^
+||gepush.com^
 ||gft.aobuygo.com^
 ||gft.xuanyaosp.com^
 ||gft.yifujing.com^
@@ -795,11 +800,13 @@
 ||ifeng3.yylady.cn^
 ||ifsdg.xyz^
 ||ig.zjkssw.com^
+||igexin.com^
 ||ihclam.cn^
 ||ihtqqws.cn^
 ||ii.joqtfa.cn^
 ||ijgocb.cn^
 ||ilyf4amifh.com^
+||im-x.jd.com^
 ||image.yafytg.cn^
 ||images.kxuexue.com^
 ||imasdk.googleapis.com^
@@ -1309,6 +1316,7 @@
 ||pic.lixiaodongcy.com^
 ||pimlog.baidu.com^
 ||pingfore.qq.com^
+||pingma.qq.com^
 ||pj.looedu.top^
 ||pj.u5m4.cn^
 ||pji2.r36ku.site^
@@ -1558,6 +1566,7 @@
 ||stats.v.duowan.com^
 ||stats.wp.com^
 ||stunthedge.com^
+||sugar.zhihu.com^
 ||sv.fanst.club^
 ||sv.wangchangye.xyz^
 ||svdpgmt.cn^
@@ -1664,6 +1673,8 @@
 ||uhyhdrh.cn^
 ||uk529u0.cn^
 ||ulog*.*^
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
 ||um.afcav.com^
 ||um5xcgngmart.xyz^
 ||umdc.aliapp.org^
@@ -2050,6 +2061,7 @@
 ||zhangyumo.top^
 ||zhanzhang.toutiao.com^
 ||zhflodsix.cn^
+||zhihu-web-analytics.zhihu.com^
 ||zhizhunbao.top^
 ||zhuangxiu567.com^
 ||zjjbtl.com^

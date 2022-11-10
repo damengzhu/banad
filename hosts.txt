@@ -1,14 +1,15 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2070
-#Update Time: 2022-11-10 17:10:23（北京时间） 
+#Total Count:2082
+#Update Time: 2022-11-10 21:34:19（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
 0.0.0.0 *.aty.sohu.com
 0.0.0.0 *.gdt.qq.com
 0.0.0.0 *.gentags.net
+0.0.0.0 *.getui.com
 0.0.0.0 *.go.sohu.com
 0.0.0.0 *.irs03.com
 0.0.0.0 *.miaozhen.com
@@ -145,6 +146,7 @@
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtt.pufenchuanmu.com
+0.0.0.0 access.toggle.qq.com
 0.0.0.0 access1.tpns.tencent.com
 0.0.0.0 acgshenshicha.cn
 0.0.0.0 ackcdn.net
@@ -278,6 +280,7 @@
 0.0.0.0 aymtdcg.cn
 0.0.0.0 az.tiandesign.top
 0.0.0.0 azs.fcheng.top
+0.0.0.0 b-gtc.getui.net
 0.0.0.0 b.1th.app
 0.0.0.0 b.g.gongxifc.com
 0.0.0.0 b.idc9pk.com
@@ -325,6 +328,7 @@
 0.0.0.0 bulisite.top
 0.0.0.0 buyihao.com
 0.0.0.0 bv.lyszsz.cn
+0.0.0.0 c-gtc.getui.net
 0.0.0.0 c.acgshenshicha.cn
 0.0.0.0 c.gzasiatech.net
 0.0.0.0 c.l.qq.com
@@ -661,6 +665,7 @@
 0.0.0.0 gdtimg.com
 0.0.0.0 gdzshoes.com
 0.0.0.0 gej.effectivehealthy.cn
+0.0.0.0 gepush.com
 0.0.0.0 gft.aobuygo.com
 0.0.0.0 gft.xuanyaosp.com
 0.0.0.0 gft.yifujing.com
@@ -796,11 +801,13 @@
 0.0.0.0 ifeng3.yylady.cn
 0.0.0.0 ifsdg.xyz
 0.0.0.0 ig.zjkssw.com
+0.0.0.0 igexin.com
 0.0.0.0 ihclam.cn
 0.0.0.0 ihtqqws.cn
 0.0.0.0 ii.joqtfa.cn
 0.0.0.0 ijgocb.cn
 0.0.0.0 ilyf4amifh.com
+0.0.0.0 im-x.jd.com
 0.0.0.0 image.yafytg.cn
 0.0.0.0 images.kxuexue.com
 0.0.0.0 imasdk.googleapis.com
@@ -1310,6 +1317,7 @@
 0.0.0.0 pic.lixiaodongcy.com
 0.0.0.0 pimlog.baidu.com
 0.0.0.0 pingfore.qq.com
+0.0.0.0 pingma.qq.com
 0.0.0.0 pj.looedu.top
 0.0.0.0 pj.u5m4.cn
 0.0.0.0 pji2.r36ku.site
@@ -1559,6 +1567,7 @@
 0.0.0.0 stats.v.duowan.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stunthedge.com
+0.0.0.0 sugar.zhihu.com
 0.0.0.0 sv.fanst.club
 0.0.0.0 sv.wangchangye.xyz
 0.0.0.0 svdpgmt.cn
@@ -1665,6 +1674,8 @@
 0.0.0.0 uhyhdrh.cn
 0.0.0.0 uk529u0.cn
 0.0.0.0 ulog*.*
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 um.afcav.com
 0.0.0.0 um5xcgngmart.xyz
 0.0.0.0 umdc.aliapp.org
@@ -2051,6 +2062,7 @@
 0.0.0.0 zhangyumo.top
 0.0.0.0 zhanzhang.toutiao.com
 0.0.0.0 zhflodsix.cn
+0.0.0.0 zhihu-web-analytics.zhihu.com
 0.0.0.0 zhizhunbao.top
 0.0.0.0 zhuangxiu567.com
 0.0.0.0 zjjbtl.com
