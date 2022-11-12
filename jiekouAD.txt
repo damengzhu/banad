@@ -2093,6 +2093,12 @@
 ||ulogs.umengcloud.com^
 ||sugar.zhihu.com^
 ||access.toggle.qq.com^
+||android.bugly.qq.com^
+||api-access.pangolin-sdk-toutiao.com^
+||mobads.baidu.com^
+||mi.gdt.qq.com^
+||tobapplog.ctobsnssdk.com^
+||stat.meitudata.com^
 ! URL
 @@qhres2.com$domain=baike.so.com
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
