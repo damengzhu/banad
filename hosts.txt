@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2087
-#Update Time: 2022-11-11 13:21:18（北京时间） 
+#Total Count:2093
+#Update Time: 2022-11-12 18:58:07（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -219,12 +219,14 @@
 0.0.0.0 analytics.21cn.com
 0.0.0.0 analytics.techweb.com.cn
 0.0.0.0 analytics.tv189.cn
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 ao.ndfsl.com
 0.0.0.0 ap.sunriseoutdoor.cn
 0.0.0.0 ap.xiaomifood.cn
 0.0.0.0 aparvibices.com
 0.0.0.0 apfobmfr.cn
 0.0.0.0 api-access.pangolin-sdk-toutiao-*.com
+0.0.0.0 api-access.pangolin-sdk-toutiao.com
 0.0.0.0 api-shoulei-ssl.xunlei.com
 0.0.0.0 api.06fgej.com
 0.0.0.0 api.1101yh.com
@@ -1164,6 +1166,7 @@
 0.0.0.0 mh1.qiaolianshu.com
 0.0.0.0 mhslbgk.cn
 0.0.0.0 mhy.wdpkx.cn
+0.0.0.0 mi.gdt.qq.com
 0.0.0.0 mic.yun-pdm5000.cn
 0.0.0.0 mimg.meihu56.cn
 0.0.0.0 mingtians.top
@@ -1182,6 +1185,7 @@
 0.0.0.0 mmszxc.top
 0.0.0.0 mnr.jajjo.cn
 0.0.0.0 mob.com
+0.0.0.0 mobads.baidu.com
 0.0.0.0 mobivx.smfjfgie.xyz
 0.0.0.0 mobixc.vnfjsus.xyz
 0.0.0.0 mobrkbb.com
@@ -1559,6 +1563,7 @@
 0.0.0.0 stat.ijinshan.com
 0.0.0.0 stat.img-space.com
 0.0.0.0 stat.jc001.cn
+0.0.0.0 stat.meitudata.com
 0.0.0.0 stat.pchome.net
 0.0.0.0 stat.timedg.com
 0.0.0.0 stat.v.17173.com
@@ -1623,6 +1628,7 @@
 0.0.0.0 tnc3-alisc1.snssdk.com
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 tnjvz.cn
+0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toggle.qq.com
 0.0.0.0 tongji.xinmin.cn

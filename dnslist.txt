@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2087
-! Update Time:2022-11-11 13:21:18（北京时间） 
+! Total Count:2093
+! Update Time:2022-11-12 18:58:07（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -218,12 +218,14 @@
 ||analytics.21cn.com^
 ||analytics.techweb.com.cn^
 ||analytics.tv189.cn^
+||android.bugly.qq.com^
 ||ao.ndfsl.com^
 ||ap.sunriseoutdoor.cn^
 ||ap.xiaomifood.cn^
 ||aparvibices.com^
 ||apfobmfr.cn^
 ||api-access.pangolin-sdk-toutiao-*.com^
+||api-access.pangolin-sdk-toutiao.com^
 ||api-shoulei-ssl.xunlei.com^
 ||api.06fgej.com^
 ||api.1101yh.com^
@@ -1163,6 +1165,7 @@
 ||mh1.qiaolianshu.com^
 ||mhslbgk.cn^
 ||mhy.wdpkx.cn^
+||mi.gdt.qq.com^
 ||mic.yun-pdm5000.cn^
 ||mimg.meihu56.cn^
 ||mingtians.top^
@@ -1181,6 +1184,7 @@
 ||mmszxc.top^
 ||mnr.jajjo.cn^
 ||mob.com^
+||mobads.baidu.com^
 ||mobivx.smfjfgie.xyz^
 ||mobixc.vnfjsus.xyz^
 ||mobrkbb.com^
@@ -1558,6 +1562,7 @@
 ||stat.ijinshan.com^
 ||stat.img-space.com^
 ||stat.jc001.cn^
+||stat.meitudata.com^
 ||stat.pchome.net^
 ||stat.timedg.com^
 ||stat.v.17173.com^
@@ -1622,6 +1627,7 @@
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-bjlgy.snssdk.com^
 ||tnjvz.cn^
+||tobapplog.ctobsnssdk.com^
 ||toblog.ctobsnssdk.com^
 ||toggle.qq.com^
 ||tongji.xinmin.cn^
