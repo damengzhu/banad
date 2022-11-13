@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2093
-! Update Time:2022-11-12 18:58:07（北京时间） 
+! Total Count:2099
+! Update Time:2022-11-14 00:28:36（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -15,6 +15,7 @@
 ||*.tuisong.baidu.com^
 ||*.umengcloud.com^
 ||0272aa.com^
+||0272dd.com^
 ||031dfgh.com^
 ||036e.cn^
 ||03asdf.com^
@@ -455,6 +456,7 @@
 ||d10lumateci472.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d1pmhihatyvp1k.cloudfront.net^
+||d1q4x2p7t0gq14.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
@@ -746,6 +748,7 @@
 ||hgkzl.cn^
 ||hh0212.cc^
 ||hhff.xsbooktxt.com^
+||hickeyhsu.top^
 ||hijack.baidu.com^
 ||hikin.online^
 ||histats.com^
@@ -1005,6 +1008,7 @@
 ||kry.ztshg.cn^
 ||ks.yhz18.com^
 ||ks66666661.com^
+||kscly.com^
 ||ksdayhtj.shop^
 ||ksdayhtl.xyz^
 ||kstj.baidu.com^
@@ -1072,6 +1076,7 @@
 ||lsr62.qtd95fj.online^
 ||ltp.jiantiquan.cn^
 ||lulaoye.1111.grfx-blog.top^
+||luogod.xyz^
 ||luoyangjinmeii.com^
 ||lvcha99.cc^
 ||lwz.ffhre.com^
@@ -1813,6 +1818,7 @@
 ||www.dayangfa.com^
 ||www.dgtauto.com^
 ||www.diyuxa.com^
+||www.dknindsl.com^
 ||www.doca182.com^
 ||www.ewtyewj.com^
 ||www.geodeep.org^

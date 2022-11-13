@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2093
-#Update Time: 2022-11-12 18:58:07（北京时间） 
+#Total Count:2099
+#Update Time: 2022-11-14 00:28:36（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -16,6 +16,7 @@
 0.0.0.0 *.tuisong.baidu.com
 0.0.0.0 *.umengcloud.com
 0.0.0.0 0272aa.com
+0.0.0.0 0272dd.com
 0.0.0.0 031dfgh.com
 0.0.0.0 036e.cn
 0.0.0.0 03asdf.com
@@ -456,6 +457,7 @@
 0.0.0.0 d10lumateci472.cloudfront.net
 0.0.0.0 d1f05vr3sjsuy7.cloudfront.net
 0.0.0.0 d1pmhihatyvp1k.cloudfront.net
+0.0.0.0 d1q4x2p7t0gq14.cloudfront.net
 0.0.0.0 d20903hof2l33q.cloudfront.net
 0.0.0.0 d227cncaprzd7y.cloudfront.net
 0.0.0.0 d3mshiiq22wqhz.cloudfront.net
@@ -747,6 +749,7 @@
 0.0.0.0 hgkzl.cn
 0.0.0.0 hh0212.cc
 0.0.0.0 hhff.xsbooktxt.com
+0.0.0.0 hickeyhsu.top
 0.0.0.0 hijack.baidu.com
 0.0.0.0 hikin.online
 0.0.0.0 histats.com
@@ -1006,6 +1009,7 @@
 0.0.0.0 kry.ztshg.cn
 0.0.0.0 ks.yhz18.com
 0.0.0.0 ks66666661.com
+0.0.0.0 kscly.com
 0.0.0.0 ksdayhtj.shop
 0.0.0.0 ksdayhtl.xyz
 0.0.0.0 kstj.baidu.com
@@ -1073,6 +1077,7 @@
 0.0.0.0 lsr62.qtd95fj.online
 0.0.0.0 ltp.jiantiquan.cn
 0.0.0.0 lulaoye.1111.grfx-blog.top
+0.0.0.0 luogod.xyz
 0.0.0.0 luoyangjinmeii.com
 0.0.0.0 lvcha99.cc
 0.0.0.0 lwz.ffhre.com
@@ -1814,6 +1819,7 @@
 0.0.0.0 www.dayangfa.com
 0.0.0.0 www.dgtauto.com
 0.0.0.0 www.diyuxa.com
+0.0.0.0 www.dknindsl.com
 0.0.0.0 www.doca182.com
 0.0.0.0 www.ewtyewj.com
 0.0.0.0 www.geodeep.org
