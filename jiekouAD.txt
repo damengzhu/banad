@@ -5,6 +5,8 @@
 ! Total Count: 2703
 ! by: 酷安@大萌主
 ! Host
+||kjanfwss.xyz^
+||bxwccii.cn^
 ||kyzx.xyZ^
 ||ok-11-cai.cc^
 ||kscly.com^
@@ -2476,6 +2478,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://w5979.com:']
 ##[href^='https://dc.vvsmse72']
 ##oxk
+##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##[href^='https://mcc.rhwg4js.cn/']
 ##[href='https://xkk5.com/sqy.png']
