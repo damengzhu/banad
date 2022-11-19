@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2107
-! Update Time:2022-11-19 12:09:21（北京时间） 
+! Total Count:2112
+! Update Time:2022-11-19 16:54:28（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -356,6 +356,7 @@
 ||cdn.7nsc.cn^
 ||cdn.9823df.com^
 ||cdn.baidu.xahycw.com^
+||cdn.creative-bars1.com^
 ||cdn.hanaya-m.com^
 ||cdn.holmesmind.com^
 ||cdn.jquery-cdn.cc^
@@ -423,6 +424,7 @@
 ||counter.pcauto.com.cn^
 ||counter.tianjimedia.com^
 ||countpage.sznews.com^
+||couplestupidity.com^
 ||cp.eoncreativity.com^
 ||cpms.now.com^
 ||cpoml.iask.sina.com.cn^
@@ -647,6 +649,7 @@
 ||foisml.com^
 ||forestseasons.com.cn^
 ||fourier.taobao.com^
+||friendshipmale.com^
 ||fsgsfaf6.com^
 ||ft8e.top^
 ||fticbox.qifake.com^
@@ -1367,6 +1370,7 @@
 ||ppp1z.lm865.com^
 ||ppyibei.com^
 ||prelandappslab.com^
+||prodigalpromotion.com^
 ||propeller-tracking.com^
 ||prt.uwnvcxb.cn^
 ||psfq.gou.sogou.com^
@@ -1532,6 +1536,7 @@
 ||sifa.aak7.cn^
 ||similm.xyz^
 ||simiyue2.com^
+||simplewebanalysis.com^
 ||sixiuwl.cn^
 ||sjarvis.taobao.com^
 ||sjdfuvz.cn^

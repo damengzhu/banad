@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2107
-#Update Time: 2022-11-19 12:09:21（北京时间） 
+#Total Count:2112
+#Update Time: 2022-11-19 16:54:28（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -357,6 +357,7 @@
 0.0.0.0 cdn.7nsc.cn
 0.0.0.0 cdn.9823df.com
 0.0.0.0 cdn.baidu.xahycw.com
+0.0.0.0 cdn.creative-bars1.com
 0.0.0.0 cdn.hanaya-m.com
 0.0.0.0 cdn.holmesmind.com
 0.0.0.0 cdn.jquery-cdn.cc
@@ -424,6 +425,7 @@
 0.0.0.0 counter.pcauto.com.cn
 0.0.0.0 counter.tianjimedia.com
 0.0.0.0 countpage.sznews.com
+0.0.0.0 couplestupidity.com
 0.0.0.0 cp.eoncreativity.com
 0.0.0.0 cpms.now.com
 0.0.0.0 cpoml.iask.sina.com.cn
@@ -648,6 +650,7 @@
 0.0.0.0 foisml.com
 0.0.0.0 forestseasons.com.cn
 0.0.0.0 fourier.taobao.com
+0.0.0.0 friendshipmale.com
 0.0.0.0 fsgsfaf6.com
 0.0.0.0 ft8e.top
 0.0.0.0 fticbox.qifake.com
@@ -1368,6 +1371,7 @@
 0.0.0.0 ppp1z.lm865.com
 0.0.0.0 ppyibei.com
 0.0.0.0 prelandappslab.com
+0.0.0.0 prodigalpromotion.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 prt.uwnvcxb.cn
 0.0.0.0 psfq.gou.sogou.com
@@ -1533,6 +1537,7 @@
 0.0.0.0 sifa.aak7.cn
 0.0.0.0 similm.xyz
 0.0.0.0 simiyue2.com
+0.0.0.0 simplewebanalysis.com
 0.0.0.0 sixiuwl.cn
 0.0.0.0 sjarvis.taobao.com
 0.0.0.0 sjdfuvz.cn
