@@ -5,6 +5,11 @@
 ! Total Count: 2710
 ! by: 酷安@大萌主
 ! Host
+||couplestupidity.com^
+||cdn.creative-bars1.com^
+||prodigalpromotion.com^
+||friendshipmale.com^
+||simplewebanalysis.com^
 ||xxxvjmp.com^
 ||ssqyuvavse.com^
 ||rou3.xyz^
@@ -2349,6 +2354,7 @@ m.sohu.com##[data-v-7a7c15af][href^='https://m.sohu.com/promotion'],[data-v-7a7c
 www.bde4.cc##[src*='p.qpic.cn/vshpic']
 4pcc.com##[style^='display: flex; margin: 0px; padding:']
 bing.com##.b_ad
+fanyi.baidu.com##H1,H3,DIV.intro-nav.clearfix,DIV.intro-copyrigh,A.app-bar,DIV.intro-copyright
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##[class^='ball-wrapper']
 baidu.com##[style^="bottom:"][class^="ball-wrapper__"]
