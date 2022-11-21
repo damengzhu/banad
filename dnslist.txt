@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2114
-! Update Time:2022-11-20 16:59:51（北京时间） 
+! Total Count:2122
+! Update Time:2022-11-21 22:43:58（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -16,7 +16,10 @@
 ||*.umengcloud.com^
 ||0272aa.com^
 ||0272dd.com^
+||02asdf.com^
 ||031dfgh.com^
+||034dfgh.com^
+||035caop.com^
 ||036e.cn^
 ||03asdf.com^
 ||0m483y7.cn^
@@ -1070,6 +1073,7 @@
 ||lovegg.club^
 ||lowadec.cn^
 ||lpasdfgwer.com^
+||lpeolfa.top^
 ||lpjxzs.com^
 ||lpmzt.cn^
 ||lpxmall.com^
@@ -1240,6 +1244,7 @@
 ||nmgyllh.cn^
 ||nmrdnqn.cn^
 ||norma-external-collect.meizu.com^
+||nrjzkj.cn^
 ||ns1.chinayms.com^
 ||ns2.chinayms.com^
 ||nsclick.baidu.com^
@@ -1649,6 +1654,7 @@
 ||tobapplog.ctobsnssdk.com^
 ||toblog.ctobsnssdk.com^
 ||toggle.qq.com^
+||toijr.xyz^
 ||tongji.xinmin.cn^
 ||tools.3g.qq.com^
 ||toutiao.xn--fiqs8s^
@@ -1666,6 +1672,7 @@
 ||trafficjunky.net^
 ||travel.gfvip09at.com^
 ||trc.taboola.com^
+||trqhf.xyz^
 ||trslw.cn^
 ||tsdf.ajzsa.xyz^
 ||tsdflsdk.cypcb.net^
@@ -1769,6 +1776,7 @@
 ||wcf.kxewpz.com^
 ||wdfhbx.zdpeanut.com^
 ||wdn.lm343.com^
+||wdzwd.xyz^
 ||weifengtianxia.com^
 ||weixin.qq.huigun.top^
 ||wenjinsai.top^

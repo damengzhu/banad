@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2114
-#Update Time: 2022-11-20 16:59:51（北京时间） 
+#Total Count:2122
+#Update Time: 2022-11-21 22:43:58（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -17,7 +17,10 @@
 0.0.0.0 *.umengcloud.com
 0.0.0.0 0272aa.com
 0.0.0.0 0272dd.com
+0.0.0.0 02asdf.com
 0.0.0.0 031dfgh.com
+0.0.0.0 034dfgh.com
+0.0.0.0 035caop.com
 0.0.0.0 036e.cn
 0.0.0.0 03asdf.com
 0.0.0.0 0m483y7.cn
@@ -1071,6 +1074,7 @@
 0.0.0.0 lovegg.club
 0.0.0.0 lowadec.cn
 0.0.0.0 lpasdfgwer.com
+0.0.0.0 lpeolfa.top
 0.0.0.0 lpjxzs.com
 0.0.0.0 lpmzt.cn
 0.0.0.0 lpxmall.com
@@ -1241,6 +1245,7 @@
 0.0.0.0 nmgyllh.cn
 0.0.0.0 nmrdnqn.cn
 0.0.0.0 norma-external-collect.meizu.com
+0.0.0.0 nrjzkj.cn
 0.0.0.0 ns1.chinayms.com
 0.0.0.0 ns2.chinayms.com
 0.0.0.0 nsclick.baidu.com
@@ -1650,6 +1655,7 @@
 0.0.0.0 tobapplog.ctobsnssdk.com
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toggle.qq.com
+0.0.0.0 toijr.xyz
 0.0.0.0 tongji.xinmin.cn
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 toutiao.xn--fiqs8s
@@ -1667,6 +1673,7 @@
 0.0.0.0 trafficjunky.net
 0.0.0.0 travel.gfvip09at.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 trqhf.xyz
 0.0.0.0 trslw.cn
 0.0.0.0 tsdf.ajzsa.xyz
 0.0.0.0 tsdflsdk.cypcb.net
@@ -1770,6 +1777,7 @@
 0.0.0.0 wcf.kxewpz.com
 0.0.0.0 wdfhbx.zdpeanut.com
 0.0.0.0 wdn.lm343.com
+0.0.0.0 wdzwd.xyz
 0.0.0.0 weifengtianxia.com
 0.0.0.0 weixin.qq.huigun.top
 0.0.0.0 wenjinsai.top
