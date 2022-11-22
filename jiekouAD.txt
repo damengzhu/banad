@@ -2130,6 +2130,14 @@
 ||tobapplog.ctobsnssdk.com^
 ||stat.meitudata.com^
 ! URL
+@@rujume.top/js/jquer
+@@rujume.top/js/m3u8
+@@rujume.top/js/mplayer
+@@rujume.top/js/share
+@@rujume.top/ckplayerx
+@@rujume.top/css/share.css
+@@rujume.top/dplayer
+@@rujume.top/m3u8.php?url=
 @@rujume.top/muiplayer
 @@rujume.top/?url=
 @@rujume.top/API.php
