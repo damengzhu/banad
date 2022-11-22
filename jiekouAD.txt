@@ -2130,6 +2130,9 @@
 ||tobapplog.ctobsnssdk.com^
 ||stat.meitudata.com^
 ! URL
+@@rujume.top/muiplayer
+@@rujume.top/?url=
+@@rujume.top/API.php
 @@qhres2.com$domain=baike.so.com
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||www.google-analytics.com^$domain=myqqjd.com
