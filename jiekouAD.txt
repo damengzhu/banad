@@ -5,6 +5,7 @@
 ! Total Count: 2726
 ! by: 酷安@大萌主
 ! Host
+||ads-pixiv.net^
 ||035caop.com^
 ||wdzwd.xyz^
 ||034dfgh.com^
@@ -2718,6 +2719,8 @@ sohu.com##DIV#recommendSearch
 ##[onclick^="window.open('http://jx2.dxsdkw.cn"]
 ##[href^='http://mh'][href*='tiklink.cc']
 ##[href^='https://65564535.com']
+##div.ad-frame-container
+##iframe.ad-frame
 ##[href^='https://ccs.holor0803.cn']
 ##[href$='/ads.aspx']
 ##[href^='https://mtyshi.com/']
