@@ -2731,6 +2731,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
+##[href^='https://analytics.woozooo.com/jump.php?url=']
 ##[href^='https://ccs.holor0803.cn']
 ##[href$='/ads.aspx']
 ##[href^='https://mtyshi.com/']
