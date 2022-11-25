@@ -5,6 +5,7 @@
 ! Total Count: 2744
 ! by: 酷安@大萌主
 ! Host
+||wyqaafplm.live^
 ||www.tfaftemail.com^
 ||1113dage2022.xyz^
 ||d13gni3sfor862.cloudfront.net^
@@ -2655,6 +2656,8 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://xcc.ztdzpyf.cn/']
 ##[href='https://www.kissyvape.com/']
 ##[href^='https://2022025.com/']
+##DIV.ec-ad.tim-box
+##DIV.box-width.ec-ad
 ##[class^="chapter_"] > .baiduCenter
 ##[href^='https://www.44553606.com:']
 ##[href^='https://v44868.com:']
