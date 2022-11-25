@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2022-11-24 16:36:35（北京时间） 
-! Total Count: 2743
+! Update Time: 2022-11-25 10:04:44（北京时间） 
+! Total Count: 2744
 ! by: 酷安@大萌主
 ! Host
 ||www.tfaftemail.com^
