@@ -2544,6 +2544,7 @@ sohu.com##DIV#recommendSearch
 ##[href='http://link.pf.xf.udividends.in'][target='_blank'][data-type='link']
 ##[src^='https://p.jngdg.top/'][alt]
 ##[src*='.wdach.com/']
+##DIV.box-width.ec-ad.ec-ad-double.flex
 ###downapp1
 ##[href^='https://www.qlspx.com:']
 ##[src^='https://n5893.com'],[src^='https://gezkdx7.com'],[src^='https://n8182.com']
