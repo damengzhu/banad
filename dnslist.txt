@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2126
-! Update Time:2022-11-26 11:04:31（北京时间） 
+! Total Count:2139
+! Update Time:2022-11-26 22:31:46（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -22,6 +22,8 @@
 ||035caop.com^
 ||036e.cn^
 ||03asdf.com^
+||056opui.com^
+||064ioio.com^
 ||0m483y7.cn^
 ||0p7w.cn^
 ||1.98765432100.online^
@@ -396,6 +398,8 @@
 ||china.gzxxty168.com^
 ||chinaxinhe.net^
 ||chinayms.com^
+||cholor201015.cn^
+||chushoushijian.cn^
 ||chuzushijian.cn^
 ||cis.sohu.com^
 ||city.baiwb.com^
@@ -757,6 +761,7 @@
 ||hft.ofooe.cn^
 ||hgjxp.cn^
 ||hgkzl.cn^
+||hgpbhuj.cn^
 ||hh0212.cc^
 ||hhff.xsbooktxt.com^
 ||hickeyhsu.top^
@@ -947,6 +952,7 @@
 ||jsm.godloveme.cn^
 ||jsmxkj.com^
 ||jsnoownma.fun^
+||jssav6hk.club^
 ||jszctech.com^
 ||jti.husky.sogou.com^
 ||jtu24k.aoqinglv.cn^
@@ -978,6 +984,7 @@
 ||kbt.yhbsk.cn^
 ||kc.mindopu.com^
 ||kdcxhr.cn^
+||kdqnaec.cn^
 ||kelvy.iomsew.com^
 ||ken.kenxq.com^
 ||kengi.top^
@@ -1182,6 +1189,7 @@
 ||mg.yunchong6.cn^
 ||mg.yznwyng.cn^
 ||mg.zgcqxjzny.cn^
+||mgivkqk.cn^
 ||mh1.qiaolianshu.com^
 ||mhslbgk.cn^
 ||mhy.wdpkx.cn^
@@ -1222,6 +1230,7 @@
 ||mwzbp.iask.com.cn^
 ||mx.7cbwus.cn^
 ||mywb3.com^
+||mzxvib.com^
 ||n.35kds.com^
 ||na.nawpush.com^
 ||natqs.bealge.sogou.com^
@@ -1397,6 +1406,7 @@
 ||pv.vipwm.cc^
 ||pv.zhiding.cn^
 ||pvtest.zol.com.cn^
+||pvymlsvo.xyz^
 ||px.rhinogo.cn^
 ||px.ucweb.com^
 ||px.xiaomifood.cn^
@@ -1547,6 +1557,7 @@
 ||simiyue2.com^
 ||simplewebanalysis.com^
 ||sixiuwl.cn^
+||siz3wxt8p.shop^
 ||sjarvis.taobao.com^
 ||sjdfuvz.cn^
 ||sjoy7rq.cn^
@@ -1579,6 +1590,7 @@
 ||ssqyuvavse.com^
 ||stadig.ifeng.com^
 ||star.hssapp.shop^
+||starttui.xyz^
 ||stat.cnmo.com^
 ||stat.download.xunlei.com^
 ||stat.ea3w.com^
@@ -2002,6 +2014,7 @@
 ||ximg.0c1q0l.cn^
 ||ximit8023.maijijo.com^
 ||xinlimaoyi2.xinlimaoyi.cn^
+||xjrvwz.com^
 ||xlpe.husky.sogou.com^
 ||xls.go.sohu.com^
 ||xm.lyszsz.cn^

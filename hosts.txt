@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2126
-#Update Time: 2022-11-26 11:04:31（北京时间） 
+#Total Count:2139
+#Update Time: 2022-11-26 22:31:46（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -23,6 +23,8 @@
 0.0.0.0 035caop.com
 0.0.0.0 036e.cn
 0.0.0.0 03asdf.com
+0.0.0.0 056opui.com
+0.0.0.0 064ioio.com
 0.0.0.0 0m483y7.cn
 0.0.0.0 0p7w.cn
 0.0.0.0 1.98765432100.online
@@ -397,6 +399,8 @@
 0.0.0.0 china.gzxxty168.com
 0.0.0.0 chinaxinhe.net
 0.0.0.0 chinayms.com
+0.0.0.0 cholor201015.cn
+0.0.0.0 chushoushijian.cn
 0.0.0.0 chuzushijian.cn
 0.0.0.0 cis.sohu.com
 0.0.0.0 city.baiwb.com
@@ -758,6 +762,7 @@
 0.0.0.0 hft.ofooe.cn
 0.0.0.0 hgjxp.cn
 0.0.0.0 hgkzl.cn
+0.0.0.0 hgpbhuj.cn
 0.0.0.0 hh0212.cc
 0.0.0.0 hhff.xsbooktxt.com
 0.0.0.0 hickeyhsu.top
@@ -948,6 +953,7 @@
 0.0.0.0 jsm.godloveme.cn
 0.0.0.0 jsmxkj.com
 0.0.0.0 jsnoownma.fun
+0.0.0.0 jssav6hk.club
 0.0.0.0 jszctech.com
 0.0.0.0 jti.husky.sogou.com
 0.0.0.0 jtu24k.aoqinglv.cn
@@ -979,6 +985,7 @@
 0.0.0.0 kbt.yhbsk.cn
 0.0.0.0 kc.mindopu.com
 0.0.0.0 kdcxhr.cn
+0.0.0.0 kdqnaec.cn
 0.0.0.0 kelvy.iomsew.com
 0.0.0.0 ken.kenxq.com
 0.0.0.0 kengi.top
@@ -1183,6 +1190,7 @@
 0.0.0.0 mg.yunchong6.cn
 0.0.0.0 mg.yznwyng.cn
 0.0.0.0 mg.zgcqxjzny.cn
+0.0.0.0 mgivkqk.cn
 0.0.0.0 mh1.qiaolianshu.com
 0.0.0.0 mhslbgk.cn
 0.0.0.0 mhy.wdpkx.cn
@@ -1223,6 +1231,7 @@
 0.0.0.0 mwzbp.iask.com.cn
 0.0.0.0 mx.7cbwus.cn
 0.0.0.0 mywb3.com
+0.0.0.0 mzxvib.com
 0.0.0.0 n.35kds.com
 0.0.0.0 na.nawpush.com
 0.0.0.0 natqs.bealge.sogou.com
@@ -1398,6 +1407,7 @@
 0.0.0.0 pv.vipwm.cc
 0.0.0.0 pv.zhiding.cn
 0.0.0.0 pvtest.zol.com.cn
+0.0.0.0 pvymlsvo.xyz
 0.0.0.0 px.rhinogo.cn
 0.0.0.0 px.ucweb.com
 0.0.0.0 px.xiaomifood.cn
@@ -1548,6 +1558,7 @@
 0.0.0.0 simiyue2.com
 0.0.0.0 simplewebanalysis.com
 0.0.0.0 sixiuwl.cn
+0.0.0.0 siz3wxt8p.shop
 0.0.0.0 sjarvis.taobao.com
 0.0.0.0 sjdfuvz.cn
 0.0.0.0 sjoy7rq.cn
@@ -1580,6 +1591,7 @@
 0.0.0.0 ssqyuvavse.com
 0.0.0.0 stadig.ifeng.com
 0.0.0.0 star.hssapp.shop
+0.0.0.0 starttui.xyz
 0.0.0.0 stat.cnmo.com
 0.0.0.0 stat.download.xunlei.com
 0.0.0.0 stat.ea3w.com
@@ -2003,6 +2015,7 @@
 0.0.0.0 ximg.0c1q0l.cn
 0.0.0.0 ximit8023.maijijo.com
 0.0.0.0 xinlimaoyi2.xinlimaoyi.cn
+0.0.0.0 xjrvwz.com
 0.0.0.0 xlpe.husky.sogou.com
 0.0.0.0 xls.go.sohu.com
 0.0.0.0 xm.lyszsz.cn
