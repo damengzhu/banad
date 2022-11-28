@@ -5,6 +5,10 @@
 ! Total Count: 2763
 ! by: 酷安@大萌主
 ! Host
+||orxsq.xyz^
+||jssav4hk.xyz^
+||bcfeat2.com^
+||025zxcv.com^
 ||1116yitiao2022.xyz^
 ||tsyndicate.com^
 ||xxxviijmp.com^
@@ -2348,6 +2352,7 @@ www.duodada.com/Tpl/default/system.js
 5dyx.com/static/jquery.js
 m.90mh.com/mip/qdbao77.js
 jiexi.071811.cc/js/cpa.js
+s2.m.manmanju.com/mg/show*.js
 m.sodu2020.com/js/ppc.js
 mini.yyrtv.com/static/js/statistics/user_ad.js
 mini.yyrtv.com/static/js/miniyyrtv-config.js
@@ -2386,7 +2391,7 @@ javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3
 baidu.com###relative_shop_flow
 cpu.baidu.com##A[href*='cpro.baidu.com']
 baidu.com##.ec_wise_ad
-s2.m.manmanju.com/mg/show*.js
+
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 m.sohu.com##[data-v-7a7c15af][href^='https://m.sohu.com/promotion'],[data-v-7a7c15af][data-spm-type='resource'][data-spm-data='4']
@@ -2419,6 +2424,8 @@ oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/t
 dmh8.com##[style^='display: block; z-index: ']
 dmh8.com##[style^='box-sizing: border-box; position: relative']
 dmh8.com##[style^='display: flex']
+www.jmhongyan.com##ins[class],div.container p
+www.jjtyss.com##ins[class],#div.myui-player.clearfix p,div.container p
 www.olevod.com##DIV.B1Lss,.B1Rss
 www.dldxdyfsyy.com##DIV[style='position:relative;']
 nfmovies.com##DIV[class='clearfix']
