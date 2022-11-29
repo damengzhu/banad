@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2146
-#Update Time: 2022-11-29 20:32:36（北京时间） 
+#Total Count:2186
+#Update Time: 2022-11-29 20:39:57（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -87,6 +87,7 @@
 0.0.0.0 4sexmail.com
 0.0.0.0 517heiya.com
 0.0.0.0 51jqq.top
+0.0.0.0 51xuex.com.cn
 0.0.0.0 54askjdklm.xyz
 0.0.0.0 55zzz.cn
 0.0.0.0 56.phlckj.cn
@@ -97,11 +98,13 @@
 0.0.0.0 5c.tepusi888.cn
 0.0.0.0 5i103xb.wuplexv.cn
 0.0.0.0 60198956.jcpecb.com
+0.0.0.0 60355.net
 0.0.0.0 61hhdp.com
 0.0.0.0 68710266.com
 0.0.0.0 6as.lm832.com
 0.0.0.0 6g.sybnzs.cn
 0.0.0.0 6gukaitu.xyz
+0.0.0.0 6hejing.cn
 0.0.0.0 6rr.lm882.com
 0.0.0.0 7282818wednesday.1905715.com
 0.0.0.0 777.qweewq2021.online
@@ -114,6 +117,7 @@
 0.0.0.0 7jkzmbd.cn
 0.0.0.0 7kjiiu.cn
 0.0.0.0 7r227ut.cn
+0.0.0.0 87asa.com
 0.0.0.0 87d.xv5b.com
 0.0.0.0 888lianmeng.com
 0.0.0.0 88eg.cn
@@ -207,6 +211,8 @@
 0.0.0.0 aiwei365.net
 0.0.0.0 aj.drebz4f.shop
 0.0.0.0 aj4j.icu
+0.0.0.0 akmh074.vip
+0.0.0.0 akmh080.vip
 0.0.0.0 aksdkfj.biexsite.net
 0.0.0.0 aksjdfk.guohexinxiang.com
 0.0.0.0 aksldkjfd.11jianzhan.com
@@ -313,6 +319,7 @@
 0.0.0.0 bcglkfu.cn
 0.0.0.0 bd1.zuimeitianqi.com
 0.0.0.0 bd2.zuimeitianqi.com
+0.0.0.0 bdhcpll.cn
 0.0.0.0 bdq.yikan2019.com
 0.0.0.0 bdwmhzfl.120askimages.com
 0.0.0.0 bea-s.dinghuoche.com
@@ -347,6 +354,7 @@
 0.0.0.0 bxwccii.cn
 0.0.0.0 c-gtc.getui.net
 0.0.0.0 c.acgshenshicha.cn
+0.0.0.0 c.bdhcpll.cn
 0.0.0.0 c.gzasiatech.net
 0.0.0.0 c.l.qq.com
 0.0.0.0 c.leankun.com
@@ -418,8 +426,10 @@
 0.0.0.0 click.ynxjf.com
 0.0.0.0 clldirectasianew.club
 0.0.0.0 cloud-log.yy.com
+0.0.0.0 clw99.mobi
 0.0.0.0 cmpxaup.cn
 0.0.0.0 cmspapp83.com
+0.0.0.0 cmspapp84.com
 0.0.0.0 cncnails.net
 0.0.0.0 cns.wxdal.cn
 0.0.0.0 cnzz.com
@@ -715,10 +725,12 @@
 0.0.0.0 greenxcx.com
 0.0.0.0 grjasq.com
 0.0.0.0 gscatk.cn
+0.0.0.0 gshsne.xyz
 0.0.0.0 gsnlc.cn
 0.0.0.0 gsp0.kj-gov.cn
 0.0.0.0 gsxbxvd.cn
 0.0.0.0 gtcqbnu.cn
+0.0.0.0 gtpxvpi.cn
 0.0.0.0 guanggao28.xyz
 0.0.0.0 gwertyuadf.com
 0.0.0.0 gxbnp.cn
@@ -832,6 +844,8 @@
 0.0.0.0 ihtqqws.cn
 0.0.0.0 ii.joqtfa.cn
 0.0.0.0 ijgocb.cn
+0.0.0.0 ijkmafsf.xyz
+0.0.0.0 ikjwmfeds.xyz
 0.0.0.0 ilyf4amifh.com
 0.0.0.0 im-x.jd.com
 0.0.0.0 image.yafytg.cn
@@ -920,6 +934,7 @@
 0.0.0.0 jlt47.lxg8s.xyz
 0.0.0.0 jmr.nnxiant.cn
 0.0.0.0 jnt.gxhzv.cn
+0.0.0.0 jocelynrace.com
 0.0.0.0 jomwihn.cn
 0.0.0.0 jq65pd47n1.jcheys.com
 0.0.0.0 jquery.wogukcd.xyz
@@ -1019,6 +1034,7 @@
 0.0.0.0 kmy.tlsgq.cn
 0.0.0.0 kn.zhangdujia.com
 0.0.0.0 knb.cmgjqqu.cn
+0.0.0.0 knmwrkw.xyz
 0.0.0.0 knt.viplp.top
 0.0.0.0 kntb.sglyd.cn
 0.0.0.0 ko2v.eiya.net
@@ -1050,6 +1066,7 @@
 0.0.0.0 l23kdkghsldrj.tj-cyhg.com
 0.0.0.0 lakjdskls.zhdchb.com
 0.0.0.0 land2.fish882.xyz
+0.0.0.0 lanmeifeel.xyz
 0.0.0.0 lanmeiyu.work
 0.0.0.0 lblu7qldju7.elegant-creator.com
 0.0.0.0 lccfjszp.cn
@@ -1059,6 +1076,7 @@
 0.0.0.0 lijunkai.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 lingke05.top
+0.0.0.0 lingting.xin
 0.0.0.0 link.21373.com
 0.0.0.0 link.jzzxapp.cn
 0.0.0.0 livep.l.qq.com
@@ -1145,6 +1163,7 @@
 0.0.0.0 macnc.shenfire.cn
 0.0.0.0 manguan.vip
 0.0.0.0 maobujie.com
+0.0.0.0 mapsmnx.cyou
 0.0.0.0 marjorienice.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 mb.tianyuewangluo.top
@@ -1200,6 +1219,7 @@
 0.0.0.0 mhy.wdpkx.cn
 0.0.0.0 mi.gdt.qq.com
 0.0.0.0 mic.yun-pdm5000.cn
+0.0.0.0 mikongdd.top
 0.0.0.0 mimg.meihu56.cn
 0.0.0.0 mingtians.top
 0.0.0.0 mixer.sina.cn
@@ -1283,7 +1303,9 @@
 0.0.0.0 oby6i8766jf1.bujiangjiu123.com
 0.0.0.0 oceanbot-steam.com
 0.0.0.0 ockfjk3kjk7kjkf.xmangoculture.com
+0.0.0.0 oehhq.xyz
 0.0.0.0 oewtuho.cn
+0.0.0.0 oganilglk.cyou
 0.0.0.0 ohjfk7jf28.gsjzlssws.com
 0.0.0.0 oiuqwppcsdf.com
 0.0.0.0 ojkskdjf.waizongguan.net
@@ -1420,6 +1442,7 @@
 0.0.0.0 pzkrgcp.cn
 0.0.0.0 q.baminw.com.cn
 0.0.0.0 q.e49.xyz
+0.0.0.0 q.f05.xyz
 0.0.0.0 q.stricaik.com
 0.0.0.0 q8.ttly888.com
 0.0.0.0 qapm.baidu.com
@@ -1439,6 +1462,7 @@
 0.0.0.0 qdvideo.xyz
 0.0.0.0 qexitv.com
 0.0.0.0 qf1d.top
+0.0.0.0 qfcdgy.cn
 0.0.0.0 qfnoyix.cn
 0.0.0.0 qg1v.adroition.net
 0.0.0.0 qhicumg.cn
@@ -1466,6 +1490,7 @@
 0.0.0.0 qw.kuanxin.top
 0.0.0.0 qw2v.taoxiehui.cn
 0.0.0.0 qwe0231141.bj.bcebos.com
+0.0.0.0 qweasd.vip
 0.0.0.0 qwertyuadf.com
 0.0.0.0 qybs.mclseww.top
 0.0.0.0 qyzyd.top
@@ -1508,6 +1533,7 @@
 0.0.0.0 runative-syndicate.com
 0.0.0.0 rv.shijixinrui.cn
 0.0.0.0 rvbztg.cn
+0.0.0.0 rvyjbwr.cn
 0.0.0.0 rxlidz.ink
 0.0.0.0 s.btime.com
 0.0.0.0 s.cchvc.net
@@ -1550,6 +1576,7 @@
 0.0.0.0 sh-qiruizx.com
 0.0.0.0 sh6929.dftoutiao.com
 0.0.0.0 shop.yipanhaocai.com
+0.0.0.0 shouzhi.biz
 0.0.0.0 show.aklm.cc
 0.0.0.0 show.jiuhui899.com
 0.0.0.0 show.meituangov.cn
@@ -1659,6 +1686,7 @@
 0.0.0.0 tgfyq.cn
 0.0.0.0 tgu.tjqwb.cn
 0.0.0.0 thefatherofsalmon.com
+0.0.0.0 thinkmd.cn
 0.0.0.0 tj-yijiajing.com
 0.0.0.0 tj.21ic.com
 0.0.0.0 tj.allcdn.vip
@@ -1675,6 +1703,7 @@
 0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toggle.qq.com
 0.0.0.0 toijr.xyz
+0.0.0.0 tokendomain.xyz
 0.0.0.0 tongji.xinmin.cn
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 toutiao.xn--fiqs8s
@@ -1707,6 +1736,7 @@
 0.0.0.0 txscn.cn
 0.0.0.0 ty.lizehuandian.top
 0.0.0.0 ty.szhszxfw.cn
+0.0.0.0 tyawwj.cn
 0.0.0.0 tydouke.com
 0.0.0.0 tylll.allykitchen.com
 0.0.0.0 tylll.igame2steam.com
@@ -1770,6 +1800,7 @@
 0.0.0.0 vfq1.xmsrd.com
 0.0.0.0 video.new-eve.com
 0.0.0.0 video231.oss-cn-beijing.aliyuncs.com
+0.0.0.0 vieldeold.xyz
 0.0.0.0 vivovip.mmszxc.top
 0.0.0.0 vm.aty.sohu.com
 0.0.0.0 vm5.i7akpd1.xyz
@@ -1784,6 +1815,7 @@
 0.0.0.0 vxs.mibaoge.com
 0.0.0.0 w.bnlg.fun
 0.0.0.0 w01.fhfgg.com
+0.0.0.0 w41.i7x3.fun
 0.0.0.0 wan.lm995.com
 0.0.0.0 wanm.lm335.com
 0.0.0.0 wap.bntxt.com
@@ -1798,6 +1830,7 @@
 0.0.0.0 wdfhbx.zdpeanut.com
 0.0.0.0 wdn.lm343.com
 0.0.0.0 wdzwd.xyz
+0.0.0.0 web.cdn.openinstall.io
 0.0.0.0 weifengtianxia.com
 0.0.0.0 weixin.qq.huigun.top
 0.0.0.0 wenjinsai.top
@@ -1901,6 +1934,7 @@
 0.0.0.0 www.jmine.cn
 0.0.0.0 www.jsifaja.com
 0.0.0.0 www.kanglingjiu.com
+0.0.0.0 www.kcc4445.top
 0.0.0.0 www.kjfxzeggca.com
 0.0.0.0 www.kldsam.com
 0.0.0.0 www.koudaikeji.info
@@ -1915,6 +1949,7 @@
 0.0.0.0 www.lthwsj.com
 0.0.0.0 www.mdfsbn.com
 0.0.0.0 www.mitao17.com
+0.0.0.0 www.moneyziyouwm.com
 0.0.0.0 www.mqhzdl.com
 0.0.0.0 www.okqjdn.com
 0.0.0.0 www.pcuois.com
@@ -1936,6 +1971,7 @@
 0.0.0.0 www.seinse27.com
 0.0.0.0 www.serversad.com
 0.0.0.0 www.sioccu.com
+0.0.0.0 www.smtlm.cc
 0.0.0.0 www.soviewo.com
 0.0.0.0 www.statics88.vip
 0.0.0.0 www.t5wm.cc
@@ -2067,11 +2103,14 @@
 0.0.0.0 yenyshy.com
 0.0.0.0 yes.thewindrun.com
 0.0.0.0 yglo.pluto.sogou.com
+0.0.0.0 ygwdai.cn
 0.0.0.0 yh.jialingmm.net
 0.0.0.0 yh.zg-zxzx.net
 0.0.0.0 yhbsk.cn
 0.0.0.0 yhjccj.cn
 0.0.0.0 yhz18.com
+0.0.0.0 yhzm.xyz
+0.0.0.0 yihehe.xyz
 0.0.0.0 yitongwl.cn
 0.0.0.0 yk-ssp.ad.youku.com
 0.0.0.0 ykad-data.youku.com
@@ -2080,6 +2119,7 @@
 0.0.0.0 ylznwl.cn
 0.0.0.0 ymm17.cc
 0.0.0.0 ymm19.cc
+0.0.0.0 ymyile.xyz
 0.0.0.0 ynuf.aliapp.org
 0.0.0.0 yoda.kwd.inkuai.com
 0.0.0.0 yoke.039nez.com
