@@ -2178,6 +2178,7 @@
 ||baidu.com/newspage/api/getmobads?
 jmb.izzcwww*.*
 *:*/*.html?k=*&_=*
+/js/news2zz.js
 boxmp4.com/js/foot.js
 /r/t1/16/
 *.u8hdqyug.*
@@ -2391,7 +2392,6 @@ javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3
 baidu.com###relative_shop_flow
 cpu.baidu.com##A[href*='cpro.baidu.com']
 baidu.com##.ec_wise_ad
-
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 m.sohu.com##[data-v-7a7c15af][href^='https://m.sohu.com/promotion'],[data-v-7a7c15af][data-spm-type='resource'][data-spm-data='4']
@@ -2747,6 +2747,11 @@ sohu.com##DIV#recommendSearch
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##[src='/images/c_l.png']
 ##[href='/my/dp.html']
+##[href^='https://luodi.aitaokeji.top/']
+##[poster^='https://dingbu.bj.bcebos.com/']
+##[src^='https://dingbu.bj.bcebos.com/']
+##IMG[onclick='golh()'][src$='.gif']
+##div.callApp_fl_btn.an
 ###ad-1,#ad-2,#ad-3,#ad-4,#ad-5,#ad-6,#ad-7
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ###mobile-index > div[id^="ins"]
