@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2195
-! Update Time:2022-11-30 10:18:51（北京时间） 
+! Total Count:2204
+! Update Time:2022-11-30 12:15:40（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -39,6 +39,7 @@
 ||1107piaoliang2022.xyz^
 ||1113dage2022.xyz^
 ||1116yitiao2022.xyz^
+||1117liangtiao2022.xyz^
 ||113.105.248.169^
 ||12229wednesday.xmywlyh.cn^
 ||1224.zg-babyroo.com^
@@ -135,6 +136,7 @@
 ||997.000123456789.site^
 ||99999999.club^
 ||99e333.nbrlzy.com^
+||9fwz.com^
 ||9js6.icu^
 ||a-d.7dh26aja.com^
 ||a-mo.net^
@@ -897,6 +899,7 @@
 ||j.guanjiabo.net^
 ||j.guotaotaoci.net^
 ||j.gxlsjt.com^
+||j.hubiazhi.com^
 ||j.iklda.cn^
 ||j.jixiangniutanrou.net^
 ||j.k31bpzf.xyz^
@@ -1269,6 +1272,7 @@
 ||nbk.lm553.com^
 ||nbr.yangshengzu.cn^
 ||nbsdk-baichuan.alicdn.com^
+||neihhou.com^
 ||new.xiongzhangad.com^
 ||new.zhuanquxian.com^
 ||newa.nuannuanqi.top^
@@ -1610,6 +1614,7 @@
 ||sobakenchmaphk.com^
 ||sofire.baidu.com^
 ||sogo.uc.continuefaf.top^
+||somaliainc.com^
 ||sp.chemacid.cn^
 ||spl.ztvx8.com^
 ||sports.shareman.xyz^
@@ -1696,6 +1701,7 @@
 ||tj-yijiajing.com^
 ||tj.21ic.com^
 ||tj.allcdn.vip^
+||tj.sosomp.com^
 ||tj.tianwenhu.com^
 ||tjj.com^
 ||tkl.meizhebao.cn^
@@ -2015,6 +2021,7 @@
 ||www.ywquyq.com^
 ||www.zbinview.com^
 ||www.zhangjiaqi.top^
+||www.zhangjiyi.top^
 ||www.zhaohainan.cn^
 ||wx.uc.downcdn.top^
 ||wxdqgmr.cn^
@@ -2149,6 +2156,7 @@
 ||yunl1.com^
 ||yusnw.cc^
 ||yy.xinqiannv.com^
+||yy4480qpgyy.com^
 ||yyds.0310cn.com^
 ||yystzl.cn^
 ||yyt.heshun365.cn^
@@ -2164,6 +2172,7 @@
 ||zc.tiandesign.top^
 ||zcy821.com^
 ||zdx25.site^
+||zdx30.site^
 ||zdznsqb.com^
 ||zero.wewakir.top^
 ||zgdshoes.com^

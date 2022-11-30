@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2195
-#Update Time: 2022-11-30 10:18:51（北京时间） 
+#Total Count:2204
+#Update Time: 2022-11-30 12:15:40（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -40,6 +40,7 @@
 0.0.0.0 1107piaoliang2022.xyz
 0.0.0.0 1113dage2022.xyz
 0.0.0.0 1116yitiao2022.xyz
+0.0.0.0 1117liangtiao2022.xyz
 0.0.0.0 113.105.248.169
 0.0.0.0 12229wednesday.xmywlyh.cn
 0.0.0.0 1224.zg-babyroo.com
@@ -136,6 +137,7 @@
 0.0.0.0 997.000123456789.site
 0.0.0.0 99999999.club
 0.0.0.0 99e333.nbrlzy.com
+0.0.0.0 9fwz.com
 0.0.0.0 9js6.icu
 0.0.0.0 a-d.7dh26aja.com
 0.0.0.0 a-mo.net
@@ -898,6 +900,7 @@
 0.0.0.0 j.guanjiabo.net
 0.0.0.0 j.guotaotaoci.net
 0.0.0.0 j.gxlsjt.com
+0.0.0.0 j.hubiazhi.com
 0.0.0.0 j.iklda.cn
 0.0.0.0 j.jixiangniutanrou.net
 0.0.0.0 j.k31bpzf.xyz
@@ -1270,6 +1273,7 @@
 0.0.0.0 nbk.lm553.com
 0.0.0.0 nbr.yangshengzu.cn
 0.0.0.0 nbsdk-baichuan.alicdn.com
+0.0.0.0 neihhou.com
 0.0.0.0 new.xiongzhangad.com
 0.0.0.0 new.zhuanquxian.com
 0.0.0.0 newa.nuannuanqi.top
@@ -1611,6 +1615,7 @@
 0.0.0.0 sobakenchmaphk.com
 0.0.0.0 sofire.baidu.com
 0.0.0.0 sogo.uc.continuefaf.top
+0.0.0.0 somaliainc.com
 0.0.0.0 sp.chemacid.cn
 0.0.0.0 spl.ztvx8.com
 0.0.0.0 sports.shareman.xyz
@@ -1697,6 +1702,7 @@
 0.0.0.0 tj-yijiajing.com
 0.0.0.0 tj.21ic.com
 0.0.0.0 tj.allcdn.vip
+0.0.0.0 tj.sosomp.com
 0.0.0.0 tj.tianwenhu.com
 0.0.0.0 tjj.com
 0.0.0.0 tkl.meizhebao.cn
@@ -2016,6 +2022,7 @@
 0.0.0.0 www.ywquyq.com
 0.0.0.0 www.zbinview.com
 0.0.0.0 www.zhangjiaqi.top
+0.0.0.0 www.zhangjiyi.top
 0.0.0.0 www.zhaohainan.cn
 0.0.0.0 wx.uc.downcdn.top
 0.0.0.0 wxdqgmr.cn
@@ -2150,6 +2157,7 @@
 0.0.0.0 yunl1.com
 0.0.0.0 yusnw.cc
 0.0.0.0 yy.xinqiannv.com
+0.0.0.0 yy4480qpgyy.com
 0.0.0.0 yyds.0310cn.com
 0.0.0.0 yystzl.cn
 0.0.0.0 yyt.heshun365.cn
@@ -2165,6 +2173,7 @@
 0.0.0.0 zc.tiandesign.top
 0.0.0.0 zcy821.com
 0.0.0.0 zdx25.site
+0.0.0.0 zdx30.site
 0.0.0.0 zdznsqb.com
 0.0.0.0 zero.wewakir.top
 0.0.0.0 zgdshoes.com
