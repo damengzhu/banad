@@ -5,6 +5,15 @@
 ! Total Count: 2829
 ! by: 酷安@大萌主
 ! Host
+||www.zhangjiyi.top^
+||9fwz.com^
+||j.hubiazhi.com^
+||tj.sosomp.com^
+||neihhou.com^
+||1117liangtiao2022.xyz^
+||yy4480qpgyy.com^
+||somaliainc.com^
+||zdx30.site^
 ||mrhboe.xyz^
 ||bsdgjmy.com^
 ||qzos9ou.xyz^
@@ -2296,6 +2305,8 @@ jx.xbiqu5.com/12345678.js
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
+/gameapk/*/hongbao.apk
+/dibu.adadadad
 imanhuapi.com/style/js/mpmh.js
 ?adspot_
 scupio.com/js/ad.js
@@ -2623,6 +2634,10 @@ sohu.com##DIV#recommendSearch
 ##[href='https://ad.ysgc.xyz/zb.html']
 ##[href^="https://9996867.com"]
 ##[href="/ad/007.html"]
+###ad-index.position-relative
+##[src^='https://l.bt5v.com/v.php']
+##div.container > div.row div.yalayi_box
+##center > [href^='https://docs.qq.com/doc'][target='_blank']
 ##A[href='/hth.html']
 ##[alt="要恰饭的嘛"]
 ##img#hth[onclick^="window.open"]
