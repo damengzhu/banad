@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2186
-#Update Time: 2022-11-29 20:39:57（北京时间） 
+#Total Count:2195
+#Update Time: 2022-11-30 10:18:51（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -26,6 +26,7 @@
 0.0.0.0 03asdf.com
 0.0.0.0 056opui.com
 0.0.0.0 064ioio.com
+0.0.0.0 065yuyu.com
 0.0.0.0 0m483y7.cn
 0.0.0.0 0p7w.cn
 0.0.0.0 1.98765432100.online
@@ -276,6 +277,7 @@
 0.0.0.0 as.dingyar.top
 0.0.0.0 as.kuanxin.top
 0.0.0.0 as.tiandesign.top
+0.0.0.0 as89de.top
 0.0.0.0 asdfjkls.jianyihang.com
 0.0.0.0 asdfkl.vhulan.com
 0.0.0.0 asdfkskf.cloudasbook.com
@@ -345,6 +347,7 @@
 0.0.0.0 br.bendan.shop
 0.0.0.0 browserkernel.baidu.com
 0.0.0.0 brt.studylabs.cn
+0.0.0.0 bsdgjmy.com
 0.0.0.0 bsiet.husky.sogou.com
 0.0.0.0 btrace.qq.com
 0.0.0.0 bugly.qq.com
@@ -661,6 +664,7 @@
 0.0.0.0 fhitagd.cn
 0.0.0.0 fhsmtrnsfnt.com
 0.0.0.0 firearmtire.com
+0.0.0.0 fiwyjar.cn
 0.0.0.0 fja9881.niulai0323166.space
 0.0.0.0 fjctlnn.top
 0.0.0.0 fjjmnh.com
@@ -744,6 +748,7 @@
 0.0.0.0 h.baminw.cn
 0.0.0.0 h.bbbazlp.cn
 0.0.0.0 h.cx0001.cn
+0.0.0.0 h2ji5.xyz
 0.0.0.0 h45pmx1.cn
 0.0.0.0 h4b0srs.cn
 0.0.0.0 h5.miyushu.com
@@ -1243,6 +1248,7 @@
 0.0.0.0 mobrkbb.com
 0.0.0.0 mosangkeji.com
 0.0.0.0 mqjs.jsdocker.com
+0.0.0.0 mrhboe.xyz
 0.0.0.0 mroft.gubgonx.cn
 0.0.0.0 msg.ettoday.net
 0.0.0.0 msg.iqiyi.com
@@ -1495,6 +1501,7 @@
 0.0.0.0 qybs.mclseww.top
 0.0.0.0 qyzyd.top
 0.0.0.0 qzda.cc
+0.0.0.0 qzos9ou.xyz
 0.0.0.0 qzpmx.cn
 0.0.0.0 qzqd2.com
 0.0.0.0 qzxcvb.m.zwdu.com
@@ -1721,6 +1728,7 @@
 0.0.0.0 trafficjunky.net
 0.0.0.0 travel.gfvip09at.com
 0.0.0.0 trc.taboola.com
+0.0.0.0 trognoi.com
 0.0.0.0 trqhf.xyz
 0.0.0.0 trslw.cn
 0.0.0.0 tsdf.ajzsa.xyz
@@ -2136,6 +2144,7 @@
 0.0.0.0 ytxj.mercury.sogou.com
 0.0.0.0 yu.axcdt.cn
 0.0.0.0 yu.dlxxjsh.top
+0.0.0.0 yubingyuan.top
 0.0.0.0 yuehesh.com
 0.0.0.0 yun-hl.3g.qq.com
 0.0.0.0 yunl1.com

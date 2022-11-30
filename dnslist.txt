@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2186
-! Update Time:2022-11-29 20:39:57（北京时间） 
+! Total Count:2195
+! Update Time:2022-11-30 10:18:51（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -25,6 +25,7 @@
 ||03asdf.com^
 ||056opui.com^
 ||064ioio.com^
+||065yuyu.com^
 ||0m483y7.cn^
 ||0p7w.cn^
 ||1.98765432100.online^
@@ -275,6 +276,7 @@
 ||as.dingyar.top^
 ||as.kuanxin.top^
 ||as.tiandesign.top^
+||as89de.top^
 ||asdfjkls.jianyihang.com^
 ||asdfkl.vhulan.com^
 ||asdfkskf.cloudasbook.com^
@@ -344,6 +346,7 @@
 ||br.bendan.shop^
 ||browserkernel.baidu.com^
 ||brt.studylabs.cn^
+||bsdgjmy.com^
 ||bsiet.husky.sogou.com^
 ||btrace.qq.com^
 ||bugly.qq.com^
@@ -660,6 +663,7 @@
 ||fhitagd.cn^
 ||fhsmtrnsfnt.com^
 ||firearmtire.com^
+||fiwyjar.cn^
 ||fja9881.niulai0323166.space^
 ||fjctlnn.top^
 ||fjjmnh.com^
@@ -743,6 +747,7 @@
 ||h.baminw.cn^
 ||h.bbbazlp.cn^
 ||h.cx0001.cn^
+||h2ji5.xyz^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
 ||h5.miyushu.com^
@@ -1242,6 +1247,7 @@
 ||mobrkbb.com^
 ||mosangkeji.com^
 ||mqjs.jsdocker.com^
+||mrhboe.xyz^
 ||mroft.gubgonx.cn^
 ||msg.ettoday.net^
 ||msg.iqiyi.com^
@@ -1494,6 +1500,7 @@
 ||qybs.mclseww.top^
 ||qyzyd.top^
 ||qzda.cc^
+||qzos9ou.xyz^
 ||qzpmx.cn^
 ||qzqd2.com^
 ||qzxcvb.m.zwdu.com^
@@ -1720,6 +1727,7 @@
 ||trafficjunky.net^
 ||travel.gfvip09at.com^
 ||trc.taboola.com^
+||trognoi.com^
 ||trqhf.xyz^
 ||trslw.cn^
 ||tsdf.ajzsa.xyz^
@@ -2135,6 +2143,7 @@
 ||ytxj.mercury.sogou.com^
 ||yu.axcdt.cn^
 ||yu.dlxxjsh.top^
+||yubingyuan.top^
 ||yuehesh.com^
 ||yun-hl.3g.qq.com^
 ||yunl1.com^
