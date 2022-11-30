@@ -5,6 +5,15 @@
 ! Total Count: 2815
 ! by: 酷安@大萌主
 ! Host
+||mrhboe.xyz^
+||bsdgjmy.com^
+||qzos9ou.xyz^
+||065yuyu.com^
+||yubingyuan.top^
+||fiwyjar.cn^
+||as89de.top^
+||h2ji5.xyz^
+||trognoi.com^
 ||clw99.mobi^
 ||cmspapp84.com^
 ||ijkmafsf.xyz^
@@ -2755,6 +2764,11 @@ sohu.com##DIV#recommendSearch
 ##.advertise
 ##[href^='https://xcc.rpkcqtf.cn/']
 ##a.gggg[href^="https"]
+###adDisabledBtn
+###Page-1[stroke='none'][fill='none'][fill-rule='evenodd']
+###header_global_ad
+##DIV#bl_mobile_float
+##[href^='https://iluluweb.club']
 ##[href='https://cai35b9.com/']
 ##[href^='https://0414483.com/']
 ##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
