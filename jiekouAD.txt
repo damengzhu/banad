@@ -5,6 +5,7 @@
 ! Total Count: 2924
 ! by: 酷安@大萌主
 ! Host
+||joannarace.com^
 ||zvvg678.xyz^
 ||yangliu.ink^
 ||zhangchi.work^
@@ -2353,6 +2354,9 @@ chen-xing/figure_bed*
 /api/ad/*
 /j/142610
 /js/mts66.js
+.live/r/*/*_r=*==
+.xyz/hm.js?
+/Distribute/Distribute_g/butterfly/
 /js/mts.js
 *tplv-noop.gif*
 ||nex.163.com/q?
@@ -2619,6 +2623,8 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+##DIV[class^='ads_border_']
+##div[id*='cat_'][id*='_ad']
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##[href='/aga2/1661087']
