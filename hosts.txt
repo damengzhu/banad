@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2244
-#Update Time: 2022-12-01 17:57:04（北京时间） 
+#Total Count:2268
+#Update Time: 2022-12-01 18:56:47（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -31,6 +31,7 @@
 0.0.0.0 039nez.com
 0.0.0.0 03asdf.com
 0.0.0.0 056opui.com
+0.0.0.0 063tutu.com
 0.0.0.0 064ioio.com
 0.0.0.0 065yuyu.com
 0.0.0.0 080999.cn
@@ -92,6 +93,7 @@
 0.0.0.0 4po6iqp9.cn
 0.0.0.0 4sexmail.com
 0.0.0.0 51-tour.net
+0.0.0.0 51.la
 0.0.0.0 517heiya.com
 0.0.0.0 51gongxiao.com
 0.0.0.0 51jqq.top
@@ -116,6 +118,7 @@
 0.0.0.0 6mh8.com
 0.0.0.0 6v4.work
 0.0.0.0 6v6.work
+0.0.0.0 767drv.cn
 0.0.0.0 77nnv9.xyz
 0.0.0.0 77qwq.com
 0.0.0.0 77zz7.com
@@ -157,6 +160,7 @@
 0.0.0.0 a48505.cn
 0.0.0.0 aac.kegood.com
 0.0.0.0 abb.lxiaoxin.com
+0.0.0.0 abenshishabi.com
 0.0.0.0 abovede6.com
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
@@ -491,6 +495,7 @@
 0.0.0.0 cwc494e.cn
 0.0.0.0 cx0001.cn
 0.0.0.0 cxs.mibaoge.com
+0.0.0.0 cyhbrjf.cn
 0.0.0.0 d.goodtj.xyz
 0.0.0.0 d.toutiao.com
 0.0.0.0 d.ziyuanm.com
@@ -514,6 +519,7 @@
 0.0.0.0 dahounian.top
 0.0.0.0 dakawm.cc
 0.0.0.0 daliantong.com.cn
+0.0.0.0 dangongshijie.com
 0.0.0.0 dat.yl-zipper.com
 0.0.0.0 dat8.cc
 0.0.0.0 data.gzuzfa.cn
@@ -726,6 +732,7 @@
 0.0.0.0 gfvip09at.com
 0.0.0.0 gg.cnco.me
 0.0.0.0 gjh9v.tianshilv.cn
+0.0.0.0 gknybkl.cn
 0.0.0.0 gl.zle.com
 0.0.0.0 glixaing.com
 0.0.0.0 glpca.com
@@ -782,6 +789,7 @@
 0.0.0.0 h45pmx1.cn
 0.0.0.0 h4b0srs.cn
 0.0.0.0 h5.dzgsdswh5.xyz
+0.0.0.0 h6cp.icu
 0.0.0.0 hackeraa.xyz
 0.0.0.0 hadesleta.com
 0.0.0.0 haihongzg.com
@@ -962,6 +970,7 @@
 0.0.0.0 jianchajingmk.net
 0.0.0.0 jianxinshanghai.com
 0.0.0.0 jianyihang.com
+0.0.0.0 jieshimaya.xyz
 0.0.0.0 jiezoiq.cn
 0.0.0.0 jinbao888.com
 0.0.0.0 jinhaitun888.xyz
@@ -1082,6 +1091,7 @@
 0.0.0.0 ktdlsb.com
 0.0.0.0 kuanxin.top
 0.0.0.0 kwdgudw.cn
+0.0.0.0 kydb.xyz
 0.0.0.0 kyxw9itc.xyz
 0.0.0.0 kyxw9itv.club
 0.0.0.0 kyzx.xyZ
@@ -1099,6 +1109,7 @@
 0.0.0.0 lcdn.runative-syndicate.com
 0.0.0.0 ledaren.cn
 0.0.0.0 lflmdm.com
+0.0.0.0 lganilgll.cyou
 0.0.0.0 lgjygg.com
 0.0.0.0 lgygy.cn
 0.0.0.0 lhippac.cn
@@ -1198,6 +1209,7 @@
 0.0.0.0 m3.myyj.net
 0.0.0.0 maljxp.cn
 0.0.0.0 manguan.vip
+0.0.0.0 manlungkey.com
 0.0.0.0 maobujie.com
 0.0.0.0 mapsmnx.cyou
 0.0.0.0 marjorienice.com
@@ -1270,6 +1282,7 @@
 0.0.0.0 muxing.city
 0.0.0.0 mvlkvth.cn
 0.0.0.0 my.rtmark.net
+0.0.0.0 myexpendd.xyz
 0.0.0.0 mylmad.com
 0.0.0.0 mywb3.com
 0.0.0.0 mzxvib.com
@@ -1355,6 +1368,7 @@
 0.0.0.0 outoctillerytor.com
 0.0.0.0 ouyhh.xyz
 0.0.0.0 owlfolk.com
+0.0.0.0 oyhurln.cn
 0.0.0.0 p.yingxiao678.com
 0.0.0.0 p0y.cn
 0.0.0.0 p1-feedback.byteimg.com
@@ -1407,6 +1421,7 @@
 0.0.0.0 ppl.xunzhuo123.com
 0.0.0.0 ppyibei.com
 0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 prdohgp.cn
 0.0.0.0 prelandappslab.com
 0.0.0.0 prodigalpromotion.com
 0.0.0.0 propeller-tracking.com
@@ -1489,6 +1504,7 @@
 0.0.0.0 r.alimc1.top
 0.0.0.0 r.zaitouwang.com
 0.0.0.0 r36ku.site
+0.0.0.0 rapsmnz.cyou
 0.0.0.0 rbioclv.cn
 0.0.0.0 rc7e.top
 0.0.0.0 rcqqlwb.cn
@@ -1613,6 +1629,7 @@
 0.0.0.0 shuzilm.cn
 0.0.0.0 si1.go2yd.com
 0.0.0.0 sifa.aak7.cn
+0.0.0.0 simi1234.com
 0.0.0.0 similm.xyz
 0.0.0.0 simiyue2.com
 0.0.0.0 simplewebanalysis.com
@@ -1854,6 +1871,7 @@
 0.0.0.0 viplp.top
 0.0.0.0 vipwm.cc
 0.0.0.0 vivovip.mmszxc.top
+0.0.0.0 vlets.kydb.xyz
 0.0.0.0 vm.aty.sohu.com
 0.0.0.0 vnfjsus.xyz
 0.0.0.0 vnvmif.cn
@@ -1895,6 +1913,7 @@
 0.0.0.0 widow5blackfr.com
 0.0.0.0 wknfr6791.zdhm.cn
 0.0.0.0 wlhcb.cn
+0.0.0.0 wmxke.com
 0.0.0.0 wn68din.cn
 0.0.0.0 wn80drk.shop
 0.0.0.0 wo1990.com
@@ -1989,6 +2008,7 @@
 0.0.0.0 www.leibish.com
 0.0.0.0 www.livemz.com
 0.0.0.0 www.lm661.com
+0.0.0.0 www.lmlmvip.com
 0.0.0.0 www.lookit.tw
 0.0.0.0 www.lthwsj.com
 0.0.0.0 www.mdfsbn.com
@@ -2099,6 +2119,7 @@
 0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
 0.0.0.0 xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0 xn--xhq9mt12cf5v.ren
+0.0.0.0 xqcjfcb.cn
 0.0.0.0 xrkadslmgg.top
 0.0.0.0 xrkadslmgg.xyz
 0.0.0.0 xryrylt.cn
@@ -2121,6 +2142,7 @@
 0.0.0.0 y7r.930cn.top
 0.0.0.0 yahekby.cn
 0.0.0.0 yangjie.asia
+0.0.0.0 yangliu.ink
 0.0.0.0 yangshengzu.cn
 0.0.0.0 yaodaipeishi.cn
 0.0.0.0 ycc90.xyz
@@ -2133,6 +2155,7 @@
 0.0.0.0 ydjs.zol.com.cn
 0.0.0.0 ydtykj.net
 0.0.0.0 yenyshy.com
+0.0.0.0 yes-24-go.cc
 0.0.0.0 ygwdai.cn
 0.0.0.0 yh.jialingmm.net
 0.0.0.0 yh.zg-zxzx.net
@@ -2233,6 +2256,7 @@
 0.0.0.0 ztshg.cn
 0.0.0.0 ztyumn.ifeng.com
 0.0.0.0 zuixinyiqi.com
+0.0.0.0 zvvg678.xyz
 0.0.0.0 zwjaoni.cn
 0.0.0.0 zwlikv.cn
 0.0.0.0 zxcv1.com

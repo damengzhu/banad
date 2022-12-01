@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2244
-! Update Time:2022-12-01 17:57:04（北京时间） 
+! Total Count:2268
+! Update Time:2022-12-01 18:56:47（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -30,6 +30,7 @@
 ||039nez.com^
 ||03asdf.com^
 ||056opui.com^
+||063tutu.com^
 ||064ioio.com^
 ||065yuyu.com^
 ||080999.cn^
@@ -91,6 +92,7 @@
 ||4po6iqp9.cn^
 ||4sexmail.com^
 ||51-tour.net^
+||51.la^
 ||517heiya.com^
 ||51gongxiao.com^
 ||51jqq.top^
@@ -115,6 +117,7 @@
 ||6mh8.com^
 ||6v4.work^
 ||6v6.work^
+||767drv.cn^
 ||77nnv9.xyz^
 ||77qwq.com^
 ||77zz7.com^
@@ -156,6 +159,7 @@
 ||a48505.cn^
 ||aac.kegood.com^
 ||abb.lxiaoxin.com^
+||abenshishabi.com^
 ||abovede6.com^
 ||abtest-ch.snssdk.com^
 ||abtest.alibaba.com^
@@ -490,6 +494,7 @@
 ||cwc494e.cn^
 ||cx0001.cn^
 ||cxs.mibaoge.com^
+||cyhbrjf.cn^
 ||d.goodtj.xyz^
 ||d.toutiao.com^
 ||d.ziyuanm.com^
@@ -513,6 +518,7 @@
 ||dahounian.top^
 ||dakawm.cc^
 ||daliantong.com.cn^
+||dangongshijie.com^
 ||dat.yl-zipper.com^
 ||dat8.cc^
 ||data.gzuzfa.cn^
@@ -725,6 +731,7 @@
 ||gfvip09at.com^
 ||gg.cnco.me^
 ||gjh9v.tianshilv.cn^
+||gknybkl.cn^
 ||gl.zle.com^
 ||glixaing.com^
 ||glpca.com^
@@ -781,6 +788,7 @@
 ||h45pmx1.cn^
 ||h4b0srs.cn^
 ||h5.dzgsdswh5.xyz^
+||h6cp.icu^
 ||hackeraa.xyz^
 ||hadesleta.com^
 ||haihongzg.com^
@@ -961,6 +969,7 @@
 ||jianchajingmk.net^
 ||jianxinshanghai.com^
 ||jianyihang.com^
+||jieshimaya.xyz^
 ||jiezoiq.cn^
 ||jinbao888.com^
 ||jinhaitun888.xyz^
@@ -1081,6 +1090,7 @@
 ||ktdlsb.com^
 ||kuanxin.top^
 ||kwdgudw.cn^
+||kydb.xyz^
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
 ||kyzx.xyZ^
@@ -1098,6 +1108,7 @@
 ||lcdn.runative-syndicate.com^
 ||ledaren.cn^
 ||lflmdm.com^
+||lganilgll.cyou^
 ||lgjygg.com^
 ||lgygy.cn^
 ||lhippac.cn^
@@ -1197,6 +1208,7 @@
 ||m3.myyj.net^
 ||maljxp.cn^
 ||manguan.vip^
+||manlungkey.com^
 ||maobujie.com^
 ||mapsmnx.cyou^
 ||marjorienice.com^
@@ -1269,6 +1281,7 @@
 ||muxing.city^
 ||mvlkvth.cn^
 ||my.rtmark.net^
+||myexpendd.xyz^
 ||mylmad.com^
 ||mywb3.com^
 ||mzxvib.com^
@@ -1354,6 +1367,7 @@
 ||outoctillerytor.com^
 ||ouyhh.xyz^
 ||owlfolk.com^
+||oyhurln.cn^
 ||p.yingxiao678.com^
 ||p0y.cn^
 ||p1-feedback.byteimg.com^
@@ -1406,6 +1420,7 @@
 ||ppl.xunzhuo123.com^
 ||ppyibei.com^
 ||pr-bh.ybp.yahoo.com^
+||prdohgp.cn^
 ||prelandappslab.com^
 ||prodigalpromotion.com^
 ||propeller-tracking.com^
@@ -1488,6 +1503,7 @@
 ||r.alimc1.top^
 ||r.zaitouwang.com^
 ||r36ku.site^
+||rapsmnz.cyou^
 ||rbioclv.cn^
 ||rc7e.top^
 ||rcqqlwb.cn^
@@ -1612,6 +1628,7 @@
 ||shuzilm.cn^
 ||si1.go2yd.com^
 ||sifa.aak7.cn^
+||simi1234.com^
 ||similm.xyz^
 ||simiyue2.com^
 ||simplewebanalysis.com^
@@ -1853,6 +1870,7 @@
 ||viplp.top^
 ||vipwm.cc^
 ||vivovip.mmszxc.top^
+||vlets.kydb.xyz^
 ||vm.aty.sohu.com^
 ||vnfjsus.xyz^
 ||vnvmif.cn^
@@ -1894,6 +1912,7 @@
 ||widow5blackfr.com^
 ||wknfr6791.zdhm.cn^
 ||wlhcb.cn^
+||wmxke.com^
 ||wn68din.cn^
 ||wn80drk.shop^
 ||wo1990.com^
@@ -1988,6 +2007,7 @@
 ||www.leibish.com^
 ||www.livemz.com^
 ||www.lm661.com^
+||www.lmlmvip.com^
 ||www.lookit.tw^
 ||www.lthwsj.com^
 ||www.mdfsbn.com^
@@ -2098,6 +2118,7 @@
 ||xn--wxtr9fwyxk9c.xn--io0a7i^
 ||xn--wxtr9fwyxk9co4hbua.xn--fiqs8s^
 ||xn--xhq9mt12cf5v.ren^
+||xqcjfcb.cn^
 ||xrkadslmgg.top^
 ||xrkadslmgg.xyz^
 ||xryrylt.cn^
@@ -2120,6 +2141,7 @@
 ||y7r.930cn.top^
 ||yahekby.cn^
 ||yangjie.asia^
+||yangliu.ink^
 ||yangshengzu.cn^
 ||yaodaipeishi.cn^
 ||ycc90.xyz^
@@ -2132,6 +2154,7 @@
 ||ydjs.zol.com.cn^
 ||ydtykj.net^
 ||yenyshy.com^
+||yes-24-go.cc^
 ||ygwdai.cn^
 ||yh.jialingmm.net^
 ||yh.zg-zxzx.net^
@@ -2232,6 +2255,7 @@
 ||ztshg.cn^
 ||ztyumn.ifeng.com^
 ||zuixinyiqi.com^
+||zvvg678.xyz^
 ||zwjaoni.cn^
 ||zwlikv.cn^
 ||zxcv1.com^
