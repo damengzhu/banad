@@ -2429,7 +2429,7 @@ m.addthis.com/live/red_lojson/300lo.json
 /ad/dhgg.js
 */ads.
 /redbaiduct.com?s=
-*/blsx_*_1_*?*
+*/blsx_*_*_*?*
 dingbu.*.*.*/*.add
 .icu/*_*_*.js$third-party
 .xyz/base*.js?
