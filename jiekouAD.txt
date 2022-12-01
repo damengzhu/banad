@@ -2859,6 +2859,7 @@ sohu.com##DIV#recommendSearch
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##[src='/images/c_l.png']
 ##[href='/my/dp.html']
+##[href*='.xacg.info/']
 ##[href^='https://luodi.aitaokeji.top/']
 ##[poster^='https://dingbu.bj.bcebos.com/']
 ##[src^='https://dingbu.bj.bcebos.com/']
