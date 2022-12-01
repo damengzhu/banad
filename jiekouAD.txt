@@ -2428,6 +2428,13 @@ m.addthis.com/live/red_lojson/300lo.json
 .openx.
 /ad/dhgg.js
 */ads.
+/redbaiduct.com?s=
+*/blsx_*_1_*?*
+dingbu.*.*.*/*.add
+.icu/*_*_*.js$third-party
+.xyz/base*.js?
+cyou/*_*_*?$third-party
+/show_ads_
 /js/pingbi.js
 /baidu/tg.js
 /baidu/189/999.php
