@@ -2455,11 +2455,13 @@ www.qsptv.net/tpl/newstyle/js/pv.js
 m.y3600.cc/js/jquery.min.js
 shimo.im/lizard-api/ads
 /adjs
+push.zhanzhang.baidu.com/push.js
 m.addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
 .openx.
 /ad/dhgg.js
 /zsls.com?s=
+.xyz/jque*.js?$third-party
 .xyz/*_*_*_*.js?$third-party
 .ink/*_*_*_*?*$third-party
 .cam/*_*_*?*$third-party
@@ -2469,7 +2471,6 @@ cam/*_*.apk$third-party
 .top/*_*_*_*.js?*$third-party
 .top/*q=*form=*&*url=http*$third-party
 _/bigREDdog.js
-push.zhanzhang.baidu.com/push.js
 */ads.
 /redbaiduct.com?s=
 */blsx_*_1_*?*
