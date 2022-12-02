@@ -2902,6 +2902,7 @@ sohu.com##DIV#recommendSearch
 ##[src='/images/c_l.png']
 ##[href='/my/dp.html']
 ##[href*='.xacg.info/']
+##DIV.appdownload_ad
 ##[href^='https://luodi.aitaokeji.top/']
 ##[poster^='https://dingbu.bj.bcebos.com/']
 ##[src^='https://dingbu.bj.bcebos.com/']
