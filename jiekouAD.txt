@@ -2304,6 +2304,7 @@
 @@guokr.com/apis/flowingboard/item/m_article
 @@guokr.com/apis/flowingboard/item/m_home_
 ||google-analytics.com/analytics.js
+www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
 jmb.izzcwww*.*
