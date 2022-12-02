@@ -2461,6 +2461,8 @@ m.addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
 .openx.
 /ad/dhgg.js
+/js/hhsyw.js
+.lijie.*/*_*_*_*?
 /zsls.com?s=
 .xyz/jque*.js?$third-party
 .xyz/*_*_*_*.js?$third-party
@@ -2770,6 +2772,10 @@ sohu.com##DIV#recommendSearch
 ##[onclick="window.open('/kapi/tj.php')"]
 ##[href^='https://www.hthty601.com:']
 ##.ads
+##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
+##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
+##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
+##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
 ##[src^='https://play.cdn6.buzz/js/']
 ##[href^='http://www.hyd59.com/']
 ##[href='https://www.aiwajbh.com/mh.php']
