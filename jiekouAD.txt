@@ -2476,7 +2476,7 @@ cam/*_*.apk$third-party
 _/bigREDdog.js
 */ads.
 /redbaiduct.com?s=
-*/blsx_*_1_*?*
+*/blsx_*_*_*?*
 dingbu.*.*.*/*.add
 .icu/*_*_*.js$third-party
 .xyz/base*.js?
