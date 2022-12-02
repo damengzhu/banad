@@ -5,6 +5,10 @@
 ! Total Count: 2931
 ! by: 酷安@大萌主
 ! Host
+||hndfw.com.cn^
+||srbzw.cn^
+||074adzx.com^
+||wlsyuule.cam^
 ||joannarace.com^
 ||zvvg678.xyz^
 ||yangliu.ink^
@@ -2355,7 +2359,7 @@ chen-xing/figure_bed*
 /j/142610
 /js/mts66.js
 .live/r/*/*_r=*==
-.xyz/hm.js?
+.xyz/hm.js?$third-party
 /Distribute/Distribute_g/butterfly/
 /js/mts.js
 *tplv-noop.gif*
@@ -2457,6 +2461,13 @@ m.addthis.com/live/red_lojson/300lo.json
 /ad/dhgg.js
 /zsls.com?s=
 .xyz/*_*_*_*.js?$third-party
+.ink/*_*_*_*?*$third-party
+.cam/*_*_*?*$third-party
+/blxn_*_*_*?*$third-party
+cam/*_*.apk$third-party
+.xin/*_*_*_*.js?*$third-party
+.top/*_*_*_*.js?*$third-party
+.top/*q=*form=*&*url=http*$third-party
 _/bigREDdog.js
 push.zhanzhang.baidu.com/push.js
 */ads.
