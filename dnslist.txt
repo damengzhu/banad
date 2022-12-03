@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2273
-! Update Time:2022-12-03 10:15:45（北京时间） 
+! Total Count:2283
+! Update Time:2022-12-03 12:31:33（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -162,6 +162,7 @@
 ||abb.lxiaoxin.com^
 ||abenshishabi.com^
 ||abovede6.com^
+||abram.xin^
 ||abtest-ch.snssdk.com^
 ||abtest.alibaba.com^
 ||abtt.pufenchuanmu.com^
@@ -377,6 +378,7 @@
 ||c.leankun.com^
 ||c.v4dwkcv.com^
 ||cad.youku.com^
+||caimei.me^
 ||caimlkh.com^
 ||caishuitonghr.com^
 ||caomeixz7.xyz^
@@ -424,6 +426,7 @@
 ||changshuohr.net^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||cheh9k4t.com^
+||chihuoguo.me^
 ||china.gzxxty168.com^
 ||chinachooses.com^
 ||chinaxinhe.net^
@@ -618,6 +621,7 @@
 ||eco.taobao.com^
 ||ecudsc.cn^
 ||ed.gumoda.top^
+||edong.link^
 ||edssnet.changchunets.com^
 ||eedudwr.cn^
 ||efangcdn.com^
@@ -796,6 +800,7 @@
 ||hairoak.com^
 ||haiwanli.com^
 ||haohuisheng555.cn^
+||haokuaixiu.site^
 ||haoweb.top^
 ||haoyongdm.com^
 ||haoyun.lb-lt.com.cn^
@@ -1110,6 +1115,7 @@
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
 ||ledaren.cn^
+||lezbrja.cn^
 ||lflmdm.com^
 ||lganilgll.cyou^
 ||lgjygg.com^
@@ -1117,6 +1123,7 @@
 ||lhippac.cn^
 ||lhy1.xyz^
 ||lianmeng.xgxhy.com^
+||lihong.ltd^
 ||lijunkai.com^
 ||line1-log.biligame.net^
 ||lingcde.cn^
@@ -1727,6 +1734,7 @@
 ||t7x22m7c.com^
 ||taiqingjiu.com^
 ||tangk.top^
+||taoyao.tech^
 ||tb.pagetest.top^
 ||tbsone.imtt.qq.com^
 ||tc6tc.com^
@@ -2106,6 +2114,7 @@
 ||ximit8023.maijijo.com^
 ||xinbo-lora.cn^
 ||xinerdact.com^
+||xingyou25.xyz^
 ||xinlimaoyi2.xinlimaoyi.cn^
 ||xinym1.xyz^
 ||xjrvwz.com^
@@ -2216,6 +2225,7 @@
 ||yynncbn.cn^
 ||yystzl.cn^
 ||yywridi.cn^
+||yyys.shop^
 ||yzc35326.top^
 ||yznwyng.cn^
 ||z-xiao.xyz^

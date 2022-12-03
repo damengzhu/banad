@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2273
-#Update Time: 2022-12-03 10:15:45（北京时间） 
+#Total Count:2283
+#Update Time: 2022-12-03 12:31:33（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -163,6 +163,7 @@
 0.0.0.0 abb.lxiaoxin.com
 0.0.0.0 abenshishabi.com
 0.0.0.0 abovede6.com
+0.0.0.0 abram.xin
 0.0.0.0 abtest-ch.snssdk.com
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtt.pufenchuanmu.com
@@ -378,6 +379,7 @@
 0.0.0.0 c.leankun.com
 0.0.0.0 c.v4dwkcv.com
 0.0.0.0 cad.youku.com
+0.0.0.0 caimei.me
 0.0.0.0 caimlkh.com
 0.0.0.0 caishuitonghr.com
 0.0.0.0 caomeixz7.xyz
@@ -425,6 +427,7 @@
 0.0.0.0 changshuohr.net
 0.0.0.0 chaoku.oss-cn-chengdu.aliyuncs.com
 0.0.0.0 cheh9k4t.com
+0.0.0.0 chihuoguo.me
 0.0.0.0 china.gzxxty168.com
 0.0.0.0 chinachooses.com
 0.0.0.0 chinaxinhe.net
@@ -619,6 +622,7 @@
 0.0.0.0 eco.taobao.com
 0.0.0.0 ecudsc.cn
 0.0.0.0 ed.gumoda.top
+0.0.0.0 edong.link
 0.0.0.0 edssnet.changchunets.com
 0.0.0.0 eedudwr.cn
 0.0.0.0 efangcdn.com
@@ -797,6 +801,7 @@
 0.0.0.0 hairoak.com
 0.0.0.0 haiwanli.com
 0.0.0.0 haohuisheng555.cn
+0.0.0.0 haokuaixiu.site
 0.0.0.0 haoweb.top
 0.0.0.0 haoyongdm.com
 0.0.0.0 haoyun.lb-lt.com.cn
@@ -1111,6 +1116,7 @@
 0.0.0.0 lccfjszp.cn
 0.0.0.0 lcdn.runative-syndicate.com
 0.0.0.0 ledaren.cn
+0.0.0.0 lezbrja.cn
 0.0.0.0 lflmdm.com
 0.0.0.0 lganilgll.cyou
 0.0.0.0 lgjygg.com
@@ -1118,6 +1124,7 @@
 0.0.0.0 lhippac.cn
 0.0.0.0 lhy1.xyz
 0.0.0.0 lianmeng.xgxhy.com
+0.0.0.0 lihong.ltd
 0.0.0.0 lijunkai.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 lingcde.cn
@@ -1728,6 +1735,7 @@
 0.0.0.0 t7x22m7c.com
 0.0.0.0 taiqingjiu.com
 0.0.0.0 tangk.top
+0.0.0.0 taoyao.tech
 0.0.0.0 tb.pagetest.top
 0.0.0.0 tbsone.imtt.qq.com
 0.0.0.0 tc6tc.com
@@ -2107,6 +2115,7 @@
 0.0.0.0 ximit8023.maijijo.com
 0.0.0.0 xinbo-lora.cn
 0.0.0.0 xinerdact.com
+0.0.0.0 xingyou25.xyz
 0.0.0.0 xinlimaoyi2.xinlimaoyi.cn
 0.0.0.0 xinym1.xyz
 0.0.0.0 xjrvwz.com
@@ -2217,6 +2226,7 @@
 0.0.0.0 yynncbn.cn
 0.0.0.0 yystzl.cn
 0.0.0.0 yywridi.cn
+0.0.0.0 yyys.shop
 0.0.0.0 yzc35326.top
 0.0.0.0 yznwyng.cn
 0.0.0.0 z-xiao.xyz
