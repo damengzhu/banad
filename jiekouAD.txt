@@ -5,6 +5,9 @@
 ! Total Count: 2956
 ! by: 酷安@大萌主
 ! Host
+||mwzbp.iask.com.cn^
+||meiweifood.xyz^
+||mikongdd.top^
 ||lezbrja.cn^
 ||abram.xin^
 ||chihuoguo.me^
@@ -2398,6 +2401,7 @@ scupio.com/js/ad.js
 /template/mytheme/statics/js/listing.js
 /asfile/m/gudings.js
 ?local_ga_js=
+.xyz/xling_*_*_*.js?*
 m.x4jdm.tv/mdp.js
 cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 m.xinxindm.com/gog.js
@@ -2679,6 +2683,7 @@ sohu.com##DIV#recommendSearch
 ##[href="http://www.28cpw.com"]
 ##[href^='https://ccs.holor0701.cn/']
 ##.ad_img
+##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##[src$='/dibu.adadadad']
 ##[onclick="window.open('/statics/js/hth1111.html')"]
