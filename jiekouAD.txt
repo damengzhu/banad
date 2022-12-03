@@ -2477,9 +2477,9 @@ m.addthis.com/live/red_lojson/300lo.json
 /js/hhsyw.js
 //*.lijie.*/*_*?$third-party
 /zsls.com?s=
-//mobi.*.cyou/*_*$third-party
-//mobi.*.cam/*_*$third-party
-//mobi.*.xyz/*_*$third-party
+//mobi*.*.cyou/*_*$third-party
+//mobi*.*.cam/*_*$third-party
+//mobi*.*.xyz/*_*$third-party
 dingbu.*.*.com/dingbu.$third-party
 api.*.*/*/*?_=450*$third-party
 .xyz/jque*.js?$third-party
