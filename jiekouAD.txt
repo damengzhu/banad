@@ -2462,11 +2462,11 @@ m.addthis.com/live/red_lojson/300lo.json
 .openx.
 /ad/dhgg.js
 /js/hhsyw.js
-.lijie.*/*_*_*_*?$third-party
+//*.lijie.*/*_*?$third-party
 /zsls.com?s=
-mobixc.*.cyou/*_*_*$third-party
-mobixc.*.cam/*_*.apk$third-party
-mobixc.*.cam/*_*_*?*$third-party
+//mobi.*.cyou/*_*$third-party
+//mobi.*.cam/*_*$third-party
+//mobi.*.xyz/*_*$third-party
 dingbu.*.*.com/dingbu.$third-party
 api.*.*/*/*?_=450*$third-party
 .xyz/jque*.js?$third-party
