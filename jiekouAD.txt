@@ -2703,6 +2703,7 @@ sohu.com##DIV#recommendSearch
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##[href='/hy-66-90.php']
+##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
 ##[href='javascript:GoDb58649();']
 ##[href='https://8899add.com/']
 ##[poster^='https://img.hylmxing.com:']
