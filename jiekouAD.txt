@@ -2548,6 +2548,11 @@ cupfox.app#@#.adsbygoogle
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
+www.dmh8.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
+www.dmh8.me##DIV[style^='width:300px;height:300px;position:fixed;bottom:0;left:0;']
+www.dmh8.me##CENTER
+dmh8.me##DIV[style^='background: url("http']
+dmh8.me##H2[style='display: block;']
 www.xvideos.com###ad-footer
 www.xvideos.com##.thumb-ad
 m.hupu.com##[class^="show_ad"]
