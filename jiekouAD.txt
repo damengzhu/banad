@@ -2627,6 +2627,8 @@ www.bimiacg.com##[class='ssr1']
 www.9ekk.com##[class^='vod-db']
 www.58wk.com##[src*='.gif']
 m.dmh8.com##[id^="test"]
+manwa.me##[data-group^='ad_chapter'][data-width='300'][data-height='250']
+manwa.me##[style*='15px'][style*='background-color:'][style*='margin: 10px'][style*='margin-top: 14px'][style*='border-radius: 20px'],.fas.fa-times
 manwa.me##[style='transform-origin: left top; margin: 0px auto;']
 manwa.me##DIV.swiper-container.swiper-container-horizontal
 m.autohome.com.cn##ol > li,.evade-operate
