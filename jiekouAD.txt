@@ -2305,17 +2305,8 @@
 ||tobapplog.ctobsnssdk.com^
 ||stat.meitudata.com^
 ! URL
-@@rujume.top/js/jquer
-@@rujume.top/js/m3u8
-@@rujume.top/js/mplayer
-@@rujume.top/js/share
-@@rujume.top/ckplayerx
-@@rujume.top/css/share.css
-@@rujume.top/dplayer
-@@rujume.top/m3u8.php?url=
-@@rujume.top/muiplayer
-@@rujume.top/?url=
-@@rujume.top/API.php
+
+@@manwa.me/
 @@qhres2.com$domain=baike.so.com
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
 @@||www.google-analytics.com^$domain=myqqjd.com
@@ -2536,6 +2527,7 @@ m.sodu2020.com/js/ppc.js
 mini.yyrtv.com/static/js/statistics/user_ad.js
 mini.yyrtv.com/static/js/miniyyrtv-config.js
 ! CSS
+manwa.me#@#.ad-area
 myqqjd.com##.adsbygoogle
 m.baidu.com#@#div[class*="ads"]
 www.baidu.com#@#div[class*="ads"]
@@ -2635,6 +2627,8 @@ www.bimiacg.com##[class='ssr1']
 www.9ekk.com##[class^='vod-db']
 www.58wk.com##[src*='.gif']
 m.dmh8.com##[id^="test"]
+manwa.me##[style='transform-origin: left top; margin: 0px auto;']
+manwa.me##DIV.swiper-container.swiper-container-horizontal
 m.autohome.com.cn##ol > li,.evade-operate
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
 www.ncdj24.com##[href='https://gcsyslc.com/'],[href='https://865761.com/'],[id*='KdW'],[class*='col-style d-4 m-2 lo1ad1ed ']
