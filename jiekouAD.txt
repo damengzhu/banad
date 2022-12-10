@@ -2669,6 +2669,7 @@ sohu.com##DIV#recommendSearch
 ##[href*='sohu.com/hy-op']
 ##[href='/jump.html']
 ##[href='/ad.html']
+##div.play_boxbg div[class$='_acmsd']
 ##DIV.bot-per-context[data-width='728'][data-height='90']
 ##DIV.fixed-bottom.d-block.d-sm-none.movies_ad
 ##DIV.col-4.col-sm-2.col-xl-2.px-1.px-sm-2.pb-3.pt-3.pt-sm-0.d-block.d-sm-none
