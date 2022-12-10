@@ -2690,6 +2690,7 @@ sohu.com##DIV#recommendSearch
 ##[href="http://www.28cpw.com"]
 ##[href^='https://ccs.holor0701.cn/']
 ##.ad_img
+##div.stui-pannel__bd > #t-img-box
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
 ##DIV[style^='width:100%;height:100%;line-height: 100%;overflow:hidden; margin:auto;border:1px #']
 ##[src$='/dibu.adadadad']
