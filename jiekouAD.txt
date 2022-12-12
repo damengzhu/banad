@@ -2522,6 +2522,7 @@ m.sodu2020.com/js/ppc.js
 mini.yyrtv.com/static/js/statistics/user_ad.js
 mini.yyrtv.com/static/js/miniyyrtv-config.js
 ! CSS
+@@||developer.apple.com$generichide
 manwa.me#@#.ad-area
 myqqjd.com##.adsbygoogle
 m.baidu.com#@#div[class*="ads"]
