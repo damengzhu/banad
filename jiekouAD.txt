@@ -2753,6 +2753,7 @@ sohu.com##DIV#recommendSearch
 ##DIV#ad-index.col-12.position-relative
 ##.gr_slide_car_inner
 ##.__isboostOverContent
+##IMG[referrerpolicy='no-referrer'][style='box-sizing: border-box;height:calc(10vh); width:100%;padding: 0px 15px 10px 15px;']
 ##.C1U,.C1M,.C2L,.C2R
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##[href^='https://jwmic.91lu001.com']
