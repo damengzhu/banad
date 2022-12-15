@@ -5,6 +5,8 @@
 ! Total Count: 2845
 ! by: 酷安@大萌主
 ! Host
+||066hjkl.com^
+||085cczz.com^
 ||caimei.me^
 ||lijie.in^
 ||abram.xin^
@@ -2326,6 +2328,7 @@ jmb.izzcwww*.*
 .top/Report/*-*-*-*-*
 ||745c.cn$third-party
 ||kgsz.cn$third-party
+||dadatuwz.com^$third-party
 ||pubfuture.com^$third-party
 ||outbrain.com^$third-party
 .xyz$domain=yinghuacd.com
