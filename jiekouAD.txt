@@ -5,6 +5,9 @@
 ! Total Count: 2850
 ! by: 酷安@大萌主
 ! Host
+||1huifangwen.com^
+||iuuiugbjd.xyz^
+||1205qitiao2022.xyz^
 ||066hjkl.com^
 ||085cczz.com^
 ||caimei.me^
@@ -2535,6 +2538,7 @@ m.hupu.com##IMG[alt='NBA英雄'][width='94%']
 www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
 www.dmh8.me,dm88.me##DIV[style^='width:300px;height:300px;position:fixed;bottom:0;left:0;']
 www.dmh8.me,dm88.me##CENTER
+dmh8.me,dm88.me##DIV[style='display: flex;']
 dmh8.me,dm88.me##DIV[style^='background: url("http']
 dmh8.me,dm88.me##H2[style='display: block;']
 www.xvideos.com###ad-footer
