@@ -2370,7 +2370,7 @@ chen-xing/figure_bed*
 /api/ad/*
 /j/142610
 /js/mts66.js
-.live/r/*/*_r=*==
+.live/r/*/*_r=*
 .xyz/hm.js?$third-party
 /Distribute/Distribute_g/butterfly/
 /js/mts.js
