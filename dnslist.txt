@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Total Count:2299
-! Update Time:2022-12-16 23:09:30（北京时间） 
+! Update Time:2022-12-16 23:11:46（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -64,7 +64,6 @@
 ||18dui.com^
 ||1905715.com^
 ||1dfsdfg.com^
-||1huifangwen.com^
 ||1w73a5d.cn^
 ||1wkg.cn^
 ||2.yunsxk.xyz^
@@ -872,6 +871,7 @@
 ||hubiazhi.com^
 ||hudiecaifu.com^
 ||huichuan.sm.cn^
+||huifangwen.com^
 ||huiyigou111.com^
 ||hushenqiquan.com^
 ||husky.sogou.com^

@@ -2,7 +2,7 @@
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
 #Total Count:2299
-#Update Time: 2022-12-16 23:09:30（北京时间） 
+#Update Time: 2022-12-16 23:11:46（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -65,7 +65,6 @@
 0.0.0.0 18dui.com
 0.0.0.0 1905715.com
 0.0.0.0 1dfsdfg.com
-0.0.0.0 1huifangwen.com
 0.0.0.0 1w73a5d.cn
 0.0.0.0 1wkg.cn
 0.0.0.0 2.yunsxk.xyz
@@ -873,6 +872,7 @@
 0.0.0.0 hubiazhi.com
 0.0.0.0 hudiecaifu.com
 0.0.0.0 huichuan.sm.cn
+0.0.0.0 huifangwen.com
 0.0.0.0 huiyigou111.com
 0.0.0.0 hushenqiquan.com
 0.0.0.0 husky.sogou.com
