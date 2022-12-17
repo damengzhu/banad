@@ -2563,6 +2563,7 @@ javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3
 baidu.com###relative_shop_flow
 cpu.baidu.com##A[href*='cpro.baidu.com']
 baidu.com##.ec_wise_ad
+baidu.com##DIV.brand-entry
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 m.sohu.com##[data-v-7a7c15af][href^='https://m.sohu.com/promotion'],[data-v-7a7c15af][data-spm-type='resource'][data-spm-data='4']
