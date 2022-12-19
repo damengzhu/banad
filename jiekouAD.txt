@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2022-12-19 20:40:18（北京时间） 
+! Update Time: 2022-12-19 20:40:18（北京时间）
 ! Total Count: 2862
 ! by: 酷安@大萌主
 ! Host
@@ -2709,7 +2709,6 @@ sohu.com##DIV#recommendSearch
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
 ##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
 ##[href='https://8899add.com/']
-##[href='https://leyu001.ee/']
 ##[href^='https://dcc.sclanlian.com/cc/']
 ##[href^='https://x7463.com:']
 ##[href^='https://w5979.com:']
@@ -2720,17 +2719,11 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://mcc.rhwg4js.cn/']
 ##[href='https://xkk5.com/sqy.png']
 ##[onclick="window.open('http://682kg.com/')"]
-###ppphref[rel='nofollow']
 ##[href^='https://www.00285164.com']
 ##[href^='https://97749516.com/']
 ##[href^='https://www.00426740.com']
 ##[href='https://91.yelang8.cc/']
-##[href='http://yb6277.vip']
-##div>span>[href='###']
 ##[href^='https://tz.kefuyuming.vip/']
-##.afc_close_content,.cfa_popup,[href='http://kst6632.com/']
-##[href='http://app.tianbo17.com/']
-##[href='http://page.shokuhou.com/']
 ##[href^='https://record.brave108.com/']
 ##[href^='https://gougew.lanzoub.com/']
 ##[href='/ad/bfy.html']
@@ -2777,10 +2770,8 @@ sohu.com##DIV#recommendSearch
 ##A[href^='http'][style^='display:block;left:0;right:0;position:fixed;border-left:']
 ###hongbao20201217
 ###whYuTlxF
-##[href^='https://6f2929.com']
 ###t4>a
 ##[href^='https://kcc.qrjxween.com/cc/']
-##[class^=c_c][style^='text-align:']
 ##.zozoads
 ##[href^='https://bvipsa.com']
 ##[src='http://m.guangzhoubingqing.com/88888.jpg']
@@ -2797,10 +2788,7 @@ sohu.com##DIV#recommendSearch
 ##[href='http://li.hmwang.cc']
 ##[href='https://blfanss.com']
 ##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
-##[width='100%'][src^='/js/ad_/mobile'][src*='jpg']
-##[href^='https://xt.nktxv.com'],[href^='https://xe.vldbd.com']
 ##.adsbygoogle
-##.banner[align='center']
 ###coupletBox
 ##.advertise
 ##[href^='https://xcc.rpkcqtf.cn/']
@@ -2812,9 +2800,6 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://iluluweb.club']
 ##[href='https://cai35b9.com/']
 ##[href^='https://0414483.com/']
-##[href='https://www.100cup.com/'],[href^='https://beizidalu.com']
-##[style^="position:fixed;left:0;top:3px;height:122px;width:100%"]
-##[style*="https://777.qweewq"]
 ##.width.imgs_1
 ##[href^='https://jd.dangbei.com/']
 ##[href^='https://dt.mydrivers.com/b.ashx']
@@ -2857,12 +2842,8 @@ sohu.com##DIV#recommendSearch
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ###mobile-index > div[id^="ins"]
 ###mobile-index > div#vodbm
-##[href^='https://1815844.com/'],.playtop.col-pd
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##.theme-dark>.ayx>a
-##[id^="wrapper_left_bg"][href="javascript:void(0);"],[id^="wrapper_right_bg"][href="javascript:void(0);"]
-##[ontouchstart='this.click();'][href^='https://wd.haoyundm.com']
-##[onclick^="window.open('http://jx2.dxsdkw.cn"]
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
