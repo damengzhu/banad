@@ -2838,6 +2838,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://xxx.nunxun.com']
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##[at*='尼斯人注册送']
+##body.active > div.myui-panel > DIV#home_slide
 ##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
 ##div.page.player > div.main > div.content > div.module.module-player DIV[style='width:100%;height:180px']
 ##div.page.view > div.main > div.content > DIV[style='width:100%;height:100px']
