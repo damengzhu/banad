@@ -5,6 +5,7 @@
 ! Total Count: 2843
 ! by: 酷安@大萌主
 ! Host
+||one.fsylr.com^
 ||huifangwen.com^
 ||iuuiugbjd.xyz^
 ||1205qitiao2022.xyz^
@@ -2473,6 +2474,7 @@ com/js/lp365.js
 .openx.
 /ad/dhgg.js
 /js/hhsyw.js
+||qhimgs4.com/*.gif$domain=hdmoli.com
 //*.lijie.*/*_*?$third-party
 /zsls.com?s=
 //mobi*.*.cyou/*_*$third-party
@@ -2663,6 +2665,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
 ##div[id*='cat_'][id*='_ad']
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
