@@ -2670,6 +2670,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+##div.container > div.t-img-box > A[href][target='_blank']
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
 ##div[id*='cat_'][id*='_ad']
