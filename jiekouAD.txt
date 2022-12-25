@@ -5,6 +5,7 @@
 ! Total Count: 2799
 ! by: 酷安@大萌主
 ! Host
+||093yuht.com^
 ||huiyelu.com^
 ||aykibra.cn^
 ||huiyueting.com^
@@ -2328,6 +2329,7 @@
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
+||api.*.com/sh/to/$third-party
 jmb.izzcwww*.*
 *:*/*.html?k=*&_=*
 /js/news2zz.js
