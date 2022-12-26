@@ -2549,7 +2549,7 @@ baidu.com##[class^='ball-wrapper']
 baidu.com##[
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 baidu.com##.ec_wise_ad
-baidu.com##DIV.brand-entry
+m.baidu.com##DIV.brand-entry
 baidu.com###relative_shop_flow
 baidu.com##.rel-exp-feed-ad-item
 baidu.com###qtqy_container
