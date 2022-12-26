@@ -2488,6 +2488,7 @@ com/js/lp365.js
 .openx.
 /ad/dhgg.js
 /js/hhsyw.js
+||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhimgs4.com/*.gif$domain=hdmoli.com
 //*.lijie.*/*_*?$third-party
 /zsls.com?s=
