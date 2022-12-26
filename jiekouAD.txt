@@ -5,6 +5,7 @@
 ! Total Count: 2805
 ! by: 酷安@大萌主
 ! Host
+||runn.fun^
 ||zahrvfbd*.xyz^
 ||zabdybod*.club^
 ||huitoukao.com^
@@ -2638,6 +2639,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+##A[href^='https://tv2356.cc']
 ##div.container > div.t-img-box > A[href][target='_blank']
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
