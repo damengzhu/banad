@@ -2,7 +2,7 @@
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
 #Total Count:2314
-#Update Time: 2022-12-27 18:55:03（北京时间） 
+#Update Time: 2022-12-27 18:58:47（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -779,6 +779,7 @@
 0.0.0.0 gsp0.kj-gov.cn
 0.0.0.0 gsxbxvd.cn
 0.0.0.0 gtcqbnu.cn
+0.0.0.0 gtlpai.com
 0.0.0.0 gtoyouin.biz
 0.0.0.0 gtpxvpi.cn
 0.0.0.0 guanggao28.xyz
@@ -881,6 +882,7 @@
 0.0.0.0 huiyelu.com
 0.0.0.0 huiyigou111.com
 0.0.0.0 huiyueting.com
+0.0.0.0 huizhoumi.com
 0.0.0.0 hushenqiquan.com
 0.0.0.0 husky.sogou.com
 0.0.0.0 hxdwsfg.cn
@@ -1426,7 +1428,6 @@
 0.0.0.0 pimlog.baidu.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingma.qq.com
-0.0.0.0 pint.huizhoumi.com
 0.0.0.0 pix.us.criteo.net
 0.0.0.0 pj.u5m4.cn
 0.0.0.0 pjogndc8ixoidna.360doc.cn
@@ -1776,7 +1777,6 @@
 0.0.0.0 test.fangzhixinxi.cn
 0.0.0.0 tetiao9.com
 0.0.0.0 tf.mangqu.cn
-0.0.0.0 tg.gtlpai.com
 0.0.0.0 tg.loclog.cn
 0.0.0.0 tgfyq.cn
 0.0.0.0 thallus.net
