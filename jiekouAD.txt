@@ -1648,7 +1648,6 @@
 ||yiqitiao.chushoushijian.cn^
 ||lcdn.runative-syndicate.com^
 ||run-syndicate.com^
-||s.yimg.com^
 ||beap.gemini.yahoo.com^
 ||ad.adondemand.com^
 ||www.lookit.tw^
