@@ -5,7 +5,7 @@
 ! Total Count: 2809
 ! by: 酷安@大萌主
 ! Host
-||gtlpai.com^
+||*.gtlpa*.com^
 ||huizhoumi.com^
 ||runn.fun^
 ||zahrvfbd*.xyz^
