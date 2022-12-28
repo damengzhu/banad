@@ -3,13 +3,14 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Total Count:2314
-! Update Time:2022-12-27 18:58:47（北京时间） 
+! Update Time:2022-12-28 11:58:53（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
 ||*.gentags.net^
 ||*.getui.com^
 ||*.go.sohu.com^
+||*.gtlpa*.com^
 ||*.irs03.com^
 ||*.miaozhen.com^
 ||*.tuisong.baidu.com^
@@ -778,7 +779,6 @@
 ||gsp0.kj-gov.cn^
 ||gsxbxvd.cn^
 ||gtcqbnu.cn^
-||gtlpai.com^
 ||gtoyouin.biz^
 ||gtpxvpi.cn^
 ||guanggao28.xyz^

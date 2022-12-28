@@ -2,7 +2,7 @@
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
 #Total Count:2314
-#Update Time: 2022-12-27 18:58:47（北京时间） 
+#Update Time: 2022-12-28 11:58:53（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -11,6 +11,7 @@
 0.0.0.0 *.gentags.net
 0.0.0.0 *.getui.com
 0.0.0.0 *.go.sohu.com
+0.0.0.0 *.gtlpa*.com
 0.0.0.0 *.irs03.com
 0.0.0.0 *.miaozhen.com
 0.0.0.0 *.tuisong.baidu.com
@@ -779,7 +780,6 @@
 0.0.0.0 gsp0.kj-gov.cn
 0.0.0.0 gsxbxvd.cn
 0.0.0.0 gtcqbnu.cn
-0.0.0.0 gtlpai.com
 0.0.0.0 gtoyouin.biz
 0.0.0.0 gtpxvpi.cn
 0.0.0.0 guanggao28.xyz
