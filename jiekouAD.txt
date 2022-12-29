@@ -5,6 +5,8 @@
 ! Total Count: 2811
 ! by: 酷安@大萌主
 ! Host
+||zasjfget.xyz^
+||zasjf.xyz^
 ||8d7hhh8x.com^
 ||bofnhn.com^
 ||*.gtlpa*.com^
@@ -2600,6 +2602,8 @@ hmqg.net##DIV#bottommob.bottommob
 m.zzzfun.com##DIV#show-2415689770463175004-8179
 sogou.com##.ad_result
 ifeng.com##div[class^="ad_"]
+m.huya.com##DIV#template
+v11av.xyz##div.content__body [rel='nofollow'][href][target='_blank']
 javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3)
 www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden
 so.toutiao.com##section.commonbox.hasfooter
@@ -2799,6 +2803,7 @@ sohu.com##DIV#recommendSearch
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##[src='/images/c_l.png']
 ##[href='/my/dp.html']
+##A[href='http://95710.vip']
 ##[href*='.xacg.info/']
 ##DIV.appdownload_ad
 ##[href^='https://luodi.aitaokeji.top/']
