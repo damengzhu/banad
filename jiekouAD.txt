@@ -5,6 +5,7 @@
 ! Total Count: 2824
 ! by: 酷安@大萌主
 ! Host
+||yige20221219.xyz^
 ||hm.js^
 ||glczys.xyz^
 ||zzxedr.xyz^
@@ -2703,6 +2704,7 @@ sohu.com##DIV#recommendSearch
 ##[href^='https://w5979.com:']
 ##[href^='https://dc.vvsmse72']
 ##oxk
+##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
 ##[onclick="window.open('http://682kg.com/')"]
