@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2321
-#Update Time: 2023-01-02 15:08:56（北京时间） 
+#Total Count:2322
+#Update Time: 2023-01-02 15:18:15（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -2211,6 +2211,7 @@
 0.0.0.0 yhz18.com
 0.0.0.0 yhzm.xyz
 0.0.0.0 yifujing.com
+0.0.0.0 yige20221219.xyz
 0.0.0.0 yihehe.xyz
 0.0.0.0 yijiahyvip.com
 0.0.0.0 yijiayi07.top
