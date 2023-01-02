@@ -2439,6 +2439,7 @@ widgets.outbrain.com/outbrain.js
 ||yhdm.tv/bar/yfyh.js
 ||yhdm.tv/bar/yfgg.js
 /obj/ad-app-package
+/yinghuacd/bottom.js
 ||baidu.com/rec?*=ad&
 ||download.2345.cn/2345yd1/apk/*
 ||ifeng.com/showcode
