@@ -5,6 +5,10 @@
 ! Total Count: 2817
 ! by: 酷安@大萌主
 ! Host
+||hm.js^
+||glczys.xyz^
+||zzxedr.xyz^
+||zaqptv2bo.xyz^
 ||zasjfget.xyz^
 ||zasjf.xyz^
 ||8d7hhh8x.com^
@@ -2392,6 +2396,9 @@ chen-xing/figure_bed*
 .com/gg.js
 /api/ad/*
 /j/142610
+/dist/common.js
+/js/basisc.js
+/js/detail.js
 /js/mts66.js
 .live/r/*/*_r=*
 .xyz/hm.js?$third-party
