@@ -2280,7 +2280,6 @@
 ||a1.itc.cn^
 ||vstat.v.blog.sohu.com^
 ||count.vrs.sohu.com^
-||cis.sohu.com^
 ||qchannel03.cn^
 ||*.go.sohu.com^
 ||zz.bdstatic.com^
