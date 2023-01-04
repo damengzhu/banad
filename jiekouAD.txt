@@ -2614,7 +2614,8 @@ m.huya.com##DIV#template
 v11av.xyz##div.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
 v11av.xyz##div.content__body [rel='nofollow'][href][target='_blank']
 javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3)
-www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden
+www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
+www.itdog.cn#%#window.alert=function(str){return}
 so.toutiao.com##section.commonbox.hasfooter
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
