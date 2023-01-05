@@ -2464,6 +2464,7 @@ pstatp.com/growth/fe_sdk/bannersdk
 ||shimo.im^*/ads?
 ||shimo.im/kong-api/ads
 ||yxdm.tv/js/gad.js
+.live/ty/*-*-*-*-*
 .xyz/*/*/12194286116933？
 .xyz/g21934*.v3h
 ||91mjw.com/hy-66-90.php
@@ -2816,6 +2817,9 @@ sohu.com##DIV#recommendSearch
 ##div.homepage > div.main > div.content > DIV[style='width:100%;height:180px']
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##[src='/images/c_l.png']
+##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
+##div.container a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
+##A[target='_blank'][href*='/auth/register?code=']
 ##[href='/my/dp.html']
 ##A[href='http://95710.vip']
 ##[href*='.xacg.info/']
