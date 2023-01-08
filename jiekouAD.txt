@@ -2635,6 +2635,7 @@ www.jmhongyan.com##ins[class],div.container p
 www.jjtyss.com##ins[class],#div.myui-player.clearfix p,div.container p
 www.olevod.com##DIV.B1Lss,.B1Rss
 5dm.app##[src*="sinaimg.cn"]
+cibaipuki.com##DIV.titletablerow:has([href*=":"])
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##A[href^='/article-list-id'][target='_blank']
