@@ -2635,6 +2635,13 @@ www.jmhongyan.com##ins[class],div.container p
 www.jjtyss.com##ins[class],#div.myui-player.clearfix p,div.container p
 www.olevod.com##DIV.B1Lss,.B1Rss
 5dm.app##[src*="sinaimg.cn"]
+cibaipuki.com##IMG[border='0'][width='100%']
+cibaipuki.com##SECTION[id^='download_']
+cibaipuki.com##A[href^='/article-list-id'][target='_blank']
+cibaipuki.com##DIV.topnotice a:not([href='http://7a7c.com'])
+cibaipuki.com##[href*=":"]
+cibaipuki.com##DIV.table2
+cibaipuki.com##DIV.box.width-full:has([href*=":"])
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
 m.iqiyi.com##DIV.iqyGuide-content,.cover
