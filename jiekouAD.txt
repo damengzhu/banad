@@ -5,7 +5,8 @@
 ! Total Count: 2851
 ! by: 酷安@大萌主
 ! Host
-||sige20221230.xyz^
+||js.*2023*.xyz^
+||js.*2023*.live^
 ||mzwzo.cn^
 ||gtlpaj.com^
 ||vidwkd.com^
