@@ -2652,6 +2652,8 @@ yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
 m.iqiyi.com##DIV.iqyGuide-content,.cover
 axutongxue.com##body > div[id] > ul[class] > li > A[href^='http'],body > div[id] > ul[class] > li > img.icon
+www.zhihu.com##DIV.KfeCollection-VipRecommendCard
+www.zhihu.com##A.MBannerAd
 zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 skyroad.downallbook.com##IMG[height='60'][width='98%']
