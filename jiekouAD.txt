@@ -2842,7 +2842,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##div.main div.content div[id].is_mb a[id] img[id]
 ##[src='/images/c_l.png']
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
-##div.container a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
 ##A[target='_blank'][href*='/auth/register?code=']
 ##[href='/my/dp.html']
 ##A[href='http://95710.vip']
