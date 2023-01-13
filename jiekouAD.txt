@@ -2680,6 +2680,8 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+m.qidian.com##A.catalog-download
+m.qidian.com##I.icon-logo
 boylove.cc##DIV[style='bottom: 80px;']
 ##A[href^='https://tv2356.cc']
 ##div.container > div.t-img-box > A[href][target='_blank']
