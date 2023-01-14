@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2331
-! Update Time:2023-01-14 09:25:57（北京时间） 
+! Total Count:2336
+! Update Time:2023-01-14 09:48:52（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -329,6 +329,7 @@
 ||baiwb.com^
 ||baiyishaonian.cn^
 ||bangyuandianzi.top^
+||banhui.xyz^
 ||banner-cfnetwork.cdn.hinet.net^
 ||barscreative1.com^
 ||bbbazlp.cn^
@@ -442,6 +443,7 @@
 ||chinaxinhe.net^
 ||chinayms.com^
 ||chixingkeji.com^
+||cholo101.cn^
 ||cholor201015.cn^
 ||cholor201115.cn^
 ||choupsee.com^
@@ -1058,6 +1060,7 @@
 ||k.mindopu.com^
 ||k.toospk.com^
 ||k.wudejia.com^
+||k16e9b.com^
 ||k2.dancihu.com^
 ||k31bpzf.xyz^
 ||k5ggua.xyz^
@@ -1129,6 +1132,7 @@
 ||l.kscmt.cn^
 ||l.ksxcxb.cn^
 ||l.ykimg.com^
+||laawmmy.cn^
 ||lakjdskls.zhdchb.com^
 ||lalaping.com^
 ||lanmeifeel.xyz^
@@ -1281,6 +1285,7 @@
 ||mjg0310.com^
 ||mkqdj.cn^
 ||mlog.aipai.com^
+||mlzgazz.cn^
 ||mm.ficea.cn^
 ||mm28j.com^
 ||mmfcezwqaz.com^
