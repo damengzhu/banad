@@ -2682,6 +2682,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+m.qidian.com##P.text-content
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
 boylove.cc##DIV[style='bottom: 80px;']
