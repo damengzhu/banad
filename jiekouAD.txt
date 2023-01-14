@@ -5,6 +5,11 @@
 ! Total Count: 2860
 ! by: 酷安@大萌主
 ! Host
+||mlzgazz.cn^
+||laawmmy.cn^
+||cholo101.cn^
+||banhui.xyz^
+||k16e9b.com^
 ||kmyiubbv.xyz^
 ||frpns.com^
 ||xkqit.com^
@@ -2847,6 +2852,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href='/my/dp.html']
 ##A[href='http://95710.vip']
 ##[href*='.xacg.info/']
+##A[href^='https://d1-dm.online/go/']
 ##DIV.appdownload_ad
 ##IMG[alt='155.fun']
 ##[href^='https://luodi.aitaokeji.top/']
