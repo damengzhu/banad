@@ -5,6 +5,9 @@
 ! Total Count: 2866
 ! by: 酷安@大萌主
 ! Host
+||nudpqt.com^
+||awyyzx.com^
+||huikouhuo.com^
 ||mlzgazz.cn^
 ||laawmmy.cn^
 ||cholo101.cn^
@@ -2852,6 +2855,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href='/my/dp.html']
 ##A[href='http://95710.vip']
 ##[href*='.xacg.info/']
+##div.padding-0 > A[href][target='_blank']
 ##A[href^='https://d1-dm.online/go/']
 ##DIV.appdownload_ad
 ##IMG[alt='155.fun']
