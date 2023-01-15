@@ -1,13 +1,10 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-01-14 15:46:29（北京时间） 
-! Total Count: 2870
+! Update Time: 2023-01-14 09:50:52（北京时间） 
+! Total Count: 2866
 ! by: 酷安@大萌主
 ! Host
-||nudpqt.com^
-||awyyzx.com^
-||huikouhuo.com^
 ||mlzgazz.cn^
 ||laawmmy.cn^
 ||cholo101.cn^
@@ -24,7 +21,6 @@
 ||sange20221226.xyz^
 ||tfbulkidn.com^
 ||yige20221219.xyz^
-||hm.js^
 ||glczys.xyz^
 ||zzxedr.xyz^
 ||zaqptv2bo.xyz^
@@ -2520,15 +2516,16 @@ com/js/lp365.js
 ||addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
 .openx.
+hm.js/
 /ad/dhgg.js
 /js/hhsyw.js
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhimgs4.com/*.gif$domain=hdmoli.com
-//*.lijie.*/*_*?$third-party
+*.lijie.*/*_*?$third-party
 /zsls.com?s=
-//mobi*.*.cyou/*_*$third-party
-//mobi*.*.cam/*_*$third-party
-//mobi*.*.xyz/*_*$third-party
+mobi*.*.cyou/*_*$third-party
+mobi*.*.cam/*_*$third-party
+mobi*.*.xyz/*_*$third-party
 dingbu.*.*.com/dingbu.$third-party
 api.*.*/*/*?_=450*$third-party
 .xyz/jque*.js?$third-party
@@ -2855,7 +2852,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href='/my/dp.html']
 ##A[href='http://95710.vip']
 ##[href*='.xacg.info/']
-##div.padding-0 > A[href][target='_blank']
 ##A[href^='https://d1-dm.online/go/']
 ##DIV.appdownload_ad
 ##IMG[alt='155.fun']
