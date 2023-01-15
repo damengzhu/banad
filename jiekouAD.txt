@@ -2874,6 +2874,8 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href='/my/dp.html']
 ##A[href='http://95710.vip']
 ##[href*='.xacg.info/']
+##A[href^='https://chmjmff.com/']
+##div.container > IFRAME[align][width][src][border][height]
 ##A[href^='https://d1-dm.online/go/']
 ##DIV.appdownload_ad
 ##IMG[alt='155.fun']
