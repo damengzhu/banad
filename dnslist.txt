@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2335
-! Update Time:2023-01-15 14:26:33（北京时间） 
+! Total Count:2353
+! Update Time:2023-01-15 14:45:10（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -943,6 +943,7 @@
 ||imp.zol.com.cn^
 ||imtmp.net^
 ||in-page-push.com^
+||inkuae.com^
 ||inpage-push.com^
 ||intimidatepropel.com^
 ||iosppk.com^
@@ -1011,6 +1012,7 @@
 ||jnyayk.xyz^
 ||joannarace.com^
 ||jocelynrace.com^
+||jojog.com^
 ||jollytestpartying.com^
 ||jomwihn.cn^
 ||js.*2023*.live^
@@ -1121,6 +1123,7 @@
 ||kstj.baidu.com^
 ||ktdlsb.com^
 ||kuanxin.top^
+||kvsqa.xyz^
 ||kwdgudw.cn^
 ||kydb.xyz^
 ||kyxw9itc.xyz^
@@ -1148,6 +1151,7 @@
 ||lhippac.cn^
 ||lhy1.xyz^
 ||lianmeng.xgxhy.com^
+||liebaovip.com^
 ||lihong.ltd^
 ||lijie.in^
 ||lijunkai.com^
@@ -1625,6 +1629,7 @@
 ||schain.group^
 ||sciillr.cn^
 ||scjpqut.cn^
+||sd.yhzzzs02.com^
 ||sd6hon.cn^
 ||sdhjueue.com^
 ||sdk.sipujia.cn^
@@ -1760,6 +1765,7 @@
 ||sxguowei.com^
 ||sxk9m8x.cn^
 ||sybnzs.cn^
+||sycrgc.xyz^
 ||sydz.tw^
 ||syndication.realsrv.com^
 ||syr66.com.cn^
@@ -1888,6 +1894,7 @@
 ||unjs.jingyanben.com^
 ||unpleasantconcrete.com^
 ||unypud.cn^
+||uopsawxst.cyou^
 ||upgrade.xl9.xunlei.com^
 ||uphzxdv.cn^
 ||uporods.com^
@@ -2283,6 +2290,8 @@
 ||zaqptv2bo.xyz^
 ||zasjf.xyz^
 ||zasjfget.xyz^
+||zaupjw.xyz^
+||zawqwpajq.club^
 ||zb.516624.com^
 ||zblz.me^
 ||zcy821.com^

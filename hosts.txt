@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2335
-#Update Time: 2023-01-15 14:26:33（北京时间） 
+#Total Count:2353
+#Update Time: 2023-01-15 14:45:10（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -944,6 +944,7 @@
 0.0.0.0 imp.zol.com.cn
 0.0.0.0 imtmp.net
 0.0.0.0 in-page-push.com
+0.0.0.0 inkuae.com
 0.0.0.0 inpage-push.com
 0.0.0.0 intimidatepropel.com
 0.0.0.0 iosppk.com
@@ -1012,6 +1013,7 @@
 0.0.0.0 jnyayk.xyz
 0.0.0.0 joannarace.com
 0.0.0.0 jocelynrace.com
+0.0.0.0 jojog.com
 0.0.0.0 jollytestpartying.com
 0.0.0.0 jomwihn.cn
 0.0.0.0 js.*2023*.live
@@ -1122,6 +1124,7 @@
 0.0.0.0 kstj.baidu.com
 0.0.0.0 ktdlsb.com
 0.0.0.0 kuanxin.top
+0.0.0.0 kvsqa.xyz
 0.0.0.0 kwdgudw.cn
 0.0.0.0 kydb.xyz
 0.0.0.0 kyxw9itc.xyz
@@ -1149,6 +1152,7 @@
 0.0.0.0 lhippac.cn
 0.0.0.0 lhy1.xyz
 0.0.0.0 lianmeng.xgxhy.com
+0.0.0.0 liebaovip.com
 0.0.0.0 lihong.ltd
 0.0.0.0 lijie.in
 0.0.0.0 lijunkai.com
@@ -1626,6 +1630,7 @@
 0.0.0.0 schain.group
 0.0.0.0 sciillr.cn
 0.0.0.0 scjpqut.cn
+0.0.0.0 sd.yhzzzs02.com
 0.0.0.0 sd6hon.cn
 0.0.0.0 sdhjueue.com
 0.0.0.0 sdk.sipujia.cn
@@ -1761,6 +1766,7 @@
 0.0.0.0 sxguowei.com
 0.0.0.0 sxk9m8x.cn
 0.0.0.0 sybnzs.cn
+0.0.0.0 sycrgc.xyz
 0.0.0.0 sydz.tw
 0.0.0.0 syndication.realsrv.com
 0.0.0.0 syr66.com.cn
@@ -1889,6 +1895,7 @@
 0.0.0.0 unjs.jingyanben.com
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 unypud.cn
+0.0.0.0 uopsawxst.cyou
 0.0.0.0 upgrade.xl9.xunlei.com
 0.0.0.0 uphzxdv.cn
 0.0.0.0 uporods.com
@@ -2284,6 +2291,8 @@
 0.0.0.0 zaqptv2bo.xyz
 0.0.0.0 zasjf.xyz
 0.0.0.0 zasjfget.xyz
+0.0.0.0 zaupjw.xyz
+0.0.0.0 zawqwpajq.club
 0.0.0.0 zb.516624.com
 0.0.0.0 zblz.me
 0.0.0.0 zcy821.com

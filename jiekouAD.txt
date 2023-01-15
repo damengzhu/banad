@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-01-15 14:26:33（北京时间） 
-! Total Count: 2866
+! Update Time: 2023-01-15 14:45:10（北京时间） 
+! Total Count: 2886
 ! by: 酷安@大萌主
 ! Host
 ||sycrgc.xyz^
