@@ -2756,7 +2756,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href*="/entry/register/?i_code="]
 ##[style$='auto;text-align: center;line-height: initial;margin-bottom: 10px;margin-left: 20px;margin-right: 20px;']
 ##[style$="both;margin: auto;text-align: center;line-height: initial;margin-bottom: 10px;"]
-##A#mhbottom_ad_img,[href='https://ys.44766.cc/m/download'][style*='/adcarsku/sku'],[src*='/adcarsku/sku']
+##DIV#mhbottom_ad_box
 ##[href^='https://w5979.com:']
 ##[href^='https://dc.vvsmse72']
 ##oxk
