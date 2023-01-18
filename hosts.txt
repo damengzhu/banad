@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2359
-#Update Time: 2023-01-18 09:33:14（北京时间） 
+#Total Count:2366
+#Update Time: 2023-01-18 13:09:55（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -354,6 +354,7 @@
 0.0.0.0 bfugui.com
 0.0.0.0 bh0874.online
 0.0.0.0 bhaabom.cn
+0.0.0.0 bhulgot.com
 0.0.0.0 bi.ui.doulaihai.top
 0.0.0.0 bieqpf.cn
 0.0.0.0 biexsite.net
@@ -885,6 +886,7 @@
 0.0.0.0 hudiecaifu.com
 0.0.0.0 huichuan.sm.cn
 0.0.0.0 huifangwen.com
+0.0.0.0 huiruwei.com
 0.0.0.0 huitoukao.com
 0.0.0.0 huiyelu.com
 0.0.0.0 huiyigou111.com
@@ -1250,6 +1252,7 @@
 0.0.0.0 m.zzcm5.com
 0.0.0.0 m3.myyj.net
 0.0.0.0 maljxp.cn
+0.0.0.0 manage88.com
 0.0.0.0 manguan.vip
 0.0.0.0 manlungkey.com
 0.0.0.0 maobujie.com
@@ -1359,6 +1362,7 @@
 0.0.0.0 nike666.com
 0.0.0.0 nimaxrv.cn
 0.0.0.0 nisihu.com.cn
+0.0.0.0 nissifresh.com
 0.0.0.0 nithisp.cn
 0.0.0.0 niulai0323166.space
 0.0.0.0 njcengpianwang.cn
@@ -1558,6 +1562,7 @@
 0.0.0.0 r.alimc1.top
 0.0.0.0 r.zaitouwang.com
 0.0.0.0 r36ku.site
+0.0.0.0 r6pt6kfz.com
 0.0.0.0 rapsmnz.cyou
 0.0.0.0 rbioclv.cn
 0.0.0.0 rc7e.top
@@ -1862,6 +1867,7 @@
 0.0.0.0 twbymc.cn
 0.0.0.0 twdjn.cn
 0.0.0.0 twjsx.cn
+0.0.0.0 txjfso.com
 0.0.0.0 txscn.cn
 0.0.0.0 tyawwj.cn
 0.0.0.0 tydouke.com
@@ -2173,6 +2179,7 @@
 0.0.0.0 xinlimaoyi2.xinlimaoyi.cn
 0.0.0.0 xinym1.xyz
 0.0.0.0 xjrvwz.com
+0.0.0.0 xjssjc.com
 0.0.0.0 xkqit.com
 0.0.0.0 xkzjq.cn
 0.0.0.0 xls.go.sohu.com

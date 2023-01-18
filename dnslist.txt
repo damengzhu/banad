@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2359
-! Update Time:2023-01-18 09:33:14（北京时间） 
+! Total Count:2366
+! Update Time:2023-01-18 13:09:55（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -353,6 +353,7 @@
 ||bfugui.com^
 ||bh0874.online^
 ||bhaabom.cn^
+||bhulgot.com^
 ||bi.ui.doulaihai.top^
 ||bieqpf.cn^
 ||biexsite.net^
@@ -884,6 +885,7 @@
 ||hudiecaifu.com^
 ||huichuan.sm.cn^
 ||huifangwen.com^
+||huiruwei.com^
 ||huitoukao.com^
 ||huiyelu.com^
 ||huiyigou111.com^
@@ -1249,6 +1251,7 @@
 ||m.zzcm5.com^
 ||m3.myyj.net^
 ||maljxp.cn^
+||manage88.com^
 ||manguan.vip^
 ||manlungkey.com^
 ||maobujie.com^
@@ -1358,6 +1361,7 @@
 ||nike666.com^
 ||nimaxrv.cn^
 ||nisihu.com.cn^
+||nissifresh.com^
 ||nithisp.cn^
 ||niulai0323166.space^
 ||njcengpianwang.cn^
@@ -1557,6 +1561,7 @@
 ||r.alimc1.top^
 ||r.zaitouwang.com^
 ||r36ku.site^
+||r6pt6kfz.com^
 ||rapsmnz.cyou^
 ||rbioclv.cn^
 ||rc7e.top^
@@ -1861,6 +1866,7 @@
 ||twbymc.cn^
 ||twdjn.cn^
 ||twjsx.cn^
+||txjfso.com^
 ||txscn.cn^
 ||tyawwj.cn^
 ||tydouke.com^
@@ -2172,6 +2178,7 @@
 ||xinlimaoyi2.xinlimaoyi.cn^
 ||xinym1.xyz^
 ||xjrvwz.com^
+||xjssjc.com^
 ||xkqit.com^
 ||xkzjq.cn^
 ||xls.go.sohu.com^
