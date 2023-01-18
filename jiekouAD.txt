@@ -5,6 +5,7 @@
 ! Total Count: 2907
 ! by: 酷安@大萌主
 ! Host
+||eabids.com^
 ||bhulgot.com^
 ||r6pt6kfz.com^
 ||huiruwei.com^
@@ -2910,6 +2911,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
+##DIV#div1.div-relative[style='display:block;']
 ##[href^='https://analytics.woozooo.com/jump.php?url=']
 ##[href^='https://ccs.holor0803.cn']
 ##[href$='/ads.aspx']
