@@ -2610,6 +2610,7 @@ baidu.com##[class^='ball-wrapper']
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 baidu.com##.ec_wise_ad
 baidu.com##div.ec_ad_results
+www.baidu.com##DIV.c-row:has([data-tuiguang])
 m.baidu.com##DIV.brand-entry
 baidu.com###relative_shop_flow
 baidu.com##.rel-exp-feed-ad-item
