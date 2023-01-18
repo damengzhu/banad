@@ -5,6 +5,13 @@
 ! Total Count: 2899
 ! by: 酷安@大萌主
 ! Host
+||bhulgot.com^
+||r6pt6kfz.com^
+||huiruwei.com^
+||txjfso.com^
+||xjssjc.com^
+||manage88.com^
+||nissifresh.com^
 ||misadw1.cn^
 ||lwlqsgr.cn^
 ||gtlpaj.com^
@@ -2887,6 +2894,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##A[href^='https://d1-dm.online/go/']
 ##DIV.appdownload_ad
 ##IMG[alt='155.fun']
+##center > a > IMG[alt$='到期']
 ##body#nr_body font > [id]
 ##[href^='https://luodi.aitaokeji.top/']
 ##[poster^='https://dingbu.bj.bcebos.com/']
