@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2367
-! Update Time:2023-01-18 14:16:27（北京时间） 
+! Total Count:2369
+! Update Time:2023-01-18 19:20:20（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -2280,6 +2280,7 @@
 ||yun-hl.3g.qq.com^
 ||yunl1.com^
 ||yunqishi8.com^
+||yuske2.xyz^
 ||yusnw.cc^
 ||yw800.com.cn^
 ||ywsywh.cn^
@@ -2328,6 +2329,7 @@
 ||zhengxiaoliu.top^
 ||zhflodsix.cn^
 ||zhihu-web-analytics.zhihu.com^
+||zhijiangweidu.top^
 ||zhisuyunonline.cn^
 ||zhizhunbao.top^
 ||zhuangxiu567.com^
