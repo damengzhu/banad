@@ -2729,7 +2729,7 @@ m.qidian.com##P.text-content
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
 boylove.cc##DIV[style='bottom: 80px;']
-##[aria-label='广告']
+##DIV[data-text-ad]
 ##A[href^='https://tv2356.cc']
 ##div.container > div.t-img-box > A[href][target='_blank']
 ##DIV[class$='_ad_wrap']
