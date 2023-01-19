@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2368
-! Update Time:2023-01-19 17:11:38（北京时间） 
+! Total Count:2361
+! Update Time:2023-01-19 17:37:03（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -486,6 +486,7 @@
 ||cp.eoncreativity.com^
 ||cpms.now.com^
 ||cpoml.iask.sina.com.cn^
+||cpro.baidustatic.com^
 ||cpro.zol.com.cn^
 ||cpro88.vip^
 ||cpt.9136.com^
@@ -515,19 +516,13 @@
 ||d.goodtj.xyz^
 ||d.toutiao.com^
 ||d.ziyuanm.com^
-||d10lumateci472.cloudfront.net^
 ||d13gni3sfor862.cloudfront.net^
-||d18t35yyry2k49.cloudfront.net^
-||d1ac2du043ydir.cloudfront.net^
 ||d1esebcdm6wx7j.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
 ||d1pmhihatyvp1k.cloudfront.net^
 ||d1q4x2p7t0gq14.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
-||d28s7kbgrs6h2f.cloudfront.net^
-||d2kadvyeq051an.cloudfront.net^
-||d3beefy8kd1pr7.cloudfront.net^
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d8962a.xyz^
 ||dacedsfa.cn^
@@ -588,7 +583,6 @@
 ||dm.pstatp.com^
 ||dm.toutiao.com^
 ||dmfjeu.xyz^
-||dmmzkfd82wayn.cloudfront.net^
 ||dmyrza.com^
 ||dncvj.cn^
 ||dns.weibo.cn^
@@ -618,7 +612,6 @@
 ||dv.taolingjing.com^
 ||dvv9dkv.site^
 ||dvzk66.cn^
-||dwnm2295blvjq.cloudfront.net^
 ||dxp.baidu.com^
 ||dxwsty.cn^
 ||dxzky.love^
