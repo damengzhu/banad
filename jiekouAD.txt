@@ -5,6 +5,7 @@
 ! Total Count: 2904
 ! by: 酷安@大萌主
 ! Host
+||7701zxcv.com^
 ||zhijiangweidu.top^
 ||yuske2.xyz^
 ||eabids.com^
@@ -2883,6 +2884,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href='/my/dp.html']
 ##A[href='http://95710.vip']
 ##A[href^='http://www.kyty1119.com']
+##A[href='http://kkyty29.cc/']
 ##[href*='.xacg.info/']
 ##A[href^='https://chmjmff.com/']
 ##div.container > IFRAME[align][width][src][border][height]
