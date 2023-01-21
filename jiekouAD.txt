@@ -2882,6 +2882,8 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
 ##A[target='_blank'][href*='/auth/register?code=']
 ##[href='/my/dp.html']
+##A[href='http://88yd.cc/']
+##A[href='http://8hgpro.vip/']
 ##A[href='http://95710.vip']
 ##A[href^='http://www.kyty1119.com']
 ##A[href='http://kkyty29.cc/']
