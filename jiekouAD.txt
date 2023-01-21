@@ -2510,7 +2510,6 @@ pstatp.com/growth/fe_sdk/bannersdk
 ||omlube.com/O/1000970O3001405O1O.js
 ||5dm.tv/html/5dmm.jpg
 ||domp4.cc/js/wcount.js
-||domp4.cc/Style/2020/js/base.js
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||milimili.tv/js/loadjs/jquery10.4.js
 ||milimili.tv/js/loadjs/jquery10.7.js
