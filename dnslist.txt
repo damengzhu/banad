@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2363
-! Update Time:2023-01-22 14:41:10（北京时间） 
+! Total Count:2374
+! Update Time:2023-01-23 10:01:36（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -130,6 +130,7 @@
 ||77nnv9.xyz^
 ||77qwq.com^
 ||77zz7.com^
+||78dfvv.com^
 ||79zxcv.com^
 ||7c4432.zouxinmall.com^
 ||7caidai.xyz^
@@ -685,6 +686,7 @@
 ||fclick.baidu.com^
 ||fclog.baidu.com^
 ||fcqztan.cn^
+||fds-1230.cc^
 ||feed.baidu.com^
 ||ffnvhig.cn^
 ||ffzz71.com^
@@ -1094,6 +1096,7 @@
 ||kl.yditweb.cn^
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
+||kmnhbr.xyz^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
@@ -1122,6 +1125,7 @@
 ||kuanxin.top^
 ||kvsqa.xyz^
 ||kwdgudw.cn^
+||kwo-0115.cc^
 ||kydb.xyz^
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
@@ -1140,6 +1144,7 @@
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
 ||ledaren.cn^
+||lekkrrlel.com^
 ||lezbrja.cn^
 ||lflmdm.com^
 ||lganilgll.cyou^
@@ -1400,6 +1405,7 @@
 ||oldulgk.cn^
 ||olpv.onlylady.com^
 ||omgid.qq.com^
+||omhoa.com^
 ||oncinu.com^
 ||one.fsylr.com^
 ||one.gongshu168.cn^
@@ -1685,6 +1691,7 @@
 ||si1.go2yd.com^
 ||sifa.aak7.cn^
 ||simi1234.com^
+||simi2345.com^
 ||similm.xyz^
 ||simiyue2.com^
 ||simplewebanalysis.com^
@@ -1719,6 +1726,7 @@
 ||srmdz.vip^
 ||ssh.dkjdnq.cn^
 ||ssh.q4hwkg.cn^
+||ssjiancai.com^
 ||ssjy.shop^
 ||ssl.bbbr8.com^
 ||ssl.linyiccic.com^
@@ -2234,6 +2242,7 @@
 ||yhbsk.cn^
 ||yhjccj.cn^
 ||yhp4an7.cn^
+||yhsfsdv03.com^
 ||yhz18.com^
 ||yhzm.xyz^
 ||yifujing.com^
@@ -2300,6 +2309,8 @@
 ||zasjfget.xyz^
 ||zaupjw.xyz^
 ||zawqwpajq.club^
+||zazgiyoh0.world^
+||zazgiyoh0s.xyz^
 ||zb.516624.com^
 ||zblz.me^
 ||zcy821.com^

@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2363
-#Update Time: 2023-01-22 14:41:10（北京时间） 
+#Total Count:2374
+#Update Time: 2023-01-23 10:01:36（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -131,6 +131,7 @@
 0.0.0.0 77nnv9.xyz
 0.0.0.0 77qwq.com
 0.0.0.0 77zz7.com
+0.0.0.0 78dfvv.com
 0.0.0.0 79zxcv.com
 0.0.0.0 7c4432.zouxinmall.com
 0.0.0.0 7caidai.xyz
@@ -686,6 +687,7 @@
 0.0.0.0 fclick.baidu.com
 0.0.0.0 fclog.baidu.com
 0.0.0.0 fcqztan.cn
+0.0.0.0 fds-1230.cc
 0.0.0.0 feed.baidu.com
 0.0.0.0 ffnvhig.cn
 0.0.0.0 ffzz71.com
@@ -1095,6 +1097,7 @@
 0.0.0.0 kl.yditweb.cn
 0.0.0.0 kmgfjc.cn
 0.0.0.0 kmhmyaj.cn
+0.0.0.0 kmnhbr.xyz
 0.0.0.0 kmpl.rnqxp.cn
 0.0.0.0 kmpxq.cn
 0.0.0.0 kmr.enrosr.cn
@@ -1123,6 +1126,7 @@
 0.0.0.0 kuanxin.top
 0.0.0.0 kvsqa.xyz
 0.0.0.0 kwdgudw.cn
+0.0.0.0 kwo-0115.cc
 0.0.0.0 kydb.xyz
 0.0.0.0 kyxw9itc.xyz
 0.0.0.0 kyxw9itv.club
@@ -1141,6 +1145,7 @@
 0.0.0.0 lccfjszp.cn
 0.0.0.0 lcdn.runative-syndicate.com
 0.0.0.0 ledaren.cn
+0.0.0.0 lekkrrlel.com
 0.0.0.0 lezbrja.cn
 0.0.0.0 lflmdm.com
 0.0.0.0 lganilgll.cyou
@@ -1401,6 +1406,7 @@
 0.0.0.0 oldulgk.cn
 0.0.0.0 olpv.onlylady.com
 0.0.0.0 omgid.qq.com
+0.0.0.0 omhoa.com
 0.0.0.0 oncinu.com
 0.0.0.0 one.fsylr.com
 0.0.0.0 one.gongshu168.cn
@@ -1686,6 +1692,7 @@
 0.0.0.0 si1.go2yd.com
 0.0.0.0 sifa.aak7.cn
 0.0.0.0 simi1234.com
+0.0.0.0 simi2345.com
 0.0.0.0 similm.xyz
 0.0.0.0 simiyue2.com
 0.0.0.0 simplewebanalysis.com
@@ -1720,6 +1727,7 @@
 0.0.0.0 srmdz.vip
 0.0.0.0 ssh.dkjdnq.cn
 0.0.0.0 ssh.q4hwkg.cn
+0.0.0.0 ssjiancai.com
 0.0.0.0 ssjy.shop
 0.0.0.0 ssl.bbbr8.com
 0.0.0.0 ssl.linyiccic.com
@@ -2235,6 +2243,7 @@
 0.0.0.0 yhbsk.cn
 0.0.0.0 yhjccj.cn
 0.0.0.0 yhp4an7.cn
+0.0.0.0 yhsfsdv03.com
 0.0.0.0 yhz18.com
 0.0.0.0 yhzm.xyz
 0.0.0.0 yifujing.com
@@ -2301,6 +2310,8 @@
 0.0.0.0 zasjfget.xyz
 0.0.0.0 zaupjw.xyz
 0.0.0.0 zawqwpajq.club
+0.0.0.0 zazgiyoh0.world
+0.0.0.0 zazgiyoh0s.xyz
 0.0.0.0 zb.516624.com
 0.0.0.0 zblz.me
 0.0.0.0 zcy821.com
