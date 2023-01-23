@@ -1255,6 +1255,7 @@
 ||shproud.com^
 ||stgowan.com^
 ||statics.woozooo.com^
+||googletagmanager.com^
 ||ackcdn.net^
 ||fujincenter.com^
 ||cdns.mbxt.net^
@@ -2906,6 +2907,9 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##DIV#bfad
 ##A[href^='https://js.pico4pro.com']
 ##IMG[alt='155.fun']
+##div#detail.selector-zero > div > DIV[style]
+##DIV.ad-area.ad-area-fix-bottom
+##div.ad-area > [href]
 ##center > a > IMG[alt$='到期']
 ##body#nr_body font > [id]
 ##[href^='https://luodi.aitaokeji.top/']
