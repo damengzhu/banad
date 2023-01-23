@@ -5,6 +5,11 @@
 ! Total Count: 2921
 ! by: 酷安@大萌主
 ! Host
+||csjkb.com^
+||jntmwrm.com^
+||csjkb.com^
+||loispp.com^
+||jnmascx.xyz^
 ||zazgiyoh0s.xyz^
 ||zazgiyoh0.world^
 ||ssjiancai.com^
@@ -2583,6 +2588,7 @@ dingbu.*.*.*/*.add$third-party
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
 ||addthis.com/live/
+||xn--*.xn--fiqs8s:
 ||zhenbuka.com/gg/lunbo.js
 ||zd518.cn/template/qpg6080/baidufx/baidufx.js
 ||ykmh.com/js/aajquery.img01.js
@@ -2594,8 +2600,8 @@ template/m1938pc/ads/*.js
 ||mhhanman.xyz/data/my/myjs.js
 ||zhhbqg.com/ww/*.js
 ||liweidianqi.com/a.js
-liweidianqi.com/a*.js
-www.5nj.com/js/cnzz*.js
+||liweidianqi.com/a*.js
+||www.5nj.com/js/cnzz*.js
 ||duodada.com/Tpl/default/system.js
 ||5dyx.com/static/js/deny.js
 ||5dyx.com/static/jquery.js
@@ -2903,6 +2909,9 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##div.container > IFRAME[align][width][src][border][height]
 ##A[href^='https://d1-dm.online/go/']
 ##DIV.appdownload_ad
+##A[href^='https://yongle008.com']
+##DIV#bfad
+##A[href^='https://js.pico4pro.com']
 ##IMG[alt='155.fun']
 ##center > a > IMG[alt$='到期']
 ##body#nr_body font > [id]
