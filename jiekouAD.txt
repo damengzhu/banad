@@ -1,14 +1,17 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-01-23 10:54:21（北京时间） 
+! Update Time: 2023-01-23 10:54:21（北京时间）
 ! Total Count: 2930
 ! by: 酷安@大萌主
 ! Host
+||ydjfdkcv.com^
+||sdkdfjksl.com^
+||mmevt.icu^
+||kmzayrt.cn^
 ||gaiqgs.xyz^
 ||csjkb.com^
 ||jntmwrm.com^
-||csjkb.com^
 ||loispp.com^
 ||jnmascx.xyz^
 ||zazgiyoh0s.xyz^
@@ -49,15 +52,6 @@
 ||inkuae.com^
 ||liebaovip.com^
 ||sd.yhzzzs02.com^
-||sycrgc.xyz^
-||uopsawxst.cyou^
-||kvsqa.xyz^
-||zawqwpajq.club^
-||jojog.com^
-||zaupjw.xyz^
-||inkuae.com^
-||liebaovip.com^
-||sd.yhzzzs02.com^
 ||mlzgazz.cn^
 ||laawmmy.cn^
 ||cholo101.cn^
@@ -69,7 +63,6 @@
 ||js.*2023*.xyz^
 ||js.*2023*.live^
 ||mzwzo.cn^
-||gtlpaj.com^
 ||vidwkd.com^
 ||sange20221226.xyz^
 ||tfbulkidn.com^
