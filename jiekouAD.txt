@@ -2963,7 +2963,7 @@ www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:h
 .vip/$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
 .biz/$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
 .io/$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
-xn--/$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
+xn--$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
 .website/$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
 .org/$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
 .pw/$third-party,domain=biquluo.org|nice68.top|h.qb5.tw|dmh8.me|mybl.xyz|xswang.com|www.zongcai123.com|bqg789.net|230book.net|bequ6.com|www.dubuxiaoshuo.com|待定
