@@ -2405,6 +2405,8 @@
 ||api.*.com/sh/to/$third-party
 jmb.izzcwww*.*
 *:*/*.html?k=*&_=*
+.live/o.js
+.cyou/redbaiduct.com
 /js/news2zz.js
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
