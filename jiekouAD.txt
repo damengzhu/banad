@@ -2931,7 +2931,8 @@ boylove.cc##DIV[style='bottom: 80px;']
 ###mobile-index > div[id^="ins"]
 ###mobile-index > div#vodbm
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
-##.theme-dark>.ayx>a
+##.theme-dark > .ayx > a
+##A[href='http://x5123.cc/']
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
