@@ -5,6 +5,9 @@
 ! Total Count: 2935
 ! by: 酷安@大萌主
 ! Host
+||pmensrl.cn^
+||ixjtpbj.cn^
+||thezbpe5yvlv.xyz^
 ||lyua.cn^
 ||wschao.xyz^
 ||saccac11.com^
@@ -2932,6 +2935,13 @@ boylove.cc##DIV[style='bottom: 80px;']
 ###mobile-index > div#vodbm
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##.theme-dark > .ayx > a
+##A[href='http://x5123.cc/']
+##a > I.gg-icon
+##[alt='ad']
+##DIV.module-adslist
+##div[id*='ad'][class*='text']
+##span > A[href='###']
+##A[href='http://k023055.com']
 ##A[href='http://x5123.cc/']
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
