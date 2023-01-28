@@ -2249,7 +2249,6 @@
 ||qappcenterv6.3g.qq.com^
 ||mob.com^
 ||rqd.qq.com^
-||umsns.com^
 ||adash.man.aliyuncs.com^
 ||norma-external-collect.meizu.com^
 ||soa-vip-ssl.xunlei.com^
