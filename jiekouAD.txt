@@ -2940,6 +2940,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##A[href='http://x5123.cc/']
 ##a > I.gg-icon
 ##[alt='ad']
+##DIV[style*='.xyz/gif/']
 ##DIV.module-adslist
 ##div[id*='ad'][class*='text']
 ##span > A[href='###']
