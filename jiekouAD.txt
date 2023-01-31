@@ -2935,6 +2935,8 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ###mobile-index > div[id^="ins"]
 ###mobile-index > div#vodbm
+www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
+www.ghxi.com##DIV.wpcom_ad_wrap
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##.theme-dark > .ayx > a
 ##A[href='http://x5123.cc/']
