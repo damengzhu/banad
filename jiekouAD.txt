@@ -2421,6 +2421,7 @@ jmb.izzcwww*.*
 *.tfptlgrw.*
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
+.com/sh/to/$third-party
 ||745c.cn$third-party
 ||kgsz.cn$third-party
 ||dadatuwz.com^$third-party
