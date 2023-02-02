@@ -5,6 +5,9 @@
 ! Total Count: 2954
 ! by: 酷安@大萌主
 ! Host
+||zaqlovhrabd.xyz^
+||mryshl.com^
+||kminker.xyz^
 ||sygmtz.com^
 ||yutew.cc^
 ||kb5ke.xyz^
@@ -2944,6 +2947,10 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##.theme-dark > .ayx > a
 ##A[href='http://x5123.cc/']
 ##a > I.gg-icon
+##body > h1 > strong > title > a
+##UL.myui-extra.clearfix
+##A[href^='https://www.nonstopclub.xyz']
+##A[href^='https://js.iconiclee.com']
 ##[alt='ad']
 ##DIV[style*='.xyz/gif/']
 ##DIV.module-adslist
