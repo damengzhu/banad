@@ -2946,7 +2946,7 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##.theme-dark > .ayx > a
 ##A[href='http://x5123.cc/']
-##a > IMG[src$='.gif'][wapsrc][style='width: 100%']
+##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
 ##a > I.gg-icon
 ##body > h1 > strong > title > a
 ##UL.myui-extra.clearfix
