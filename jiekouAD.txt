@@ -2305,7 +2305,6 @@
 ||dorangesource.alicdn.com^
 ||orange-dc.youku.com^
 ||eco.taobao.com^
-||ynuf.aliapp.org^
 ||push.m.youku.com^
 ||acs4baichuan.m.taobao.com^
 ||umdc.aliapp.org^
