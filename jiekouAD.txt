@@ -5,6 +5,8 @@
 ! Total Count: 2968
 ! by: 酷安@大萌主
 ! Host
+||realsrv.com^
+||go.live.missav.com^
 ||vokmhydy.xyz^
 ||jjjcyjj.cn^
 ||zaqlovhrabd.xyz^
@@ -2959,6 +2961,7 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://js.iconiclee.com']
 ##[alt='ad']
+##div.flex-1.order-first > DIV.under_player
 ##DIV[style*='.xyz/gif/']
 ##DIV.module-adslist
 ##div[id*='ad'][class*='text']
