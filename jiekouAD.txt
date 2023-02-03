@@ -5,6 +5,7 @@
 ! Total Count: 2962
 ! by: 酷安@大萌主
 ! Host
+||vokmhydy.xyz^
 ||jjjcyjj.cn^
 ||zaqlovhrabd.xyz^
 ||mryshl.com^
@@ -2948,6 +2949,11 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##A[href='http://x5123.cc/']
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
 ##a > I.gg-icon
+##ul.content-list > li.content-tb
+##div.video-box > div.hf > a
+##IMG[src$='.gif']
+##DIV.swiper-container
+##DIV.swiper-slide.swiper-slide-active
 ##body > h1 > strong > title > a
 ##UL.myui-extra.clearfix
 ##A[href^='https://www.nonstopclub.xyz']
