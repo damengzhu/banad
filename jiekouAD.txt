@@ -5,6 +5,9 @@
 ! Total Count: 2970
 ! by: 酷安@大萌主
 ! Host
+||tfzozf.xyz^
+||pojkhufef.xyz^
+||fdgem.com^
 ||realsrv.com^
 ||go.live.missav.com^
 ||vokmhydy.xyz^
@@ -2733,6 +2736,7 @@ manwa1.me,manwa2.me,manwa.me##[style*='15px'][style*='background-color:'][style*
 manwa1.me,manwa2.me,manwa.me##[style='transform-origin: left top; margin: 0px auto;']
 manwa1.me,manwa2.me,manwa.me##DIV.swiper-container.swiper-container-horizontal
 m.autohome.com.cn##ol > li,.evade-operate
+yydstxt234.com##IMG[src^='/images/'][width='100%']
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
 luoqiuzw.com##DIV[id^="a-loading-"]
 bimibimi.cc##[src^='https://dd-static.jd.com']
