@@ -2953,7 +2953,6 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##a > I.gg-icon
 ##ul.content-list > li.content-tb
 ##div.video-box > div.hf > a
-##IMG[src$='.gif']
 ##DIV.swiper-container
 ##DIV.swiper-slide.swiper-slide-active
 ##body > h1 > strong > title > a
