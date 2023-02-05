@@ -5,6 +5,8 @@
 ! Total Count: 2974
 ! by: 酷安@大萌主
 ! Host
+||nudpqt.com^
+||awyyzx.com^
 ||tfzozf.xyz^
 ||pojkhufef.xyz^
 ||fdgem.com^
@@ -2981,5 +2983,5 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##[href^='https://mtyshi.com/']
 52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
 www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%E2%96%9B']),DIV[data-sokoban-container]:has([href*='%E3%80%90%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9E%BF%E3%80%91']),DIV[data-sokoban-container]:has([href*='%E2%8F%AA%29']),DIV[data-sokoban-container]:has([href*='%E2%9A%BD%E3%80%91']),DIV[data-sokoban-container]:has([href*='-%E3%80%90']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F'][href*='%E2%98%80%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='-('][href*='%E2%9C%94%EF%B8%8F']),DIV[data-sokoban-container]:has([href*='%E2%9C%94%EF%B8%8F%29']),DIV[data-sokoban-container]:has([href*='-%E2%9C%94%EF%B8%8F'])
-
-
+! gif ads
+ikan6.vip##IMG[src$='.gif']
