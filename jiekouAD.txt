@@ -2667,6 +2667,12 @@ fanyi.baidu.com##H1,H3,DIV.intro-nav.clearfix,DIV.intro-copyrigh,A.app-bar,DIV.i
 cpu.baidu.com##A[href*='cpro.baidu.com']
 wk.baidu.com##DIV.fc-ad-wrap
 wk.baidu.com##DIV.middle-box-root
+tieba.baidu.com##DIV[id^='aside-ad']
+tieba.baidu.com##div[class*='-ad-pb-']
+tieba.baidu.com##DIV.fengchao-wrap-feed:has(SPAN.ec-tuiguang)
+tieba.baidu.com##DIV.tbui_slideshow_container:has(SPAN.ad_logo)
+tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
+tieba.baidu.com##DIV.clearfix.thread_item_box
 jingyan.baidu.com##div.ad-card
 jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
