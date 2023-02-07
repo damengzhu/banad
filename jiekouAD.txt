@@ -2979,6 +2979,8 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##span > A[href='###']
 ##A[href='http://k023055.com']
 ##A[href='http://x5123.cc/']
+##DIV#bannerCtrl.source_container.swiper-wrapper
+##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
