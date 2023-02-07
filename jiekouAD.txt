@@ -2963,6 +2963,7 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##A[href='http://x5123.cc/']
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
 ##a > I.gg-icon
+##A[href^='http://cszb420tinawd81.com/']
 ##ul.content-list > li.content-tb
 ##div.video-box > div.hf > a
 ##DIV.swiper-container
