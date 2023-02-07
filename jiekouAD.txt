@@ -2968,8 +2968,6 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##A[href^='http://cszb420.tinawd81.com/']
 ##ul.content-list > li.content-tb
 ##div.video-box > div.hf > a
-##DIV.swiper-container
-##DIV.swiper-slide.swiper-slide-active
 ##body > h1 > strong > title > a
 ##UL.myui-extra.clearfix
 ##A[href^='https://www.nonstopclub.xyz']
