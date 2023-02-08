@@ -2449,6 +2449,7 @@ jmb.izzcwww*.*
 ||lewenma.com/js/read.js
 ||jialingmm.net/dm/tj.js
 ||58jingxuan.top/115
+/4.0.0/crypto-js.min.js
 xmh/200/200-*.gif
 ||zhhbqg.com/xxgg/*.js
 ||zhhbqg.com/ee/*.js
@@ -2974,6 +2975,7 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://js.iconiclee.com']
 ##[alt='ad']
+##DIV#video-player-ads-wrap
 ##div.flex-1.order-first > DIV.under_player
 ##DIV[style*='.xyz/gif/']
 ##DIV.module-adslist
