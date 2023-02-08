@@ -2680,6 +2680,7 @@ zhidao.baidu.com##[id='knowledge-answer-list']
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 bing.com##DIV#bnp_container
 bing.com##.b_ad
+hao123.com##DIV.popup
 yhdmp.net##[style^='bottom:'][style$='block;']
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 18comic.vip##DIV.col-lg-3.col-md-3
