@@ -2986,6 +2986,9 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
+##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
+##DIV#links.links.my-1.row[style='font-size:20px']
+##[class$="_main_outstream"][style="right: 0px;"]
 ##DIV#div1.div-relative[style='display:block;']
 ##[href^='https://analytics.woozooo.com/jump.php?url=']
 ##[href^='https://ccs.holor0803.cn']
