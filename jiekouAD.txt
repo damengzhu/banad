@@ -2417,8 +2417,9 @@
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
-||api.*.com/sh/to/$third-party
-jmb.izzcwww*.*
+||api.*.com/sh/to/$third-part
+.xyz/svelte?$third-party
+.xyz/alpine?$third-party
 *:*/*.html?k=*&_=*
 .live/o.js
 .cyou/redbaiduct.com
