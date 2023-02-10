@@ -2449,7 +2449,6 @@
 ||lewenma.com/js/read.js
 ||jialingmm.net/dm/tj.js
 ||58jingxuan.top/115
-/4.0.0/crypto-js.min.js
 xmh/200/200-*.gif
 ||zhhbqg.com/xxgg/*.js
 ||zhhbqg.com/ee/*.js
