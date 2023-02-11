@@ -2673,6 +2673,7 @@ tieba.baidu.com##DIV.tbui_slideshow_container:has(SPAN.ad_logo)
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##DIV.clearfix.thread_item_box
 jingyan.baidu.com##div.ad-card
+jingyan.baidu.com##div.asp-self-rander > DIV.asp-wrap
 jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
@@ -2710,6 +2711,7 @@ javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3
 www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
 www.itdog.cn#%#window.alert=function(str){return}
 so.toutiao.com##section.commonbox.hasfooter
+axutongxue.com##ARTICLE[id]
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 baike.so.com##section#business-flow.business-flow
