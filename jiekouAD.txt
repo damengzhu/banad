@@ -2734,6 +2734,7 @@ cibaipuki.com##DIV.table2
 cibaipuki.com##DIV.box.width-full:has([href*=":"])
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
+zol.com.cn##A.dingtong.xianshiyouhui
 m.iqiyi.com##DIV.iqyGuide-content,.cover
 axutongxue.com##body > div[id] > ul[class] > li > A[href^='http'],body > div[id] > ul[class] > li > img.icon
 www.zhihu.com##DIV.KfeCollection-VipRecommendCard
@@ -2984,6 +2985,7 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##DIV.module-adslist
 ##div[id*='ad'][class*='text']
 ##span > A[href='###']
+##IMG[style='width: 100%;'][src^='https://ad.']
 ##A[href='http://k023055.com']
 ##A[href='http://x5123.cc/']
 ##DIV#bannerCtrl.source_container.swiper-wrapper
