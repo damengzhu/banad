@@ -2983,6 +2983,7 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##div.flex-1.order-first > DIV.under_player
 ##DIV[style*='.xyz/gif/']
 ##DIV.module-adslist
+##DIV.JS_mid_ad
 ##div[id*='ad'][class*='text']
 ##span > A[href='###']
 ##IMG[style='width: 100%;'][src^='https://ad.']
