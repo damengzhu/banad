@@ -2735,6 +2735,7 @@ cibaipuki.com##DIV.box.width-full:has([href*=":"])
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
 zol.com.cn##A.dingtong.xianshiyouhui
+dm530p.net##DIV[style$='; display: block;']
 m.iqiyi.com##DIV.iqyGuide-content,.cover
 axutongxue.com##body > div[id] > ul[class] > li > A[href^='http'],body > div[id] > ul[class] > li > img.icon
 www.zhihu.com##DIV.KfeCollection-VipRecommendCard
