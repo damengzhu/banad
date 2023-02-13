@@ -2986,7 +2986,6 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##DIV[style*='.xyz/gif/']
 ##DIV.module-adslist
 ##DIV.JS_mid_ad
-##div[id*='ad'][class*='text']
 ##span > A[href='###']
 ##IMG[style='width: 100%;'][src^='https://ad.']
 ##A[href='http://k023055.com']
