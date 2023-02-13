@@ -2753,6 +2753,7 @@ m.autohome.com.cn##ol > li,.evade-operate
 yydstxt234.com##IMG[src^='/images/'][width='100%']
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
 luoqiuzw.com##DIV[id^="a-loading-"]
+www.ydyse.com##.left,.bottom,.right,.ad,.adimage
 bimibimi.cc##[src^='https://dd-static.jd.com']
 sohu.com##A[href='javascript:void(0);']
 sohu.com##DIV#bottomBanner[data-spm='b-mb'][data-spm-stop='init']
