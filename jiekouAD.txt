@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-02-14 22:49:25（北京时间） 
+! Update Time: 2023-02-14 22:49:25（北京时间）
 ! Total Count: 3006
 ! by: 酷安@大萌主
 ! Host
@@ -2421,21 +2421,17 @@
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
-||api.*.com/sh/to/$third-party
+.com/sh/to/$third-party
 .xyz/svelte?$third-party
 .xyz/alpine?$third-party
-*:*/*.html?k=*&_=*
 .live/o.js
 .cyou/redbaiduct.com
 /js/news2zz.js
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /r/t1/16/
-*.u8hdqyug.*
-*.tfptlgrw.*
 .top/*/*-*-*-*.*?_=*
 .top/Report/*-*-*-*-*
-.com/sh/to/$third-party
 ||745c.cn$third-party
 ||kgsz.cn$third-party
 ||dadatuwz.com^$third-party
@@ -2443,7 +2439,6 @@
 ||outbrain.com^$third-party
 .xyz$domain=yinghuacd.com
 .club$domain=yinghuacd.com
-*.gif$domain=m.imomoe.live
 ||n5m5.com/static/js/playcon.js
 /js/ads
 /tongji.js
@@ -2595,7 +2590,6 @@ dingbu.*.*.com/dingbu.$third-party
 api.*.*/*/*?_=450*$third-party
 .xyz/jque*.js?$third-party
 /blxn_*_*_*?*$third-party
-.com/sh/to$third-party
 .top/*q=*form=*&*url=http*$third-party
 _/bigREDdog.js
 */ads.
@@ -2992,7 +2986,6 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##span > A[href='###']
 ##IMG[style='width: 100%;'][src^='https://ad.']
 ##A[href='http://k023055.com']
-##A[href='http://x5123.cc/']
 ##DIV#bannerCtrl.source_container.swiper-wrapper
 ##IMG[src*='.xyz/tupian/'][src$='/h5.gif']
 ##[href^='https://65564535.com']
@@ -3014,5 +3007,3 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
-
-
