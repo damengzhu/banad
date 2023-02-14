@@ -2421,7 +2421,7 @@
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
-||api.*.com/sh/to/$third-part
+||api.*.com/sh/to/$third-party
 .xyz/svelte?$third-party
 .xyz/alpine?$third-party
 *:*/*.html?k=*&_=*
