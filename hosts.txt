@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2397
-#Update Time: 2023-02-14 23:51:59（北京时间） 
+#Total Count:2403
+#Update Time: 2023-02-15 15:48:37（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -343,6 +343,7 @@
 0.0.0.0 bcglkfu.cn
 0.0.0.0 bd1.zuimeitianqi.com
 0.0.0.0 bd2.zuimeitianqi.com
+0.0.0.0 bddwm.com
 0.0.0.0 bdhcpll.cn
 0.0.0.0 bdq.yikan2019.com
 0.0.0.0 bea-s.dinghuoche.com
@@ -365,6 +366,7 @@
 0.0.0.0 bihaipack.com
 0.0.0.0 birjkhm.cn
 0.0.0.0 biz.weibo.com
+0.0.0.0 bjkedvvelwf.xyz
 0.0.0.0 bjzh.pandasone.com
 0.0.0.0 bl.emotionalworld.cn
 0.0.0.0 blsenpg.cn
@@ -779,6 +781,7 @@
 0.0.0.0 govlaibing.cn
 0.0.0.0 govliuzhou.cn
 0.0.0.0 govxinjiang.cn
+0.0.0.0 gpxxbyf.cn
 0.0.0.0 gqdfgyz.cn
 0.0.0.0 grandcomms.cn
 0.0.0.0 greenxcx.com
@@ -1159,6 +1162,7 @@
 0.0.0.0 lcdn.runative-syndicate.com
 0.0.0.0 ledaren.cn
 0.0.0.0 lekkrrlel.com
+0.0.0.0 letvcdn.com
 0.0.0.0 lezbrja.cn
 0.0.0.0 lflmdm.com
 0.0.0.0 lganilgll.cyou
@@ -1432,6 +1436,7 @@
 0.0.0.0 ootyx24.com
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 ophwrh.cn
+0.0.0.0 opnkedfdye.xyz
 0.0.0.0 orange-dc.youku.com
 0.0.0.0 orxsq.xyz
 0.0.0.0 osnignsk.xyz
@@ -2378,6 +2383,7 @@
 0.0.0.0 zjjbtl.com
 0.0.0.0 zjkssw.com
 0.0.0.0 zjzh2019.com
+0.0.0.0 zljnwzp.cn
 0.0.0.0 zlnmzc.top
 0.0.0.0 zpxw.vip
 0.0.0.0 zt-uc-baidu.cc

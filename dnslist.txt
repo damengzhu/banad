@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2397
-! Update Time:2023-02-14 23:51:59（北京时间） 
+! Total Count:2403
+! Update Time:2023-02-15 15:48:37（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -342,6 +342,7 @@
 ||bcglkfu.cn^
 ||bd1.zuimeitianqi.com^
 ||bd2.zuimeitianqi.com^
+||bddwm.com^
 ||bdhcpll.cn^
 ||bdq.yikan2019.com^
 ||bea-s.dinghuoche.com^
@@ -364,6 +365,7 @@
 ||bihaipack.com^
 ||birjkhm.cn^
 ||biz.weibo.com^
+||bjkedvvelwf.xyz^
 ||bjzh.pandasone.com^
 ||bl.emotionalworld.cn^
 ||blsenpg.cn^
@@ -778,6 +780,7 @@
 ||govlaibing.cn^
 ||govliuzhou.cn^
 ||govxinjiang.cn^
+||gpxxbyf.cn^
 ||gqdfgyz.cn^
 ||grandcomms.cn^
 ||greenxcx.com^
@@ -1158,6 +1161,7 @@
 ||lcdn.runative-syndicate.com^
 ||ledaren.cn^
 ||lekkrrlel.com^
+||letvcdn.com^
 ||lezbrja.cn^
 ||lflmdm.com^
 ||lganilgll.cyou^
@@ -1431,6 +1435,7 @@
 ||ootyx24.com^
 ||openrcv.baidu.com^
 ||ophwrh.cn^
+||opnkedfdye.xyz^
 ||orange-dc.youku.com^
 ||orxsq.xyz^
 ||osnignsk.xyz^
@@ -2377,6 +2382,7 @@
 ||zjjbtl.com^
 ||zjkssw.com^
 ||zjzh2019.com^
+||zljnwzp.cn^
 ||zlnmzc.top^
 ||zpxw.vip^
 ||zt-uc-baidu.cc^
