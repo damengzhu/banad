@@ -2983,6 +2983,7 @@ www.ghxi.com##DIV.wpcom_ad_wrap
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://js.iconiclee.com']
 ##[alt='ad']
+##div.container > DIV.t-img-box
 ##A[href='/?'][target='_blank']
 ##DIV#video-player-ads-wrap
 ##div.flex-1.order-first > DIV.under_player
