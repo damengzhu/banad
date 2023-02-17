@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2415
-! Update Time:2023-02-17 15:44:42（北京时间） 
+! Total Count:2420
+! Update Time:2023-02-17 18:44:35（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -1004,6 +1004,7 @@
 ||jcde.site^
 ||jcheys.com^
 ||jcpecb.com^
+||jd2ujc.cn^
 ||jd5c.top^
 ||jessicarace.com^
 ||jf2v.mnpool.cn^
@@ -1125,6 +1126,7 @@
 ||kmzayrt.cn^
 ||kn.zhangdujia.com^
 ||knbtpty.xyz^
+||knlk2md.cn^
 ||knmwrkw.xyz^
 ||ko2v.eiya.net^
 ||koudaikeji.info^
@@ -1742,6 +1744,7 @@
 ||skxuueby.cn^
 ||sky.tongjiai.com^
 ||slfango.ltd^
+||slutcmail.com^
 ||smartmail.cyou^
 ||smartmuchang.com^
 ||smfjfgie.xyz^
@@ -1909,6 +1912,7 @@
 ||twbymc.cn^
 ||twdjn.cn^
 ||twjsx.cn^
+||twww.sbs^
 ||txjfso.com^
 ||txscn.cn^
 ||tyawwj.cn^
@@ -2208,6 +2212,7 @@
 ||xhkvff.cn^
 ||xhzmjs.com^
 ||xiangwangdesh.com^
+||xianzhice.com^
 ||xiaobao8888.com^
 ||xiaodongrui.com^
 ||xiaojifly.cn^
