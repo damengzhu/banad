@@ -2775,6 +2775,8 @@ luoqiuzw.com##DIV[id^="a-loading-"]
 m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 www.huadongty.com##DIV[id$=' img-containers']
 www.huadongty.com##SECTION
+www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
+www.ghxi.com##DIV.wpcom_ad_wrap
 www.hzw.com.cn##DIV.xfb_close_icon,DIV#xfb_lbox,DIV.xfb_close_btn
 www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
 www.ydyse.com##.left,.bottom,.right,.ad,.adimage
@@ -2988,8 +2990,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[src='https://pnm.hpvitycz.cn/00.jpg']
 ###mobile-index > div[id^="ins"]
 ###mobile-index > div#vodbm
-www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
-www.ghxi.com##DIV.wpcom_ad_wrap
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##.theme-dark > .ayx > a
 ##A[href='http://x5123.cc/']
