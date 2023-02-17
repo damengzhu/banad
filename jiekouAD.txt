@@ -2775,6 +2775,7 @@ luoqiuzw.com##DIV[id^="a-loading-"]
 m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 www.huadongty.com##DIV[id$=' img-containers']
 www.huadongty.com##SECTION
+www.hzw.com.cn##DIV.xfb_close_icon,DIV#xfb_lbox,DIV.xfb_close_btn
 www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
 www.ydyse.com##.left,.bottom,.right,.ad,.adimage
 bimibimi.cc##[src^='https://dd-static.jd.com']
@@ -2800,6 +2801,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##div.container > div.t-img-box > A[href][target='_blank']
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
+##body > A[ontouchstart='this.click();'][href]
 ##div[id*='cat_'][id*='_ad']
 ##IMG[alt^='kaiybet']
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
@@ -3039,3 +3041,4 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
+
