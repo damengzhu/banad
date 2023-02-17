@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2408
-#Update Time: 2023-02-17 14:43:33（北京时间） 
+#Total Count:2415
+#Update Time: 2023-02-17 15:44:42（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -26,6 +26,7 @@
 0.0.0.0 02asdf.com
 0.0.0.0 0310cn.com
 0.0.0.0 031dfgh.com
+0.0.0.0 033dfgh.com
 0.0.0.0 034dfgh.com
 0.0.0.0 035caop.com
 0.0.0.0 036e.cn
@@ -201,6 +202,7 @@
 0.0.0.0 adcdn.holmesmind.com
 0.0.0.0 addictedwonder.com
 0.0.0.0 adhdsb.cn
+0.0.0.0 aditibelen.com
 0.0.0.0 adkisdh3897.xyz
 0.0.0.0 adkwai.com
 0.0.0.0 adlaunch.qtfm.cn
@@ -245,6 +247,7 @@
 0.0.0.0 akmh080.vip
 0.0.0.0 aksjdfk.guohexinxiang.com
 0.0.0.0 aldkfsd.cn
+0.0.0.0 alexanbelen.com
 0.0.0.0 alfpair.com
 0.0.0.0 alictibet.com
 0.0.0.0 aliyun.cdn.chengzilte.top
@@ -1276,6 +1279,7 @@
 0.0.0.0 manlungkey.com
 0.0.0.0 maobujie.com
 0.0.0.0 mapsmnx.cyou
+0.0.0.0 margueritenice.com
 0.0.0.0 marjorienice.com
 0.0.0.0 masdk.3g.qq.com
 0.0.0.0 mbveryu.top
@@ -1406,6 +1410,7 @@
 0.0.0.0 nudpqt.com
 0.0.0.0 nuheoub.cn
 0.0.0.0 nutaku.net
+0.0.0.0 nxxyjn.com
 0.0.0.0 o.alimb.top
 0.0.0.0 o.zjjrlx4.com
 0.0.0.0 o2.jyjyj.cn
@@ -1423,6 +1428,7 @@
 0.0.0.0 ognujxj.cn
 0.0.0.0 ohchehw.cn
 0.0.0.0 oi9rp7.online
+0.0.0.0 oinlkwdsx.xyz
 0.0.0.0 oiuqwppcsdf.com
 0.0.0.0 ok-11-cai.cc
 0.0.0.0 okforwardt.fun
@@ -2353,6 +2359,7 @@
 0.0.0.0 zb.516624.com
 0.0.0.0 zbc6hy*.live
 0.0.0.0 zbc6hye*.xyz
+0.0.0.0 zbc6hyip.xyz
 0.0.0.0 zblz.me
 0.0.0.0 zcchyr*.xyz
 0.0.0.0 zcchyw*.xyz

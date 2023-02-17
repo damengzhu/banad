@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2408
-! Update Time:2023-02-17 14:43:33（北京时间） 
+! Total Count:2415
+! Update Time:2023-02-17 15:44:42（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -25,6 +25,7 @@
 ||02asdf.com^
 ||0310cn.com^
 ||031dfgh.com^
+||033dfgh.com^
 ||034dfgh.com^
 ||035caop.com^
 ||036e.cn^
@@ -200,6 +201,7 @@
 ||adcdn.holmesmind.com^
 ||addictedwonder.com^
 ||adhdsb.cn^
+||aditibelen.com^
 ||adkisdh3897.xyz^
 ||adkwai.com^
 ||adlaunch.qtfm.cn^
@@ -244,6 +246,7 @@
 ||akmh080.vip^
 ||aksjdfk.guohexinxiang.com^
 ||aldkfsd.cn^
+||alexanbelen.com^
 ||alfpair.com^
 ||alictibet.com^
 ||aliyun.cdn.chengzilte.top^
@@ -1275,6 +1278,7 @@
 ||manlungkey.com^
 ||maobujie.com^
 ||mapsmnx.cyou^
+||margueritenice.com^
 ||marjorienice.com^
 ||masdk.3g.qq.com^
 ||mbveryu.top^
@@ -1405,6 +1409,7 @@
 ||nudpqt.com^
 ||nuheoub.cn^
 ||nutaku.net^
+||nxxyjn.com^
 ||o.alimb.top^
 ||o.zjjrlx4.com^
 ||o2.jyjyj.cn^
@@ -1422,6 +1427,7 @@
 ||ognujxj.cn^
 ||ohchehw.cn^
 ||oi9rp7.online^
+||oinlkwdsx.xyz^
 ||oiuqwppcsdf.com^
 ||ok-11-cai.cc^
 ||okforwardt.fun^
@@ -2352,6 +2358,7 @@
 ||zb.516624.com^
 ||zbc6hy*.live^
 ||zbc6hye*.xyz^
+||zbc6hyip.xyz^
 ||zblz.me^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
