@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2407
-! Update Time:2023-02-17 14:21:46（北京时间） 
+! Total Count:2408
+! Update Time:2023-02-17 14:40:56（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -365,7 +365,7 @@
 ||bihaipack.com^
 ||birjkhm.cn^
 ||biz.weibo.com^
-||bjkedvvelwf.xyz^
+||bjkedv*.xyz^
 ||bjzh.pandasone.com^
 ||bl.emotionalworld.cn^
 ||blsenpg.cn^
@@ -1436,7 +1436,7 @@
 ||ootyx24.com^
 ||openrcv.baidu.com^
 ||ophwrh.cn^
-||opnkedfdye.xyz^
+||opnked*.xyz^
 ||orange-dc.youku.com^
 ||orxsq.xyz^
 ||osnignsk.xyz^
@@ -1666,7 +1666,7 @@
 ||schain.group^
 ||sciillr.cn^
 ||scjpqut.cn^
-||sd.yhzzzs02.com^
+||sd.yhzzzs*.com^
 ||sd6hon.cn^
 ||sdhjueue.com^
 ||sdk.sipujia.cn^
@@ -1847,7 +1847,7 @@
 ||thefatherofsalmon.com^
 ||theta.sogou.com^
 ||thewindrun.com^
-||thezbpe5yvlv.xyz^
+||thezbpe5*.xyz^
 ||thinkmd.cn^
 ||tiandesign.top^
 ||tianyuewangluo.top^
@@ -2278,7 +2278,7 @@
 ||yhbsk.cn^
 ||yhjccj.cn^
 ||yhp4an7.cn^
-||yhsfsdv03.com^
+||yhsfsdv*.com^
 ||yhz18.com^
 ||yhzm.xyz^
 ||yifujing.com^
@@ -2340,17 +2340,18 @@
 ||zabdybod*.club^
 ||zahrvfbd*.xyz^
 ||zailet.com^
-||zaqlovhrabd.xyz^
+||zaqlovh*.xyz^
 ||zaqptv2bo.xyz^
 ||zasjf.xyz^
 ||zasjfget.xyz^
 ||zaupjw.xyz^
 ||zawqwpajq.club^
-||zazgiyoh0.world^
-||zazgiyoh0s.xyz^
+||zazgbqg*.xyz^
+||zazgiyoh*.world^
+||zazgiyoh*.xyz^
 ||zb.516624.com^
 ||zbc6hy*.live^
-||zbc6hyepls.xyz^
+||zbc6hye*.xyz^
 ||zblz.me^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^

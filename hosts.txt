@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2407
-#Update Time: 2023-02-17 14:21:46（北京时间） 
+#Total Count:2408
+#Update Time: 2023-02-17 14:40:56（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -366,7 +366,7 @@
 0.0.0.0 bihaipack.com
 0.0.0.0 birjkhm.cn
 0.0.0.0 biz.weibo.com
-0.0.0.0 bjkedvvelwf.xyz
+0.0.0.0 bjkedv*.xyz
 0.0.0.0 bjzh.pandasone.com
 0.0.0.0 bl.emotionalworld.cn
 0.0.0.0 blsenpg.cn
@@ -1437,7 +1437,7 @@
 0.0.0.0 ootyx24.com
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 ophwrh.cn
-0.0.0.0 opnkedfdye.xyz
+0.0.0.0 opnked*.xyz
 0.0.0.0 orange-dc.youku.com
 0.0.0.0 orxsq.xyz
 0.0.0.0 osnignsk.xyz
@@ -1667,7 +1667,7 @@
 0.0.0.0 schain.group
 0.0.0.0 sciillr.cn
 0.0.0.0 scjpqut.cn
-0.0.0.0 sd.yhzzzs02.com
+0.0.0.0 sd.yhzzzs*.com
 0.0.0.0 sd6hon.cn
 0.0.0.0 sdhjueue.com
 0.0.0.0 sdk.sipujia.cn
@@ -1848,7 +1848,7 @@
 0.0.0.0 thefatherofsalmon.com
 0.0.0.0 theta.sogou.com
 0.0.0.0 thewindrun.com
-0.0.0.0 thezbpe5yvlv.xyz
+0.0.0.0 thezbpe5*.xyz
 0.0.0.0 thinkmd.cn
 0.0.0.0 tiandesign.top
 0.0.0.0 tianyuewangluo.top
@@ -2279,7 +2279,7 @@
 0.0.0.0 yhbsk.cn
 0.0.0.0 yhjccj.cn
 0.0.0.0 yhp4an7.cn
-0.0.0.0 yhsfsdv03.com
+0.0.0.0 yhsfsdv*.com
 0.0.0.0 yhz18.com
 0.0.0.0 yhzm.xyz
 0.0.0.0 yifujing.com
@@ -2341,17 +2341,18 @@
 0.0.0.0 zabdybod*.club
 0.0.0.0 zahrvfbd*.xyz
 0.0.0.0 zailet.com
-0.0.0.0 zaqlovhrabd.xyz
+0.0.0.0 zaqlovh*.xyz
 0.0.0.0 zaqptv2bo.xyz
 0.0.0.0 zasjf.xyz
 0.0.0.0 zasjfget.xyz
 0.0.0.0 zaupjw.xyz
 0.0.0.0 zawqwpajq.club
-0.0.0.0 zazgiyoh0.world
-0.0.0.0 zazgiyoh0s.xyz
+0.0.0.0 zazgbqg*.xyz
+0.0.0.0 zazgiyoh*.world
+0.0.0.0 zazgiyoh*.xyz
 0.0.0.0 zb.516624.com
 0.0.0.0 zbc6hy*.live
-0.0.0.0 zbc6hyepls.xyz
+0.0.0.0 zbc6hye*.xyz
 0.0.0.0 zblz.me
 0.0.0.0 zcchyr*.xyz
 0.0.0.0 zcchyw*.xyz
