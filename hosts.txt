@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2420
-#Update Time: 2023-02-17 21:20:12（北京时间） 
+#Total Count:2426
+#Update Time: 2023-02-18 21:16:28（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -684,6 +684,7 @@
 0.0.0.0 ezu6rd5.houge.in
 0.0.0.0 f4.uaevivi.top
 0.0.0.0 f77j6t2b.com
+0.0.0.0 f77xv3.top
 0.0.0.0 f8ejqxp.cn
 0.0.0.0 fakjkwp.cn
 0.0.0.0 famorlymal.com
@@ -1356,8 +1357,10 @@
 0.0.0.0 musicoholics.com
 0.0.0.0 muxing.city
 0.0.0.0 mvlkvth.cn
+0.0.0.0 mwdwepok.xyz
 0.0.0.0 mwzbp.iask.com.cn
 0.0.0.0 my.rtmark.net
+0.0.0.0 myads.cc
 0.0.0.0 myexpendd.xyz
 0.0.0.0 mylmad.com
 0.0.0.0 mywb3.com
@@ -1459,6 +1462,7 @@
 0.0.0.0 p.yingxiao678.com
 0.0.0.0 p0y.cn
 0.0.0.0 p1-feedback.byteimg.com
+0.0.0.0 p26.gejulm*.com
 0.0.0.0 pageview.kgsz.cn
 0.0.0.0 pageview.shenfire.cn
 0.0.0.0 panchaxumbilic.com
@@ -1660,6 +1664,7 @@
 0.0.0.0 s4te24u.com
 0.0.0.0 s4zqj3m.cn
 0.0.0.0 s5.cnzz.com
+0.0.0.0 s65m.win
 0.0.0.0 saccac11.com
 0.0.0.0 sacredperpetratorbasketball.com
 0.0.0.0 saitef.cn
@@ -2192,6 +2197,7 @@
 0.0.0.0 www.zhaohainan.cn
 0.0.0.0 wx.uc.downcdn.top
 0.0.0.0 wxdqgmr.cn
+0.0.0.0 wyplmjufd.live
 0.0.0.0 wyqaafplm.live
 0.0.0.0 wyxcb3.top
 0.0.0.0 x8kwcr3l.xyz

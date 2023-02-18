@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2420
-! Update Time:2023-02-17 21:20:12（北京时间） 
+! Total Count:2426
+! Update Time:2023-02-18 21:16:28（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -683,6 +683,7 @@
 ||ezu6rd5.houge.in^
 ||f4.uaevivi.top^
 ||f77j6t2b.com^
+||f77xv3.top^
 ||f8ejqxp.cn^
 ||fakjkwp.cn^
 ||famorlymal.com^
@@ -1355,8 +1356,10 @@
 ||musicoholics.com^
 ||muxing.city^
 ||mvlkvth.cn^
+||mwdwepok.xyz^
 ||mwzbp.iask.com.cn^
 ||my.rtmark.net^
+||myads.cc^
 ||myexpendd.xyz^
 ||mylmad.com^
 ||mywb3.com^
@@ -1458,6 +1461,7 @@
 ||p.yingxiao678.com^
 ||p0y.cn^
 ||p1-feedback.byteimg.com^
+||p26.gejulm*.com^
 ||pageview.kgsz.cn^
 ||pageview.shenfire.cn^
 ||panchaxumbilic.com^
@@ -1659,6 +1663,7 @@
 ||s4te24u.com^
 ||s4zqj3m.cn^
 ||s5.cnzz.com^
+||s65m.win^
 ||saccac11.com^
 ||sacredperpetratorbasketball.com^
 ||saitef.cn^
@@ -2191,6 +2196,7 @@
 ||www.zhaohainan.cn^
 ||wx.uc.downcdn.top^
 ||wxdqgmr.cn^
+||wyplmjufd.live^
 ||wyqaafplm.live^
 ||wyxcb3.top^
 ||x8kwcr3l.xyz^
