@@ -3051,3 +3051,5 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
 
+
+
