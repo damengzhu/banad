@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2429
-! Update Time:2023-02-20 13:47:45（北京时间） 
+! Total Count:2436
+! Update Time:2023-02-20 16:00:59（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -895,6 +895,7 @@
 ||hubiazhi.com^
 ||hudiecaifu.com^
 ||huichuan.sm.cn^
+||huicpu.com^
 ||huifangwen.com^
 ||huiruwei.com^
 ||huitoukao.com^
@@ -1164,6 +1165,7 @@
 ||lalaping.com^
 ||lanmeifeel.xyz^
 ||lanmeiyu.work^
+||larbcc.xyz^
 ||launchingonsetwhirlwind.com^
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
@@ -1433,6 +1435,7 @@
 ||ognujxj.cn^
 ||ohchehw.cn^
 ||oi9rp7.online^
+||oinjkenwok.xyz^
 ||oinlkwdsx.xyz^
 ||oiuqwppcsdf.com^
 ||ok-11-cai.cc^
@@ -1472,6 +1475,7 @@
 ||pangolin.snssdk.com^
 ||paradisemall.net^
 ||parse.fzcjjx.com^
+||payoneok.com^
 ||pc.jinrongwang.net^
 ||pdhhmf.cn^
 ||pdiabbi.cn^
@@ -1565,6 +1569,7 @@
 ||qj.ituanhui.com^
 ||qjxys.cn^
 ||qktmwiq.cn^
+||qnfvojfkw.xyz^
 ||qnieo.fun^
 ||qnipkk.xyz^
 ||qpb.sohu.com^
@@ -1859,6 +1864,7 @@
 ||tfzozf.xyz^
 ||tg.loclog.cn^
 ||tgfyq.cn^
+||tgymhwt.cn^
 ||thallus.net^
 ||thefatherofsalmon.com^
 ||theta.sogou.com^
@@ -1915,6 +1921,7 @@
 ||ttzhongbao.com^
 ||tuisong.baidu.com^
 ||tumeite.cn^
+||tuvtpxp.cn^
 ||tvabqt.cn^
 ||twbymc.cn^
 ||twdjn.cn^

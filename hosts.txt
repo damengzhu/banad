@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2429
-#Update Time: 2023-02-20 13:47:45（北京时间） 
+#Total Count:2436
+#Update Time: 2023-02-20 16:00:59（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -896,6 +896,7 @@
 0.0.0.0 hubiazhi.com
 0.0.0.0 hudiecaifu.com
 0.0.0.0 huichuan.sm.cn
+0.0.0.0 huicpu.com
 0.0.0.0 huifangwen.com
 0.0.0.0 huiruwei.com
 0.0.0.0 huitoukao.com
@@ -1165,6 +1166,7 @@
 0.0.0.0 lalaping.com
 0.0.0.0 lanmeifeel.xyz
 0.0.0.0 lanmeiyu.work
+0.0.0.0 larbcc.xyz
 0.0.0.0 launchingonsetwhirlwind.com
 0.0.0.0 lccfjszp.cn
 0.0.0.0 lcdn.runative-syndicate.com
@@ -1434,6 +1436,7 @@
 0.0.0.0 ognujxj.cn
 0.0.0.0 ohchehw.cn
 0.0.0.0 oi9rp7.online
+0.0.0.0 oinjkenwok.xyz
 0.0.0.0 oinlkwdsx.xyz
 0.0.0.0 oiuqwppcsdf.com
 0.0.0.0 ok-11-cai.cc
@@ -1473,6 +1476,7 @@
 0.0.0.0 pangolin.snssdk.com
 0.0.0.0 paradisemall.net
 0.0.0.0 parse.fzcjjx.com
+0.0.0.0 payoneok.com
 0.0.0.0 pc.jinrongwang.net
 0.0.0.0 pdhhmf.cn
 0.0.0.0 pdiabbi.cn
@@ -1566,6 +1570,7 @@
 0.0.0.0 qj.ituanhui.com
 0.0.0.0 qjxys.cn
 0.0.0.0 qktmwiq.cn
+0.0.0.0 qnfvojfkw.xyz
 0.0.0.0 qnieo.fun
 0.0.0.0 qnipkk.xyz
 0.0.0.0 qpb.sohu.com
@@ -1860,6 +1865,7 @@
 0.0.0.0 tfzozf.xyz
 0.0.0.0 tg.loclog.cn
 0.0.0.0 tgfyq.cn
+0.0.0.0 tgymhwt.cn
 0.0.0.0 thallus.net
 0.0.0.0 thefatherofsalmon.com
 0.0.0.0 theta.sogou.com
@@ -1916,6 +1922,7 @@
 0.0.0.0 ttzhongbao.com
 0.0.0.0 tuisong.baidu.com
 0.0.0.0 tumeite.cn
+0.0.0.0 tuvtpxp.cn
 0.0.0.0 tvabqt.cn
 0.0.0.0 twbymc.cn
 0.0.0.0 twdjn.cn
