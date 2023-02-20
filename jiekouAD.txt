@@ -3032,6 +3032,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
+##BODY > DIV.ggcontainer
 ##body > DIV[class][style^='bottom: '][style$='vw; display: block;']
 ##body > [id][style*='width:100%'][style*='min-height:120px']
 ##DIV.col-lg-3.col-md-3.col-sm-4.col-12.item.p-0.px-1
