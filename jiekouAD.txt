@@ -3015,7 +3015,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://js.iconiclee.com']
 ##[alt='ad']
-##DIV.stui-player.clearfix > [id*='ad'],div.stui-pannel > [id*='ad'],div.container > [id*='ad']
 ##div.container > DIV.t-img-box
 ##A[href='/?'][target='_blank']
 ##DIV#video-player-ads-wrap
