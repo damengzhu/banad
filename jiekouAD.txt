@@ -5,6 +5,7 @@
 ! Total Count: 3057
 ! by: 酷安@大萌主
 ! Host
+||tahltanboutell.com^
 ||109218er.xyz^
 ||dongya.org^
 ||u7s546.com^
@@ -3042,6 +3043,10 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href^='https://65564535.com']
 ##div.ad-frame-container
 ##iframe.ad-frame
+##body > DIV[class][style='top: 133px;']
+##DIV[style*='display: block; width: 100%; left: 0px; position: fixed; z-index:'][style*='height: 25px; top: 133px;']
+##body > DIV[style='display: block; width: 100%; height: 133px;']
+##DIV[style*='height: 33.25px; top:'][style*='background-size: 400px 133px !important;']
 ##DIV.footer-appload.js-footer-appload
 ##BODY > DIV.ggcontainer
 ##body > DIV[class][style^='bottom: '][style$='vw; display: block;']
