@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2440
-! Update Time:2023-02-21 12:42:37（北京时间） 
+! Total Count:2448
+! Update Time:2023-02-21 13:18:51（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -160,6 +160,7 @@
 ||99e333.nbrlzy.com^
 ||9fwz.com^
 ||9js6.icu^
+||9xf9qkz5.com^
 ||a-mo.net^
 ||a.breaktime.com.tw^
 ||a.exdynsrv.com^
@@ -242,6 +243,7 @@
 ||ailehui9149.com^
 ||aiwei365.net^
 ||aj4j.icu^
+||ajfkwwpo.xyz^
 ||ajzsa.xyz^
 ||akmh074.vip^
 ||akmh080.vip^
@@ -370,6 +372,7 @@
 ||birjkhm.cn^
 ||biz.weibo.com^
 ||bjkedv*.xyz^
+||bjkedvvelwf.xyz^
 ||bjzh.pandasone.com^
 ||bl.emotionalworld.cn^
 ||blsenpg.cn^
@@ -506,6 +509,7 @@
 ||createssque.club^
 ||creepingbrings.com^
 ||criteo.net^
+||crobotb.com^
 ||cryy.vip^
 ||csjkb.com^
 ||cslpf.cn^
@@ -689,6 +693,7 @@
 ||f8ejqxp.cn^
 ||fakjkwp.cn^
 ||famorlymal.com^
+||fangfeng009.xyz^
 ||fc.gaizong.cn^
 ||fc.tiepan.cn^
 ||fc.zuixinchao.com^
@@ -825,6 +830,7 @@
 ||h6cp.icu^
 ||hackeraa.xyz^
 ||hadesleta.com^
+||haejkmm.cn^
 ||haihongzg.com^
 ||hairoak.com^
 ||haiwanli.com^
@@ -1997,6 +2003,7 @@
 ||venator.link^
 ||venetrigni.com^
 ||venienceilo.fun^
+||vfsdgjrr.xyz^
 ||vgijoh.com^
 ||vhulan.com^
 ||video.new-eve.com^

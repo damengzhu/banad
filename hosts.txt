@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2440
-#Update Time: 2023-02-21 12:42:37（北京时间） 
+#Total Count:2448
+#Update Time: 2023-02-21 13:18:51（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -161,6 +161,7 @@
 0.0.0.0 99e333.nbrlzy.com
 0.0.0.0 9fwz.com
 0.0.0.0 9js6.icu
+0.0.0.0 9xf9qkz5.com
 0.0.0.0 a-mo.net
 0.0.0.0 a.breaktime.com.tw
 0.0.0.0 a.exdynsrv.com
@@ -243,6 +244,7 @@
 0.0.0.0 ailehui9149.com
 0.0.0.0 aiwei365.net
 0.0.0.0 aj4j.icu
+0.0.0.0 ajfkwwpo.xyz
 0.0.0.0 ajzsa.xyz
 0.0.0.0 akmh074.vip
 0.0.0.0 akmh080.vip
@@ -371,6 +373,7 @@
 0.0.0.0 birjkhm.cn
 0.0.0.0 biz.weibo.com
 0.0.0.0 bjkedv*.xyz
+0.0.0.0 bjkedvvelwf.xyz
 0.0.0.0 bjzh.pandasone.com
 0.0.0.0 bl.emotionalworld.cn
 0.0.0.0 blsenpg.cn
@@ -507,6 +510,7 @@
 0.0.0.0 createssque.club
 0.0.0.0 creepingbrings.com
 0.0.0.0 criteo.net
+0.0.0.0 crobotb.com
 0.0.0.0 cryy.vip
 0.0.0.0 csjkb.com
 0.0.0.0 cslpf.cn
@@ -690,6 +694,7 @@
 0.0.0.0 f8ejqxp.cn
 0.0.0.0 fakjkwp.cn
 0.0.0.0 famorlymal.com
+0.0.0.0 fangfeng009.xyz
 0.0.0.0 fc.gaizong.cn
 0.0.0.0 fc.tiepan.cn
 0.0.0.0 fc.zuixinchao.com
@@ -826,6 +831,7 @@
 0.0.0.0 h6cp.icu
 0.0.0.0 hackeraa.xyz
 0.0.0.0 hadesleta.com
+0.0.0.0 haejkmm.cn
 0.0.0.0 haihongzg.com
 0.0.0.0 hairoak.com
 0.0.0.0 haiwanli.com
@@ -1998,6 +2004,7 @@
 0.0.0.0 venator.link
 0.0.0.0 venetrigni.com
 0.0.0.0 venienceilo.fun
+0.0.0.0 vfsdgjrr.xyz
 0.0.0.0 vgijoh.com
 0.0.0.0 vhulan.com
 0.0.0.0 video.new-eve.com
