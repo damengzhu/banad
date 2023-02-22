@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2450
-#Update Time: 2023-02-21 18:32:10（北京时间） 
+#Total Count:2457
+#Update Time: 2023-02-22 14:22:09（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -94,6 +94,7 @@
 0.0.0.0 3q3l.cn
 0.0.0.0 3t769up6.com
 0.0.0.0 40fenzhong.com
+0.0.0.0 4199tv.com
 0.0.0.0 42yenxh.cn
 0.0.0.0 449.anquanzhuomian.com
 0.0.0.0 44r9fl.xyz
@@ -233,6 +234,7 @@
 0.0.0.0 afd.baidu.com
 0.0.0.0 afenx.top
 0.0.0.0 afk3rs.xyz
+0.0.0.0 afuz032.com
 0.0.0.0 agdewasmnjktfrdewqjgdser.top
 0.0.0.0 ahm.jiankang123.net
 0.0.0.0 ahp18.site
@@ -461,6 +463,7 @@
 0.0.0.0 cholor201015.cn
 0.0.0.0 cholor201115.cn
 0.0.0.0 choupsee.com
+0.0.0.0 chumeng.link
 0.0.0.0 chushoushijian.cn
 0.0.0.0 chuzushijian.cn
 0.0.0.0 chykohija.pro
@@ -552,6 +555,7 @@
 0.0.0.0 data.lichenqx.com
 0.0.0.0 data.zhongquanjy.com
 0.0.0.0 dataflow.biliapi.com
+0.0.0.0 db11yy.com
 0.0.0.0 dbkdwe1.com
 0.0.0.0 dc.yuntuxianzhi.com
 0.0.0.0 dcsd.cnnywz.cn
@@ -737,6 +741,7 @@
 0.0.0.0 fstats.xyz
 0.0.0.0 ft8e.top
 0.0.0.0 fuentekj.com
+0.0.0.0 fujifood.hk
 0.0.0.0 fujincenter.com
 0.0.0.0 fumiad.dxys.pro
 0.0.0.0 fvffd678.xyz
@@ -971,6 +976,7 @@
 0.0.0.0 inkuae.com
 0.0.0.0 inpage-push.com
 0.0.0.0 intimidatepropel.com
+0.0.0.0 ionksfefe.xyz
 0.0.0.0 iosppk.com
 0.0.0.0 ip.ta.wangkx.xyz
 0.0.0.0 ip.tianqiapi.com
@@ -1573,6 +1579,7 @@
 0.0.0.0 qiaolianshu.com
 0.0.0.0 qichetansuo.com
 0.0.0.0 qifake.com
+0.0.0.0 qifjksdqwd.xyz
 0.0.0.0 qijpaih.cn
 0.0.0.0 qin.1111.fx-blog.top
 0.0.0.0 qiyeshangpu.net

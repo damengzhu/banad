@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2450
-! Update Time:2023-02-21 18:32:10（北京时间） 
+! Total Count:2457
+! Update Time:2023-02-22 14:22:09（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -93,6 +93,7 @@
 ||3q3l.cn^
 ||3t769up6.com^
 ||40fenzhong.com^
+||4199tv.com^
 ||42yenxh.cn^
 ||449.anquanzhuomian.com^
 ||44r9fl.xyz^
@@ -232,6 +233,7 @@
 ||afd.baidu.com^
 ||afenx.top^
 ||afk3rs.xyz^
+||afuz032.com^
 ||agdewasmnjktfrdewqjgdser.top^
 ||ahm.jiankang123.net^
 ||ahp18.site^
@@ -460,6 +462,7 @@
 ||cholor201015.cn^
 ||cholor201115.cn^
 ||choupsee.com^
+||chumeng.link^
 ||chushoushijian.cn^
 ||chuzushijian.cn^
 ||chykohija.pro^
@@ -551,6 +554,7 @@
 ||data.lichenqx.com^
 ||data.zhongquanjy.com^
 ||dataflow.biliapi.com^
+||db11yy.com^
 ||dbkdwe1.com^
 ||dc.yuntuxianzhi.com^
 ||dcsd.cnnywz.cn^
@@ -736,6 +740,7 @@
 ||fstats.xyz^
 ||ft8e.top^
 ||fuentekj.com^
+||fujifood.hk^
 ||fujincenter.com^
 ||fumiad.dxys.pro^
 ||fvffd678.xyz^
@@ -970,6 +975,7 @@
 ||inkuae.com^
 ||inpage-push.com^
 ||intimidatepropel.com^
+||ionksfefe.xyz^
 ||iosppk.com^
 ||ip.ta.wangkx.xyz^
 ||ip.tianqiapi.com^
@@ -1572,6 +1578,7 @@
 ||qiaolianshu.com^
 ||qichetansuo.com^
 ||qifake.com^
+||qifjksdqwd.xyz^
 ||qijpaih.cn^
 ||qin.1111.fx-blog.top^
 ||qiyeshangpu.net^
