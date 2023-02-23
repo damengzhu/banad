@@ -3087,6 +3087,8 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href^='https://ccs.holor0803.cn']
 ##[href$='/ads.aspx']
 ##[onclick*='pypyj.com']
+##IMG.lazyload[src='/statics/img/load.gif']
+##[src^='https://immmg.owowqrf.cn']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
 ##P[style*='background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
