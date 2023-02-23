@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2459
-! Update Time:2023-02-23 13:14:41（北京时间） 
+! Total Count:2465
+! Update Time:2023-02-23 14:16:39（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -89,6 +89,7 @@
 ||3244.chushoushijian.cn^
 ||3269x.com^
 ||3316.dlads.cn^
+||36htg.fun^
 ||387635.com^
 ||3q3l.cn^
 ||3t769up6.com^
@@ -363,8 +364,10 @@
 ||betgorebysson.club^
 ||betylife.com^
 ||bfugui.com^
+||bg4nxu2u5t.com^
 ||bh0874.online^
 ||bhaabom.cn^
+||bhpprfk.cn^
 ||bhulgot.com^
 ||bi.ui.doulaihai.top^
 ||bieqpf.cn^
@@ -559,6 +562,7 @@
 ||dc.yuntuxianzhi.com^
 ||dcsd.cnnywz.cn^
 ||ddbuwo.cn^
+||dedcrfvdj.xyz^
 ||deeterno.cn^
 ||dehua.mengtubo.com^
 ||device.fishmobi.com^
@@ -614,6 +618,7 @@
 ||doubleclick.net^
 ||douyaobuy.com^
 ||dp3.qq.com^
+||dpjzzgw.cn^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dreamlikeverse.com^
 ||drebz4f.shop^
@@ -2378,6 +2383,7 @@
 ||yy4480qpgyy.com^
 ||yylady.cn^
 ||yynncbn.cn^
+||yyselrqpyu.com^
 ||yystzl.cn^
 ||yywridi.cn^
 ||yyys.shop^

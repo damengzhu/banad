@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2459
-#Update Time: 2023-02-23 13:14:41（北京时间） 
+#Total Count:2465
+#Update Time: 2023-02-23 14:16:39（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -90,6 +90,7 @@
 0.0.0.0 3244.chushoushijian.cn
 0.0.0.0 3269x.com
 0.0.0.0 3316.dlads.cn
+0.0.0.0 36htg.fun
 0.0.0.0 387635.com
 0.0.0.0 3q3l.cn
 0.0.0.0 3t769up6.com
@@ -364,8 +365,10 @@
 0.0.0.0 betgorebysson.club
 0.0.0.0 betylife.com
 0.0.0.0 bfugui.com
+0.0.0.0 bg4nxu2u5t.com
 0.0.0.0 bh0874.online
 0.0.0.0 bhaabom.cn
+0.0.0.0 bhpprfk.cn
 0.0.0.0 bhulgot.com
 0.0.0.0 bi.ui.doulaihai.top
 0.0.0.0 bieqpf.cn
@@ -560,6 +563,7 @@
 0.0.0.0 dc.yuntuxianzhi.com
 0.0.0.0 dcsd.cnnywz.cn
 0.0.0.0 ddbuwo.cn
+0.0.0.0 dedcrfvdj.xyz
 0.0.0.0 deeterno.cn
 0.0.0.0 dehua.mengtubo.com
 0.0.0.0 device.fishmobi.com
@@ -615,6 +619,7 @@
 0.0.0.0 doubleclick.net
 0.0.0.0 douyaobuy.com
 0.0.0.0 dp3.qq.com
+0.0.0.0 dpjzzgw.cn
 0.0.0.0 dq06u9lt5akr2.cloudfront.net
 0.0.0.0 dreamlikeverse.com
 0.0.0.0 drebz4f.shop
@@ -2379,6 +2384,7 @@
 0.0.0.0 yy4480qpgyy.com
 0.0.0.0 yylady.cn
 0.0.0.0 yynncbn.cn
+0.0.0.0 yyselrqpyu.com
 0.0.0.0 yystzl.cn
 0.0.0.0 yywridi.cn
 0.0.0.0 yyys.shop
