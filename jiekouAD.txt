@@ -5,6 +5,12 @@
 ! Total Count: 3081
 ! by: 酷安@大萌主
 ! Host
+||yyselrqpyu.com^
+||bg4nxu2u5t.com^
+||dpjzzgw.cn^
+||36htg.fun^
+||bhpprfk.cn^
+||dedcrfvdj.xyz^
 ||oinlkwr.xyz^
 ||dfghaqea.xyz^
 ||ionksfefe.xyz^
@@ -3078,6 +3084,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href^='https://ccs.holor0803.cn']
 ##[href$='/ads.aspx']
 ##[onclick*='pypyj.com']
+##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
 ##P[style*='background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
