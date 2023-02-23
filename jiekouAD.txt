@@ -5,6 +5,9 @@
 ! Total Count: 3088
 ! by: 酷安@大萌主
 ! Host
+||027dir.com^
+||commondata.oss-cn-hangzhou.aliyuncs.com^
+||dmm.aizhan.com^
 ||yyselrqpyu.com^
 ||bg4nxu2u5t.com^
 ||dpjzzgw.cn^
