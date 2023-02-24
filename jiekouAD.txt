@@ -2825,6 +2825,7 @@ luoqiuzw.com##DIV[id^="a-loading-"]
 m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 www.huadongty.com##DIV[id$=' img-containers']
 www.huadongty.com##SECTION
+ximalaya.com##.change-logo.S_q,DIV.packet-container._PC,div.less-tips._PC *
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
 www.ghxi.com##DIV.wpcom_ad_wrap
 www.hzw.com.cn##DIV.xfb_close_icon,DIV#xfb_lbox,DIV.xfb_close_btn
