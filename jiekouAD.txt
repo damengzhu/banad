@@ -2648,6 +2648,7 @@ com/js/lp365.js
 ||addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
 .openx.
+.cfd/video/index/index/user_login/
 hm.js/
 /ad/dhgg.js
 /js/hhsyw.js
