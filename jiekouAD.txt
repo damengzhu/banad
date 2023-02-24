@@ -2848,6 +2848,7 @@ sohu.com##DIV#recommendSearch
 m.qidian.com##P.text-content
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
+inews.qq.com,xw.qq.com##DIV.VideoArticleBottomAdContainer,DIV.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
 boylove.cc##DIV[style='bottom: 80px;']
 ##DIV[data-text-ad]
 ##A[href^='https://tv2356.cc']
