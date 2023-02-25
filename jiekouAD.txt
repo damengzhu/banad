@@ -5,6 +5,10 @@
 ! Total Count: 3104
 ! by: 酷安@大萌主
 ! Host
+||zczcvx.com^
+||ewrwf.com^
+||qdczx66.com^
+||jjdk33.com^
 ||oghqvffmnt.com^
 ||027dir.com^
 ||commondata.oss-cn-hangzhou.aliyuncs.com^
@@ -3095,6 +3099,9 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##DIV.index_adpic
 ##[onclick*='pypyj.com']
 ##DIV.div_adhost
+##ASIDE[id^='custom_html-']
+##DIV.code-block[style='margin: 8px 0; clear: both;']
+##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
 ##DIV[class*='id_ads__']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
