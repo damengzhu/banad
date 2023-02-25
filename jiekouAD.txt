@@ -2865,10 +2865,9 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##DIV.myui-content__acc[style='position: relative;padding: 0 10px']
 ##[style^='bottom: 0px; width: 100%; height: 50vw; position: fixed; left: 0px; right: 0px; margin: 0px; background: url("https://']
 ##[href='/aga2/1661087']
-##[href^='http://jg.awaliwa.com/tg']
+##[href^='http://jg.awaliwa.com/']
 ##.player_pic_link > [src*='/player.gif']
 ##div.close-player_pic[onclick="document.getElementById('player_pic').style.display='none'"]
-##[data-url='http://xixi.stylar.hk/']
 ##[href^='https://jincai.sohu.com/']
 ##[href*='sohu.com/hy-op']
 ##[href='/jump.html']
@@ -2881,7 +2880,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href*='.lookxmh3']
 ##[href='https://dpurl.cn/HifSTUtz']
 ##[href^="openapp.jdmobile://virtual?params="]
-##[href^='http://akmh069.vip']
 ##[onclick*="trackEvent', 'ad"]
 ##[src^='https://ae01.alicdn.com/'][alt='歪歪漫画']
 ##UL[style='margin: 0px; padding: 0px; font-size: 0px; display: flex;']
@@ -2889,7 +2887,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ###bottomNavad
 ##.ff-ads
 ##.ssr1
-##[href="http://www.28cpw.com"]
 ##.ad_img
 ##div.stui-pannel__bd > #t-img-box
 ##P[style$='transparent !important; font-size: 0px !important; text-indent: -10000px !important; height: 125px !important;']
@@ -2912,7 +2909,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href^='https://97749516.com/']
 ##[href^='https://www.00426740.com']
 ##[href^='https://tz.kefuyuming.vip/']
-##[href^='https://record.brave108.com/']
 ##[href^='https://gougew.lanzoub.com/']
 ##[href='/ad/bfy.html']
 ##[href='/my/gd.html']
@@ -2946,7 +2942,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
 ##A[style='width: 100%;height: 150px;z-index:1000;position: absolute;display:block;top: 0px;'][onclick$=';this.style.display="none";']
 ##[src^='https://play.cdn6.buzz/js/']
-##[href^='http://www.hyd59.com/']
 ##[href='https://www.aiwajbh.com/mh.php']
 ##div#reader-scroll.acgn-reader-chapter.v>div>center>strong>button
 ##[onclick^="window.location.href='https://apps.apple.com/cn/app/%E9%80%9F%E9%98%85%E5%B0%8F%E8%AF%B4"]
@@ -2967,8 +2962,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##[href*="/?channelCode="] > [referrerpolicy='no-referrer']
 ##[href^='http://mm.alameinv.com/']
 ##[onclick='gourl()'][src^='/images/bfq/']
-##[href='http://li.hmwang.cc']
-##[href='https://blfanss.com']
 ##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
 ##.adsbygoogle
 ###coupletBox
@@ -2980,8 +2973,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ###header_global_ad
 ##DIV#bl_mobile_float
 ##[href^='https://iluluweb.club']
-##[href='https://cai35b9.com/']
-##[href^='https://0414483.com/']
 ##.width.imgs_1
 ##[href^='https://jd.dangbei.com/']
 ##[href^='https://dt.mydrivers.com/b.ashx']
@@ -2993,7 +2984,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##SPAN#qdSZ2
 ##div[class^="is_"] > a > img[referrerpolicy="no-referrer"][src*="hdslb.com"]
 ##[alt='ACG里番']
-##[href='https://www.riqingxs.com/']
 ##[alt='52bl']
 ##[alt='西瓜社']
 ##VIDEO[loop='true'][muted='true'][autoplay='true'][playsinline='true'][preload='auto']
@@ -3017,7 +3007,6 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##.clearfix > a > IMG[referrerpolicy='no-referrer'][src]:not([style='display: block;'])
 ##A[target='_blank'][href*='/auth/register?code=']
 ##[href='/my/dp.html']
-##A[href='http://88yd.cc/']
 ##A[href='http://8hgpro.vip/']
 ##A[href='http://95710.vip']
 ##A[href^='http://www.kyty1119.com']
@@ -3121,6 +3110,7 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
+
 
 
 
