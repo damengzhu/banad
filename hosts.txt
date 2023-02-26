@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2474
-#Update Time: 2023-02-25 17:39:32（北京时间） 
+#Total Count:2483
+#Update Time: 2023-02-26 13:19:56（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -71,6 +71,7 @@
 0.0.0.0 18dui.com
 0.0.0.0 1905715.com
 0.0.0.0 1dfsdfg.com
+0.0.0.0 1kanz.cn
 0.0.0.0 1w73a5d.cn
 0.0.0.0 1wkg.cn
 0.0.0.0 2.yunsxk.xyz
@@ -91,6 +92,7 @@
 0.0.0.0 3244.chushoushijian.cn
 0.0.0.0 3269x.com
 0.0.0.0 3316.dlads.cn
+0.0.0.0 35kn0fn.1kanz.cn
 0.0.0.0 36htg.fun
 0.0.0.0 387635.com
 0.0.0.0 3q3l.cn
@@ -204,6 +206,7 @@
 0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adayvquq.cn
 0.0.0.0 adbeuch.cn
+0.0.0.0 adbtwyxl96.fun
 0.0.0.0 adcdn.holmesmind.com
 0.0.0.0 addictedwonder.com
 0.0.0.0 adhdsb.cn
@@ -995,10 +998,12 @@
 0.0.0.0 iphone.bjsxljs.com
 0.0.0.0 ipm.atm.youku.com
 0.0.0.0 ipqc5ejfe.icu
+0.0.0.0 isdfbvkvsc.xyz
 0.0.0.0 iswgnn.com
 0.0.0.0 itheatmoran.com
 0.0.0.0 itxinrou.com
 0.0.0.0 ityangstudy.cn
+0.0.0.0 iufjkdjmsm.xyz
 0.0.0.0 iuuiugbjd.xyz
 0.0.0.0 iv.aliyune.xyz
 0.0.0.0 ivqtrjt.cn
@@ -1468,6 +1473,7 @@
 0.0.0.0 oinlkwdsx.xyz
 0.0.0.0 oinlkwr.xyz
 0.0.0.0 oiuqwppcsdf.com
+0.0.0.0 ojbkmcsdx.xyz
 0.0.0.0 ok-11-cai.cc
 0.0.0.0 okforwardt.fun
 0.0.0.0 okmwfq.xyz
@@ -1538,6 +1544,7 @@
 0.0.0.0 poereawer.top
 0.0.0.0 pogwua.cn
 0.0.0.0 pojkhufef.xyz
+0.0.0.0 polkmerth.com
 0.0.0.0 polkmnhytgb.com
 0.0.0.0 poqwua.cn
 0.0.0.0 pos.baidu.com
@@ -2418,8 +2425,10 @@
 0.0.0.0 zbc6hye*.xyz
 0.0.0.0 zbc6hyip.xyz
 0.0.0.0 zblz.me
+0.0.0.0 zbv7kxrteclub.xyz
 0.0.0.0 zcchyr*.xyz
 0.0.0.0 zcchyw*.xyz
+0.0.0.0 zcck60qyw.xyz
 0.0.0.0 zcy821.com
 0.0.0.0 zczcvx.com
 0.0.0.0 zdfjas.top

@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2474
-! Update Time:2023-02-25 17:39:32（北京时间） 
+! Total Count:2483
+! Update Time:2023-02-26 13:19:56（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -70,6 +70,7 @@
 ||18dui.com^
 ||1905715.com^
 ||1dfsdfg.com^
+||1kanz.cn^
 ||1w73a5d.cn^
 ||1wkg.cn^
 ||2.yunsxk.xyz^
@@ -90,6 +91,7 @@
 ||3244.chushoushijian.cn^
 ||3269x.com^
 ||3316.dlads.cn^
+||35kn0fn.1kanz.cn^
 ||36htg.fun^
 ||387635.com^
 ||3q3l.cn^
@@ -203,6 +205,7 @@
 ||adash.man.aliyuncs.com^
 ||adayvquq.cn^
 ||adbeuch.cn^
+||adbtwyxl96.fun^
 ||adcdn.holmesmind.com^
 ||addictedwonder.com^
 ||adhdsb.cn^
@@ -994,10 +997,12 @@
 ||iphone.bjsxljs.com^
 ||ipm.atm.youku.com^
 ||ipqc5ejfe.icu^
+||isdfbvkvsc.xyz^
 ||iswgnn.com^
 ||itheatmoran.com^
 ||itxinrou.com^
 ||ityangstudy.cn^
+||iufjkdjmsm.xyz^
 ||iuuiugbjd.xyz^
 ||iv.aliyune.xyz^
 ||ivqtrjt.cn^
@@ -1467,6 +1472,7 @@
 ||oinlkwdsx.xyz^
 ||oinlkwr.xyz^
 ||oiuqwppcsdf.com^
+||ojbkmcsdx.xyz^
 ||ok-11-cai.cc^
 ||okforwardt.fun^
 ||okmwfq.xyz^
@@ -1537,6 +1543,7 @@
 ||poereawer.top^
 ||pogwua.cn^
 ||pojkhufef.xyz^
+||polkmerth.com^
 ||polkmnhytgb.com^
 ||poqwua.cn^
 ||pos.baidu.com^
@@ -2417,8 +2424,10 @@
 ||zbc6hye*.xyz^
 ||zbc6hyip.xyz^
 ||zblz.me^
+||zbv7kxrteclub.xyz^
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
+||zcck60qyw.xyz^
 ||zcy821.com^
 ||zczcvx.com^
 ||zdfjas.top^
