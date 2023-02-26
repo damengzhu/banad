@@ -5,6 +5,15 @@
 ! Total Count: 3101
 ! by: 酷安@大萌主
 ! Host
+||adbtwyxl96.fun^
+||zbv7kxrteclub.xyz^
+||1kanz.cn^
+||isdfbvkvsc.xyz^
+||iufjkdjmsm.xyz^
+||ojbkmcsdx.xyz^
+||polkmerth.com^
+||zcck60qyw.xyz^
+||35kn0fn.1kanz.cn^
 ||mail.kguapp.com^
 ||zczcvx.com^
 ||ewrwf.com^
@@ -3089,6 +3098,7 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##DIV.index_adpic
 ##[onclick*='pypyj.com']
 ##DIV.div_adhost
+##body.chapter > div.container div.slide-baidu *
 ##ASIDE[id^='custom_html-']
 ##DIV.code-block[style='margin: 8px 0; clear: both;']
 ##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
