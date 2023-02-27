@@ -3100,6 +3100,11 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##DIV.index_adpic
 ##[onclick*='pypyj.com']
 ##DIV.div_adhost
+##A[target='_blank'] > IMG[src*='.gif'][alt]
+##div.row > DIV.md-r-panel
+##A.toptxt[target='_blank']
+##SPAN.closebox1,SPAN.closebox2,SPAN.closebox3,SPAN.closebox4
+##A[target='_blank'] > IMG[width='100%'][src*='.gif']
 ##body.chapter > div.container div.slide-baidu *
 ##ASIDE[id^='custom_html-']
 ##DIV.code-block[style='margin: 8px 0; clear: both;']
