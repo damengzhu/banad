@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2488
-! Update Time:2023-02-28 17:41:46（北京时间） 
+! Total Count:2493
+! Update Time:2023-02-28 20:24:27（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -532,6 +532,7 @@
 ||csyys0731.com^
 ||ctivity.tuigorilla.com^
 ||ctobsnssdk.com^
+||ctsau.xyz^
 ||cv.guominziben.com^
 ||cvsheil.com^
 ||cw.guominziben.com^
@@ -949,6 +950,7 @@
 ||i7pnx0t.cn^
 ||ianyshare.xyz^
 ||ibozys.cn^
+||ibwqfpo.xyz^
 ||ic.aliyune.xyz^
 ||idawziv.cn^
 ||idc9pk.com^
@@ -968,6 +970,7 @@
 ||ijkmafsf.xyz^
 ||ikjwmfeds.xyz^
 ||iklda.cn^
+||iknwqdpo.xyz^
 ||ikunikun.xyz^
 ||ilyf4amifh.com^
 ||im-x.jd.com^
@@ -1041,6 +1044,7 @@
 ||jcpecb.com^
 ||jd2ujc.cn^
 ||jd5c.top^
+||jdnlynb.cn^
 ||jessicarace.com^
 ||jf2v.mnpool.cn^
 ||jfsdiwmnbsk009.top^
@@ -1162,6 +1166,7 @@
 ||kmzayrt.cn^
 ||kn.zhangdujia.com^
 ||knbtpty.xyz^
+||knjcsonpo.com^
 ||knlk2md.cn^
 ||knmwrkw.xyz^
 ||ko2v.eiya.net^
