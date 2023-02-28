@@ -5,6 +5,8 @@
 ! Total Count: 3113
 ! by: 酷安@大萌主
 ! Host
+||rizihao.top^
+||bozhou666.com^
 ||a4sz.xyz^
 ||4etsr.xyz^
 ||adbtwyxl96.fun^
@@ -2691,6 +2693,7 @@ dingbu.*.*.*/*.add$third-party
 /js/pingbi.js
 /baidu/tg.js
 /baidu/189/999.php
+/new/837*.html
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
 ||addthis.com/live/
