@@ -5,6 +5,11 @@
 ! Total Count: 3119
 ! by: 酷安@大萌主
 ! Host
+||ctsau.xyz^
+||ibwqfpo.xyz^
+||jdnlynb.cn^
+||knjcsonpo.com^
+||iknwqdpo.xyz^
 ||tfsuggestion.live^
 ||rizihao.top^
 ||bozhou666.com^
@@ -3114,6 +3119,8 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##DIV[class*='id_ads__']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
+##body.no_overflow strong
+##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
 ##IMG.lazyload[src='/statics/img/load.gif']
 ##[src^='https://immmg.owowqrf.cn']
 ##DIV[allowtransparency='true'][scrolling='no']
