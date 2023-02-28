@@ -2735,7 +2735,6 @@ baidu.com##[class^='ball-wrapper']
 www.baidu.com,m.baidu.com##DIV[class='qrcode call']
 baidu.com##.ec_wise_ad
 baidu.com##div.ec_ad_results
-www.baidu.com##DIV.c-row:has([data-tuiguang])
 m.baidu.com##DIV.brand-entry
 baidu.com###relative_shop_flow
 baidu.com##.rel-exp-feed-ad-item
@@ -2755,8 +2754,6 @@ wk.baidu.com##DIV.fc-ad-wrap
 wk.baidu.com##DIV.middle-box-root
 tieba.baidu.com##DIV[id^='aside-ad']
 tieba.baidu.com##div[class*='-ad-pb-']
-tieba.baidu.com##DIV.fengchao-wrap-feed:has(SPAN.ec-tuiguang)
-tieba.baidu.com##DIV.tbui_slideshow_container:has(SPAN.ad_logo)
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
 tieba.baidu.com##DIV.clearfix.thread_item_box
 jingyan.baidu.com##div.ad-card
@@ -2810,14 +2807,12 @@ www.jmhongyan.com##ins[class],div.container p
 www.jjtyss.com##ins[class],#div.myui-player.clearfix p,div.container p
 www.olevod.com##DIV.B1Lss,.B1Rss
 5dm.app##[src*="sinaimg.cn"]
-cibaipuki.com##DIV.titletablerow:has([href*=":"])
 cibaipuki.com##IMG[border='0'][width='100%']
 cibaipuki.com##SECTION[id^='download_']
 cibaipuki.com##A[href^='/article-list-id'][target='_blank']
 cibaipuki.com##DIV.topnotice a:not([href='http://7a7c.com'])
 cibaipuki.com##[href*=":"]
 cibaipuki.com##DIV.table2
-cibaipuki.com##DIV.box.width-full:has([href*=":"])
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
 zol.com.cn##A.dingtong.xianshiyouhui
