@@ -5,6 +5,8 @@
 ! Total Count: 3126
 ! by: 酷安@大萌主
 ! Host
+||dgaxxjq.cn^
+||flagshipism.com^
 ||ctsau.xyz^
 ||ibwqfpo.xyz^
 ||jdnlynb.cn^
@@ -2699,7 +2701,10 @@ dingbu.*.*.*/*.add$third-party
 /js/pingbi.js
 /baidu/tg.js
 /baidu/189/999.php
-/new/837*.html
+/new/27*.html
+/new/86*.html
+/new/55*.html
+/new/83*.html
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
 ||addthis.com/live/
