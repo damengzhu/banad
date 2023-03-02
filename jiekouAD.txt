@@ -5,6 +5,7 @@
 ! Total Count: 3140
 ! by: 酷安@大萌主
 ! Host
+||pos.baidu.com^
 ||x3zy2.icu^
 ||91chaodijia.com^
 ||asdffe22.com^
@@ -2842,6 +2843,7 @@ m.iqiyi.com##DIV.iqyGuide-content,.cover
 axutongxue.com##body > div[id] > ul[class] > li > A[href^='http'],body > div[id] > ul[class] > li > img.icon
 www.zhihu.com##DIV.KfeCollection-VipRecommendCard
 www.zhihu.com##A.MBannerAd
+ali213.net##DIV.placeholderforpromotion
 zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 skyroad.downallbook.com##IMG[height='60'][width='98%']
