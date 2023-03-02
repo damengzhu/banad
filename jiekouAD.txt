@@ -2885,7 +2885,7 @@ m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
 www.dbbqb.com##DIV.MuiPaper-root
 inews.qq.com,xw.qq.com##DIV.VideoArticleBottomAdContainer,DIV.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
-boylove.cc##DIV[style='bottom: 80px;']
+boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV[data-text-ad]
 ##A[href^='https://tv2356.cc']
 ##div.container > div.t-img-box > A[href][target='_blank']
