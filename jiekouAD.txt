@@ -5,6 +5,7 @@
 ! Total Count: 3135
 ! by: 酷安@大萌主
 ! Host
+||asdffe22.com^
 ||dfadas13.com^
 ||atnnf.xyz^
 ||slsuggestion.live^
@@ -3129,6 +3130,8 @@ boylove.cc##DIV[style='bottom: 80px;']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
 ##body.no_overflow strong
+##section.global_video_bottom_dbtc
+##div.maomi-content > SECTION.section.section-banner
 ##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
 ##IMG.lazyload[src='/statics/img/load.gif']
 ##[src^='https://immmg.owowqrf.cn']
