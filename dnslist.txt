@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2503
-! Update Time:2023-03-02 21:55:09（北京时间） 
+! Total Count:2509
+! Update Time:2023-03-03 11:53:56（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -368,6 +368,7 @@
 ||beacon.qq.com^
 ||bealge.sogou.com^
 ||beap.gemini.yahoo.com^
+||beatricecathy.com^
 ||become.songche.net^
 ||bedrapiona.com^
 ||betgorebysson.club^
@@ -839,6 +840,7 @@
 ||gubgonx.cn^
 ||guiliangtechnology.com^
 ||gwertyuadf.com^
+||gwg51.com^
 ||gwmrb.cn^
 ||gxbnp.cn^
 ||gxhzv.cn^
@@ -899,6 +901,7 @@
 ||histats.com^
 ||hk.candaedu.com^
 ||hkjs.shuake.ink^
+||hlalliances.com^
 ||hlzyb.cn^
 ||hm.baidu.com^
 ||hmjs.cnmo-img.com.cn^
@@ -1191,6 +1194,7 @@
 ||kshuiz.top^
 ||ksqfwxu.cn^
 ||kstj.baidu.com^
+||kszxqq.com^
 ||ktdlsb.com^
 ||kuanxin.top^
 ||kvsqa.xyz^
@@ -1435,6 +1439,7 @@
 ||nhjsw.cn^
 ||nhpwwd.cn^
 ||nhscv.cn^
+||niaideren.icu^
 ||niangaoxiansheng.com^
 ||nijnqwem.xyz^
 ||nike666.com^
@@ -2390,6 +2395,7 @@
 ||yoda.kwd.inkuai.com^
 ||yonsandileer.com^
 ||youku6.top^
+||youp05.com^
 ||ypzps.com^
 ||yqee.htsrvlink.com^
 ||yqgzaewe.cn^

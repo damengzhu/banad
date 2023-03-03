@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2503
-#Update Time: 2023-03-02 21:55:09（北京时间） 
+#Total Count:2509
+#Update Time: 2023-03-03 11:53:56（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -369,6 +369,7 @@
 0.0.0.0 beacon.qq.com
 0.0.0.0 bealge.sogou.com
 0.0.0.0 beap.gemini.yahoo.com
+0.0.0.0 beatricecathy.com
 0.0.0.0 become.songche.net
 0.0.0.0 bedrapiona.com
 0.0.0.0 betgorebysson.club
@@ -840,6 +841,7 @@
 0.0.0.0 gubgonx.cn
 0.0.0.0 guiliangtechnology.com
 0.0.0.0 gwertyuadf.com
+0.0.0.0 gwg51.com
 0.0.0.0 gwmrb.cn
 0.0.0.0 gxbnp.cn
 0.0.0.0 gxhzv.cn
@@ -900,6 +902,7 @@
 0.0.0.0 histats.com
 0.0.0.0 hk.candaedu.com
 0.0.0.0 hkjs.shuake.ink
+0.0.0.0 hlalliances.com
 0.0.0.0 hlzyb.cn
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmjs.cnmo-img.com.cn
@@ -1192,6 +1195,7 @@
 0.0.0.0 kshuiz.top
 0.0.0.0 ksqfwxu.cn
 0.0.0.0 kstj.baidu.com
+0.0.0.0 kszxqq.com
 0.0.0.0 ktdlsb.com
 0.0.0.0 kuanxin.top
 0.0.0.0 kvsqa.xyz
@@ -1436,6 +1440,7 @@
 0.0.0.0 nhjsw.cn
 0.0.0.0 nhpwwd.cn
 0.0.0.0 nhscv.cn
+0.0.0.0 niaideren.icu
 0.0.0.0 niangaoxiansheng.com
 0.0.0.0 nijnqwem.xyz
 0.0.0.0 nike666.com
@@ -2391,6 +2396,7 @@
 0.0.0.0 yoda.kwd.inkuai.com
 0.0.0.0 yonsandileer.com
 0.0.0.0 youku6.top
+0.0.0.0 youp05.com
 0.0.0.0 ypzps.com
 0.0.0.0 yqee.htsrvlink.com
 0.0.0.0 yqgzaewe.cn
