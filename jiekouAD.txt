@@ -5,6 +5,10 @@
 ! Total Count: 3144
 ! by: 酷安@大萌主
 ! Host
+||niaideren.icu^
+||beatricecathy.com^
+||hlalliances.com^
+||kszxqq.com^
 ||gwg51.com^
 ||youp05.com^
 ||xxtalp.xyz^
@@ -3138,6 +3142,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
 ##body.no_overflow strong
+##a > IMG.img-responsive[src*='.gif']
 ##section.global_video_bottom_dbtc
 ##div.maomi-content > SECTION.section.section-banner
 ##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
