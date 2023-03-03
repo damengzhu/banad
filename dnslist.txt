@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2509
-! Update Time:2023-03-03 11:53:56（北京时间） 
+! Total Count:2521
+! Update Time:2023-03-03 12:30:33（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -76,6 +76,7 @@
 ||2.yunsxk.xyz^
 ||2020mustang.com^
 ||2022facaiabc9.xyz^
+||208622.top^
 ||23.dlads.cn^
 ||23jgiy.com^
 ||2431.vainews.cn^
@@ -455,6 +456,7 @@
 ||cdn3.mancdn88.com^
 ||cdnlog.zhenai.com^
 ||cdns.mbxt.net^
+||cdrhjt.com^
 ||cdum.vq7736.com^
 ||ceh.cehbh.com^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
@@ -739,6 +741,7 @@
 ||fhfgg.com^
 ||fhitagd.cn^
 ||fhsmtrnsfnt.com^
+||fhvbhx.xyz^
 ||fintechpi.com^
 ||firearmtire.com^
 ||fish882.xyz^
@@ -791,6 +794,7 @@
 ||gdzshoes.com^
 ||geoparker.net^
 ||gepush.com^
+||geziyd.com^
 ||gfvip09at.com^
 ||gg.cnco.me^
 ||gjh9v.tianshilv.cn^
@@ -936,6 +940,7 @@
 ||huichuan.sm.cn^
 ||huicpu.com^
 ||huifangwen.com^
+||huihuiqi.com^
 ||huiruwei.com^
 ||huitoukao.com^
 ||huiyelu.com^
@@ -1336,6 +1341,7 @@
 ||margueritenice.com^
 ||marjorienice.com^
 ||masdk.3g.qq.com^
+||maximpetus.com^
 ||mbveryu.top^
 ||mbxsku.cn^
 ||mbxw.xyz^
@@ -1401,6 +1407,7 @@
 ||msite.baidu.com^
 ||mssdhde.cn^
 ||mssdk-bu.bytedance.com^
+||mtawcy.xyz^
 ||mtrace.qq.com^
 ||muchenzhongguo.com^
 ||mudroom.aquadisco.xyz^
@@ -1572,6 +1579,7 @@
 ||ppedp.cn^
 ||ppl.xunzhuo123.com^
 ||ppyibei.com^
+||pqjprom.cn^
 ||pr-bh.ybp.yahoo.com^
 ||prdohgp.cn^
 ||prelandappslab.com^
@@ -1600,6 +1608,7 @@
 ||qapm.baidu.com^
 ||qappcenterv6.3g.qq.com^
 ||qasqs.com^
+||qawxpzm.cn^
 ||qaxkwxpf.cn^
 ||qchannel03.cn^
 ||qcmm01.com^
@@ -1942,6 +1951,7 @@
 ||tj.sosomp.com^
 ||tj.tianwenhu.com^
 ||tjj.com^
+||tjnwfjy.cn^
 ||tjqwb.cn^
 ||tkl.meizhebao.cn^
 ||tlsgq.cn^
@@ -2488,6 +2498,7 @@
 ||zjzh2019.com^
 ||zljnwzp.cn^
 ||zlnmzc.top^
+||zmhqhuq.cn^
 ||zpxw.vip^
 ||zt-uc-baidu.cc^
 ||ztshg.cn^
@@ -2507,6 +2518,7 @@
 ||zz.bdstatic.com^
 ||zz.imiqian.com^
 ||zzdsjxsb.com^
+||zzgxqlzh.com^
 ||zzpzero.com^
 ||zzxedr.xyz^
 ||zzxlhwyp.com^
