@@ -3164,6 +3164,10 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV.code-block[style='margin: 8px 0; clear: both;']
 ##DIV[style^='position: fixed; bottom: 50%; z-index: 19999 !important; ']
 ##DIV[class*='id_ads__']
+##DIV#recommend-float.player-recommend-float > a
+##body.page.player > DIV.shortcuts-mobile-overlay
+##body.page.player > div.popup.popup-tips.popup-icon.open
+##div.player-rm.rm-two.rm-list > a
 ##A[href='/statics/js/ky-a.html']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
