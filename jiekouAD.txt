@@ -5,6 +5,8 @@
 ! Total Count: 3175
 ! by: 酷安@大萌主
 ! Host
+||tgcfmh.com^
+||qiabayyds.com^
 ||cgigc.com.cn^
 ||nmm9i.xyz^
 ||qwcwnjk.com^
@@ -3166,6 +3168,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
 ##body.no_overflow strong
+##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
+##A[href*='//v.wanfumei.net']
 ##a > IMG.img-responsive[src*='.gif']
 ##section.global_video_bottom_dbtc
 ##div.maomi-content > SECTION.section.section-banner
