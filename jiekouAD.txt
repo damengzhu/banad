@@ -2703,8 +2703,6 @@ js/yys/Pfhl365.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
 Mplay/kk1.js
-yetianlian.la/8*/*.js
-yetianlian.la/7*/*.js
 static/pull/qwe1021.js
 com/js/lp365.js
 ||qsptv.net/tpl/newstyle/js/pv.js
