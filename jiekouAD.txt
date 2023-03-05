@@ -5,6 +5,8 @@
 ! Total Count: 3184
 ! by: 酷安@大萌主
 ! Host
+||cdn.anyshare.icu^
+||qiudbjwhy.com^
 ||9odes.ltd^
 ||tgcfmh.com^
 ||qiabayyds.com^
