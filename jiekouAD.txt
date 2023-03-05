@@ -5,6 +5,10 @@
 ! Total Count: 3186
 ! by: 酷安@大萌主
 ! Host
+||opuijnjefk.com^
+||laipeitu.com^
+||oybslfr.cn^
+||grkovyx.cn^
 ||cdn.anyshare.icu^
 ||qiudbjwhy.com^
 ||9odes.ltd^
@@ -2719,6 +2723,7 @@ com/js/lp365.js
 hm.js/
 /ad/dhgg.js
 /js/hhsyw.js
+/bigREDdog.css
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhimgs4.com/*.gif$domain=hdmoli.com
 *.lijie.*/*_*?$third-party
@@ -3175,6 +3180,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
 ##body.no_overflow strong
+##IMG.lazyloaded[data-src][style='width:100%;height:100%;']
+##DIV[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
 ##A[href*='//v.wanfumei.net']
 ##a > IMG.img-responsive[src*='.gif']
