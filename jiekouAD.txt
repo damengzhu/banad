@@ -3161,7 +3161,6 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV.stui-player__item.clearfix > img[url]
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
-##A[target='_blank'] > IMG[src*='.gif'][alt]
 ##div.row > DIV.md-r-panel
 ##A.toptxt[target='_blank']
 ##SPAN.closebox1,SPAN.closebox2,SPAN.closebox3,SPAN.closebox4
