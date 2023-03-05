@@ -1,14 +1,11 @@
 [Adblock Plus 2.0]
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2023-03-05 16:51:07（北京时间） 
-! Total Count: 3193
+! Update Time: 2023-03-05 16:14:47（北京时间） 
+! Total Count: 3186
 ! by: 酷安@大萌主
 ! Host
-||opuijnjefk.com^
-||laipeitu.com^
-||oybslfr.cn^
-||grkovyx.cn^
+||jdh74bf.com^
 ||cdn.anyshare.icu^
 ||qiudbjwhy.com^
 ||9odes.ltd^
@@ -2723,7 +2720,6 @@ com/js/lp365.js
 hm.js/
 /ad/dhgg.js
 /js/hhsyw.js
-/bigREDdog.css
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
 ||qhimgs4.com/*.gif$domain=hdmoli.com
 *.lijie.*/*_*?$third-party
@@ -2748,9 +2744,12 @@ dingbu.*.*.*/*.add$third-party
 /baidu/tg.js
 /baidu/189/999.php
 /new/27*.html
+/new/82*.html
+/new/83*.html
+/new/84*.html
+/new/85*.html
 /new/86*.html
 /new/55*.html
-/new/83*.html
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
 ||addthis.com/live/
@@ -3180,8 +3179,6 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
 ##body.no_overflow strong
-##IMG.lazyloaded[data-src][style='width:100%;height:100%;']
-##DIV[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##DIV[style='position: fixed; bottom: 0px; left: 0px; width: 100%; height: 5.85rem; z-index: 99999;']
 ##A[href*='//v.wanfumei.net']
 ##a > IMG.img-responsive[src*='.gif']
@@ -3204,7 +3201,6 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
-
 
 
 
