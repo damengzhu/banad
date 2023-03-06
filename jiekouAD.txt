@@ -368,7 +368,6 @@
 ||qweasd.vip^
 ||tokendomain.xyz^
 ||c.bdhcpll.cn^
-||web.cdn.openinstall.io^
 ||thinkmd.cn^
 ||bdhcpll.cn^
 ||orxsq.xyz^
