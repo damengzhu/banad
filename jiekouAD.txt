@@ -5,6 +5,10 @@
 ! Total Count: 3190
 ! by: 酷安@大萌主
 ! Host
+||jsyunmy.com^
+||3v7c7y.online^
+||ysqlmpo.cn^
+||rui61.cn^
 ||qubdjkqwl.com^
 ||jdh74bf.com^
 ||cdn.anyshare.icu^
@@ -2655,6 +2659,7 @@ widgets.outbrain.com/outbrain.js
 ||manhuabei.com/assets/xiwang.js
 ||yhdm.tv/bar/yfyh.js
 ||yhdm.tv/bar/yfgg.js
+/js/js4.js
 /obj/ad-app-package
 /yinghuacd/bottom.js
 ||baidu.com/rec?*=ad&
