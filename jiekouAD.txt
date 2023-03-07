@@ -3041,7 +3041,6 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[href^='http://mm.alameinv.com/']
 ##[onclick='gourl()'][src^='/images/bfq/']
 ##[onclick="window.open('https://docs.qq.com/doc/DZGtmWUxpamJGTnNY');"]
-##.adsbygoogle
 ###coupletBox
 ##.advertise
 ##[href^='https://xcc.'][href*='cn/']
