@@ -2584,6 +2584,7 @@
 .top/Report/*-*-*-*-*
 ||745c.cn$third-party
 ||kgsz.cn$third-party
+/site/mov*$third-party
 ||dadatuwz.com^$third-party
 ||pubfuture.com^$third-party
 ||outbrain.com^$third-party
