@@ -5,6 +5,18 @@
 ! Total Count: 3213
 ! by: 酷安@大萌主
 ! Host
+||xiaoyange.cn^
+||d3f3.xyz^
+||rtsdfw44.com^
+||www.ibgdd67.top^
+||zcczrvsaqw.world^
+||zcczrvsaw.xyz^
+||zcczrvsaqw.shop^
+||polkkqm.com^
+||polkmerth.com^
+||knjcsonpo.com^
+||ibqkjbw.com^
+||oikqwnm.com^
 ||dtckvpc.cn^
 ||lzzzjx.xyz^
 ||twlcyc.cn^
@@ -2627,6 +2639,7 @@ xmh/200/200-*.gif
 chen-xing/figure_bed*
 .com/gg.js
 /api/ad/*
+.cyou/xling_*_*.js
 /j/142610
 /dist/common.js
 /js/basisc.js
@@ -3197,6 +3210,10 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##A[href='/statics/js/ky-a.html']
 ##DIV[class*='home'][class*='Ads']
 ##div[class*='bookid_ads']
+##div[id] > div[style*='z-index: 2147483647; width: 100vw; background: url']
+##div#content.content div[id] > DIV[style*='z-index: 2147483647']
+##div#apage.apage > div > ul > li > a
+##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div#beijing.article_content.layui-clear > div.left > div > a
 ##ul#page-list.layui-clear.page-wz > ul > li:not([class])
