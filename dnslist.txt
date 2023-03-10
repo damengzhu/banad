@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2549
-! Update Time:2023-03-10 12:31:43（北京时间） 
+! Total Count:2561
+! Update Time:2023-03-10 22:40:06（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -563,6 +563,7 @@
 ||d1q4x2p7t0gq14.cloudfront.net^
 ||d20903hof2l33q.cloudfront.net^
 ||d227cncaprzd7y.cloudfront.net^
+||d3f3.xyz^
 ||d3mshiiq22wqhz.cloudfront.net^
 ||d8962a.xyz^
 ||dacedsfa.cn^
@@ -972,6 +973,7 @@
 ||i7pnx0t.cn^
 ||ianyshare.xyz^
 ||ibozys.cn^
+||ibqkjbw.com^
 ||ibwqfpo.xyz^
 ||ic.aliyune.xyz^
 ||idawziv.cn^
@@ -1507,6 +1509,7 @@
 ||ognujxj.cn^
 ||ohchehw.cn^
 ||oi9rp7.online^
+||oikqwnm.com^
 ||oinjkenwok.xyz^
 ||oinlkwdsx.xyz^
 ||oinlkwr.xyz^
@@ -1586,6 +1589,7 @@
 ||pogwua.cn^
 ||poiqknfl.com^
 ||pojkhufef.xyz^
+||polkkqm.com^
 ||polkmerth.com^
 ||polkmnhytgb.com^
 ||poqwua.cn^
@@ -1735,6 +1739,7 @@
 ||rsvqlz.cn^
 ||rte.fuoo1.top^
 ||rtmark.net^
+||rtsdfw44.com^
 ||ruanjiancms.com^
 ||rui61.cn^
 ||run-syndicate.com^
@@ -2222,6 +2227,7 @@
 ||www.hiweha.com^
 ||www.hlgglm.com^
 ||www.huizai.top^
+||www.ibgdd67.top^
 ||www.ilaohuyou.xyz^
 ||www.jacklm1.com^
 ||www.jacklm2.com^
@@ -2334,6 +2340,7 @@
 ||xiaojifly.cn^
 ||xiaomifood.cn^
 ||xiaosunxin.cn^
+||xiaoyange.cn^
 ||xiarikui08.com^
 ||ximg.0c1q0l.cn^
 ||ximit8023.maijijo.com^
@@ -2490,6 +2497,9 @@
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
 ||zcck60qyw.xyz^
+||zcczrvsaqw.shop^
+||zcczrvsaqw.world^
+||zcczrvsaw.xyz^
 ||zcy821.com^
 ||zczcvx.com^
 ||zdfjas.top^
