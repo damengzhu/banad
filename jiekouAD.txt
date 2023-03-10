@@ -2923,6 +2923,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[href^='https://w5979.com:']
 ##[href^='https://dc.vvsmse72']
 ##oxk
+##div.row > div[id] > ul > li.cpn > a
 ##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
 ##div.page.player > div.main > div.content > div.module.module-player > div.module-main > div.player-box > div.player-rm.rm-list > a > img
 ##IMG[src*='/gg/'][src$='180.gif'][src*='800']
