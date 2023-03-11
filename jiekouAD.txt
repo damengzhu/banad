@@ -2734,6 +2734,7 @@ www.baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 cupfox.app#@#.adsbygoogle
+www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG.cupfox-img[width='100%']
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##.ec-ad
