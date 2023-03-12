@@ -2734,6 +2734,7 @@ www.baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 cupfox.app#@#.adsbygoogle
+dongmanhuayuan.myheartsite.com##DIV.card-body
 m.guancha.cn##DIV.g_header.go-to-app
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG.cupfox-img[width='100%']
