@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2482
-#Update Time: 2023-03-13 09:51:42（北京时间） 
+#Total Count:2490
+#Update Time: 2023-03-13 17:50:48（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -672,6 +672,7 @@
 0.0.0.0 ejieban.com
 0.0.0.0 eladies.zhmyq.cn
 0.0.0.0 elegant-creator.com
+0.0.0.0 elopatchwork.com
 0.0.0.0 elsmom.xyz
 0.0.0.0 elsynmlw.fun
 0.0.0.0 embnvut.com
@@ -869,6 +870,7 @@
 0.0.0.0 hbzshoes.com
 0.0.0.0 hcbmg.cn
 0.0.0.0 hcbmq.cn
+0.0.0.0 hcdjy.xyz
 0.0.0.0 hdvkl.cn
 0.0.0.0 hdypw.com
 0.0.0.0 hdzb6.cc
@@ -942,6 +944,7 @@
 0.0.0.0 hylmxing.com
 0.0.0.0 hytzp.cn
 0.0.0.0 hzdaye.m.zwdu.com
+0.0.0.0 i-fk.cn
 0.0.0.0 i.cidianwang.com
 0.0.0.0 i.snssdk.com
 0.0.0.0 i1.go2yd.com
@@ -1617,6 +1620,7 @@
 0.0.0.0 qqqwww987.site
 0.0.0.0 qqqwww987.space
 0.0.0.0 qrjxween.com
+0.0.0.0 qscvli.com
 0.0.0.0 qsj8fd.com
 0.0.0.0 qsjfd2.com
 0.0.0.0 qsjfd2.xyz
@@ -1888,6 +1892,7 @@
 0.0.0.0 tcsgcdn.top
 0.0.0.0 tdid.m.qq.com
 0.0.0.0 techain.baidu.com
+0.0.0.0 techspecndt.com
 0.0.0.0 tencent.xn--io0a7i
 0.0.0.0 tepusi888.cn
 0.0.0.0 test.fangzhixinxi.cn
@@ -2381,6 +2386,7 @@
 0.0.0.0 yusnw.cc
 0.0.0.0 yutew.cc
 0.0.0.0 yuvdqnpo.com
+0.0.0.0 yvsnhc.com
 0.0.0.0 yw800.com.cn
 0.0.0.0 ywsywh.cn
 0.0.0.0 ywtd.xyz

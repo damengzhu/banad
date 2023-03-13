@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2482
-! Update Time:2023-03-13 09:51:42（北京时间） 
+! Total Count:2490
+! Update Time:2023-03-13 17:50:48（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -671,6 +671,7 @@
 ||ejieban.com^
 ||eladies.zhmyq.cn^
 ||elegant-creator.com^
+||elopatchwork.com^
 ||elsmom.xyz^
 ||elsynmlw.fun^
 ||embnvut.com^
@@ -868,6 +869,7 @@
 ||hbzshoes.com^
 ||hcbmg.cn^
 ||hcbmq.cn^
+||hcdjy.xyz^
 ||hdvkl.cn^
 ||hdypw.com^
 ||hdzb6.cc^
@@ -941,6 +943,7 @@
 ||hylmxing.com^
 ||hytzp.cn^
 ||hzdaye.m.zwdu.com^
+||i-fk.cn^
 ||i.cidianwang.com^
 ||i.snssdk.com^
 ||i1.go2yd.com^
@@ -1616,6 +1619,7 @@
 ||qqqwww987.site^
 ||qqqwww987.space^
 ||qrjxween.com^
+||qscvli.com^
 ||qsj8fd.com^
 ||qsjfd2.com^
 ||qsjfd2.xyz^
@@ -1887,6 +1891,7 @@
 ||tcsgcdn.top^
 ||tdid.m.qq.com^
 ||techain.baidu.com^
+||techspecndt.com^
 ||tencent.xn--io0a7i^
 ||tepusi888.cn^
 ||test.fangzhixinxi.cn^
@@ -2380,6 +2385,7 @@
 ||yusnw.cc^
 ||yutew.cc^
 ||yuvdqnpo.com^
+||yvsnhc.com^
 ||yw800.com.cn^
 ||ywsywh.cn^
 ||ywtd.xyz^
