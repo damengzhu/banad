@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2490
-! Update Time:2023-03-13 17:50:48（北京时间） 
+! Total Count:2508
+! Update Time:2023-03-13 19:56:35（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -336,6 +336,7 @@
 ||b1.51yangsheng.com^
 ||b2.51yangsheng.com^
 ||b2xy4m.xyz^
+||b59.xyz^
 ||baiwb.com^
 ||baiyishaonian.cn^
 ||bangyuandianzi.top^
@@ -722,6 +723,7 @@
 ||fdgem.com^
 ||fds-1230.cc^
 ||feed.baidu.com^
+||ffmehcg.cn^
 ||ffnvhig.cn^
 ||ffzz71.com^
 ||fg.daochengwowo.top^
@@ -772,6 +774,7 @@
 ||gaomingbo.com^
 ||gaoyuhu.top^
 ||gbcnvip15.com^
+||gbrtyhnsc.xyz^
 ||gbsp002.com^
 ||gdfp.gifshow.com^
 ||gdls114.com^
@@ -904,6 +907,7 @@
 ||hnltcw.com^
 ||hnnuange.com^
 ||hntezhi.com^
+||hnzzff.club^
 ||hollg8023.745c.cn^
 ||holor0701.cn^
 ||holor0804.cn^
@@ -943,6 +947,7 @@
 ||hylmxing.com^
 ||hytzp.cn^
 ||hzdaye.m.zwdu.com^
+||hzhuang.wang^
 ||i-fk.cn^
 ||i.cidianwang.com^
 ||i.snssdk.com^
@@ -1101,6 +1106,7 @@
 ||jszctech.com^
 ||juicyads.com^
 ||just-machinery.com^
+||jvpyxve.cn^
 ||jwddpvu.cn^
 ||jxbtl.com^
 ||jxgd1688.com^
@@ -1306,6 +1312,7 @@
 ||m.wantemachine.com.cn^
 ||m.xylmdm.top^
 ||m.zzcm5.com^
+||m09mm.xyz^
 ||m3.myyj.net^
 ||mail.kguapp.com^
 ||maljxp.cn^
@@ -1391,6 +1398,7 @@
 ||my.rtmark.net^
 ||myads.cc^
 ||myexpendd.xyz^
+||mykch.top^
 ||mylmad.com^
 ||mywb3.com^
 ||mzwzo.cn^
@@ -1474,6 +1482,7 @@
 ||ok-11-cai.cc^
 ||okforwardt.fun^
 ||okmwfq.xyz^
+||okpoiione.com^
 ||oldulgk.cn^
 ||olpv.onlylady.com^
 ||omgid.qq.com^
@@ -1487,6 +1496,7 @@
 ||openrcv.baidu.com^
 ||ophwrh.cn^
 ||opnked*.xyz^
+||opnkedfdye.xyz^
 ||orange-dc.youku.com^
 ||orxsq.xyz^
 ||osnignsk.xyz^
@@ -1523,6 +1533,7 @@
 ||pflrv.cn^
 ||pgdt.gtimg.cn^
 ||pglstatp-toutiao.com^
+||phoorned.com^
 ||phputils.wc-os.com^
 ||pimlog.baidu.com^
 ||pingfore.qq.com^
@@ -1785,6 +1796,7 @@
 ||similm.xyz^
 ||simiyue2.com^
 ||simplewebanalysis.com^
+||siwei.pub^
 ||sixiuwl.cn^
 ||siz3wxt8p.shop^
 ||sjarvis.taobao.com^
@@ -2373,6 +2385,7 @@
 ||ysqlmpo.cn^
 ||yt800h.com^
 ||ytelc.com^
+||ytvwhbejc.com^
 ||yubingyuan.top^
 ||yuehesh.com^
 ||yuhunwang.net^

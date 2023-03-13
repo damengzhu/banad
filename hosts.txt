@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2490
-#Update Time: 2023-03-13 17:50:48（北京时间） 
+#Total Count:2508
+#Update Time: 2023-03-13 19:56:35（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -337,6 +337,7 @@
 0.0.0.0 b1.51yangsheng.com
 0.0.0.0 b2.51yangsheng.com
 0.0.0.0 b2xy4m.xyz
+0.0.0.0 b59.xyz
 0.0.0.0 baiwb.com
 0.0.0.0 baiyishaonian.cn
 0.0.0.0 bangyuandianzi.top
@@ -723,6 +724,7 @@
 0.0.0.0 fdgem.com
 0.0.0.0 fds-1230.cc
 0.0.0.0 feed.baidu.com
+0.0.0.0 ffmehcg.cn
 0.0.0.0 ffnvhig.cn
 0.0.0.0 ffzz71.com
 0.0.0.0 fg.daochengwowo.top
@@ -773,6 +775,7 @@
 0.0.0.0 gaomingbo.com
 0.0.0.0 gaoyuhu.top
 0.0.0.0 gbcnvip15.com
+0.0.0.0 gbrtyhnsc.xyz
 0.0.0.0 gbsp002.com
 0.0.0.0 gdfp.gifshow.com
 0.0.0.0 gdls114.com
@@ -905,6 +908,7 @@
 0.0.0.0 hnltcw.com
 0.0.0.0 hnnuange.com
 0.0.0.0 hntezhi.com
+0.0.0.0 hnzzff.club
 0.0.0.0 hollg8023.745c.cn
 0.0.0.0 holor0701.cn
 0.0.0.0 holor0804.cn
@@ -944,6 +948,7 @@
 0.0.0.0 hylmxing.com
 0.0.0.0 hytzp.cn
 0.0.0.0 hzdaye.m.zwdu.com
+0.0.0.0 hzhuang.wang
 0.0.0.0 i-fk.cn
 0.0.0.0 i.cidianwang.com
 0.0.0.0 i.snssdk.com
@@ -1102,6 +1107,7 @@
 0.0.0.0 jszctech.com
 0.0.0.0 juicyads.com
 0.0.0.0 just-machinery.com
+0.0.0.0 jvpyxve.cn
 0.0.0.0 jwddpvu.cn
 0.0.0.0 jxbtl.com
 0.0.0.0 jxgd1688.com
@@ -1307,6 +1313,7 @@
 0.0.0.0 m.wantemachine.com.cn
 0.0.0.0 m.xylmdm.top
 0.0.0.0 m.zzcm5.com
+0.0.0.0 m09mm.xyz
 0.0.0.0 m3.myyj.net
 0.0.0.0 mail.kguapp.com
 0.0.0.0 maljxp.cn
@@ -1392,6 +1399,7 @@
 0.0.0.0 my.rtmark.net
 0.0.0.0 myads.cc
 0.0.0.0 myexpendd.xyz
+0.0.0.0 mykch.top
 0.0.0.0 mylmad.com
 0.0.0.0 mywb3.com
 0.0.0.0 mzwzo.cn
@@ -1475,6 +1483,7 @@
 0.0.0.0 ok-11-cai.cc
 0.0.0.0 okforwardt.fun
 0.0.0.0 okmwfq.xyz
+0.0.0.0 okpoiione.com
 0.0.0.0 oldulgk.cn
 0.0.0.0 olpv.onlylady.com
 0.0.0.0 omgid.qq.com
@@ -1488,6 +1497,7 @@
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 ophwrh.cn
 0.0.0.0 opnked*.xyz
+0.0.0.0 opnkedfdye.xyz
 0.0.0.0 orange-dc.youku.com
 0.0.0.0 orxsq.xyz
 0.0.0.0 osnignsk.xyz
@@ -1524,6 +1534,7 @@
 0.0.0.0 pflrv.cn
 0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pglstatp-toutiao.com
+0.0.0.0 phoorned.com
 0.0.0.0 phputils.wc-os.com
 0.0.0.0 pimlog.baidu.com
 0.0.0.0 pingfore.qq.com
@@ -1786,6 +1797,7 @@
 0.0.0.0 similm.xyz
 0.0.0.0 simiyue2.com
 0.0.0.0 simplewebanalysis.com
+0.0.0.0 siwei.pub
 0.0.0.0 sixiuwl.cn
 0.0.0.0 siz3wxt8p.shop
 0.0.0.0 sjarvis.taobao.com
@@ -2374,6 +2386,7 @@
 0.0.0.0 ysqlmpo.cn
 0.0.0.0 yt800h.com
 0.0.0.0 ytelc.com
+0.0.0.0 ytvwhbejc.com
 0.0.0.0 yubingyuan.top
 0.0.0.0 yuehesh.com
 0.0.0.0 yuhunwang.net
