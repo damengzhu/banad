@@ -2827,6 +2827,7 @@ m.hupu.com##[class^="show_ad"]
 hmqg.net##DIV#bottommob.bottommob
 m.zzzfun.com##DIV#show-2415689770463175004-8179
 sogou.com##.ad_result
+m.nxnba.com##DIV.bootom-fixed
 ifeng.com##div[class^="ad_"]
 m.huya.com##DIV#template
 trakt.tv##DIV[id$='-wrapper']
