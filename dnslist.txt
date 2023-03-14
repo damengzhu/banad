@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2503
-! Update Time:2023-03-14 21:13:23（北京时间） 
+! Total Count:2515
+! Update Time:2023-03-14 23:06:15（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -76,6 +76,7 @@
 ||2020mustang.com^
 ||2022facaiabc9.xyz^
 ||208622.top^
+||21qma3vs.com^
 ||23.dlads.cn^
 ||23jgiy.com^
 ||2431.vainews.cn^
@@ -378,6 +379,7 @@
 ||bjkedvvelwf.xyz^
 ||bl.emotionalworld.cn^
 ||blsenpg.cn^
+||blvhq.com^
 ||bngpt.com^
 ||bnhxxj.xyz^
 ||bofnhn.com^
@@ -789,6 +791,7 @@
 ||geziyd.com^
 ||gfvip09at.com^
 ||gg.cnco.me^
+||ggdfrl.com^
 ||gjh9v.tianshilv.cn^
 ||gknybkl.cn^
 ||gl.zle.com^
@@ -889,6 +892,7 @@
 ||hgkzl.cn^
 ||hgpbhuj.cn^
 ||hh0212.cc^
+||hh9uv6tq.com^
 ||hhff.xsbooktxt.com^
 ||hhttm.top^
 ||hickeyhsu.top^
@@ -1065,6 +1069,7 @@
 ||jiezoiq.cn^
 ||jinbao888.com^
 ||jinhaitun888.xyz^
+||jiqgsh.com^
 ||jisukuaisong.cn^
 ||jisz9e.cn^
 ||jiumai88.com^
@@ -1717,6 +1722,8 @@
 ||rvyjbwr.cn^
 ||rxlidz.ink^
 ||rywnvzd.cn^
+||rzkptd.com^
+||rzsgxmm.cn^
 ||s.btime.com^
 ||s.fengmishop.cn^
 ||s.goodkee.cn^
@@ -1909,6 +1916,7 @@
 ||tci.oss-ap-southeast-1.aliyuncs.com^
 ||tcsgcdn.top^
 ||tdid.m.qq.com^
+||tdigcw.com^
 ||techain.baidu.com^
 ||techspecndt.com^
 ||tencent.xn--io0a7i^
@@ -2029,6 +2037,7 @@
 ||uporods.com^
 ||urlkwqi.cn^
 ||ursegreatm.fun^
+||urtr4hrq.com^
 ||uttlinediv.top^
 ||utywsi.cn^
 ||uujhveglpo.xyz^
@@ -2067,6 +2076,7 @@
 ||vnvmif.cn^
 ||vokmhydy.xyz^
 ||vole.3hbox.com^
+||vpubmi.com^
 ||vstat.v.blog.sohu.com^
 ||vuhidf.cn^
 ||vv.nettierbrakier.com^
@@ -2100,6 +2110,7 @@
 ||whwxxny.com^
 ||whyfate.cn^
 ||widow5blackfr.com^
+||wipew.com^
 ||wlhcb.cn^
 ||wlsyuule.cam^
 ||wmxke.com^
@@ -2294,6 +2305,7 @@
 ||xinym1.xyz^
 ||xjrvwz.com^
 ||xjssjc.com^
+||xkcxh.com^
 ||xkqit.com^
 ||xkzjq.cn^
 ||xls.go.sohu.com^

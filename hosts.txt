@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2503
-#Update Time: 2023-03-14 21:13:23（北京时间） 
+#Total Count:2515
+#Update Time: 2023-03-14 23:06:15（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -77,6 +77,7 @@
 0.0.0.0 2020mustang.com
 0.0.0.0 2022facaiabc9.xyz
 0.0.0.0 208622.top
+0.0.0.0 21qma3vs.com
 0.0.0.0 23.dlads.cn
 0.0.0.0 23jgiy.com
 0.0.0.0 2431.vainews.cn
@@ -379,6 +380,7 @@
 0.0.0.0 bjkedvvelwf.xyz
 0.0.0.0 bl.emotionalworld.cn
 0.0.0.0 blsenpg.cn
+0.0.0.0 blvhq.com
 0.0.0.0 bngpt.com
 0.0.0.0 bnhxxj.xyz
 0.0.0.0 bofnhn.com
@@ -790,6 +792,7 @@
 0.0.0.0 geziyd.com
 0.0.0.0 gfvip09at.com
 0.0.0.0 gg.cnco.me
+0.0.0.0 ggdfrl.com
 0.0.0.0 gjh9v.tianshilv.cn
 0.0.0.0 gknybkl.cn
 0.0.0.0 gl.zle.com
@@ -890,6 +893,7 @@
 0.0.0.0 hgkzl.cn
 0.0.0.0 hgpbhuj.cn
 0.0.0.0 hh0212.cc
+0.0.0.0 hh9uv6tq.com
 0.0.0.0 hhff.xsbooktxt.com
 0.0.0.0 hhttm.top
 0.0.0.0 hickeyhsu.top
@@ -1066,6 +1070,7 @@
 0.0.0.0 jiezoiq.cn
 0.0.0.0 jinbao888.com
 0.0.0.0 jinhaitun888.xyz
+0.0.0.0 jiqgsh.com
 0.0.0.0 jisukuaisong.cn
 0.0.0.0 jisz9e.cn
 0.0.0.0 jiumai88.com
@@ -1718,6 +1723,8 @@
 0.0.0.0 rvyjbwr.cn
 0.0.0.0 rxlidz.ink
 0.0.0.0 rywnvzd.cn
+0.0.0.0 rzkptd.com
+0.0.0.0 rzsgxmm.cn
 0.0.0.0 s.btime.com
 0.0.0.0 s.fengmishop.cn
 0.0.0.0 s.goodkee.cn
@@ -1910,6 +1917,7 @@
 0.0.0.0 tci.oss-ap-southeast-1.aliyuncs.com
 0.0.0.0 tcsgcdn.top
 0.0.0.0 tdid.m.qq.com
+0.0.0.0 tdigcw.com
 0.0.0.0 techain.baidu.com
 0.0.0.0 techspecndt.com
 0.0.0.0 tencent.xn--io0a7i
@@ -2030,6 +2038,7 @@
 0.0.0.0 uporods.com
 0.0.0.0 urlkwqi.cn
 0.0.0.0 ursegreatm.fun
+0.0.0.0 urtr4hrq.com
 0.0.0.0 uttlinediv.top
 0.0.0.0 utywsi.cn
 0.0.0.0 uujhveglpo.xyz
@@ -2068,6 +2077,7 @@
 0.0.0.0 vnvmif.cn
 0.0.0.0 vokmhydy.xyz
 0.0.0.0 vole.3hbox.com
+0.0.0.0 vpubmi.com
 0.0.0.0 vstat.v.blog.sohu.com
 0.0.0.0 vuhidf.cn
 0.0.0.0 vv.nettierbrakier.com
@@ -2101,6 +2111,7 @@
 0.0.0.0 whwxxny.com
 0.0.0.0 whyfate.cn
 0.0.0.0 widow5blackfr.com
+0.0.0.0 wipew.com
 0.0.0.0 wlhcb.cn
 0.0.0.0 wlsyuule.cam
 0.0.0.0 wmxke.com
@@ -2295,6 +2306,7 @@
 0.0.0.0 xinym1.xyz
 0.0.0.0 xjrvwz.com
 0.0.0.0 xjssjc.com
+0.0.0.0 xkcxh.com
 0.0.0.0 xkqit.com
 0.0.0.0 xkzjq.cn
 0.0.0.0 xls.go.sohu.com
