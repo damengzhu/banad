@@ -2498,7 +2498,6 @@
 ||appsupport.qq.com^
 ||dig.zjurl.cn^
 ||gdfp.gifshow.com^
-||ulog*.*^
 ||api.kwaizt.com^
 ||httpdns.pro^
 ||yoda.kwd.inkuai.com^
