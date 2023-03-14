@@ -2882,6 +2882,7 @@ www.huadongty.com##SECTION
 ximalaya.com##.change-logo.S_q,DIV.packet-container._PC,div.less-tips._PC *
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
 www.ghxi.com##DIV.wpcom_ad_wrap
+www.meijuii.cc##DIV[style*='vw; display: block;']
 www.hzw.com.cn##DIV.xfb_close_icon,DIV#xfb_lbox,DIV.xfb_close_btn
 www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
 www.ydyse.com##.left,.bottom,.right,.ad,.adimage
