@@ -5,6 +5,21 @@
 ! Total Count: 3176
 ! by: 酷安@大萌主
 ! Host
+||xkcxh.com^
+||blvhq.com^
+||jiqgsh.com^
+||8d7hhh8x.com^
+||hh9uv6tq.com^
+||21qma3vs.com^
+||rzkptd.com^
+||3t769up6.com^
+||ggdfrl.com^
+||urtr4hrq.com^
+||qscvli.com^
+||tdigcw.com^
+||wipew.com^
+||rzsgxmm.cn^
+||vpubmi.com^
 ||opjnbmk.com^
 ||opnkedfdye.xyz^
 ||knjcsonpo.com^
@@ -37,7 +52,6 @@
 ||techspecndt.com^
 ||drfvtgbyk.xyz^
 ||ebten.xyz^
-||qscvli.com^
 ||yvsnhc.com^
 ||xiaoyange.cn^
 ||d3f3.xyz^
@@ -290,7 +304,6 @@
 ||zaqptv2bo.xyz^
 ||zasjfget.xyz^
 ||zasjf.xyz^
-||8d7hhh8x.com^
 ||bofnhn.com^
 ||*.gtlpa*.com^
 ||huizhoumi.com^
@@ -515,7 +528,6 @@
 ||mmgg62.com^
 ||79zxcv.com^
 ||xn--2qu92fhtxsxexqab.xn--fiqs8s^
-||3t769up6.com^
 ||mhslbgk.cn^
 ||t7x22m7c.com^
 ||rfnhwaj.cn^
@@ -3189,5 +3201,6 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
+
 
 
