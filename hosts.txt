@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2508
-#Update Time: 2023-03-14 19:58:51（北京时间） 
+#Total Count:2516
+#Update Time: 2023-03-14 21:02:54（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -380,6 +380,7 @@
 0.0.0.0 bl.emotionalworld.cn
 0.0.0.0 blsenpg.cn
 0.0.0.0 bngpt.com
+0.0.0.0 bnhxxj.xyz
 0.0.0.0 bofnhn.com
 0.0.0.0 bohanhengtian.cn
 0.0.0.0 botonmetaverse.com
@@ -724,6 +725,7 @@
 0.0.0.0 fdgem.com
 0.0.0.0 fds-1230.cc
 0.0.0.0 feed.baidu.com
+0.0.0.0 ffgpol.com
 0.0.0.0 ffmehcg.cn
 0.0.0.0 ffnvhig.cn
 0.0.0.0 ffzz71.com
@@ -842,6 +844,7 @@
 0.0.0.0 gxlsjt.com
 0.0.0.0 gxzxiww.com
 0.0.0.0 gyjinchuang.vip
+0.0.0.0 gypowdr.com
 0.0.0.0 gz-hongxin.com
 0.0.0.0 gzasiatech.net
 0.0.0.0 gzfzcj.cn
@@ -919,6 +922,7 @@
 0.0.0.0 hpd.baidu.com
 0.0.0.0 hpg786n.cn
 0.0.0.0 hpiekt.cn
+0.0.0.0 hqbuoh.com
 0.0.0.0 hqnpwzu.cn
 0.0.0.0 hssapp.shop
 0.0.0.0 hswfj.cn
@@ -944,6 +948,7 @@
 0.0.0.0 hxwxfc.cn
 0.0.0.0 hxwxffc.cn
 0.0.0.0 hy.luassane.cn
+0.0.0.0 hyidlu.com
 0.0.0.0 hylmfeifei.com
 0.0.0.0 hylmxing.com
 0.0.0.0 hytzp.cn
@@ -1574,6 +1579,7 @@
 0.0.0.0 ptauxofi.net
 0.0.0.0 ptgdb.cn
 0.0.0.0 public.wlbaike.com
+0.0.0.0 pufhzpt.cn
 0.0.0.0 puqer.cn
 0.0.0.0 push.bearad.com
 0.0.0.0 push.m.youku.com
@@ -2334,6 +2340,7 @@
 0.0.0.0 yangshengzu.cn
 0.0.0.0 yaodaipeishi.cn
 0.0.0.0 yaomuzhubao.com
+0.0.0.0 yaqurc.com
 0.0.0.0 ycc90.xyz
 0.0.0.0 ycdywl.com
 0.0.0.0 yd.game4343.com

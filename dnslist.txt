@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2508
-! Update Time:2023-03-14 19:58:51（北京时间） 
+! Total Count:2516
+! Update Time:2023-03-14 21:02:54（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -379,6 +379,7 @@
 ||bl.emotionalworld.cn^
 ||blsenpg.cn^
 ||bngpt.com^
+||bnhxxj.xyz^
 ||bofnhn.com^
 ||bohanhengtian.cn^
 ||botonmetaverse.com^
@@ -723,6 +724,7 @@
 ||fdgem.com^
 ||fds-1230.cc^
 ||feed.baidu.com^
+||ffgpol.com^
 ||ffmehcg.cn^
 ||ffnvhig.cn^
 ||ffzz71.com^
@@ -841,6 +843,7 @@
 ||gxlsjt.com^
 ||gxzxiww.com^
 ||gyjinchuang.vip^
+||gypowdr.com^
 ||gz-hongxin.com^
 ||gzasiatech.net^
 ||gzfzcj.cn^
@@ -918,6 +921,7 @@
 ||hpd.baidu.com^
 ||hpg786n.cn^
 ||hpiekt.cn^
+||hqbuoh.com^
 ||hqnpwzu.cn^
 ||hssapp.shop^
 ||hswfj.cn^
@@ -943,6 +947,7 @@
 ||hxwxfc.cn^
 ||hxwxffc.cn^
 ||hy.luassane.cn^
+||hyidlu.com^
 ||hylmfeifei.com^
 ||hylmxing.com^
 ||hytzp.cn^
@@ -1573,6 +1578,7 @@
 ||ptauxofi.net^
 ||ptgdb.cn^
 ||public.wlbaike.com^
+||pufhzpt.cn^
 ||puqer.cn^
 ||push.bearad.com^
 ||push.m.youku.com^
@@ -2333,6 +2339,7 @@
 ||yangshengzu.cn^
 ||yaodaipeishi.cn^
 ||yaomuzhubao.com^
+||yaqurc.com^
 ||ycc90.xyz^
 ||ycdywl.com^
 ||yd.game4343.com^
