@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2519
-#Update Time: 2023-03-15 23:09:00（北京时间） 
+#Total Count:2526
+#Update Time: 2023-03-16 15:19:05（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -1431,6 +1431,7 @@
 0.0.0.0 new.zhuanquxian.com
 0.0.0.0 nflks.cn
 0.0.0.0 nftjjw.com
+0.0.0.0 ng8f.top
 0.0.0.0 nghdp.cn
 0.0.0.0 nhjsw.cn
 0.0.0.0 nhpwwd.cn
@@ -1633,6 +1634,7 @@
 0.0.0.0 qj.ituanhui.com
 0.0.0.0 qjxys.cn
 0.0.0.0 qktmwiq.cn
+0.0.0.0 qmfcybwbf19.com
 0.0.0.0 qnfvojfkw.xyz
 0.0.0.0 qnieo.fun
 0.0.0.0 qnipkk.xyz
@@ -1716,6 +1718,7 @@
 0.0.0.0 rtsdfw44.com
 0.0.0.0 ruanjiancms.com
 0.0.0.0 rui61.cn
+0.0.0.0 rulwph.xyz
 0.0.0.0 run-syndicate.com
 0.0.0.0 runative-syndicate.com
 0.0.0.0 runn.fun
@@ -1757,6 +1760,7 @@
 0.0.0.0 sd.yhzzzs*.com
 0.0.0.0 sd6hon.cn
 0.0.0.0 sdhjueue.com
+0.0.0.0 sdhuawen.cn
 0.0.0.0 sdk.sipujia.cn
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkapp.uve.weibo.com
@@ -1912,6 +1916,7 @@
 0.0.0.0 taoyao.tech
 0.0.0.0 tb.pagetest.top
 0.0.0.0 tbsone.imtt.qq.com
+0.0.0.0 tc.vpubmi.com
 0.0.0.0 tc6tc.com
 0.0.0.0 tcbox.baidu.com
 0.0.0.0 tchkcc.cn
@@ -1931,6 +1936,7 @@
 0.0.0.0 tfutcmail.com
 0.0.0.0 tfzozf.xyz
 0.0.0.0 tg.loclog.cn
+0.0.0.0 tg.xkcxh.com
 0.0.0.0 tgcfmh.com
 0.0.0.0 tgfyq.cn
 0.0.0.0 tgymhwt.cn
@@ -1967,6 +1973,7 @@
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 toutiao.xn--fiqs8s
 0.0.0.0 tovppl.cn
+0.0.0.0 tpic.rzsgxmm.cn
 0.0.0.0 tqmcj.cn
 0.0.0.0 trace.qq.com
 0.0.0.0 track.hujiang.com

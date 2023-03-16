@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2519
-! Update Time:2023-03-15 23:09:00（北京时间） 
+! Total Count:2526
+! Update Time:2023-03-16 15:19:05（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -1430,6 +1430,7 @@
 ||new.zhuanquxian.com^
 ||nflks.cn^
 ||nftjjw.com^
+||ng8f.top^
 ||nghdp.cn^
 ||nhjsw.cn^
 ||nhpwwd.cn^
@@ -1632,6 +1633,7 @@
 ||qj.ituanhui.com^
 ||qjxys.cn^
 ||qktmwiq.cn^
+||qmfcybwbf19.com^
 ||qnfvojfkw.xyz^
 ||qnieo.fun^
 ||qnipkk.xyz^
@@ -1715,6 +1717,7 @@
 ||rtsdfw44.com^
 ||ruanjiancms.com^
 ||rui61.cn^
+||rulwph.xyz^
 ||run-syndicate.com^
 ||runative-syndicate.com^
 ||runn.fun^
@@ -1756,6 +1759,7 @@
 ||sd.yhzzzs*.com^
 ||sd6hon.cn^
 ||sdhjueue.com^
+||sdhuawen.cn^
 ||sdk.sipujia.cn^
 ||sdkapp.mobile.sina.cn^
 ||sdkapp.uve.weibo.com^
@@ -1911,6 +1915,7 @@
 ||taoyao.tech^
 ||tb.pagetest.top^
 ||tbsone.imtt.qq.com^
+||tc.vpubmi.com^
 ||tc6tc.com^
 ||tcbox.baidu.com^
 ||tchkcc.cn^
@@ -1930,6 +1935,7 @@
 ||tfutcmail.com^
 ||tfzozf.xyz^
 ||tg.loclog.cn^
+||tg.xkcxh.com^
 ||tgcfmh.com^
 ||tgfyq.cn^
 ||tgymhwt.cn^
@@ -1966,6 +1972,7 @@
 ||tools.3g.qq.com^
 ||toutiao.xn--fiqs8s^
 ||tovppl.cn^
+||tpic.rzsgxmm.cn^
 ||tqmcj.cn^
 ||trace.qq.com^
 ||track.hujiang.com^
