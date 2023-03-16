@@ -9,14 +9,13 @@
 ||ng8f.top^
 ||rulwph.xyz^
 ||qmfcybwbf19.com^
-||tg.xkcxh.com^
-||tpic.rzsgxmm.cn^
-||tc.vpubmi.com^
+||xkcxh.com^
+||rzsgxmm.cn^
+||vpubmi.com^
 ||zcczrsaqw.xyz^
 ||uibjhqwkl.com^
 ||zcczrvsaqw.xyz^
 ||cc-316.cc^
-||xkcxh.com^
 ||blvhq.com^
 ||jiqgsh.com^
 ||8d7hhh8x.com^
@@ -29,8 +28,6 @@
 ||qscvli.com^
 ||tdigcw.com^
 ||wipew.com^
-||rzsgxmm.cn^
-||vpubmi.com^
 ||opjnbmk.com^
 ||opnkedfdye.xyz^
 ||knjcsonpo.com^
@@ -3213,6 +3210,5 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
-
 
 
