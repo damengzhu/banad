@@ -2715,6 +2715,9 @@ hm.js/
 ||qhimgs4.com/*.gif$domain=hdmoli.com
 *.lijie.*/*_*?$third-party
 /zsls.com?s=
+.xyz/hm.html?s=
+/new/81*.html
+/new/50*.html
 mobi*.*.cyou/*_*$third-party
 mobi*.*.cam/*_*$third-party
 mobi*.*.xyz/*_*$third-party
@@ -2985,6 +2988,9 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ###ad-header-mobile-contener
 ##DIV.box-width.ec-ad.ec-ad-double.flex
 ###downapp1
+##body > DIV[class][style='top: 132px;']
+##body > DIV[style*='height: 33px'][style*='132px !important;']
+##body > DIV[style='display: block; width: 100%; height: 132px;']
 ##[href^='https://www.qlspx.com:']
 ##[href^="https://9996867.com"]
 ##[href="/ad/007.html"]
