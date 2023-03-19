@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2524
-! Update Time:2023-03-19 18:44:01（北京时间） 
+! Total Count:2534
+! Update Time:2023-03-19 22:02:15（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -783,6 +783,7 @@
 ||gbsp002.com^
 ||gdfp.gifshow.com^
 ||gdls114.com^
+||gdoibwfvjqf.com^
 ||gdsoq.com^
 ||gdt.qq.com^
 ||gdtimg.com^
@@ -1222,6 +1223,7 @@
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
 ||ledaren.cn^
+||leirsw.com^
 ||lekkrrlel.com^
 ||lezbrja.cn^
 ||lflmdm.com^
@@ -1606,6 +1608,7 @@
 ||qasqs.com^
 ||qawxpzm.cn^
 ||qaxkwxpf.cn^
+||qbtd.xyz^
 ||qchannel03.cn^
 ||qcmm01.com^
 ||qcmm05.com^
@@ -1824,6 +1827,7 @@
 ||skfj5d.com^
 ||skfjd1.xyz^
 ||skfqxkk.cn^
+||skluff.com^
 ||skogsborg.net^
 ||skxuueby.cn^
 ||sky.tongjiai.com^
@@ -1985,10 +1989,12 @@
 ||trqhf.xyz^
 ||trslw.cn^
 ||trustedcpmrevenue.com^
+||tsck.online^
 ||tsearch.snssdk.com^
 ||tsyndicate.com^
 ||ttly888.com^
 ||ttpp.xsbooktxt.com^
+||ttvosc.com^
 ||ttzhongbao.com^
 ||tuisong.baidu.com^
 ||tumeite.cn^
@@ -2017,6 +2023,7 @@
 ||ud783c02.com^
 ||udiab1.jianshu.com^
 ||uebabuf.cn^
+||ufgg55.xyz^
 ||ug.snssdk.com^
 ||ugbjqwe.com^
 ||uhyhdrh.cn^
@@ -2462,6 +2469,7 @@
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
 ||zcck60qyw.xyz^
+||zccr2qe.live^
 ||zcczrsaqw.xyz^
 ||zcczrvsaqw.shop^
 ||zcczrvsaqw.world^
@@ -2469,6 +2477,8 @@
 ||zcczrvsaw.xyz^
 ||zcy821.com^
 ||zczcvx.com^
+||zdabnt.live^
+||zdama.xyz^
 ||zdfjas.top^
 ||zdx25.site^
 ||zdx30.site^

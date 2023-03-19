@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2524
-#Update Time: 2023-03-19 18:44:01（北京时间） 
+#Total Count:2534
+#Update Time: 2023-03-19 22:02:15（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -784,6 +784,7 @@
 0.0.0.0 gbsp002.com
 0.0.0.0 gdfp.gifshow.com
 0.0.0.0 gdls114.com
+0.0.0.0 gdoibwfvjqf.com
 0.0.0.0 gdsoq.com
 0.0.0.0 gdt.qq.com
 0.0.0.0 gdtimg.com
@@ -1223,6 +1224,7 @@
 0.0.0.0 lccfjszp.cn
 0.0.0.0 lcdn.runative-syndicate.com
 0.0.0.0 ledaren.cn
+0.0.0.0 leirsw.com
 0.0.0.0 lekkrrlel.com
 0.0.0.0 lezbrja.cn
 0.0.0.0 lflmdm.com
@@ -1607,6 +1609,7 @@
 0.0.0.0 qasqs.com
 0.0.0.0 qawxpzm.cn
 0.0.0.0 qaxkwxpf.cn
+0.0.0.0 qbtd.xyz
 0.0.0.0 qchannel03.cn
 0.0.0.0 qcmm01.com
 0.0.0.0 qcmm05.com
@@ -1825,6 +1828,7 @@
 0.0.0.0 skfj5d.com
 0.0.0.0 skfjd1.xyz
 0.0.0.0 skfqxkk.cn
+0.0.0.0 skluff.com
 0.0.0.0 skogsborg.net
 0.0.0.0 skxuueby.cn
 0.0.0.0 sky.tongjiai.com
@@ -1986,10 +1990,12 @@
 0.0.0.0 trqhf.xyz
 0.0.0.0 trslw.cn
 0.0.0.0 trustedcpmrevenue.com
+0.0.0.0 tsck.online
 0.0.0.0 tsearch.snssdk.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 ttly888.com
 0.0.0.0 ttpp.xsbooktxt.com
+0.0.0.0 ttvosc.com
 0.0.0.0 ttzhongbao.com
 0.0.0.0 tuisong.baidu.com
 0.0.0.0 tumeite.cn
@@ -2018,6 +2024,7 @@
 0.0.0.0 ud783c02.com
 0.0.0.0 udiab1.jianshu.com
 0.0.0.0 uebabuf.cn
+0.0.0.0 ufgg55.xyz
 0.0.0.0 ug.snssdk.com
 0.0.0.0 ugbjqwe.com
 0.0.0.0 uhyhdrh.cn
@@ -2463,6 +2470,7 @@
 0.0.0.0 zcchyr*.xyz
 0.0.0.0 zcchyw*.xyz
 0.0.0.0 zcck60qyw.xyz
+0.0.0.0 zccr2qe.live
 0.0.0.0 zcczrsaqw.xyz
 0.0.0.0 zcczrvsaqw.shop
 0.0.0.0 zcczrvsaqw.world
@@ -2470,6 +2478,8 @@
 0.0.0.0 zcczrvsaw.xyz
 0.0.0.0 zcy821.com
 0.0.0.0 zczcvx.com
+0.0.0.0 zdabnt.live
+0.0.0.0 zdama.xyz
 0.0.0.0 zdfjas.top
 0.0.0.0 zdx25.site
 0.0.0.0 zdx30.site
