@@ -2584,6 +2584,7 @@ xmh/200/200-*.gif
 /statics/js/hth1111.html
 ||asacdn.com/prod/redirect.html
 ||163487*.qmgmw.com^
+||img.bzzyx.cn/dipiao.js
 .com/ads.
 ||hhdmh.net/bd/36mh.js
 ||hhdmh.net/js/g1.js
