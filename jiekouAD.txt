@@ -2612,10 +2612,6 @@ chen-xing/figure_bed*
 .com/gg.js
 /api/ad/*
 .cyou/xling_*_*.js
-/j/142610
-/dist/common.js
-/js/basisc.js
-/js/detail.js
 /js/mts66.js
 .live/r/*/*_r=*
 .xyz/hm.js?$third-party
