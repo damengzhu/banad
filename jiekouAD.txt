@@ -5,6 +5,9 @@
 ! Total Count: 3212
 ! by: 酷安@大萌主
 ! Host
+||qhvws.com^
+||qjwpy.com^
+||itpest.cn^
 ||gdoibwfvjqf.com^
 ||skluff.com^
 ||leirsw.com^
@@ -2833,9 +2836,10 @@ tv.sohu.com##DIV.actv-banner.js-app-topbanner,DIV.banner_yunying,DIV.js-oper-pos
 hao123.com##DIV.popup
 yhdmp.net##[style^='bottom:'][style$='block;']
 mobile.baidu.com##SECTION.detail-banner.banner-ck
-18comic.vip##DIV.col-lg-3.col-md-3
-18comic.vip##DIV.bot-per-times
-18comic.vip##.bot-per-context
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##DIV.col-lg-3.col-md-3
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#DIV.bot-per-times
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
 www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
