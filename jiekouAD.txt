@@ -2840,6 +2840,7 @@ mobile.baidu.com##SECTION.detail-banner.banner-ck
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group#DIV.bot-per-times
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##.bot-per-context
+18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
 www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
