@@ -5,6 +5,10 @@
 ! Total Count: 3219
 ! by: 酷安@大萌主
 ! Host
+||oiknldwlkop.com^
+||zukddms.cn^
+||qdlzj.cn^
+||niebiaoyyds.com^
 ||qhvws.com^
 ||qjwpy.com^
 ||itpest.cn^
@@ -2749,13 +2753,17 @@ dingbu.*.*.*/*.add$third-party
 /js/pingbi.js
 /baidu/tg.js
 /baidu/189/999.php
+/new/21*.html
 /new/27*.html
+/new/55*.html
 /new/82*.html
 /new/83*.html
 /new/84*.html
 /new/85*.html
 /new/86*.html
-/new/55*.html
+/new/87*.html
+/new/88*.html
+/new/89*.html
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
 ||addthis.com/live/
