@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2541
-! Update Time:2023-03-23 19:15:15（北京时间） 
+! Total Count:2553
+! Update Time:2023-03-24 15:22:31（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -672,6 +672,7 @@
 ||egrent.cn^
 ||egsxdp.cn^
 ||ehk.trenhdg.com^
+||eignky.xyz^
 ||eiykmtb.cn^
 ||ejieban.com^
 ||eladies.zhmyq.cn^
@@ -901,6 +902,7 @@
 ||hijack.baidu.com^
 ||hikin.online^
 ||histats.com^
+||hjbqnwb.com^
 ||hkjs.shuake.ink^
 ||hladalliance.com^
 ||hlalliances.com^
@@ -1055,6 +1057,7 @@
 ||javase.top^
 ||jbazhaheia.top^
 ||jcde.site^
+||jched3.com^
 ||jcheys.com^
 ||jcpecb.com^
 ||jd2ujc.cn^
@@ -1500,6 +1503,7 @@
 ||okforwardt.fun^
 ||okmwfq.xyz^
 ||okpoiione.com^
+||okqwidvnsk.net^
 ||oldulgk.cn^
 ||olpv.onlylady.com^
 ||omgid.qq.com^
@@ -1620,6 +1624,7 @@
 ||qdlzj.cn^
 ||qdp.qidian.com^
 ||qdvideo.xyz^
+||qdwnlkdw.com^
 ||qdzilh.cn^
 ||qexitv.com^
 ||qf1d.top^
@@ -1642,6 +1647,7 @@
 ||qjwpy.com^
 ||qjxys.cn^
 ||qktmwiq.cn^
+||qmfcybwbf12.com^
 ||qmfcybwbf19.com^
 ||qnfvojfkw.xyz^
 ||qnieo.fun^
@@ -2348,6 +2354,7 @@
 ||xsjh001.xyz^
 ||xsxmvb.xyz^
 ||xuanyaosp.com^
+||xwbspx.xyz^
 ||xww360.com^
 ||xxba.cc^
 ||xxczdfb.cn^
@@ -2483,9 +2490,12 @@
 ||zcczrvsaw.xyz^
 ||zcy821.com^
 ||zczcvx.com^
+||zdabnt.buzz^
 ||zdabnt.live^
 ||zdama.xyz^
+||zdamybi.xyz^
 ||zdfjas.top^
+||zdfl.xyz^
 ||zdx25.site^
 ||zdx30.site^
 ||zdznsqb.com^

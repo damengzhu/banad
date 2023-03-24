@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2541
-#Update Time: 2023-03-23 19:15:15（北京时间） 
+#Total Count:2553
+#Update Time: 2023-03-24 15:22:31（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -673,6 +673,7 @@
 0.0.0.0 egrent.cn
 0.0.0.0 egsxdp.cn
 0.0.0.0 ehk.trenhdg.com
+0.0.0.0 eignky.xyz
 0.0.0.0 eiykmtb.cn
 0.0.0.0 ejieban.com
 0.0.0.0 eladies.zhmyq.cn
@@ -902,6 +903,7 @@
 0.0.0.0 hijack.baidu.com
 0.0.0.0 hikin.online
 0.0.0.0 histats.com
+0.0.0.0 hjbqnwb.com
 0.0.0.0 hkjs.shuake.ink
 0.0.0.0 hladalliance.com
 0.0.0.0 hlalliances.com
@@ -1056,6 +1058,7 @@
 0.0.0.0 javase.top
 0.0.0.0 jbazhaheia.top
 0.0.0.0 jcde.site
+0.0.0.0 jched3.com
 0.0.0.0 jcheys.com
 0.0.0.0 jcpecb.com
 0.0.0.0 jd2ujc.cn
@@ -1501,6 +1504,7 @@
 0.0.0.0 okforwardt.fun
 0.0.0.0 okmwfq.xyz
 0.0.0.0 okpoiione.com
+0.0.0.0 okqwidvnsk.net
 0.0.0.0 oldulgk.cn
 0.0.0.0 olpv.onlylady.com
 0.0.0.0 omgid.qq.com
@@ -1621,6 +1625,7 @@
 0.0.0.0 qdlzj.cn
 0.0.0.0 qdp.qidian.com
 0.0.0.0 qdvideo.xyz
+0.0.0.0 qdwnlkdw.com
 0.0.0.0 qdzilh.cn
 0.0.0.0 qexitv.com
 0.0.0.0 qf1d.top
@@ -1643,6 +1648,7 @@
 0.0.0.0 qjwpy.com
 0.0.0.0 qjxys.cn
 0.0.0.0 qktmwiq.cn
+0.0.0.0 qmfcybwbf12.com
 0.0.0.0 qmfcybwbf19.com
 0.0.0.0 qnfvojfkw.xyz
 0.0.0.0 qnieo.fun
@@ -2349,6 +2355,7 @@
 0.0.0.0 xsjh001.xyz
 0.0.0.0 xsxmvb.xyz
 0.0.0.0 xuanyaosp.com
+0.0.0.0 xwbspx.xyz
 0.0.0.0 xww360.com
 0.0.0.0 xxba.cc
 0.0.0.0 xxczdfb.cn
@@ -2484,9 +2491,12 @@
 0.0.0.0 zcczrvsaw.xyz
 0.0.0.0 zcy821.com
 0.0.0.0 zczcvx.com
+0.0.0.0 zdabnt.buzz
 0.0.0.0 zdabnt.live
 0.0.0.0 zdama.xyz
+0.0.0.0 zdamybi.xyz
 0.0.0.0 zdfjas.top
+0.0.0.0 zdfl.xyz
 0.0.0.0 zdx25.site
 0.0.0.0 zdx30.site
 0.0.0.0 zdznsqb.com
