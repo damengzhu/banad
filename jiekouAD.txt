@@ -2566,6 +2566,7 @@
 ||stat.meitudata.com^
 ! URL
 @@||manwa.me^
+@@||cdn-msp.18comic.org^
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@||qhres2.com^$domain=baike.so.com
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
