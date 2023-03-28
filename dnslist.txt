@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2466
-! Update Time:2023-03-28 22:52:45（北京时间） 
+! Total Count:2472
+! Update Time:2023-03-28 23:04:37（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -125,6 +125,7 @@
 ||61hhdp.com^
 ||670t5x.cn^
 ||68710266.com^
+||69e7.fun^
 ||6gukaitu.xyz^
 ||6hejing.cn^
 ||6mh8.com^
@@ -464,6 +465,7 @@
 ||clldirectasianew.club^
 ||cloud-log.yy.com^
 ||cloudasbook.com^
+||clugqa.com^
 ||clw99.mobi^
 ||cmbkgmx.cn^
 ||cmgjqqu.cn^
@@ -1120,6 +1122,7 @@
 ||khgjfm16.com^
 ||kinhincauking.website^
 ||kinleung.cn^
+||kissfang.cn^
 ||kivo.fun^
 ||kjanfwss.xyz^
 ||kjggk1.xyz^
@@ -1169,6 +1172,7 @@
 ||kyxw9itv.club^
 ||kyzx.xyZ^
 ||kz.zf678.com^
+||kzgmpu.com^
 ||l.glrcy.cn^
 ||l.ksxcxb.cn^
 ||l.ykimg.com^
@@ -2024,6 +2028,7 @@
 ||vieldeold.xyz^
 ||viplp.top^
 ||vipwm.cc^
+||vkjqbb.xyz^
 ||vlets.kydb.xyz^
 ||vm.aty.sohu.com^
 ||vnfjsus.xyz^
@@ -2138,6 +2143,7 @@
 ||www.ilaohuyou.xyz^
 ||www.jacklm1.com^
 ||www.jacklm3.com^
+||www.jianpian.vip^
 ||www.jipinyouwu.com^
 ||www.jmine.cn^
 ||www.kanglingjiu.com^

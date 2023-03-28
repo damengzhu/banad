@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2466
-#Update Time: 2023-03-28 22:52:45（北京时间） 
+#Total Count:2472
+#Update Time: 2023-03-28 23:04:37（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -126,6 +126,7 @@
 0.0.0.0 61hhdp.com
 0.0.0.0 670t5x.cn
 0.0.0.0 68710266.com
+0.0.0.0 69e7.fun
 0.0.0.0 6gukaitu.xyz
 0.0.0.0 6hejing.cn
 0.0.0.0 6mh8.com
@@ -465,6 +466,7 @@
 0.0.0.0 clldirectasianew.club
 0.0.0.0 cloud-log.yy.com
 0.0.0.0 cloudasbook.com
+0.0.0.0 clugqa.com
 0.0.0.0 clw99.mobi
 0.0.0.0 cmbkgmx.cn
 0.0.0.0 cmgjqqu.cn
@@ -1121,6 +1123,7 @@
 0.0.0.0 khgjfm16.com
 0.0.0.0 kinhincauking.website
 0.0.0.0 kinleung.cn
+0.0.0.0 kissfang.cn
 0.0.0.0 kivo.fun
 0.0.0.0 kjanfwss.xyz
 0.0.0.0 kjggk1.xyz
@@ -1170,6 +1173,7 @@
 0.0.0.0 kyxw9itv.club
 0.0.0.0 kyzx.xyZ
 0.0.0.0 kz.zf678.com
+0.0.0.0 kzgmpu.com
 0.0.0.0 l.glrcy.cn
 0.0.0.0 l.ksxcxb.cn
 0.0.0.0 l.ykimg.com
@@ -2025,6 +2029,7 @@
 0.0.0.0 vieldeold.xyz
 0.0.0.0 viplp.top
 0.0.0.0 vipwm.cc
+0.0.0.0 vkjqbb.xyz
 0.0.0.0 vlets.kydb.xyz
 0.0.0.0 vm.aty.sohu.com
 0.0.0.0 vnfjsus.xyz
@@ -2139,6 +2144,7 @@
 0.0.0.0 www.ilaohuyou.xyz
 0.0.0.0 www.jacklm1.com
 0.0.0.0 www.jacklm3.com
+0.0.0.0 www.jianpian.vip
 0.0.0.0 www.jipinyouwu.com
 0.0.0.0 www.jmine.cn
 0.0.0.0 www.kanglingjiu.com
