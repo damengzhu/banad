@@ -1926,7 +1926,6 @@
 ||ad.sitemaji.com^
 ||ads.yap.yahoo.com^
 ||v2.dakang-energy.com^
-||css122us.cdnmanhua.net^
 ||pix.us.criteo.net^
 ||pr-bh.ybp.yahoo.com^
 ||cat.da.us.criteo.com^
