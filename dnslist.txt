@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2557
-! Update Time:2023-03-28 17:45:14（北京时间） 
+! Total Count:2466
+! Update Time:2023-03-28 17:53:45（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -61,7 +61,6 @@
 ||1205qitiao2022.xyz^
 ||120askimages.com^
 ||1224.zg-babyroo.com^
-||1244.chushoushijian.cn^
 ||12551-1311572332.cos.ap-shanghai.myqcloud.com^
 ||13hangpifa.com^
 ||163487*.qmgmw.com^
@@ -82,14 +81,12 @@
 ||2431.vainews.cn^
 ||24klm.cn^
 ||24klm.net^
-||26gg.bnq86.com^
 ||2725.dlads.cn^
 ||2785.chushoushijian.cn^
 ||2785.dlads.cn^
 ||2g9x9uf.cn^
 ||2pogg4c.cn^
 ||32.huanqiu.com^
-||3244.chushoushijian.cn^
 ||3269x.com^
 ||3316.dlads.cn^
 ||35kn0fn.1kanz.cn^
@@ -101,7 +98,6 @@
 ||40fenzhong.com^
 ||4199tv.com^
 ||42yenxh.cn^
-||449.anquanzhuomian.com^
 ||44r9fl.xyz^
 ||4d0m.cn^
 ||4dyt.cn^
@@ -121,7 +117,6 @@
 ||54askjdklm.xyz^
 ||55555555555.xyz^
 ||55zzz.cn^
-||56.phlckj.cn^
 ||56fba.cn^
 ||56yk.com^
 ||59gt.cn^
@@ -270,7 +265,6 @@
 ||amdc.m.taobao.com^
 ||amvecurt.cn^
 ||amxwqv.com^
-||an5.uyueread.com^
 ||analy.tuniu.cn^
 ||analyse.weather.com.cn^
 ||analytics.163.com^
@@ -293,7 +287,6 @@
 ||api.1101yh.com^
 ||api.36dfsa.com^
 ||api.ad.xiaomi.com^
-||api.callget.cn^
 ||api.cxzudwk.com^
 ||api.faba.pw^
 ||api.installer.xiaomi.com^
@@ -332,7 +325,6 @@
 ||aynanjianyy.com^
 ||b-gtc.getui.net^
 ||b.1th.app^
-||b.mlre.com.cn^
 ||b0rbgroup.xyz^
 ||b1.51yangsheng.com^
 ||b2.51yangsheng.com^
@@ -348,11 +340,8 @@
 ||bcbo.cc^
 ||bcfeat2.com^
 ||bcglkfu.cn^
-||bd1.zuimeitianqi.com^
-||bd2.zuimeitianqi.com^
 ||bddwm.com^
 ||bdhcpll.cn^
-||bdq.yikan2019.com^
 ||bea-s.dinghuoche.com^
 ||beacon-api.aliyuncs.com^
 ||beacon.qq.com^
@@ -402,11 +391,9 @@
 ||bwdhuanbao.com^
 ||bxwccii.cn^
 ||c-gtc.getui.net^
-||c.acgshenshicha.cn^
 ||c.bdhcpll.cn^
 ||c.l.qq.com^
 ||c.leankun.com^
-||c.v4dwkcv.com^
 ||cad.youku.com^
 ||caimei.me^
 ||caimlkh.com^
@@ -417,12 +404,10 @@
 ||carbonads.com^
 ||carstat.bitauto.com^
 ||cat.da.us.criteo.com^
-||cav.cavuc.com^
 ||cbgyhe.cn^
 ||cbh365.club^
 ||cbjs.baidu.com^
 ||cc-316.cc^
-||cc1.juxilm.com^
 ||cchvc.net^
 ||cdn.7nsc.cn^
 ||cdn.9823df.com^
@@ -433,7 +418,6 @@
 ||cdn.holmesmind.com^
 ||cdn.itphanpytor.club^
 ||cdn.jquery-cdn.cc^
-||cdn.pg88cdn.com^
 ||cdn.vue-js.cyou^
 ||cdn.weiye.net^
 ||cdn.wuxiqiangheng.com^
@@ -446,7 +430,6 @@
 ||cdnlog.zhenai.com^
 ||cdns.mbxt.net^
 ||cdrhjt.com^
-||cdum.vq7736.com^
 ||ceh.cehbh.com^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||cfepws.com^
@@ -475,7 +458,6 @@
 ||chykohija.pro^
 ||city.youpukeji.cn^
 ||ckerw.xyz^
-||ckl.unetall.com^
 ||click.abi.run^
 ||click.tianyaui.com^
 ||click.ynxjf.com^
@@ -528,9 +510,7 @@
 ||ctivity.tuigorilla.com^
 ||ctobsnssdk.com^
 ||ctsau.xyz^
-||cv.guominziben.com^
 ||cvsheil.com^
-||cw.guominziben.com^
 ||cw9twua9.shop^
 ||cw9twuas.xyz^
 ||cwc494e.cn^
@@ -538,9 +518,7 @@
 ||cxs.mibaoge.com^
 ||cyhbrjf.cn^
 ||cypcb.net^
-||d.goodtj.xyz^
 ||d.toutiao.com^
-||d.ziyuanm.com^
 ||d13gni3sfor862.cloudfront.net^
 ||d1esebcdm6wx7j.cloudfront.net^
 ||d1f05vr3sjsuy7.cloudfront.net^
@@ -565,7 +543,6 @@
 ||dataflow.biliapi.com^
 ||db11yy.com^
 ||dbkdwe1.com^
-||dcsd.cnnywz.cn^
 ||ddbuwo.cn^
 ||dedcrfvdj.xyz^
 ||deeterno.cn^
@@ -630,7 +607,6 @@
 ||drebz4f.shop^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||drfvtgbyk.xyz^
-||dsa.iigs9.com^
 ||dslenggui.com^
 ||dsqzk.cn^
 ||dt243100.com^
@@ -652,7 +628,6 @@
 ||dycwt.cn^
 ||dykeep.com^
 ||e.kuaishou.com^
-||e.qbj8.com^
 ||e.qq.com^
 ||e49.xyz^
 ||eabids.com^
@@ -674,7 +649,6 @@
 ||eignky.xyz^
 ||eiykmtb.cn^
 ||ejieban.com^
-||eladies.zhmyq.cn^
 ||elegant-creator.com^
 ||elopatchwork.com^
 ||elsmom.xyz^
@@ -687,7 +661,6 @@
 ||entsnotesq.fun^
 ||eo.chaungpin.top^
 ||eo.dongdm.cn^
-||eo.huitiankuaiji.com^
 ||eo.jinzpeng.cn^
 ||eoyqzzk.cn^
 ||epaes.com.cn^
@@ -771,7 +744,6 @@
 ||g.rain8.com^
 ||g.yccdn.com^
 ||g.youshishop.com^
-||g1.tagtic.cn^
 ||g1kb9u.xyz^
 ||gaiqgs.xyz^
 ||galopelikeantelope.com^
@@ -896,7 +868,6 @@
 ||hgpbhuj.cn^
 ||hh0212.cc^
 ||hh9uv6tq.com^
-||hhff.xsbooktxt.com^
 ||hhttm.top^
 ||hickeyhsu.top^
 ||hijack.baidu.com^
@@ -959,7 +930,6 @@
 ||hylmfeifei.com^
 ||hylmxing.com^
 ||hytzp.cn^
-||hzdaye.m.zwdu.com^
 ||hzhuang.wang^
 ||i-fk.cn^
 ||i.cidianwang.com^
@@ -1001,7 +971,6 @@
 ||img.ckcgsy.cn^
 ||img.dubyc.com^
 ||img.eqbyc.com^
-||img.gxhxmy88.com^
 ||img.ishanggao.com^
 ||img.starpc.cn^
 ||img.vue-js.cyou^
@@ -1016,11 +985,9 @@
 ||intimidatepropel.com^
 ||ionksfefe.xyz^
 ||iosppk.com^
-||ip.ta.wangkx.xyz^
 ||ip.tianqiapi.com^
 ||ip.ws.126.net^
 ||ipc08dt.com^
-||iphone.bjsxljs.com^
 ||ipm.atm.youku.com^
 ||ipqc5ejfe.icu^
 ||isdfbvkvsc.xyz^
@@ -1040,14 +1007,11 @@
 ||ixnrmco.com^
 ||iyes.youku.com^
 ||iytrn.xyz^
-||j.aishangdaike.com^
 ||j.dailiqing.net^
 ||j.guanjiabo.net^
 ||j.guotaotaoci.net^
 ||j.jixiangniutanrou.net^
-||j.sdqoi2d.com^
 ||j.zlszw.com^
-||j.zykxjt.com^
 ||j6zh4g0.cn^
 ||ja.yushuha.com^
 ||jacksonyee.club^
@@ -1103,9 +1067,6 @@
 ||js.loveshop8.com^
 ||js.moeamv.com^
 ||js.mosflower.cn^
-||js.njcn888.com^
-||js.penxiangge.com^
-||js.qajypx.com^
 ||js.whfyhouse.com^
 ||js.xz6d.com^
 ||js.ysfzf.cn^
@@ -1130,12 +1091,9 @@
 ||jyhlo0.com^
 ||jytjw.com^
 ||jzjxmj.com^
-||k.innvitor.com^
 ||k.jinxiuzhilv.com^
-||k.metro114.com^
 ||k.mindopu.com^
 ||k.toospk.com^
-||k.wudejia.com^
 ||k16e9b.com^
 ||k2.dancihu.com^
 ||k31bpzf.xyz^
@@ -1151,12 +1109,10 @@
 ||kbae.qiqqh.cn^
 ||kbneks00.online^
 ||kc-valves.com^
-||kc.mindopu.com^
 ||kdcl.pchome.com.tw^
 ||kdcxhr.cn^
 ||kdqnaec.cn^
 ||kebi1.top^
-||kelvy.iomsew.com^
 ||ken.kenxq.com^
 ||kengi.top^
 ||kfejnjs.cn^
@@ -1214,7 +1170,6 @@
 ||kyzx.xyZ^
 ||kz.zf678.com^
 ||l.glrcy.cn^
-||l.kscmt.cn^
 ||l.ksxcxb.cn^
 ||l.ykimg.com^
 ||laawmmy.cn^
@@ -1299,7 +1254,6 @@
 ||luoyangjinmeii.com^
 ||lvcha99.cc^
 ||lwlqsgr.cn^
-||lwz.ffhre.com^
 ||lxg8s.xyz^
 ||lxksalary.com^
 ||lyewe.xyz^
@@ -1313,22 +1267,18 @@
 ||m.56fba.cn^
 ||m.abc88866.com^
 ||m.atm.youku.com^
-||m.bonawuzi.xyz^
 ||m.chinachooses.com^
 ||m.do.downcdn.top^
 ||m.ffowo.com^
 ||m.gz-bz.cn^
 ||m.nereus.live^
 ||m.pmtong.shop^
-||m.robot61.cn^
 ||m.s.tpcdn.top^
 ||m.slshiye.cn^
-||m.u4q2.cn^
 ||m.uscdn.top^
 ||m.vcsoat.cn^
 ||m.wantemachine.com.cn^
 ||m.xylmdm.top^
-||m.zzcm5.com^
 ||m09mm.xyz^
 ||m3.myyj.net^
 ||mail.kguapp.com^
@@ -1465,15 +1415,12 @@
 ||npftmqv.cn^
 ||nphqw.cn^
 ||nrjzkj.cn^
-||ns1.chinayms.com^
-||ns2.chinayms.com^
 ||nsclick.baidu.com^
 ||nuannuanqi.top^
 ||nudpqt.com^
 ||nuheoub.cn^
 ||nutaku.net^
 ||nxxyjn.com^
-||o.alimb.top^
 ||o.zjjrlx4.com^
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
@@ -1530,7 +1477,6 @@
 ||owlfolk.com^
 ||oxj8hcfg.xyz^
 ||oyhurln.cn^
-||p.yingxiao678.com^
 ||p0y.cn^
 ||p1-feedback.byteimg.com^
 ||p26.gejulm*.com^
@@ -1564,7 +1510,6 @@
 ||pix.us.criteo.net^
 ||pjogndc8ixoidna.360doc.cn^
 ||pkjl00l.cn^
-||platform.bidgear.com^
 ||playstats.v.duowan.com^
 ||pmensrl.cn^
 ||pmvlwjy.cn^
@@ -1581,7 +1526,6 @@
 ||poqjnkdsou.net^
 ||poqwua.cn^
 ||pos.baidu.com^
-||position.dftoutiao.com^
 ||postserviceuk.com^
 ||poweredby.jads.co^
 ||ppedp.cn^
@@ -1687,7 +1631,6 @@
 ||qzpmx.cn^
 ||qzqd2.com^
 ||r.alimc1.top^
-||r.zaitouwang.com^
 ||r36ku.site^
 ||r6pt6kfz.com^
 ||rapsmnz.cyou^
@@ -1706,7 +1649,6 @@
 ||restorationbowelsunflower.com^
 ||rf.cnlongshou.com^
 ||rfnhwaj.cn^
-||rg.nukebomb.cn^
 ||rgvqddo.com^
 ||rhinogo.cn^
 ||rhlxm.top^
@@ -1747,7 +1689,6 @@
 ||rzsgxmm.cn^
 ||s.btime.com^
 ||s.fengmishop.cn^
-||s.goodkee.cn^
 ||s.ufile.cc^
 ||s.union.360.cn^
 ||s1.ssl.qhres.com^
@@ -1789,12 +1730,8 @@
 ||selornews.com^
 ||senxiaopang.top^
 ||seordl.cn^
-||ser.uadrc.com^
-||server.zymkcdn.com^
-||servicer.mgid.com^
 ||sf*-fe-tos.pglstatp-toutiao.com^
 ||sfbixfd.cn^
-||sfk.t58b.com^
 ||sfp.safe.baidu.com^
 ||sglyd.cn^
 ||sh-qiruizx.com^
@@ -1816,7 +1753,6 @@
 ||shop.yipanhaocai.com^
 ||shouzhi.biz^
 ||show.aklm.cc^
-||show.jiuhui899.com^
 ||show.meituangov.cn^
 ||show.pinyoux.com^
 ||show.worldcrm.cn^
@@ -1864,7 +1800,6 @@
 ||sportsdream.top^
 ||srbzw.cn^
 ||srmdz.vip^
-||ssh.dkjdnq.cn^
 ||ssh.q4hwkg.cn^
 ||ssjiancai.com^
 ||ssjy.shop^
@@ -1908,7 +1843,6 @@
 ||sun66387567606.site^
 ||sunriseoutdoor.cn^
 ||svdpgmt.cn^
-||svip.wxiansen.cn^
 ||svvbrkk.cn^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||sxguowei.com^
@@ -1931,7 +1865,6 @@
 ||taiqingjiu.com^
 ||tangk.top^
 ||taoyao.tech^
-||tb.pagetest.top^
 ||tbsone.imtt.qq.com^
 ||tc6tc.com^
 ||tcbox.baidu.com^
@@ -1946,7 +1879,6 @@
 ||tepusi888.cn^
 ||test.fangzhixinxi.cn^
 ||tetiao9.com^
-||tf.mangqu.cn^
 ||tfbulkidn.com^
 ||tfsuggestion.live^
 ||tfutcmail.com^
@@ -1973,7 +1905,6 @@
 ||tjj.com^
 ||tjnwfjy.cn^
 ||tjqwb.cn^
-||tkl.meizhebao.cn^
 ||tlsgq.cn^
 ||tnc*.zijieapi.com^
 ||tnc3-aliec2.snssdk.com^
@@ -2008,7 +1939,6 @@
 ||tsearch.snssdk.com^
 ||tsyndicate.com^
 ||ttly888.com^
-||ttpp.xsbooktxt.com^
 ||ttvosc.com^
 ||ttzhongbao.com^
 ||tuisong.baidu.com^
@@ -2026,7 +1956,6 @@
 ||tydouke.com^
 ||tymh2022.xyz^
 ||tyutuyoo.top^
-||tz.yuanmengbi.com^
 ||tzcfyre.cn^
 ||tzlit.cn^
 ||u.guannin.com^
@@ -2075,11 +2004,9 @@
 ||uxbd4id.xyz^
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
-||v.acgshenshicha.cn^
 ||v.greenere.cn^
 ||v00yvd.xyz^
 ||v2.dakang-energy.com^
-||v2.thefatherofsalmon.com^
 ||v2.uyan.cc^
 ||v4dwkcv.com^
 ||v6jt.cn^
@@ -2097,13 +2024,11 @@
 ||vieldeold.xyz^
 ||viplp.top^
 ||vipwm.cc^
-||vivovip.mmszxc.top^
 ||vlets.kydb.xyz^
 ||vm.aty.sohu.com^
 ||vnfjsus.xyz^
 ||vnvmif.cn^
 ||vokmhydy.xyz^
-||vole.3hbox.com^
 ||vpubmi.com^
 ||vstat.v.blog.sohu.com^
 ||vuhidf.cn^
@@ -2120,8 +2045,6 @@
 ||wasaidailian.com^
 ||wbesryx.cn^
 ||wcehko.juankh.com^
-||wcf.kxewpz.com^
-||wdfhbx.zdpeanut.com^
 ||wdpkx.cn^
 ||wdswgjn.cn^
 ||wdzwd.xyz^
@@ -2164,7 +2087,6 @@
 ||wtiaw.top^
 ||wuliao.jingyanben.com^
 ||wuplexv.cn^
-||wvvw.harahero.top^
 ||wwads.cn^
 ||wwggnaw.xyz^
 ||wwkh9ku.xyz^
@@ -2180,7 +2102,6 @@
 ||www.abovede6.com^
 ||www.ad5lm.net^
 ||www.afmykaa.com^
-||www.aliyoo999.com^
 ||www.antailianmeng.com^
 ||www.baidumanager.club^
 ||www.bibilm.com^
@@ -2216,14 +2137,11 @@
 ||www.ibgdd67.top^
 ||www.ilaohuyou.xyz^
 ||www.jacklm1.com^
-||www.jacklm2.com^
 ||www.jacklm3.com^
-||www.jianpian.vip^
 ||www.jipinyouwu.com^
 ||www.jmine.cn^
 ||www.kanglingjiu.com^
 ||www.kcc4445.top^
-||www.kldsam.com^
 ||www.kowqd3.top^
 ||www.kowqd9.top^
 ||www.kukulm.com^
@@ -2237,7 +2155,6 @@
 ||www.mitao17.com^
 ||www.moneyziyouwm.com^
 ||www.mqhzdl.com^
-||www.okqjdn.com^
 ||www.ostlon.com^
 ||www.pcuois.com^
 ||www.pksanb.com^
@@ -2299,7 +2216,6 @@
 ||x8kwcr3l.xyz^
 ||xahycw.com^
 ||xazbts.com^
-||xc.ejboayh.cn^
 ||xc.hubeijieshikj.cn^
 ||xcisleoa.cn^
 ||xcmz999.com^
@@ -2373,7 +2289,6 @@
 ||y0764.cn^
 ||y0tf2wp.online^
 ||y74s.xyz^
-||y7r.930cn.top^
 ||yahekby.cn^
 ||yangjie.asia^
 ||yangliu.ink^
@@ -2383,7 +2298,6 @@
 ||yaqurc.com^
 ||ycc90.xyz^
 ||ycdywl.com^
-||yd.game4343.com^
 ||yd.gxdianhua.com^
 ||yd.linjuyihao.com^
 ||ydgsvls.cn^
@@ -2393,7 +2307,6 @@
 ||yenyshy.com^
 ||yes-24-go.cc^
 ||ygwdai.cn^
-||yh.jialingmm.net^
 ||yh.zg-zxzx.net^
 ||yhbsk.cn^
 ||yhjccj.cn^
@@ -2451,7 +2364,6 @@
 ||ywsywh.cn^
 ||ywtd.xyz^
 ||yxhjt.com^
-||yy.xinqiannv.com^
 ||yy4480qpgyy.com^
 ||yylady.cn^
 ||yynncbn.cn^
@@ -2462,7 +2374,6 @@
 ||yzc35326.top^
 ||yznwyng.cn^
 ||z-xiao.xyz^
-||z.njcn888.com^
 ||z2.fakutownee.cn^
 ||zabdybod*.club^
 ||zahrvfbd*.xyz^
@@ -2507,7 +2418,6 @@
 ||zgfshoes.com^
 ||zgm1.com^
 ||zgystsd.com^
-||zgzxs.weathercn.com^
 ||zhangchi.work^
 ||zhangfeiyijuepifa.com^
 ||zhangjiaqi.top^
@@ -2552,7 +2462,6 @@
 ||zyrwfd.xyz^
 ||zyzlpt.com^
 ||zz.bdstatic.com^
-||zz.imiqian.com^
 ||zzdsjxsb.com^
 ||zzgxqlzh.com^
 ||zzpzero.com^
