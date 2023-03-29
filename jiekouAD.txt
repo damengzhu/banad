@@ -3118,6 +3118,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##A[href*='//v.wanfumei.net']
 ##IMG[src='/js/imgs/taote.jpg']
 ###imgad
+##INS.adsbygoogle
+##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
 ##IMG[src*='qmfcybwbf']
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
