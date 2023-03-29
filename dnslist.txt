@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2427
-! Update Time:2023-03-29 17:46:04（北京时间） 
+! Total Count:2440
+! Update Time:2023-03-29 18:19:54（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -443,6 +443,7 @@
 ||chinayms.com^
 ||chixingkeji.com^
 ||cholo101.cn^
+||cholo215.cn^
 ||cholor201015.cn^
 ||cholor201115.cn^
 ||chongyayakk.xyz^
@@ -503,6 +504,7 @@
 ||csyys0731.com^
 ||ctobsnssdk.com^
 ||ctsau.xyz^
+||cvftv2.com^
 ||cvsheil.com^
 ||cw9twua9.shop^
 ||cw9twuas.xyz^
@@ -524,6 +526,7 @@
 ||d8962a.xyz^
 ||dacedsfa.cn^
 ||dada.dadawm.cc^
+||dafuhouse.com^
 ||dahounian.top^
 ||dakawm.cc^
 ||daliantong.com.cn^
@@ -688,6 +691,7 @@
 ||fclog.baidu.com^
 ||fcqztan.cn^
 ||fdgem.com^
+||fdhvczd.cn^
 ||fds-1230.cc^
 ||feed.baidu.com^
 ||ffgpol.com^
@@ -716,6 +720,7 @@
 ||forflygonom.com^
 ||forzubatr.com^
 ||fourier.taobao.com^
+||fourlaile.com^
 ||fqxkj.cn^
 ||free3dgame.xyz^
 ||freychang.fun^
@@ -753,6 +758,7 @@
 ||geoparker.net^
 ||gepush.com^
 ||geziyd.com^
+||gfrzzzx.cn^
 ||gfvip09at.com^
 ||ggdfrl.com^
 ||gjh9v.tianshilv.cn^
@@ -985,6 +991,7 @@
 ||ityangstudy.cn^
 ||iufjkdjmsm.xyz^
 ||iuuiugbjd.xyz^
+||iuwkmpol.net^
 ||ivqtrjt.cn^
 ||ivzfpwm.cn^
 ||iweiweb.com^
@@ -1139,6 +1146,7 @@
 ||kszxqq.com^
 ||ktdlsb.com^
 ||kuanxin.top^
+||kunzhang.name^
 ||kvsqa.xyz^
 ||kwdgudw.cn^
 ||kwo-0115.cc^
@@ -1150,6 +1158,7 @@
 ||l.glrcy.cn^
 ||l.ykimg.com^
 ||laawmmy.cn^
+||laipeitu.com^
 ||lakjdskls.zhdchb.com^
 ||lalaping.com^
 ||lanmeifeel.xyz^
@@ -1233,6 +1242,7 @@
 ||lxg8s.xyz^
 ||lxksalary.com^
 ||lyewe.xyz^
+||lygjgzc.com^
 ||lyszsz.cn^
 ||lyua.cn^
 ||lywdoo.cn^
@@ -1488,6 +1498,7 @@
 ||poereawer.top^
 ||pogwua.cn^
 ||poiqknfl.com^
+||pojihfnkbllg.net^
 ||pojkhufef.xyz^
 ||polkkqm.com^
 ||polkmerth.com^
@@ -2009,6 +2020,7 @@
 ||wdswgjn.cn^
 ||wdzwd.xyz^
 ||websitequan.com^
+||wefoidnknsl.net^
 ||wegowan.com^
 ||weifengtianxia.com^
 ||weixin.qq.huigun.top^
@@ -2353,6 +2365,7 @@
 ||zcchyr*.xyz^
 ||zcchyw*.xyz^
 ||zcck60qyw.xyz^
+||zcck60wqyw.xyz^
 ||zccr2qe.live^
 ||zcczrsaqw.xyz^
 ||zcczrvsaqw.shop^

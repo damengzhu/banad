@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2427
-#Update Time: 2023-03-29 17:46:04（北京时间） 
+#Total Count:2440
+#Update Time: 2023-03-29 18:19:54（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -444,6 +444,7 @@
 0.0.0.0 chinayms.com
 0.0.0.0 chixingkeji.com
 0.0.0.0 cholo101.cn
+0.0.0.0 cholo215.cn
 0.0.0.0 cholor201015.cn
 0.0.0.0 cholor201115.cn
 0.0.0.0 chongyayakk.xyz
@@ -504,6 +505,7 @@
 0.0.0.0 csyys0731.com
 0.0.0.0 ctobsnssdk.com
 0.0.0.0 ctsau.xyz
+0.0.0.0 cvftv2.com
 0.0.0.0 cvsheil.com
 0.0.0.0 cw9twua9.shop
 0.0.0.0 cw9twuas.xyz
@@ -525,6 +527,7 @@
 0.0.0.0 d8962a.xyz
 0.0.0.0 dacedsfa.cn
 0.0.0.0 dada.dadawm.cc
+0.0.0.0 dafuhouse.com
 0.0.0.0 dahounian.top
 0.0.0.0 dakawm.cc
 0.0.0.0 daliantong.com.cn
@@ -689,6 +692,7 @@
 0.0.0.0 fclog.baidu.com
 0.0.0.0 fcqztan.cn
 0.0.0.0 fdgem.com
+0.0.0.0 fdhvczd.cn
 0.0.0.0 fds-1230.cc
 0.0.0.0 feed.baidu.com
 0.0.0.0 ffgpol.com
@@ -717,6 +721,7 @@
 0.0.0.0 forflygonom.com
 0.0.0.0 forzubatr.com
 0.0.0.0 fourier.taobao.com
+0.0.0.0 fourlaile.com
 0.0.0.0 fqxkj.cn
 0.0.0.0 free3dgame.xyz
 0.0.0.0 freychang.fun
@@ -754,6 +759,7 @@
 0.0.0.0 geoparker.net
 0.0.0.0 gepush.com
 0.0.0.0 geziyd.com
+0.0.0.0 gfrzzzx.cn
 0.0.0.0 gfvip09at.com
 0.0.0.0 ggdfrl.com
 0.0.0.0 gjh9v.tianshilv.cn
@@ -986,6 +992,7 @@
 0.0.0.0 ityangstudy.cn
 0.0.0.0 iufjkdjmsm.xyz
 0.0.0.0 iuuiugbjd.xyz
+0.0.0.0 iuwkmpol.net
 0.0.0.0 ivqtrjt.cn
 0.0.0.0 ivzfpwm.cn
 0.0.0.0 iweiweb.com
@@ -1140,6 +1147,7 @@
 0.0.0.0 kszxqq.com
 0.0.0.0 ktdlsb.com
 0.0.0.0 kuanxin.top
+0.0.0.0 kunzhang.name
 0.0.0.0 kvsqa.xyz
 0.0.0.0 kwdgudw.cn
 0.0.0.0 kwo-0115.cc
@@ -1151,6 +1159,7 @@
 0.0.0.0 l.glrcy.cn
 0.0.0.0 l.ykimg.com
 0.0.0.0 laawmmy.cn
+0.0.0.0 laipeitu.com
 0.0.0.0 lakjdskls.zhdchb.com
 0.0.0.0 lalaping.com
 0.0.0.0 lanmeifeel.xyz
@@ -1234,6 +1243,7 @@
 0.0.0.0 lxg8s.xyz
 0.0.0.0 lxksalary.com
 0.0.0.0 lyewe.xyz
+0.0.0.0 lygjgzc.com
 0.0.0.0 lyszsz.cn
 0.0.0.0 lyua.cn
 0.0.0.0 lywdoo.cn
@@ -1489,6 +1499,7 @@
 0.0.0.0 poereawer.top
 0.0.0.0 pogwua.cn
 0.0.0.0 poiqknfl.com
+0.0.0.0 pojihfnkbllg.net
 0.0.0.0 pojkhufef.xyz
 0.0.0.0 polkkqm.com
 0.0.0.0 polkmerth.com
@@ -2010,6 +2021,7 @@
 0.0.0.0 wdswgjn.cn
 0.0.0.0 wdzwd.xyz
 0.0.0.0 websitequan.com
+0.0.0.0 wefoidnknsl.net
 0.0.0.0 wegowan.com
 0.0.0.0 weifengtianxia.com
 0.0.0.0 weixin.qq.huigun.top
@@ -2354,6 +2366,7 @@
 0.0.0.0 zcchyr*.xyz
 0.0.0.0 zcchyw*.xyz
 0.0.0.0 zcck60qyw.xyz
+0.0.0.0 zcck60wqyw.xyz
 0.0.0.0 zccr2qe.live
 0.0.0.0 zcczrsaqw.xyz
 0.0.0.0 zcczrvsaqw.shop
