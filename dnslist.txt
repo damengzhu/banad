@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2474
-! Update Time:2023-03-28 23:07:33（北京时间） 
+! Total Count:2427
+! Update Time:2023-03-29 17:46:04（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -76,7 +76,6 @@
 ||2022facaiabc9.xyz^
 ||208622.top^
 ||21qma3vs.com^
-||23.dlads.cn^
 ||23jgiy.com^
 ||2431.vainews.cn^
 ||24klm.cn^
@@ -88,7 +87,6 @@
 ||2pogg4c.cn^
 ||32.huanqiu.com^
 ||3269x.com^
-||3316.dlads.cn^
 ||35kn0fn.1kanz.cn^
 ||36htg.fun^
 ||387635.com^
@@ -169,7 +167,6 @@
 ||a-mo.net^
 ||a.breaktime.com.tw^
 ||a.exdynsrv.com^
-||a.exosrv.com^
 ||a.market.xiaomi.com^
 ||a.wzu.com^
 ||a0b22.com^
@@ -192,7 +189,6 @@
 ||acs4baichuan.m.taobao.com^
 ||acscdn.com^
 ||activity.hnhnmg.com^
-||activity.tuigorilla.com^
 ||ad-display.wikawika.xyz^
 ||ad-survey.com^
 ||ad.adondemand.com^
@@ -208,6 +204,7 @@
 ||adbeuch.cn^
 ||adbtwyxl96.fun^
 ||adcdn.holmesmind.com^
+||adcr77.com^
 ||addictedwonder.com^
 ||adhdsb.cn^
 ||aditibelen.com^
@@ -359,7 +356,6 @@
 ||bhaabom.cn^
 ||bhpprfk.cn^
 ||bhulgot.com^
-||bi.ui.doulaihai.top^
 ||bieqpf.cn^
 ||biexsite.net^
 ||bigcood.xyz^
@@ -427,7 +423,6 @@
 ||cdn.xianliao.me^
 ||cdn.yunliunet.com^
 ||cdn0.sxhjty.cn^
-||cdn0.weinin99.cn^
 ||cdn3.mancdn88.com^
 ||cdnlog.zhenai.com^
 ||cdns.mbxt.net^
@@ -438,8 +433,6 @@
 ||cfg.imtt.qq.com^
 ||cgigc.com.cn^
 ||cgmalight.com^
-||chanel.wohewodejxy.top^
-||chanel.wohewodejxz.top^
 ||changshuohr.net^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||cheh9k4t.com^
@@ -460,9 +453,7 @@
 ||chykohija.pro^
 ||city.youpukeji.cn^
 ||ckerw.xyz^
-||click.abi.run^
 ||click.tianyaui.com^
-||click.ynxjf.com^
 ||clldirectasianew.club^
 ||cloud-log.yy.com^
 ||cloudasbook.com^
@@ -510,7 +501,6 @@
 ||cslpf.cn^
 ||csygxdym.com^
 ||csyys0731.com^
-||ctivity.tuigorilla.com^
 ||ctobsnssdk.com^
 ||ctsau.xyz^
 ||cvsheil.com^
@@ -558,7 +548,6 @@
 ||dfkd.xyz^
 ||dfsvhv88.com^
 ||dfxwdc.com^
-||dg.sawadeca.com^
 ||dg186.cn^
 ||dgaxxjq.cn^
 ||dgfgflod.com^
@@ -580,7 +569,6 @@
 ||ditorialproce.biz^
 ||dj09j5u.cn^
 ||djv99sxoqpv11.cloudfront.net^
-||dk.zeronethree.xyz^
 ||dklwddl.cn^
 ||dl12349.net^
 ||dlads.cn^
@@ -685,7 +673,6 @@
 ||exevcl.cn^
 ||eybstar.com^
 ||ezu6rd5.houge.in^
-||f4.uaevivi.top^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f8ejqxp.cn^
@@ -767,7 +754,6 @@
 ||gepush.com^
 ||geziyd.com^
 ||gfvip09at.com^
-||gg.cnco.me^
 ||ggdfrl.com^
 ||gjh9v.tianshilv.cn^
 ||gknybkl.cn^
@@ -877,7 +863,6 @@
 ||hikin.online^
 ||histats.com^
 ||hjbqnwb.com^
-||hkjs.shuake.ink^
 ||hladalliance.com^
 ||hlalliances.com^
 ||hlzyb.cn^
@@ -944,7 +929,6 @@
 ||ibozys.cn^
 ||ibqkjbw.com^
 ||ibwqfpo.xyz^
-||ic.aliyune.xyz^
 ||idawziv.cn^
 ||idc9pk.com^
 ||idubwz.cn^
@@ -1001,7 +985,6 @@
 ||ityangstudy.cn^
 ||iufjkdjmsm.xyz^
 ||iuuiugbjd.xyz^
-||iv.aliyune.xyz^
 ||ivqtrjt.cn^
 ||ivzfpwm.cn^
 ||iweiweb.com^
@@ -1012,8 +995,6 @@
 ||iytrn.xyz^
 ||j.dailiqing.net^
 ||j.guanjiabo.net^
-||j.guotaotaoci.net^
-||j.jixiangniutanrou.net^
 ||j.zlszw.com^
 ||j6zh4g0.cn^
 ||ja.yushuha.com^
@@ -1064,14 +1045,11 @@
 ||js.*2023*.xyz^
 ||js.363lm.com^
 ||js.bbdsdy.com^
-||js.bluecarvin.xyz^
-||js.dilidd.com^
 ||js.keeyekey.xyz^
 ||js.loveshop8.com^
 ||js.moeamv.com^
 ||js.mosflower.cn^
 ||js.whfyhouse.com^
-||js.xz6d.com^
 ||js.ysfzf.cn^
 ||js6.efyt6.com^
 ||jsczde.cn^
@@ -1094,9 +1072,6 @@
 ||jyhlo0.com^
 ||jytjw.com^
 ||jzjxmj.com^
-||k.jinxiuzhilv.com^
-||k.mindopu.com^
-||k.toospk.com^
 ||k16e9b.com^
 ||k2.dancihu.com^
 ||k31bpzf.xyz^
@@ -1129,7 +1104,6 @@
 ||kjggk1.xyz^
 ||kjuwxmi.xyz^
 ||kkpgv2.xunlei.com^
-||kl.mieyisi.com^
 ||kl.yditweb.cn^
 ||kmbopoie.com^
 ||kmgfjc.cn^
@@ -1172,10 +1146,8 @@
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
 ||kyzx.xyZ^
-||kz.zf678.com^
 ||kzgmpu.com^
 ||l.glrcy.cn^
-||l.ksxcxb.cn^
 ||l.ykimg.com^
 ||laawmmy.cn^
 ||lakjdskls.zhdchb.com^
@@ -1254,7 +1226,6 @@
 ||lsj2.5aer.com^
 ||ltht.tech^
 ||luciochen.cn^
-||lulaoye.1111.grfx-blog.top^
 ||luogod.xyz^
 ||luoyangjinmeii.com^
 ||lvcha99.cc^
@@ -1262,7 +1233,6 @@
 ||lxg8s.xyz^
 ||lxksalary.com^
 ||lyewe.xyz^
-||lyra.iscrv.com^
 ||lyszsz.cn^
 ||lyua.cn^
 ||lywdoo.cn^
@@ -1270,7 +1240,6 @@
 ||lzljhs.com^
 ||lzzzjx.xyz^
 ||m.56fba.cn^
-||m.abc88866.com^
 ||m.atm.youku.com^
 ||m.chinachooses.com^
 ||m.do.downcdn.top^
@@ -1285,7 +1254,6 @@
 ||m.wantemachine.com.cn^
 ||m.xylmdm.top^
 ||m09mm.xyz^
-||m3.myyj.net^
 ||mail.kguapp.com^
 ||maljxp.cn^
 ||manage88.com^
@@ -1321,7 +1289,6 @@
 ||mgivkqk.cn^
 ||mhslbgk.cn^
 ||mi.gdt.qq.com^
-||mic.yun-pdm5000.cn^
 ||mikongdd.top^
 ||mingtians.top^
 ||misadw1.cn^
@@ -1377,7 +1344,6 @@
 ||mzxvib.com^
 ||mzya5718.xyz^
 ||mzybirdnest.com^
-||n.35kds.com^
 ||n5ta9.site^
 ||naemailom.fun^
 ||nawpush.com^
@@ -1432,7 +1398,6 @@
 ||oaftaijo.net^
 ||obertsiamw.fun^
 ||obgbok.com^
-||obx.tt3edd.com^
 ||oceanbot-steam.com^
 ||oehhq.xyz^
 ||oewtuho.cn^
@@ -1492,7 +1457,6 @@
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
 ||paradisemall.net^
-||parse.fzcjjx.com^
 ||payoneok.com^
 ||pdhhmf.cn^
 ||pdiabbi.cn^
@@ -1534,7 +1498,6 @@
 ||postserviceuk.com^
 ||poweredby.jads.co^
 ||ppedp.cn^
-||ppl.xunzhuo123.com^
 ||ppyibei.com^
 ||pqjprom.cn^
 ||pr-bh.ybp.yahoo.com^
@@ -1548,7 +1511,6 @@
 ||public.wlbaike.com^
 ||pufhzpt.cn^
 ||puqer.cn^
-||push.bearad.com^
 ||push.m.youku.com^
 ||pv.cheshi.com^
 ||pv.dakawm.cc^
@@ -1591,10 +1553,8 @@
 ||qifake.com^
 ||qifjksdqwd.xyz^
 ||qijpaih.cn^
-||qin.1111.fx-blog.top^
 ||qiudbjwhy.com^
 ||qiyeshangpu.net^
-||qj.ituanhui.com^
 ||qjwpy.com^
 ||qjxys.cn^
 ||qktmwiq.cn^
@@ -1635,7 +1595,6 @@
 ||qzos9ou.xyz^
 ||qzpmx.cn^
 ||qzqd2.com^
-||r.alimc1.top^
 ||r36ku.site^
 ||r6pt6kfz.com^
 ||rapsmnz.cyou^
@@ -1693,7 +1652,6 @@
 ||rzkptd.com^
 ||rzsgxmm.cn^
 ||s.btime.com^
-||s.fengmishop.cn^
 ||s.ufile.cc^
 ||s.union.360.cn^
 ||s1.ssl.qhres.com^
@@ -1801,14 +1759,12 @@
 ||somaliainc.com^
 ||somewhate.club^
 ||soulsoul.xyz^
-||spl.ztvx8.com^
 ||sportsdream.top^
 ||srbzw.cn^
 ||srmdz.vip^
 ||ssh.q4hwkg.cn^
 ||ssjiancai.com^
 ||ssjy.shop^
-||ssl.bbbr8.com^
 ||ssl.linyiccic.com^
 ||ssp.qq.com^
 ||ssqyuvavse.com^
@@ -1882,7 +1838,6 @@
 ||techspecndt.com^
 ||tencent.xn--io0a7i^
 ||tepusi888.cn^
-||test.fangzhixinxi.cn^
 ||tetiao9.com^
 ||tfbulkidn.com^
 ||tfsuggestion.live^
@@ -1906,7 +1861,6 @@
 ||tj.21ic.com^
 ||tj.allcdn.vip^
 ||tj.sosomp.com^
-||tj.tianwenhu.com^
 ||tjj.com^
 ||tjnwfjy.cn^
 ||tjqwb.cn^
@@ -2009,7 +1963,6 @@
 ||uxbd4id.xyz^
 ||uyf1u0x7.xyz^
 ||uyflu0x7.xyz^
-||v.greenere.cn^
 ||v00yvd.xyz^
 ||v2.dakang-energy.com^
 ||v2.uyan.cc^
@@ -2038,6 +1991,7 @@
 ||vpubmi.com^
 ||vstat.v.blog.sohu.com^
 ||vuhidf.cn^
+||vulrxr.xyz^
 ||vv.nettierbrakier.com^
 ||vvfht.fun^
 ||w.bnlg.fun^
@@ -2224,7 +2178,6 @@
 ||x8kwcr3l.xyz^
 ||xahycw.com^
 ||xazbts.com^
-||xc.hubeijieshikj.cn^
 ||xcisleoa.cn^
 ||xcmz999.com^
 ||xcwzq.xyz^
@@ -2232,8 +2185,6 @@
 ||xerhibx.cn^
 ||xfgctg.com^
 ||xflsj.com^
-||xg.binkens.cn^
-||xg.huataisangao.cn^
 ||xgzdys.com^
 ||xheqbc.cn^
 ||xhkvff.cn^
@@ -2248,7 +2199,6 @@
 ||xiaosunxin.cn^
 ||xiaoyange.cn^
 ||xiarikui08.com^
-||ximg.0c1q0l.cn^
 ||ximit8023.maijijo.com^
 ||xinbo-lora.cn^
 ||xinerdact.com^
@@ -2346,7 +2296,6 @@
 ||youku6.top^
 ||youp05.com^
 ||ypzps.com^
-||yqee.htsrvlink.com^
 ||yqgzaewe.cn^
 ||yquqoj.com^
 ||yrqwnc.cn^
@@ -2416,8 +2365,12 @@
 ||zdabnt.live^
 ||zdama.xyz^
 ||zdamybi.xyz^
+||zdcfta.live^
 ||zdfjas.top^
 ||zdfl.xyz^
+||zdftqc.xyz^
+||zdg-bend.xyz^
+||zdgbend.buzz^
 ||zdx25.site^
 ||zdx30.site^
 ||zdznsqb.com^
