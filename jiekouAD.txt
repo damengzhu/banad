@@ -2778,7 +2778,7 @@ www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.to
 www.itdog.cn#%#window.alert=function(str){return}
 so.toutiao.com##section.commonbox.hasfooter
 axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
-axutongxue.com##DIV[style='top: 0;left: 0;width: 100vw;height: 100vh;background-color: #b2b2b269;position: absolute;z-index: 9999999;display: flex;justify-content: center;align-items: center;']
+axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: center;align-items: center;']
 axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
@@ -2846,7 +2846,7 @@ chinaso.com##DIV.wrap-toolbar
 m.qidian.com##P.text-content
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
-www.123pan.com##DIV.VipBanner,DIV[style='width:100%;position:fixed;bottom:80px'],DIV[style='width: 100%; position: fixed; bottom: 25px;']
+www.123pan.com##IMG[src*='-banner']
 m.sm.cn##DIV[ad_seid],DIV.dl-banner-lg.card
 www.dbbqb.com##DIV.MuiPaper-root
 www.haijiao.com##DIV.addbox,DIV.bannerliststyle,DIV.van-swipe-item,DIV.crossbutton
