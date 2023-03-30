@@ -2777,7 +2777,9 @@ javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3
 www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
 www.itdog.cn#%#window.alert=function(str){return}
 so.toutiao.com##section.commonbox.hasfooter
-axutongxue.com##ASIDE#uuuui
+axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
+axutongxue.com##DIV[style='top: 0;left: 0;width: 100vw;height: 100vh;background-color: #b2b2b269;position: absolute;z-index: 9999999;display: flex;justify-content: center;align-items: center;']
+axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 baike.so.com##section#business-flow.business-flow
