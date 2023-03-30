@@ -2776,7 +2776,7 @@ javbus.com##div.container-fluid:nth-child(9) > div.row > div.ad-list:nth-child(3
 www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
 www.itdog.cn#%#window.alert=function(str){return}
 so.toutiao.com##section.commonbox.hasfooter
-axutongxue.com##ARTICLE[id]
+axutongxue.com##ASIDE#uuuui
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
 baike.so.com##section#business-flow.business-flow
@@ -2799,7 +2799,6 @@ share.acgnx.se##IMG[src*='share.acgnx.se']
 zol.com.cn##A.dingtong.xianshiyouhui
 dm530p.net##DIV[style$='; display: block;']
 m.iqiyi.com##DIV.iqyGuide-content,.cover
-axutongxue.com##body > div[id] > ul[class] > li > A[href^='http'],body > div[id] > ul[class] > li > img.icon
 www.zhihu.com##DIV.KfeCollection-VipRecommendCard
 www.zhihu.com##A.MBannerAd
 ali213.net##DIV.placeholderforpromotion
