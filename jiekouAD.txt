@@ -5,6 +5,12 @@
 ! Total Count: 3134
 ! by: 酷安@大萌主
 ! Host
+||zdhpenn.shop^
+||zdhpen.xyz^
+||metaword.cn^
+||naned.xyz^
+||lopqrx.xyz^
+||637o.top^
 ||changyangadvertising.com^
 ||pojihfnkbllg.net^
 ||cvftv2.com^
@@ -2658,6 +2664,8 @@ dingbu.*.*.*/*.add$third-party
 /new/21*.html
 /new/27*.html
 /new/55*.html
+/new/56*.html
+/new/57*.html
 /new/82*.html
 /new/83*.html
 /new/84*.html
