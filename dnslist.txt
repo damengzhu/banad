@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2441
-! Update Time:2023-03-30 21:01:23（北京时间） 
+! Total Count:2447
+! Update Time:2023-03-31 20:48:08（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -121,6 +121,7 @@
 ||5ibanma.com^
 ||5idoy8p7.live^
 ||61hhdp.com^
+||637o.top^
 ||670t5x.cn^
 ||68710266.com^
 ||69e7.fun^
@@ -1225,6 +1226,7 @@
 ||looedu.top^
 ||lookxiuxiu.com^
 ||lop.lamimi.cn^
+||lopqrx.xyz^
 ||lovegg.club^
 ||lowadec.cn^
 ||lpasdfgwer.com^
@@ -1292,6 +1294,7 @@
 ||meiweifood.xyz^
 ||mengbli.com^
 ||metauniverse88.com^
+||metaword.cn^
 ||metok.sys.miui.com^
 ||mfe.paqpq.com^
 ||mfxyqh.cn^
@@ -1357,6 +1360,7 @@
 ||mzybirdnest.com^
 ||n5ta9.site^
 ||naemailom.fun^
+||naned.xyz^
 ||nawpush.com^
 ||nbfieef.cn^
 ||nbgsintl.com^
@@ -2385,6 +2389,8 @@
 ||zdftqc.xyz^
 ||zdg-bend.xyz^
 ||zdgbend.buzz^
+||zdhpen.xyz^
+||zdhpenn.shop^
 ||zdx25.site^
 ||zdx30.site^
 ||zdznsqb.com^
