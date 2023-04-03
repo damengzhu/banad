@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2448
-#Update Time: 2023-04-01 11:59:23（北京时间） 
+#Total Count:2457
+#Update Time: 2023-04-03 22:38:24（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -248,6 +248,7 @@
 0.0.0.0 ai36588.com
 0.0.0.0 aiclk.com
 0.0.0.0 ailehui9149.com
+0.0.0.0 aisnj.cn
 0.0.0.0 aiwei365.net
 0.0.0.0 aj4j.icu
 0.0.0.0 ajfkwwpo.xyz
@@ -408,6 +409,7 @@
 0.0.0.0 cbh365.club
 0.0.0.0 cbjs.baidu.com
 0.0.0.0 cc-316.cc
+0.0.0.0 ccav.website
 0.0.0.0 cchvc.net
 0.0.0.0 cdn.7nsc.cn
 0.0.0.0 cdn.9823df.com
@@ -1114,6 +1116,7 @@
 0.0.0.0 kjggk1.xyz
 0.0.0.0 kjuwxmi.xyz
 0.0.0.0 kkpgv2.xunlei.com
+0.0.0.0 kkylx.xyz
 0.0.0.0 kl.yditweb.cn
 0.0.0.0 kmbopoie.com
 0.0.0.0 kmgfjc.cn
@@ -1197,6 +1200,7 @@
 0.0.0.0 lixianghaodian.com
 0.0.0.0 lixiaodongcy.com
 0.0.0.0 ljarfvg.cn
+0.0.0.0 lkancklanklcav.com
 0.0.0.0 lknlkndasda.top
 0.0.0.0 lkpmprksau.com
 0.0.0.0 llaxl.com
@@ -1453,6 +1457,7 @@
 0.0.0.0 opjnbmk.com
 0.0.0.0 opnked*.xyz
 0.0.0.0 opnkedfdye.xyz
+0.0.0.0 oqjfekdkc.net
 0.0.0.0 orange-dc.youku.com
 0.0.0.0 orxsq.xyz
 0.0.0.0 osnignsk.xyz
@@ -1506,6 +1511,7 @@
 0.0.0.0 poiqknfl.com
 0.0.0.0 pojihfnkbllg.net
 0.0.0.0 pojkhufef.xyz
+0.0.0.0 polfaqgvsd.net
 0.0.0.0 polkkqm.com
 0.0.0.0 polkmerth.com
 0.0.0.0 polkmnhytgb.com
@@ -1580,6 +1586,7 @@
 0.0.0.0 qnfvojfkw.xyz
 0.0.0.0 qnieo.fun
 0.0.0.0 qnipkk.xyz
+0.0.0.0 qowfknlds.net
 0.0.0.0 qpb.sohu.com
 0.0.0.0 qpb0.sohu.com
 0.0.0.0 qpb1.sohu.com
@@ -1654,6 +1661,7 @@
 0.0.0.0 rrgapzw.cn
 0.0.0.0 rsvqlz.cn
 0.0.0.0 rte.fuoo1.top
+0.0.0.0 rtjmln.xyz
 0.0.0.0 rtmark.net
 0.0.0.0 rtsdfw44.com
 0.0.0.0 ruanjiancms.com
@@ -1883,6 +1891,7 @@
 0.0.0.0 tjnwfjy.cn
 0.0.0.0 tjqwb.cn
 0.0.0.0 tlsgq.cn
+0.0.0.0 tmochyf.cn
 0.0.0.0 tnc*.zijieapi.com
 0.0.0.0 tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-alisc1.snssdk.com

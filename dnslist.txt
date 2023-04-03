@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2448
-! Update Time:2023-04-01 11:59:23（北京时间） 
+! Total Count:2457
+! Update Time:2023-04-03 22:38:24（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -247,6 +247,7 @@
 ||ai36588.com^
 ||aiclk.com^
 ||ailehui9149.com^
+||aisnj.cn^
 ||aiwei365.net^
 ||aj4j.icu^
 ||ajfkwwpo.xyz^
@@ -407,6 +408,7 @@
 ||cbh365.club^
 ||cbjs.baidu.com^
 ||cc-316.cc^
+||ccav.website^
 ||cchvc.net^
 ||cdn.7nsc.cn^
 ||cdn.9823df.com^
@@ -1113,6 +1115,7 @@
 ||kjggk1.xyz^
 ||kjuwxmi.xyz^
 ||kkpgv2.xunlei.com^
+||kkylx.xyz^
 ||kl.yditweb.cn^
 ||kmbopoie.com^
 ||kmgfjc.cn^
@@ -1196,6 +1199,7 @@
 ||lixianghaodian.com^
 ||lixiaodongcy.com^
 ||ljarfvg.cn^
+||lkancklanklcav.com^
 ||lknlkndasda.top^
 ||lkpmprksau.com^
 ||llaxl.com^
@@ -1452,6 +1456,7 @@
 ||opjnbmk.com^
 ||opnked*.xyz^
 ||opnkedfdye.xyz^
+||oqjfekdkc.net^
 ||orange-dc.youku.com^
 ||orxsq.xyz^
 ||osnignsk.xyz^
@@ -1505,6 +1510,7 @@
 ||poiqknfl.com^
 ||pojihfnkbllg.net^
 ||pojkhufef.xyz^
+||polfaqgvsd.net^
 ||polkkqm.com^
 ||polkmerth.com^
 ||polkmnhytgb.com^
@@ -1579,6 +1585,7 @@
 ||qnfvojfkw.xyz^
 ||qnieo.fun^
 ||qnipkk.xyz^
+||qowfknlds.net^
 ||qpb.sohu.com^
 ||qpb0.sohu.com^
 ||qpb1.sohu.com^
@@ -1653,6 +1660,7 @@
 ||rrgapzw.cn^
 ||rsvqlz.cn^
 ||rte.fuoo1.top^
+||rtjmln.xyz^
 ||rtmark.net^
 ||rtsdfw44.com^
 ||ruanjiancms.com^
@@ -1882,6 +1890,7 @@
 ||tjnwfjy.cn^
 ||tjqwb.cn^
 ||tlsgq.cn^
+||tmochyf.cn^
 ||tnc*.zijieapi.com^
 ||tnc3-aliec2.snssdk.com^
 ||tnc3-alisc1.snssdk.com^
