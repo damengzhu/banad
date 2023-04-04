@@ -5,6 +5,13 @@
 ! Total Count: 3160
 ! by: 酷安@大萌主
 ! Host
+||www.xxmh*.com^
+||vfsdsdeq.xyz^
+||dcvbnzss.xyz^
+||zdlnhv.xyz^
+||readme.red^
+||zdcfta.buzz^
+||zdhpenn.live^
 ||kkylx.xyz^
 ||qowfknlds.net^
 ||tmochyf.cn^
@@ -2524,7 +2531,7 @@ xmh/200/200-*.gif
 .com/ads.
 ||hhdmh.net/bd/36mh.js
 ||hhdmh.net/js/g1.js
-||www.xxmh*.com^
+/hm.html?s=*=http
 ||m.yinghuacd.com/bar
 ||hm.baidu.com^$third-party
 ||haoyu666.top/uploads*%E7%B2%BE%E5%93%81%E5%BD%B1%E8%A7%86.apk?
