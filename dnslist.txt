@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2463
-! Update Time:2023-04-04 19:15:15（北京时间） 
+! Total Count:2471
+! Update Time:2023-04-05 21:02:53（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -320,6 +320,7 @@
 ||axbdlox.cn^
 ||axcdt.cn^
 ||axcdy.cn^
+||axz650.com^
 ||ayidaye.m.zwdu.com^
 ||aykibra.cn^
 ||aymtdcg.cn^
@@ -350,6 +351,7 @@
 ||beatricecathy.com^
 ||become.songche.net^
 ||bedrapiona.com^
+||bekco.xyz^
 ||betgorebysson.club^
 ||betylife.com^
 ||bfugui.com^
@@ -590,6 +592,7 @@
 ||dmm.aizhan.com^
 ||dmyrza.com^
 ||dncvj.cn^
+||dnrf0215.com^
 ||dns.weibo.cn^
 ||dnyzbp.cn^
 ||dodhvug.cn^
@@ -826,6 +829,7 @@
 ||gzasiatech.net^
 ||gzfzcj.cn^
 ||gzqvd.cn^
+||gzsjym.xyz^
 ||h-adashx.ut.taobao.com^
 ||h.baminw.cn^
 ||h2ji5.xyz^
@@ -1466,6 +1470,7 @@
 ||outoctillerytor.com^
 ||ouyhh.xyz^
 ||owlfolk.com^
+||owlunimmvn.com^
 ||oxj8hcfg.xyz^
 ||oyhurln.cn^
 ||p0y.cn^
@@ -1979,6 +1984,7 @@
 ||upgrade.xl9.xunlei.com^
 ||uphzxdv.cn^
 ||uporods.com^
+||urimnugocfr.com^
 ||urlkwqi.cn^
 ||ursegreatm.fun^
 ||urtr4hrq.com^
@@ -2351,6 +2357,7 @@
 ||ywsywh.cn^
 ||ywtd.xyz^
 ||yxhjt.com^
+||yxmrqc.com^
 ||yy4480qpgyy.com^
 ||yylady.cn^
 ||yynncbn.cn^
@@ -2439,6 +2446,7 @@
 ||zljnwzp.cn^
 ||zlnmzc.top^
 ||zmhqhuq.cn^
+||znnodl.xyz^
 ||zowralr.cn^
 ||zpxw.vip^
 ||zt-uc-baidu.cc^
