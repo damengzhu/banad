@@ -2704,6 +2704,7 @@ dingbu.*.*.*/*.add$third-party
 /new/88*.html
 /new/89*.html
 _/bigREDdog.css?
+91porny.com/api/getPos?jspath=/
 /api/getPos?jspath=/videos/view//
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
