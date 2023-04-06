@@ -5,6 +5,10 @@
 ! Total Count: 3176
 ! by: 酷安@大萌主
 ! Host
+||wgoeisdnlk.com^
+||vorluic.cn^
+||h731.icu^
+||hefei64.com^
 ||axz650.com^
 ||yxmrqc.com^
 ||dnrf0215.com^
@@ -2665,8 +2669,6 @@ hm.js/
 *.lijie.*/*_*?$third-party
 /zsls.com?s=
 .xyz/hm.html?s=
-/new/81*.html
-/new/50*.html
 mobi*.*.cyou/*_*$third-party
 mobi*.*.cam/*_*$third-party
 mobi*.*.xyz/*_*$third-party
@@ -2688,6 +2690,7 @@ dingbu.*.*.*/*.add$third-party
 /baidu/189/999.php
 /new/21*.html
 /new/27*.html
+/new/50*.html
 /new/51*.html
 /new/52*.html
 /new/53*.html
@@ -2695,6 +2698,7 @@ dingbu.*.*.*/*.add$third-party
 /new/55*.html
 /new/56*.html
 /new/57*.html
+/new/81*.html
 /new/82*.html
 /new/83*.html
 /new/84*.html
@@ -2704,6 +2708,13 @@ dingbu.*.*.*/*.add$third-party
 /new/88*.html
 /new/89*.html
 _/bigREDdog.css?
+.xyz/*0*0*==$third-party
+.xyz/foundation?$third-party
+.xyz/gatsby?$third-party
+.xyz/stimulus?$third-party
+.xyz/mithril?$third-party
+.xyz/xefeliffng_$third-party
+91porny.com/api/getPos?jspath=/
 91porny.com/api/getPos?jspath=/
 /api/getPos?jspath=/videos/view//
 /s/page_runtime_*.js
