@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2479
-! Update Time:2023-04-08 10:49:35（北京时间） 
+! Total Count:2488
+! Update Time:2023-04-09 16:24:30（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -614,6 +614,7 @@
 ||dsqzk.cn^
 ||dt243100.com^
 ||dtckvpc.cn^
+||dtfyhdghsd.online^
 ||dtrcw.cc^
 ||dtsxn.cn^
 ||duier.top^
@@ -1536,6 +1537,7 @@
 ||pr-bh.ybp.yahoo.com^
 ||prdohgp.cn^
 ||prelandappslab.com^
+||prlioxb.cn^
 ||prodigalpromotion.com^
 ||propeller-tracking.com^
 ||providentsopport.site^
@@ -1596,6 +1598,7 @@
 ||qnfvojfkw.xyz^
 ||qnieo.fun^
 ||qnipkk.xyz^
+||qonkdwwf.net^
 ||qowfknlds.net^
 ||qpb.sohu.com^
 ||qpb0.sohu.com^
@@ -1842,6 +1845,7 @@
 ||sunriseoutdoor.cn^
 ||svdpgmt.cn^
 ||svvbrkk.cn^
+||sw9t.ml^
 ||swwwxww.oss-cn-hangzhou.aliyuncs.com^
 ||sxguowei.com^
 ||sxk9m8x.cn^
@@ -1873,6 +1877,7 @@
 ||tdigcw.com^
 ||techain.baidu.com^
 ||techspecndt.com^
+||teddync.net^
 ||tencent.xn--io0a7i^
 ||tepusi888.cn^
 ||tetiao9.com^
@@ -2413,6 +2418,8 @@
 ||zdamybi.xyz^
 ||zdcfta.buzz^
 ||zdcfta.live^
+||zdcoes.live^
+||zdcv5.xyz^
 ||zdfjas.top^
 ||zdfl.xyz^
 ||zdftqc.xyz^
@@ -2421,6 +2428,8 @@
 ||zdhpen.xyz^
 ||zdhpenn.live^
 ||zdhpenn.shop^
+||zdkdwk.live^
+||zdkjr.xyz^
 ||zdlnhv.xyz^
 ||zdx25.site^
 ||zdx30.site^

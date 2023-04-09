@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2479
-#Update Time: 2023-04-08 10:49:35（北京时间） 
+#Total Count:2488
+#Update Time: 2023-04-09 16:24:30（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -615,6 +615,7 @@
 0.0.0.0 dsqzk.cn
 0.0.0.0 dt243100.com
 0.0.0.0 dtckvpc.cn
+0.0.0.0 dtfyhdghsd.online
 0.0.0.0 dtrcw.cc
 0.0.0.0 dtsxn.cn
 0.0.0.0 duier.top
@@ -1537,6 +1538,7 @@
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prdohgp.cn
 0.0.0.0 prelandappslab.com
+0.0.0.0 prlioxb.cn
 0.0.0.0 prodigalpromotion.com
 0.0.0.0 propeller-tracking.com
 0.0.0.0 providentsopport.site
@@ -1597,6 +1599,7 @@
 0.0.0.0 qnfvojfkw.xyz
 0.0.0.0 qnieo.fun
 0.0.0.0 qnipkk.xyz
+0.0.0.0 qonkdwwf.net
 0.0.0.0 qowfknlds.net
 0.0.0.0 qpb.sohu.com
 0.0.0.0 qpb0.sohu.com
@@ -1843,6 +1846,7 @@
 0.0.0.0 sunriseoutdoor.cn
 0.0.0.0 svdpgmt.cn
 0.0.0.0 svvbrkk.cn
+0.0.0.0 sw9t.ml
 0.0.0.0 swwwxww.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 sxguowei.com
 0.0.0.0 sxk9m8x.cn
@@ -1874,6 +1878,7 @@
 0.0.0.0 tdigcw.com
 0.0.0.0 techain.baidu.com
 0.0.0.0 techspecndt.com
+0.0.0.0 teddync.net
 0.0.0.0 tencent.xn--io0a7i
 0.0.0.0 tepusi888.cn
 0.0.0.0 tetiao9.com
@@ -2414,6 +2419,8 @@
 0.0.0.0 zdamybi.xyz
 0.0.0.0 zdcfta.buzz
 0.0.0.0 zdcfta.live
+0.0.0.0 zdcoes.live
+0.0.0.0 zdcv5.xyz
 0.0.0.0 zdfjas.top
 0.0.0.0 zdfl.xyz
 0.0.0.0 zdftqc.xyz
@@ -2422,6 +2429,8 @@
 0.0.0.0 zdhpen.xyz
 0.0.0.0 zdhpenn.live
 0.0.0.0 zdhpenn.shop
+0.0.0.0 zdkdwk.live
+0.0.0.0 zdkjr.xyz
 0.0.0.0 zdlnhv.xyz
 0.0.0.0 zdx25.site
 0.0.0.0 zdx30.site
