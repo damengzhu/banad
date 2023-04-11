@@ -3203,7 +3203,6 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
-##a > IMG.img-responsive[src*='.gif']
 ##section.global_video_bottom_dbtc
 ##div.maomi-content > SECTION.section.section-banner
 ##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
