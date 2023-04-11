@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2491
-#Update Time: 2023-04-11 11:53:36（北京时间） 
+#Total Count:2499
+#Update Time: 2023-04-11 13:30:47（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -275,6 +275,7 @@
 0.0.0.0 annelinterv.fun
 0.0.0.0 aobuygo.com
 0.0.0.0 aoqinglv.cn
+0.0.0.0 aornkmae.com
 0.0.0.0 aoyou1.top
 0.0.0.0 aoyou2.top
 0.0.0.0 aoyou3.top
@@ -691,6 +692,7 @@
 0.0.0.0 f77xv3.top
 0.0.0.0 f8ejqxp.cn
 0.0.0.0 fakjkwp.cn
+0.0.0.0 falal.cn
 0.0.0.0 famorlymal.com
 0.0.0.0 fangfeng009.xyz
 0.0.0.0 fc.gaizong.cn
@@ -1187,6 +1189,7 @@
 0.0.0.0 ledaren.cn
 0.0.0.0 leirsw.com
 0.0.0.0 lekkrrlel.com
+0.0.0.0 lendc.xyz
 0.0.0.0 lezbrja.cn
 0.0.0.0 lflmdm.com
 0.0.0.0 lganilgll.cyou
@@ -1600,6 +1603,7 @@
 0.0.0.0 qnfvojfkw.xyz
 0.0.0.0 qnieo.fun
 0.0.0.0 qnipkk.xyz
+0.0.0.0 qoilbsfwqd.net
 0.0.0.0 qonkdwwf.net
 0.0.0.0 qowfknlds.net
 0.0.0.0 qpb.sohu.com
@@ -1629,6 +1633,7 @@
 0.0.0.0 qweewq2021.online
 0.0.0.0 qwer220.cn
 0.0.0.0 qwertyuadf.com
+0.0.0.0 qwrnkpow.com
 0.0.0.0 qygzbxpt.com
 0.0.0.0 qyzyd.top
 0.0.0.0 qzda.cc
@@ -1884,6 +1889,7 @@
 0.0.0.0 tepusi888.cn
 0.0.0.0 tetiao9.com
 0.0.0.0 tfbulkidn.com
+0.0.0.0 tfexcludes.shop
 0.0.0.0 tfsuggestion.live
 0.0.0.0 tfutcmail.com
 0.0.0.0 tfzozf.xyz
@@ -2065,6 +2071,7 @@
 0.0.0.0 wenjinsai.top
 0.0.0.0 wenluoxi.com
 0.0.0.0 wensixuetang.com
+0.0.0.0 werois.com
 0.0.0.0 wesat.cn
 0.0.0.0 wfndponfd.com
 0.0.0.0 wgoeisdnlk.com

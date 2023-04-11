@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2491
-! Update Time:2023-04-11 11:53:36（北京时间） 
+! Total Count:2499
+! Update Time:2023-04-11 13:30:47（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -274,6 +274,7 @@
 ||annelinterv.fun^
 ||aobuygo.com^
 ||aoqinglv.cn^
+||aornkmae.com^
 ||aoyou1.top^
 ||aoyou2.top^
 ||aoyou3.top^
@@ -690,6 +691,7 @@
 ||f77xv3.top^
 ||f8ejqxp.cn^
 ||fakjkwp.cn^
+||falal.cn^
 ||famorlymal.com^
 ||fangfeng009.xyz^
 ||fc.gaizong.cn^
@@ -1186,6 +1188,7 @@
 ||ledaren.cn^
 ||leirsw.com^
 ||lekkrrlel.com^
+||lendc.xyz^
 ||lezbrja.cn^
 ||lflmdm.com^
 ||lganilgll.cyou^
@@ -1599,6 +1602,7 @@
 ||qnfvojfkw.xyz^
 ||qnieo.fun^
 ||qnipkk.xyz^
+||qoilbsfwqd.net^
 ||qonkdwwf.net^
 ||qowfknlds.net^
 ||qpb.sohu.com^
@@ -1628,6 +1632,7 @@
 ||qweewq2021.online^
 ||qwer220.cn^
 ||qwertyuadf.com^
+||qwrnkpow.com^
 ||qygzbxpt.com^
 ||qyzyd.top^
 ||qzda.cc^
@@ -1883,6 +1888,7 @@
 ||tepusi888.cn^
 ||tetiao9.com^
 ||tfbulkidn.com^
+||tfexcludes.shop^
 ||tfsuggestion.live^
 ||tfutcmail.com^
 ||tfzozf.xyz^
@@ -2064,6 +2070,7 @@
 ||wenjinsai.top^
 ||wenluoxi.com^
 ||wensixuetang.com^
+||werois.com^
 ||wesat.cn^
 ||wfndponfd.com^
 ||wgoeisdnlk.com^
