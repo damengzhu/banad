@@ -5,6 +5,14 @@
 ! Total Count: 3208
 ! by: 酷安@大萌主
 ! Host
+||lendc.xyz^
+||qoilbsfwqd.net^
+||aornkmae.com^
+||qwrnkpow.com^
+||falal.cn^
+||teddync.net^
+||werois.com^
+||tfexcludes.shop^
 ||zdkdwk.buzz^
 ||zdjeae.live^
 ||mindopu.com^
@@ -2696,6 +2704,9 @@ api.*.*/*/*?_=450*$third-party
 _/bigREDdog.js
 */ads.
 /redbaiduct.com?s=
+.net/vh1/15*$third-party
+.net/v2/stats/10*$third-party
+.com/c.php?s=*=*=$third-party
 */blsx_*_*_*?*$third-party
 dingbu.*.*.*/*.add$third-party
 .icu/*_*_*.js$third-party
@@ -3049,6 +3060,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##.bottom-pic,.col-pd.mb10
 ##.mi_btcon.ad
 ##.fc_foot
+##SPAN#VuMk2.IgpuN2
 ##[href^='https://fcc.hxaxfcc.cn/']
 ##SPAN[style="position: fixed; bottom: 30vh; z-index: 2147483647; right: 0px; margin-right: 6vw; padding: 0px; text-decoration: none; background-color: red; width: 7vw; height: 7vw; border-radius: 7vw; font-size: 6vw; color: rgb(255, 255, 255); text-align: center; transform: rotate(-90deg);"]
 ##SPAN#qdSZ2
