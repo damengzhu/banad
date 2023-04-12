@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2499
-! Update Time:2023-04-12 16:16:49（北京时间） 
+! Total Count:2514
+! Update Time:2023-04-12 16:46:49（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -172,6 +172,7 @@
 ||a.wzu.com^
 ||a0b22.com^
 ||a1.itc.cn^
+||a168888.top^
 ||a2.zhanzhang.net^
 ||a48505.cn^
 ||a4sz.xyz^
@@ -445,6 +446,7 @@
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
 ||cheh9k4t.com^
 ||chihuoguo.me^
+||chiluyingxiao.com^
 ||china.gzxxty168.com^
 ||chinachooses.com^
 ||chinaxinhe.net^
@@ -912,6 +914,7 @@
 ||hpiekt.cn^
 ||hqbuoh.com^
 ||hqnpwzu.cn^
+||hsrgnac.cn^
 ||hssapp.shop^
 ||hswfj.cn^
 ||hsyfcenter.com^
@@ -1217,6 +1220,7 @@
 ||lknlkndasda.top^
 ||lkpmprksau.com^
 ||llaxl.com^
+||lm22.top^
 ||lm335.com^
 ||lm336.com^
 ||lm343.com^
@@ -1348,6 +1352,7 @@
 ||mosflower.cn^
 ||motuopj.cn^
 ||moxiaoqihuoguo.com^
+||mrgecm.xyz^
 ||mrhboe.xyz^
 ||mryshl.com^
 ||msdsd2.cn^
@@ -1723,6 +1728,7 @@
 ||schain.group^
 ||sciillr.cn^
 ||scjpqut.cn^
+||scrvw3.com^
 ||sd.yhzzzs*.com^
 ||sd6hon.cn^
 ||sdhjueue.com^
@@ -2052,6 +2058,7 @@
 ||wagzqhq.cn^
 ||waizongguan.net^
 ||wangxialin.top^
+||wangyq.ltd^
 ||wap.bntxt.com^
 ||wap.gxzhshop.com^
 ||wap2.laogu.wang^

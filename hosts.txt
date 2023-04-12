@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2499
-#Update Time: 2023-04-12 16:16:49（北京时间） 
+#Total Count:2514
+#Update Time: 2023-04-12 16:46:49（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -173,6 +173,7 @@
 0.0.0.0 a.wzu.com
 0.0.0.0 a0b22.com
 0.0.0.0 a1.itc.cn
+0.0.0.0 a168888.top
 0.0.0.0 a2.zhanzhang.net
 0.0.0.0 a48505.cn
 0.0.0.0 a4sz.xyz
@@ -446,6 +447,7 @@
 0.0.0.0 chaoku.oss-cn-chengdu.aliyuncs.com
 0.0.0.0 cheh9k4t.com
 0.0.0.0 chihuoguo.me
+0.0.0.0 chiluyingxiao.com
 0.0.0.0 china.gzxxty168.com
 0.0.0.0 chinachooses.com
 0.0.0.0 chinaxinhe.net
@@ -913,6 +915,7 @@
 0.0.0.0 hpiekt.cn
 0.0.0.0 hqbuoh.com
 0.0.0.0 hqnpwzu.cn
+0.0.0.0 hsrgnac.cn
 0.0.0.0 hssapp.shop
 0.0.0.0 hswfj.cn
 0.0.0.0 hsyfcenter.com
@@ -1218,6 +1221,7 @@
 0.0.0.0 lknlkndasda.top
 0.0.0.0 lkpmprksau.com
 0.0.0.0 llaxl.com
+0.0.0.0 lm22.top
 0.0.0.0 lm335.com
 0.0.0.0 lm336.com
 0.0.0.0 lm343.com
@@ -1349,6 +1353,7 @@
 0.0.0.0 mosflower.cn
 0.0.0.0 motuopj.cn
 0.0.0.0 moxiaoqihuoguo.com
+0.0.0.0 mrgecm.xyz
 0.0.0.0 mrhboe.xyz
 0.0.0.0 mryshl.com
 0.0.0.0 msdsd2.cn
@@ -1724,6 +1729,7 @@
 0.0.0.0 schain.group
 0.0.0.0 sciillr.cn
 0.0.0.0 scjpqut.cn
+0.0.0.0 scrvw3.com
 0.0.0.0 sd.yhzzzs*.com
 0.0.0.0 sd6hon.cn
 0.0.0.0 sdhjueue.com
@@ -2053,6 +2059,7 @@
 0.0.0.0 wagzqhq.cn
 0.0.0.0 waizongguan.net
 0.0.0.0 wangxialin.top
+0.0.0.0 wangyq.ltd
 0.0.0.0 wap.bntxt.com
 0.0.0.0 wap.gxzhshop.com
 0.0.0.0 wap2.laogu.wang
