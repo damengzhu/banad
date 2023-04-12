@@ -5,6 +5,21 @@
 ! Total Count: 3212
 ! by: 酷安@大萌主
 ! Host
+||mrgecm.xyz^
+||chiluyingxiao.com^
+||hsrgnac.cn^
+||wangyq.ltd^
+||a168888.top^
+||lm22.top^
+||scrvw3.com^
+||lendc.xyz^
+||qoilbsfwqd.net^
+||aornkmae.com^
+||qwrnkpow.com^
+||falal.cn^
+||teddync.net^
+||werois.com^
+||tfexcludes.shop^
 ||lendc.xyz^
 ||qoilbsfwqd.net^
 ||aornkmae.com^
@@ -3201,6 +3216,14 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style='top: 24.6vw; display: block;']
 ##DIV[style*='animation: 1s ease 0.2s infinite normal none running shakegwegs; z-index:'][style*='background: url']
 ##INS.adsbygoogle
+##body#nr_body div.fixed ~ *
+##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
+##[style='width: 100%; height: 123.75px;']
+##A[href*='/adjump/?']
+##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
+##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
+##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
+##[style='width: 100%;height:660px;z-index:2147483647;position:fixed;display:block;bottom:0px;']
 ##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
 ##IMG[src*='qmfcybwbf']
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
