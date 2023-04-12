@@ -20,14 +20,6 @@
 ||teddync.net^
 ||werois.com^
 ||tfexcludes.shop^
-||lendc.xyz^
-||qoilbsfwqd.net^
-||aornkmae.com^
-||qwrnkpow.com^
-||falal.cn^
-||teddync.net^
-||werois.com^
-||tfexcludes.shop^
 ||zdkdwk.buzz^
 ||zdjeae.live^
 ||mindopu.com^
@@ -35,7 +27,6 @@
 ||sw9t.ml^
 ||zdkdwk.live^
 ||prlioxb.cn^
-||teddync.net^
 ||zdcv5.xyz^
 ||zdkjr.xyz^
 ||dtfyhdghsd.online^
@@ -123,8 +114,6 @@
 ||zdfl.xyz^
 ||jched3.com^
 ||eignky.xyz^
-||zukddms.cn^
-||oiknldwlkop.com^
 ||zukddms.cn^
 ||qdlzj.cn^
 ||niebiaoyyds.com^
@@ -2750,7 +2739,6 @@ _/bigREDdog.css?
 .xyz/mithril?$third-party
 .xyz/xefeliffng_$third-party
 91porny.com/api/getPos?jspath=/
-91porny.com/api/getPos?jspath=/
 /api/getPos?jspath=/videos/view//
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
@@ -3250,5 +3238,3 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
-
-
