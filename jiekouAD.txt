@@ -2533,11 +2533,6 @@
 /js/news2zz.js
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
-/r/t1/16/
-.top/*/*-*-*-*.*?_=*
-.top/Report/*-*-*-*-*
-||745c.cn$third-party
-||kgsz.cn$third-party
 /site/mov*$third-party
 ||dadatuwz.com^$third-party
 ||pubfuture.com^$third-party
@@ -2557,7 +2552,6 @@ xmh/200/200-*.gif
 ||zhhbqg.com/xxgg/*.js
 ||zhhbqg.com/ee/*.js
 ||trafficstars.com$third-party
-:12443/*/*-*-*.$script,third-party
 ||bimiacg*.net/template/JOELEO/asset/js/jquery.leeleo.js
 ||58jingxuan.top/dhbioperhbvoprwm
 /statics/js/hth1111.html
@@ -2575,7 +2569,6 @@ xmh/200/200-*.gif
 /app/*/%E6%B5%8F%E8%A7%88%E5%99%A8.apk
 /app/market/*/%E9%AB%98%E9%80%9F%E6%B5%8F%E8%A7%8%A8.apk
 ||pstatp.com/toutiao/push.js
-||126.net^*analysis
 chen-xing/figure_bed*
 .com/gg.js
 /api/ad/*
@@ -2697,7 +2690,6 @@ mobi*.*.cyou/*_*$third-party
 mobi*.*.cam/*_*$third-party
 mobi*.*.xyz/*_*$third-party
 dingbu.*.*.com/dingbu.$third-party
-api.*.*/*/*?_=450*$third-party
 .xyz/jque*.js?$third-party
 /blxn_*_*_*?*$third-party
 .top/*q=*form=*&*url=http*$third-party
