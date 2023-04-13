@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2503
-#Update Time: 2023-04-12 16:48:00（北京时间） 
+#Total Count:2510
+#Update Time: 2023-04-13 23:26:04（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -464,6 +464,7 @@
 0.0.0.0 chuzushijian.cn
 0.0.0.0 chykohija.pro
 0.0.0.0 city.youpukeji.cn
+0.0.0.0 ck33.top
 0.0.0.0 ckerw.xyz
 0.0.0.0 click.tianyaui.com
 0.0.0.0 clldirectasianew.club
@@ -600,6 +601,7 @@
 0.0.0.0 dnrf0215.com
 0.0.0.0 dns.weibo.cn
 0.0.0.0 dnyzbp.cn
+0.0.0.0 doccd.xyz
 0.0.0.0 dodhvug.cn
 0.0.0.0 doiney.pandasone.com
 0.0.0.0 dong.aeimmmj.cn
@@ -997,6 +999,7 @@
 0.0.0.0 inkuae.com
 0.0.0.0 inpage-push.com
 0.0.0.0 intimidatepropel.com
+0.0.0.0 ioiksw.cn
 0.0.0.0 ionksfefe.xyz
 0.0.0.0 iosppk.com
 0.0.0.0 ip.tianqiapi.com
@@ -1090,6 +1093,7 @@
 0.0.0.0 jssav6hk.club
 0.0.0.0 jsyunmy.com
 0.0.0.0 jszctech.com
+0.0.0.0 jtjh.tw
 0.0.0.0 juicyads.com
 0.0.0.0 just-machinery.com
 0.0.0.0 jvpyxve.cn
@@ -1436,6 +1440,7 @@
 0.0.0.0 o2.jyjyj.cn
 0.0.0.0 o2o.api.xiaomi.com
 0.0.0.0 oaftaijo.net
+0.0.0.0 oajfpqojev.net
 0.0.0.0 obertsiamw.fun
 0.0.0.0 obgbok.com
 0.0.0.0 oceanbot-steam.com
@@ -1498,6 +1503,7 @@
 0.0.0.0 pangolin-sdk-toutiao-b.com
 0.0.0.0 pangolin-sdk-toutiao.com
 0.0.0.0 pangolin.snssdk.com
+0.0.0.0 pansclub.xyz
 0.0.0.0 paradisemall.net
 0.0.0.0 payoneok.com
 0.0.0.0 pdhhmf.cn
@@ -2482,6 +2488,7 @@
 0.0.0.0 zlnmzc.top
 0.0.0.0 zmhqhuq.cn
 0.0.0.0 znnodl.xyz
+0.0.0.0 zouqiuyyds.com
 0.0.0.0 zowralr.cn
 0.0.0.0 zpxw.vip
 0.0.0.0 zt-uc-baidu.cc

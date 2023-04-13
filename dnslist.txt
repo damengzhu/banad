@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2503
-! Update Time:2023-04-12 16:48:00（北京时间） 
+! Total Count:2510
+! Update Time:2023-04-13 23:26:04（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -463,6 +463,7 @@
 ||chuzushijian.cn^
 ||chykohija.pro^
 ||city.youpukeji.cn^
+||ck33.top^
 ||ckerw.xyz^
 ||click.tianyaui.com^
 ||clldirectasianew.club^
@@ -599,6 +600,7 @@
 ||dnrf0215.com^
 ||dns.weibo.cn^
 ||dnyzbp.cn^
+||doccd.xyz^
 ||dodhvug.cn^
 ||doiney.pandasone.com^
 ||dong.aeimmmj.cn^
@@ -996,6 +998,7 @@
 ||inkuae.com^
 ||inpage-push.com^
 ||intimidatepropel.com^
+||ioiksw.cn^
 ||ionksfefe.xyz^
 ||iosppk.com^
 ||ip.tianqiapi.com^
@@ -1089,6 +1092,7 @@
 ||jssav6hk.club^
 ||jsyunmy.com^
 ||jszctech.com^
+||jtjh.tw^
 ||juicyads.com^
 ||just-machinery.com^
 ||jvpyxve.cn^
@@ -1435,6 +1439,7 @@
 ||o2.jyjyj.cn^
 ||o2o.api.xiaomi.com^
 ||oaftaijo.net^
+||oajfpqojev.net^
 ||obertsiamw.fun^
 ||obgbok.com^
 ||oceanbot-steam.com^
@@ -1497,6 +1502,7 @@
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
 ||pangolin.snssdk.com^
+||pansclub.xyz^
 ||paradisemall.net^
 ||payoneok.com^
 ||pdhhmf.cn^
@@ -2481,6 +2487,7 @@
 ||zlnmzc.top^
 ||zmhqhuq.cn^
 ||znnodl.xyz^
+||zouqiuyyds.com^
 ||zowralr.cn^
 ||zpxw.vip^
 ||zt-uc-baidu.cc^
