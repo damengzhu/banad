@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2510
-! Update Time:2023-04-14 09:37:06（北京时间） 
+! Total Count:2520
+! Update Time:2023-04-14 17:10:22（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -261,6 +261,7 @@
 ||alictibet.com^
 ||aliyun.cdn.chengzilte.top^
 ||allykitchen.com^
+||almabelen.com^
 ||als.baidu.com^
 ||alwayzcars.com^
 ||amdc.alipay.com^
@@ -318,6 +319,7 @@
 ||aspwg.cn^
 ||asycxtz.cn^
 ||atnnf.xyz^
+||au6w0.xyz^
 ||audid-api.taobao.com^
 ||awyyzx.com^
 ||axbdlox.cn^
@@ -656,6 +658,7 @@
 ||egsxdp.cn^
 ||ehk.trenhdg.com^
 ||eignky.xyz^
+||eileenjaney.com^
 ||eiykmtb.cn^
 ||ejieban.com^
 ||elegant-creator.com^
@@ -721,6 +724,7 @@
 ||fhsmtrnsfnt.com^
 ||fhvbhx.xyz^
 ||fintechpi.com^
+||fionamignon.com^
 ||firearmtire.com^
 ||fish882.xyz^
 ||fiwyjar.cn^
@@ -1213,6 +1217,7 @@
 ||lingke05.top^
 ||lingting.xin^
 ||link.jzzxapp.cn^
+||linuozhiyao.xyz^
 ||linyongming.top^
 ||littlecdn.com^
 ||livep.l.qq.com^
@@ -1524,6 +1529,7 @@
 ||pingfore.qq.com^
 ||pingma.qq.com^
 ||pix.us.criteo.net^
+||pj3f7.xyz^
 ||pjogndc8ixoidna.360doc.cn^
 ||pkjl00l.cn^
 ||playstats.v.duowan.com^
@@ -1803,6 +1809,7 @@
 ||skxuueby.cn^
 ||sky.tongjiai.com^
 ||slfango.ltd^
+||slonlyuse.shop^
 ||slsuggestion.live^
 ||slutcmail.com^
 ||smartmail.cyou^
@@ -1941,6 +1948,7 @@
 ||tools.3g.qq.com^
 ||toutiao.xn--fiqs8s^
 ||tovppl.cn^
+||tqdpqq.com^
 ||tqmcj.cn^
 ||trace.qq.com^
 ||track.hujiang.com^
@@ -2033,6 +2041,7 @@
 ||v6jt.cn^
 ||vancuongthinh.com^
 ||vaxgyly.cn^
+||vel7.xyz^
 ||venator.link^
 ||venetrigni.com^
 ||venienceilo.fun^
@@ -2265,6 +2274,7 @@
 ||xiaodongrui.com^
 ||xiaojifly.cn^
 ||xiaomifood.cn^
+||xiaoqurong.com^
 ||xiaosunxin.cn^
 ||xiaoyange.cn^
 ||xiarikui08.com^

@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2510
-#Update Time: 2023-04-14 09:37:06（北京时间） 
+#Total Count:2520
+#Update Time: 2023-04-14 17:10:22（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -262,6 +262,7 @@
 0.0.0.0 alictibet.com
 0.0.0.0 aliyun.cdn.chengzilte.top
 0.0.0.0 allykitchen.com
+0.0.0.0 almabelen.com
 0.0.0.0 als.baidu.com
 0.0.0.0 alwayzcars.com
 0.0.0.0 amdc.alipay.com
@@ -319,6 +320,7 @@
 0.0.0.0 aspwg.cn
 0.0.0.0 asycxtz.cn
 0.0.0.0 atnnf.xyz
+0.0.0.0 au6w0.xyz
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 awyyzx.com
 0.0.0.0 axbdlox.cn
@@ -657,6 +659,7 @@
 0.0.0.0 egsxdp.cn
 0.0.0.0 ehk.trenhdg.com
 0.0.0.0 eignky.xyz
+0.0.0.0 eileenjaney.com
 0.0.0.0 eiykmtb.cn
 0.0.0.0 ejieban.com
 0.0.0.0 elegant-creator.com
@@ -722,6 +725,7 @@
 0.0.0.0 fhsmtrnsfnt.com
 0.0.0.0 fhvbhx.xyz
 0.0.0.0 fintechpi.com
+0.0.0.0 fionamignon.com
 0.0.0.0 firearmtire.com
 0.0.0.0 fish882.xyz
 0.0.0.0 fiwyjar.cn
@@ -1214,6 +1218,7 @@
 0.0.0.0 lingke05.top
 0.0.0.0 lingting.xin
 0.0.0.0 link.jzzxapp.cn
+0.0.0.0 linuozhiyao.xyz
 0.0.0.0 linyongming.top
 0.0.0.0 littlecdn.com
 0.0.0.0 livep.l.qq.com
@@ -1525,6 +1530,7 @@
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pix.us.criteo.net
+0.0.0.0 pj3f7.xyz
 0.0.0.0 pjogndc8ixoidna.360doc.cn
 0.0.0.0 pkjl00l.cn
 0.0.0.0 playstats.v.duowan.com
@@ -1804,6 +1810,7 @@
 0.0.0.0 skxuueby.cn
 0.0.0.0 sky.tongjiai.com
 0.0.0.0 slfango.ltd
+0.0.0.0 slonlyuse.shop
 0.0.0.0 slsuggestion.live
 0.0.0.0 slutcmail.com
 0.0.0.0 smartmail.cyou
@@ -1942,6 +1949,7 @@
 0.0.0.0 tools.3g.qq.com
 0.0.0.0 toutiao.xn--fiqs8s
 0.0.0.0 tovppl.cn
+0.0.0.0 tqdpqq.com
 0.0.0.0 tqmcj.cn
 0.0.0.0 trace.qq.com
 0.0.0.0 track.hujiang.com
@@ -2034,6 +2042,7 @@
 0.0.0.0 v6jt.cn
 0.0.0.0 vancuongthinh.com
 0.0.0.0 vaxgyly.cn
+0.0.0.0 vel7.xyz
 0.0.0.0 venator.link
 0.0.0.0 venetrigni.com
 0.0.0.0 venienceilo.fun
@@ -2266,6 +2275,7 @@
 0.0.0.0 xiaodongrui.com
 0.0.0.0 xiaojifly.cn
 0.0.0.0 xiaomifood.cn
+0.0.0.0 xiaoqurong.com
 0.0.0.0 xiaosunxin.cn
 0.0.0.0 xiaoyange.cn
 0.0.0.0 xiarikui08.com
