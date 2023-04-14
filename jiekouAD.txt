@@ -5,6 +5,16 @@
 ! Total Count: 3368
 ! by: 酷安@大萌主
 ! Host
+||xiaoqurong.com^
+||slonlyuse.shop^
+||pj3f7.xyz^
+||au6w0.xyz^
+||vel7.xyz^
+||fionamignon.com^
+||almabelen.com^
+||eileenjaney.com^
+||linuozhiyao.xyz^
+||tqdpqq.com^
 ||oajfpqojev.net^
 ||ioiksw.cn^
 ||jtjh.tw^
@@ -3120,6 +3130,9 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[href^='https://w5979.com:']
 ##[href^='https://dc.vvsmse72']
 ##oxk
+##body > a[id*='hudie_']
+##div.synopsisArea > a[id*='hudie_']
+##div.recommend > a[id*='hudie_']
 ##div.poi-row a > IMG[width='100%'][height='auto'][src]
 ##div.row > div[id] > ul > li.cpn > a
 ##SPAN[style$='font-size: 6vw; color:#fff; text-align: center; transform: rotate(-90deg);']
