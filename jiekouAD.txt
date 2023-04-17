@@ -3402,7 +3402,7 @@ www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:h
 ! gif ads
 www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
-##A[href*='.com:'][target='_blank'] > IMG[src][width='100%'][height='60px']
+##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='60px']
 ##A[href][target='_blank'] > IMG[src$='.gif'][width='100%'][height='120px']
 ##div#h2_player_prevideo > A[href][target='_blank']
