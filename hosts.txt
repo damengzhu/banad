@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2529
-#Update Time: 2023-04-19 11:34:47（北京时间） 
+#Total Count:2535
+#Update Time: 2023-04-19 12:15:29（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -456,6 +456,7 @@
 0.0.0.0 chinaxinhe.net
 0.0.0.0 chinayms.com
 0.0.0.0 chixingkeji.com
+0.0.0.0 chnuuee.xyz
 0.0.0.0 cholo101.cn
 0.0.0.0 cholo215.cn
 0.0.0.0 cholor201015.cn
@@ -1075,6 +1076,7 @@
 0.0.0.0 jnyayk.xyz
 0.0.0.0 joannarace.com
 0.0.0.0 jocelynrace.com
+0.0.0.0 joiwnq2.cn
 0.0.0.0 jojog.com
 0.0.0.0 jollytestpartying.com
 0.0.0.0 jomwihn.cn
@@ -1187,6 +1189,7 @@
 0.0.0.0 kyxw9itc.xyz
 0.0.0.0 kyxw9itv.club
 0.0.0.0 kyzx.xyZ
+0.0.0.0 kzchyhr.cn
 0.0.0.0 kzgmpu.com
 0.0.0.0 l.glrcy.cn
 0.0.0.0 l.ykimg.com
@@ -1529,6 +1532,7 @@
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 phoorned.com
 0.0.0.0 phputils.wc-os.com
+0.0.0.0 piaochong.co
 0.0.0.0 pimlog.baidu.com
 0.0.0.0 pingfore.qq.com
 0.0.0.0 pingma.qq.com
@@ -1552,6 +1556,7 @@
 0.0.0.0 polkmerth.com
 0.0.0.0 polkmnhytgb.com
 0.0.0.0 poqjnkdsou.net
+0.0.0.0 poqwnllkm.com
 0.0.0.0 poqwua.cn
 0.0.0.0 pos.baidu.com
 0.0.0.0 postserviceuk.com
@@ -2264,6 +2269,7 @@
 0.0.0.0 xahycw.com
 0.0.0.0 xazbts.com
 0.0.0.0 xcisleoa.cn
+0.0.0.0 xckyqq.com
 0.0.0.0 xcmz999.com
 0.0.0.0 xcwzq.xyz
 0.0.0.0 xddzshop.com

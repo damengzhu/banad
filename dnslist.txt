@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2529
-! Update Time:2023-04-19 11:34:47（北京时间） 
+! Total Count:2535
+! Update Time:2023-04-19 12:15:29（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -455,6 +455,7 @@
 ||chinaxinhe.net^
 ||chinayms.com^
 ||chixingkeji.com^
+||chnuuee.xyz^
 ||cholo101.cn^
 ||cholo215.cn^
 ||cholor201015.cn^
@@ -1074,6 +1075,7 @@
 ||jnyayk.xyz^
 ||joannarace.com^
 ||jocelynrace.com^
+||joiwnq2.cn^
 ||jojog.com^
 ||jollytestpartying.com^
 ||jomwihn.cn^
@@ -1186,6 +1188,7 @@
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
 ||kyzx.xyZ^
+||kzchyhr.cn^
 ||kzgmpu.com^
 ||l.glrcy.cn^
 ||l.ykimg.com^
@@ -1528,6 +1531,7 @@
 ||pglstatp-toutiao.com^
 ||phoorned.com^
 ||phputils.wc-os.com^
+||piaochong.co^
 ||pimlog.baidu.com^
 ||pingfore.qq.com^
 ||pingma.qq.com^
@@ -1551,6 +1555,7 @@
 ||polkmerth.com^
 ||polkmnhytgb.com^
 ||poqjnkdsou.net^
+||poqwnllkm.com^
 ||poqwua.cn^
 ||pos.baidu.com^
 ||postserviceuk.com^
@@ -2263,6 +2268,7 @@
 ||xahycw.com^
 ||xazbts.com^
 ||xcisleoa.cn^
+||xckyqq.com^
 ||xcmz999.com^
 ||xcwzq.xyz^
 ||xddzshop.com^
