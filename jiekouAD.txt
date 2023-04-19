@@ -2830,9 +2830,10 @@ pstatp.com/growth/fe_sdk/bannersdk
 ||pufei.cc/skin/middle.js
 js/yys/Pfhl365.js
 /vj1/
+/vh2/1*$third-party
+/v2/stats/1*/1*$third-party
 ||axutongxue.com/js/uuiiio.js
 .live:*/o.js
-/v2/stats/99*
 ||tz659.com/js/chapte*.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
