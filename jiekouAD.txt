@@ -3063,7 +3063,7 @@ manwa1.me,manwa2.me,manwa.me##[style*='15px'][style*='background-color:'][style*
 manwa1.me,manwa2.me,manwa.me##[style='transform-origin: left top; margin: 0px auto;']
 manwa1.me,manwa2.me,manwa.me##DIV.swiper-container.swiper-container-horizontal
 m.autohome.com.cn##ol > li,.evade-operate
-match.tdping.com##P[style='text-align:left;margin:0;']
+match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
 www.lezhutv.com##DIV[style*='vw; display: block;']
 yydstxt234.com##IMG[src^='/images/'][width='100%']
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
