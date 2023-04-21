@@ -5,6 +5,8 @@
 ! Total Count: 3407
 ! by: 酷安@大萌主
 ! Host
+||fthqzxq.cn^
+||wwgqqq.com^
 ||zdiwsb.live^
 ||zdmybl.xyz^
 ||zdobdg.fyi^
@@ -3394,6 +3396,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
 ##[style='width: 100%; height: 123.75px;']
 ##A[href*='/adjump/?']
+##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
 ##DIV[style='position: fixed; line-height: 100vh; width: 100vw; top: 0px; left: 0px;']
