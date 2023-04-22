@@ -2859,6 +2859,7 @@ com/js/lp365.js
 ||y3600.cc/js/jquery.min.js
 ||shimo.im/lizard-api/ads
 /adjs
+.com/xz/*?token8=
 ||zhanzhang.baidu.com/push.js
 ||addthis.com/live/red_lojson/300lo.json
 /amp-analytics-
