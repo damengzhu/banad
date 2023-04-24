@@ -5,6 +5,10 @@
 ! Total Count: 3412
 ! by: 酷安@大萌主
 ! Host
+banners-cdn77.trafficfactory.biz
+wcdc5.com
+awdc6.com
+vijnhyru.xyz
 ||tfonlyuse.shop^
 ||ghghgf.xuexiwa.com^
 ||fthqzxq.cn^
@@ -3398,6 +3402,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style='width: 100%; height: auto; position: fixed; left: 0px; top: 0px; z-index: 2147483647;']
 ##[style='width: 100%; height: 123.75px;']
 ##A[href*='/adjump/?']
+##IMG[alt='五一特惠']
 ##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
 ##[style*='line-height: 115px; left: 0px; z-index: 0; width: 100vw; background: url']
