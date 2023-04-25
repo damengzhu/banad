@@ -5,6 +5,7 @@
 ! Total Count: 3426
 ! by: 酷安@大萌主
 ! Host
+||3yej.xyz^
 ||mdqhyxe.cn^
 ||ledni.xyz^
 ||oyxp.xyz^
@@ -2938,6 +2939,8 @@ _/bigREDdog.css?
 /api/getPos?jspath=/videos/view//
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
+.xyz/Kfc_
+.xyz/?token=
 ||addthis.com/live/
 ||xn--*.xn--fiqs8s:
 ||zhenbuka.com/gg/lunbo.js
