@@ -2,7 +2,7 @@
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
 #Total Count:2553
-#Update Time: 2023-04-25 14:12:30（北京时间） 
+#Update Time: 2023-04-25 14:46:54（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
