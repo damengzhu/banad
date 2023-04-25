@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2546
-! Update Time:2023-04-25 07:03:22（北京时间） 
+! Total Count:2553
+! Update Time:2023-04-25 14:12:30（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gdt.qq.com^
@@ -698,6 +698,7 @@
 ||exevcl.cn^
 ||eybstar.com^
 ||ezu6rd5.houge.in^
+||f23jjd8.xyz^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f8ejqxp.cn^
@@ -1206,6 +1207,7 @@
 ||lccfjszp.cn^
 ||lcdn.runative-syndicate.com^
 ||ledaren.cn^
+||ledni.xyz^
 ||leirsw.com^
 ||lekkrrlel.com^
 ||lendc.xyz^
@@ -1325,6 +1327,7 @@
 ||mcdwfed.cn^
 ||mclseww.top^
 ||mdkjefq.cn^
+||mdqhyxe.cn^
 ||mdt.qq.com^
 ||meaqcj.cn^
 ||meethanshi.com^
@@ -1507,6 +1510,7 @@
 ||owlunimmvn.com^
 ||oxj8hcfg.xyz^
 ||oyhurln.cn^
+||oyxp.xyz^
 ||p0y.cn^
 ||p1-feedback.byteimg.com^
 ||p26.gejulm*.com^
@@ -1642,6 +1646,7 @@
 ||qqq123987.site^
 ||qqqwww987.site^
 ||qqqwww987.space^
+||qqzbabc20.com^
 ||qrjxween.com^
 ||qscvli.com^
 ||qsj8fd.com^
@@ -1698,6 +1703,7 @@
 ||rljjt.cn^
 ||rlogs.youdao.com^
 ||rmpad.imtt.qq.com^
+||rmws8.com^
 ||rmzbfum.cn^
 ||rndhaunteran.com^
 ||rongedui.com^
@@ -2291,6 +2297,7 @@
 ||xianzhice.com^
 ||xiaobao8888.com^
 ||xiaodongrui.com^
+||xiaofangtongzhi.xy^
 ||xiaojifly.cn^
 ||xiaomifood.cn^
 ||xiaoqurong.com^

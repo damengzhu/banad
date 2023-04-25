@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2546
-#Update Time: 2023-04-25 07:03:22（北京时间） 
+#Total Count:2553
+#Update Time: 2023-04-25 14:12:30（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -699,6 +699,7 @@
 0.0.0.0 exevcl.cn
 0.0.0.0 eybstar.com
 0.0.0.0 ezu6rd5.houge.in
+0.0.0.0 f23jjd8.xyz
 0.0.0.0 f77j6t2b.com
 0.0.0.0 f77xv3.top
 0.0.0.0 f8ejqxp.cn
@@ -1207,6 +1208,7 @@
 0.0.0.0 lccfjszp.cn
 0.0.0.0 lcdn.runative-syndicate.com
 0.0.0.0 ledaren.cn
+0.0.0.0 ledni.xyz
 0.0.0.0 leirsw.com
 0.0.0.0 lekkrrlel.com
 0.0.0.0 lendc.xyz
@@ -1326,6 +1328,7 @@
 0.0.0.0 mcdwfed.cn
 0.0.0.0 mclseww.top
 0.0.0.0 mdkjefq.cn
+0.0.0.0 mdqhyxe.cn
 0.0.0.0 mdt.qq.com
 0.0.0.0 meaqcj.cn
 0.0.0.0 meethanshi.com
@@ -1508,6 +1511,7 @@
 0.0.0.0 owlunimmvn.com
 0.0.0.0 oxj8hcfg.xyz
 0.0.0.0 oyhurln.cn
+0.0.0.0 oyxp.xyz
 0.0.0.0 p0y.cn
 0.0.0.0 p1-feedback.byteimg.com
 0.0.0.0 p26.gejulm*.com
@@ -1643,6 +1647,7 @@
 0.0.0.0 qqq123987.site
 0.0.0.0 qqqwww987.site
 0.0.0.0 qqqwww987.space
+0.0.0.0 qqzbabc20.com
 0.0.0.0 qrjxween.com
 0.0.0.0 qscvli.com
 0.0.0.0 qsj8fd.com
@@ -1699,6 +1704,7 @@
 0.0.0.0 rljjt.cn
 0.0.0.0 rlogs.youdao.com
 0.0.0.0 rmpad.imtt.qq.com
+0.0.0.0 rmws8.com
 0.0.0.0 rmzbfum.cn
 0.0.0.0 rndhaunteran.com
 0.0.0.0 rongedui.com
@@ -2292,6 +2298,7 @@
 0.0.0.0 xianzhice.com
 0.0.0.0 xiaobao8888.com
 0.0.0.0 xiaodongrui.com
+0.0.0.0 xiaofangtongzhi.xy
 0.0.0.0 xiaojifly.cn
 0.0.0.0 xiaomifood.cn
 0.0.0.0 xiaoqurong.com
