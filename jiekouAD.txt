@@ -5,6 +5,13 @@
 ! Total Count: 3417
 ! by: 酷安@大萌主
 ! Host
+||mdqhyxe.cn^
+||ledni.xyz^
+||oyxp.xyz^
+||xiaofangtongzhi.xy^
+||f23jjd8.xyz^
+||qqzbabc20.com^
+||rmws8.com^
 ||banners-cdn77.trafficfactory.biz^
 ||wcdc5.com^
 ||awdc6.com^
@@ -2825,6 +2832,8 @@ pstatp.com/growth/fe_sdk/bannersdk
 ||yxdm.tv/js/gad.js
 .live/ty/*-*-*
 .cyou/xling_*_
+xyz/kallss?
+xyz/stimulus?
 ||91mjw.com/hy-66-90.php
 ||omlube.com/O/1000970O3001405O1O.js
 ||5dm.tv/html/5dmm.jpg
