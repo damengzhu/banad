@@ -3411,6 +3411,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style='width: 100%; height: 123.75px;']
 ##A[href*='/adjump/?']
 ##IMG[alt='五一特惠']
+##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
 ##div > SCRIPT[data-url] ~ div
 ##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
