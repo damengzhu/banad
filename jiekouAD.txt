@@ -3322,6 +3322,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ###mobile-index > div#vodbm
 ##[onclick*='www.l4lui.com'],.col-12.position-relative>b
 ##.theme-dark > .ayx > a
+##DIV.ad_js
 ##A[href='http://x5123.cc/']
 ##a > IMG[src$='.gif'][wapsrc][style^='width: 100%']
 ##a > I.gg-icon
