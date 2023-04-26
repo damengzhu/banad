@@ -2944,6 +2944,8 @@ _/bigREDdog.css?
 /v0/amp-addthis-*.js
 .xyz/Kfc_
 .xyz/?token=
+.shop:*/bid?url=
+.shop:*/ack?s=
 ||addthis.com/live/
 ||xn--*.xn--fiqs8s:
 ||zhenbuka.com/gg/lunbo.js
