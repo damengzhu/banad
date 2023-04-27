@@ -2943,6 +2943,7 @@ _/bigREDdog.css?
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
 .xyz/Kfc_
+.xyz/xtub_
 .xyz/?token=
 .shop:*/bid?url=
 .shop:*/ack?s=
