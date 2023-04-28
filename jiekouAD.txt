@@ -5,6 +5,8 @@
 ! Total Count: 3436
 ! by: 酷安@大萌主
 ! Host
+||dfghaqea.xyz^
+||dertyhsf.xyz^
 ||10090dfs.com^
 ||wxddid.cn^
 ||asklcnlkacnklnl.com^
@@ -3422,6 +3424,9 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style='width: 100%; height: 123.75px;']
 ##A[href*='/adjump/?']
 ##IMG[alt='五一特惠']
+##div.stui-player.col-pd DIV[style='text-align:center']
+##div#hengfu_wap_vod_xia > a
+##div.mobile > div.content IMG[src*='.gif']
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !']
 ##body#nr_body.nr_all.c_nr > div > div[id][class] > [href]
 ##[style='text-align: center; margin: 40px 0; color: blue; font-size: larger;']
