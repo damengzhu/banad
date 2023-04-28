@@ -2568,6 +2568,7 @@
 ! URL
 @@||manwa.me^
 @@||cdn-msp*.18comic.*^
+@@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@||qhres2.com^$domain=baike.so.com
 @@||pagead2.googlesyndication.com^$domain=myqqjd.com
