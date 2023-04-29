@@ -5,6 +5,8 @@
 ! Total Count: 3447
 ! by: 酷安@大萌主
 ! Host
+||antheaceliacd.com^
+||dyhnbgtsl.xyz^
 ||ip1398.com^
 ||qmfcybwbf16.com^
 ||qmfcybwbf28.com^
@@ -2917,6 +2919,8 @@ dingbu.*.*.*/*.add$third-party
 .icu/*_*_*.js$third-party
 .xyz/base*.js?$third-party
 /show_ads_
+.cn/bid?url=*$third-party
+.cn/ack?s=*$third-party
 /js/pingbi.js
 _/bigREDcat.css?
 /baidu/tg.js
