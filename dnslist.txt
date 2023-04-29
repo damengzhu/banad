@@ -2,11 +2,10 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2564
-! Update Time:2023-04-29 19:01:22（北京时间） 
+! Total Count:2546
+! Update Time:2023-04-29 21:06:50（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
-||*.gdt.qq.com^
 ||*.gentags.net^
 ||*.getui.com^
 ||*.go.sohu.com^
@@ -187,7 +186,6 @@
 ||abtest.alibaba.com^
 ||abtt.pufenchuanmu.com^
 ||access.toggle.qq.com^
-||access1.tpns.tencent.com^
 ||acgshenshicha.cn^
 ||ackcdn.net^
 ||acs4baichuan.m.taobao.com^
@@ -234,7 +232,6 @@
 ||advertpay-vip-ssl.xunlei.com^
 ||adx-open-service.youku.com^
 ||aefmbeq.cn^
-||aegis.qq.com^
 ||af31f.site^
 ||afablca.cn^
 ||afcav.com^
@@ -358,7 +355,6 @@
 ||bdhcpll.cn^
 ||bea-s.dinghuoche.com^
 ||beacon-api.aliyuncs.com^
-||beacon.qq.com^
 ||beap.gemini.yahoo.com^
 ||beatricecathy.com^
 ||become.songche.net^
@@ -395,7 +391,6 @@
 ||bsdgjmy.com^
 ||bswsmlp.cn^
 ||btgoo.cc^
-||btrace.qq.com^
 ||bugly.qq.com^
 ||bujiangjiu123.com^
 ||bulisite.top^
@@ -447,7 +442,6 @@
 ||ceh.cehbh.com^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||cfepws.com^
-||cfg.imtt.qq.com^
 ||cgigc.com.cn^
 ||cgmalight.com^
 ||changshuohr.net^
@@ -649,7 +643,6 @@
 ||dyhnbgtsl.xyz^
 ||dykeep.com^
 ||e.kuaishou.com^
-||e.qq.com^
 ||e49.xyz^
 ||eabids.com^
 ||eblnzoq.cn^
@@ -784,7 +777,6 @@
 ||gdls114.com^
 ||gdoibwfvjqf.com^
 ||gdsoq.com^
-||gdt.qq.com^
 ||gdtimg.com^
 ||gdzshoes.com^
 ||geoparker.net^
@@ -1266,8 +1258,6 @@
 ||log.daqi.com^
 ||log.music.baidu.com^
 ||log.snssdk.com^
-||log.tbs.qq.com^
-||log.tpns.tencent.com^
 ||log.vdisk.cn^
 ||log.zongheng.com^
 ||logs.amap.com^
@@ -1352,7 +1342,6 @@
 ||mg.zgcqxjzny.cn^
 ||mgivkqk.cn^
 ||mhslbgk.cn^
-||mi.gdt.qq.com^
 ||mikongdd.top^
 ||mindopu.com^
 ||mingtians.top^
@@ -1391,7 +1380,6 @@
 ||mssdhde.cn^
 ||mssdk-bu.bytedance.com^
 ||mtawcy.xyz^
-||mtrace.qq.com^
 ||muchenzhongguo.com^
 ||mudroom.aquadisco.xyz^
 ||muhnbc.cn^
@@ -1541,13 +1529,11 @@
 ||pfiparts.com^
 ||pfjzzl.com^
 ||pflrv.cn^
-||pgdt.gtimg.cn^
 ||pglstatp-toutiao.com^
 ||phoorned.com^
 ||phputils.wc-os.com^
 ||piaochong.co^
 ||pimlog.baidu.com^
-||pingfore.qq.com^
 ||pingma.qq.com^
 ||pix.us.criteo.net^
 ||pj3f7.xyz^
@@ -1711,7 +1697,6 @@
 ||rkzby.cn^
 ||rljjt.cn^
 ||rlogs.youdao.com^
-||rmpad.imtt.qq.com^
 ||rmws8.com^
 ||rmzbfum.cn^
 ||rndhaunteran.com^
@@ -1720,7 +1705,6 @@
 ||rou3.xyz^
 ||rpahyhn.cn^
 ||rpkcqtf.cn^
-||rqd.qq.com^
 ||rr.tracker.mobiletracking.ru^
 ||rrgapzw.cn^
 ||rsvqlz.cn^
@@ -1920,7 +1904,6 @@
 ||taiqingjiu.com^
 ||tangk.top^
 ||taoyao.tech^
-||tbsone.imtt.qq.com^
 ||tc6tc.com^
 ||tcbox.baidu.com^
 ||tchkcc.cn^
@@ -1979,7 +1962,6 @@
 ||tovppl.cn^
 ||tqdpqq.com^
 ||tqmcj.cn^
-||trace.qq.com^
 ||track.hujiang.com^
 ||track.sohu.com^
 ||track.uc.cn^

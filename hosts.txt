@@ -1,13 +1,12 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2564
-#Update Time: 2023-04-29 19:01:22（北京时间） 
+#Total Count:2546
+#Update Time: 2023-04-29 21:06:50（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
 0.0.0.0 *.aty.sohu.com
-0.0.0.0 *.gdt.qq.com
 0.0.0.0 *.gentags.net
 0.0.0.0 *.getui.com
 0.0.0.0 *.go.sohu.com
@@ -188,7 +187,6 @@
 0.0.0.0 abtest.alibaba.com
 0.0.0.0 abtt.pufenchuanmu.com
 0.0.0.0 access.toggle.qq.com
-0.0.0.0 access1.tpns.tencent.com
 0.0.0.0 acgshenshicha.cn
 0.0.0.0 ackcdn.net
 0.0.0.0 acs4baichuan.m.taobao.com
@@ -235,7 +233,6 @@
 0.0.0.0 advertpay-vip-ssl.xunlei.com
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 aefmbeq.cn
-0.0.0.0 aegis.qq.com
 0.0.0.0 af31f.site
 0.0.0.0 afablca.cn
 0.0.0.0 afcav.com
@@ -359,7 +356,6 @@
 0.0.0.0 bdhcpll.cn
 0.0.0.0 bea-s.dinghuoche.com
 0.0.0.0 beacon-api.aliyuncs.com
-0.0.0.0 beacon.qq.com
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 beatricecathy.com
 0.0.0.0 become.songche.net
@@ -396,7 +392,6 @@
 0.0.0.0 bsdgjmy.com
 0.0.0.0 bswsmlp.cn
 0.0.0.0 btgoo.cc
-0.0.0.0 btrace.qq.com
 0.0.0.0 bugly.qq.com
 0.0.0.0 bujiangjiu123.com
 0.0.0.0 bulisite.top
@@ -448,7 +443,6 @@
 0.0.0.0 ceh.cehbh.com
 0.0.0.0 ceshi127722.obs.cn-north-4.myhuaweicloud.com
 0.0.0.0 cfepws.com
-0.0.0.0 cfg.imtt.qq.com
 0.0.0.0 cgigc.com.cn
 0.0.0.0 cgmalight.com
 0.0.0.0 changshuohr.net
@@ -650,7 +644,6 @@
 0.0.0.0 dyhnbgtsl.xyz
 0.0.0.0 dykeep.com
 0.0.0.0 e.kuaishou.com
-0.0.0.0 e.qq.com
 0.0.0.0 e49.xyz
 0.0.0.0 eabids.com
 0.0.0.0 eblnzoq.cn
@@ -785,7 +778,6 @@
 0.0.0.0 gdls114.com
 0.0.0.0 gdoibwfvjqf.com
 0.0.0.0 gdsoq.com
-0.0.0.0 gdt.qq.com
 0.0.0.0 gdtimg.com
 0.0.0.0 gdzshoes.com
 0.0.0.0 geoparker.net
@@ -1267,8 +1259,6 @@
 0.0.0.0 log.daqi.com
 0.0.0.0 log.music.baidu.com
 0.0.0.0 log.snssdk.com
-0.0.0.0 log.tbs.qq.com
-0.0.0.0 log.tpns.tencent.com
 0.0.0.0 log.vdisk.cn
 0.0.0.0 log.zongheng.com
 0.0.0.0 logs.amap.com
@@ -1353,7 +1343,6 @@
 0.0.0.0 mg.zgcqxjzny.cn
 0.0.0.0 mgivkqk.cn
 0.0.0.0 mhslbgk.cn
-0.0.0.0 mi.gdt.qq.com
 0.0.0.0 mikongdd.top
 0.0.0.0 mindopu.com
 0.0.0.0 mingtians.top
@@ -1392,7 +1381,6 @@
 0.0.0.0 mssdhde.cn
 0.0.0.0 mssdk-bu.bytedance.com
 0.0.0.0 mtawcy.xyz
-0.0.0.0 mtrace.qq.com
 0.0.0.0 muchenzhongguo.com
 0.0.0.0 mudroom.aquadisco.xyz
 0.0.0.0 muhnbc.cn
@@ -1542,13 +1530,11 @@
 0.0.0.0 pfiparts.com
 0.0.0.0 pfjzzl.com
 0.0.0.0 pflrv.cn
-0.0.0.0 pgdt.gtimg.cn
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 phoorned.com
 0.0.0.0 phputils.wc-os.com
 0.0.0.0 piaochong.co
 0.0.0.0 pimlog.baidu.com
-0.0.0.0 pingfore.qq.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pix.us.criteo.net
 0.0.0.0 pj3f7.xyz
@@ -1712,7 +1698,6 @@
 0.0.0.0 rkzby.cn
 0.0.0.0 rljjt.cn
 0.0.0.0 rlogs.youdao.com
-0.0.0.0 rmpad.imtt.qq.com
 0.0.0.0 rmws8.com
 0.0.0.0 rmzbfum.cn
 0.0.0.0 rndhaunteran.com
@@ -1721,7 +1706,6 @@
 0.0.0.0 rou3.xyz
 0.0.0.0 rpahyhn.cn
 0.0.0.0 rpkcqtf.cn
-0.0.0.0 rqd.qq.com
 0.0.0.0 rr.tracker.mobiletracking.ru
 0.0.0.0 rrgapzw.cn
 0.0.0.0 rsvqlz.cn
@@ -1921,7 +1905,6 @@
 0.0.0.0 taiqingjiu.com
 0.0.0.0 tangk.top
 0.0.0.0 taoyao.tech
-0.0.0.0 tbsone.imtt.qq.com
 0.0.0.0 tc6tc.com
 0.0.0.0 tcbox.baidu.com
 0.0.0.0 tchkcc.cn
@@ -1980,7 +1963,6 @@
 0.0.0.0 tovppl.cn
 0.0.0.0 tqdpqq.com
 0.0.0.0 tqmcj.cn
-0.0.0.0 trace.qq.com
 0.0.0.0 track.hujiang.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.uc.cn
