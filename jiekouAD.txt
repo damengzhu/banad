@@ -1063,7 +1063,6 @@
 ||mdt.qq.com^
 ||toggle.qq.com^
 ||ctobsnssdk.com^
-||beacon.qq.com^
 ||umeng.com^
 ||xhkvff.cn^
 ||poqwua.cn^
@@ -2328,7 +2327,6 @@
 ||adhdsb.cn^
 ||b1.51yangsheng.com^
 ||b2.51yangsheng.com^
-||btrace.qq.com^
 ||gorgon.youdao.com^
 ||rlogs.youdao.com^
 ||jxbtl.com^
@@ -2345,7 +2343,6 @@
 ||seordl.cn^
 ||ayidaye.m.zwdu.com^
 ||m.gz-bz.cn^
-||gdt.qq.com^
 ||qutyan8848.com^
 ||sixiuwl.cn^
 ||jytjw.com^
@@ -2395,7 +2392,6 @@
 ||tracking.miui.com^
 ||*.umengcloud.com^
 ||hmma.baidu.com^
-||e.qq.com^
 ||e.kuaishou.com^
 ||api-access.pangolin-sdk-toutiao-*.com^
 ||api.installer.xiaomi.com^
@@ -2403,11 +2399,9 @@
 ||sdkconfig.ad.xiaomi.com^
 ||api.ad.xiaomi.com^
 ||worldwide.sogou.com^
-||trace.qq.com^
 ||tools.3g.qq.com^
 ||bugly.qq.com^
 ||shuzilm.cn^
-||access1.tpns.tencent.com^
 ||dm.toutiao.com^
 ||gdtimg.com^
 ||dm.bytedance.com^
@@ -2430,24 +2424,16 @@
 ||upgrade.xl9.xunlei.com^
 ||adapi.izuiyou.com^
 ||adstat.izuiyou.com^
-||*.gdt.qq.com^
 ||advertpay-vip-ssl.xunlei.com^
 ||qqdata.ab.qq.com^
 ||qappcenterv6.3g.qq.com^
 ||mob.com^
-||rqd.qq.com^
 ||adash.man.aliyuncs.com^
 ||norma-external-collect.meizu.com^
 ||soa-vip-ssl.xunlei.com^
 ||fumiad.dxys.pro^
-||aegis.qq.com^
 ||yun-hl.3g.qq.com^
-||pingfore.qq.com^
 ||ad-display.wikawika.xyz^
-||rmpad.imtt.qq.com^
-||tbsone.imtt.qq.com^
-||log.tbs.qq.com^
-||pgdt.gtimg.cn^
 ||sofire.baidu.com^
 ||dxp.baidu.com^
 ||tcbox.baidu.com^
@@ -2465,18 +2451,15 @@
 ||dataflow.biliapi.com^
 ||line1-log.biligame.net^
 ||*.irs03.com^
-||cfg.imtt.qq.com^
 ||o2o.api.xiaomi.com^
 ||si1.go2yd.com^
 ||a.market.xiaomi.com^
 ||i1.go2yd.com^
 ||fourier.taobao.com^
 ||dp3.qq.com^
-||mtrace.qq.com^
 ||omgid.qq.com^
 ||livep.l.qq.com^
 ||commdata.v.qq.com^
-||log.tpns.tencent.com^
 ||lives.l.qq.com^
 ||masdk.3g.qq.com^
 ||c.l.qq.com^
@@ -2569,7 +2552,6 @@
 ||android.bugly.qq.com^
 ||api-access.pangolin-sdk-toutiao.com^
 ||mobads.baidu.com^
-||mi.gdt.qq.com^
 ||tobapplog.ctobsnssdk.com^
 ||stat.meitudata.com^
 ! URL
