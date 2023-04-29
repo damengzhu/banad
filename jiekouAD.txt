@@ -5,6 +5,9 @@
 ! Total Count: 3441
 ! by: 酷安@大萌主
 ! Host
+||ip1398.com^
+||qmfcybwbf16.com^
+||qmfcybwbf28.com^
 ||dfghaqea.xyz^
 ||dertyhsf.xyz^
 ||10090dfs.com^
@@ -2797,6 +2800,9 @@ widgets.outbrain.com/outbrain.js
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
+.xyz/xxbbliffng
+.com/o.js$third-party
+.cc/o.js$third-party
 /gameapk/*/hongbao.apk
 /dibu.adadadad
 ||imanhuapi.com/style/js/mpmh.js
