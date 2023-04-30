@@ -5,6 +5,11 @@
 ! Total Count: 3435
 ! by: 酷安@大萌主
 ! Host
+||hkk456.cc^
+||zdo-bdg.xyz^
+||webnappy.com^
+||rksnqq.com^
+||lmx7.com^
 ||akcnkancklankl.com^
 ||junshi8181.com^
 ||antheaceliacd.com^
@@ -2907,6 +2912,16 @@ dingbu.*.*.*/*.add$third-party
 .cn/ack?s=*$third-party
 /js/pingbi.js
 _/bigREDcat.css?
+.xyz/bid?url=*
+.xyz/gif
+.xyz/ack?s=
+.top/qby_
+.xyz/ui_
+/static/zz*.js$third-party
+/static/o0*.js$third-party
+/static/ys*.js$third-party
+/static/mh*.js$third-party
+/static/ins.js$third-party
 /baidu/tg.js
 /baidu/189/999.php
 /new/21*.html
