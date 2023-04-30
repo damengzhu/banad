@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2548
-#Update Time: 2023-04-30 11:36:27（北京时间） 
+#Total Count:2553
+#Update Time: 2023-04-30 12:56:01（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -899,6 +899,7 @@
 0.0.0.0 hikin.online
 0.0.0.0 histats.com
 0.0.0.0 hjbqnwb.com
+0.0.0.0 hkk456.cc
 0.0.0.0 hladalliance.com
 0.0.0.0 hlalliances.com
 0.0.0.0 hlzyb.cn
@@ -1254,6 +1255,7 @@
 0.0.0.0 lm865.com
 0.0.0.0 lm882.com
 0.0.0.0 lm995.com
+0.0.0.0 lmx7.com
 0.0.0.0 lmxxxz.com
 0.0.0.0 log-api.pangolin-sdk-toutiao-*.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
@@ -1697,6 +1699,7 @@
 0.0.0.0 richshredinger.com
 0.0.0.0 rinshy17.xyz
 0.0.0.0 rizihao.top
+0.0.0.0 rksnqq.com
 0.0.0.0 rkzby.cn
 0.0.0.0 rljjt.cn
 0.0.0.0 rlogs.youdao.com
@@ -2100,6 +2103,7 @@
 0.0.0.0 wdpkx.cn
 0.0.0.0 wdswgjn.cn
 0.0.0.0 wdzwd.xyz
+0.0.0.0 webnappy.com
 0.0.0.0 websitequan.com
 0.0.0.0 wefoidnknsl.net
 0.0.0.0 wegowan.com
@@ -2491,6 +2495,7 @@
 0.0.0.0 zdkjr.xyz
 0.0.0.0 zdlnhv.xyz
 0.0.0.0 zdmybl.xyz
+0.0.0.0 zdo-bdg.xyz
 0.0.0.0 zdobdg.fyi
 0.0.0.0 zdx25.site
 0.0.0.0 zdx30.site
