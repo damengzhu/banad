@@ -2932,7 +2932,7 @@ baidu.com##a.ball-wrapper__3BTBO.c-blocka
 m.baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 m.baidu.com##DIV.barea-ad
 m.baidu.com##DIV[data-module='rec:undefined-undefined']
-www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click="{"]
+www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click]
 m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 hanyu.baidu.com##DIV.fengchao-el
@@ -2949,7 +2949,7 @@ jingyan.baidu.com##div.asp-self-rander > DIV.asp-wrap
 jingyan.baidu.com###wrapper > div.exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
 baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
-zhidao.baidu.com##[id='knowledge-answer-list']
+zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 bing.com##DIV#bnp_container
 bing.com##.b_ad
