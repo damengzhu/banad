@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2553
-! Update Time:2023-05-01 17:41:15（北京时间） 
+! Total Count:2505
+! Update Time:2023-05-01 20:24:16（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gentags.net^
@@ -47,8 +47,6 @@
 ||0yq00i.cn^
 ||10090dfs.com^
 ||1017facai8.xyz^
-||1074.a.dlads.cn^
-||1074.dlads.cn^
 ||109218er.xyz^
 ||1104piaoba2022.xyz^
 ||1105yh.com^
@@ -80,14 +78,10 @@
 ||2431.vainews.cn^
 ||24klm.cn^
 ||24klm.net^
-||2725.dlads.cn^
-||2785.chushoushijian.cn^
-||2785.dlads.cn^
 ||2g9x9uf.cn^
 ||2pogg4c.cn^
 ||32.huanqiu.com^
 ||3269x.com^
-||35kn0fn.1kanz.cn^
 ||36htg.fun^
 ||387635.com^
 ||3q3l.cn^
@@ -168,13 +162,11 @@
 ||9xf9qkz5.com^
 ||a-mo.net^
 ||a.breaktime.com.tw^
-||a.exdynsrv.com^
 ||a.market.xiaomi.com^
 ||a.wzu.com^
 ||a0b22.com^
 ||a1.itc.cn^
 ||a168888.top^
-||a2.zhanzhang.net^
 ||a48505.cn^
 ||a4sz.xyz^
 ||aac.kegood.com^
@@ -185,7 +177,6 @@
 ||abtest-ch.snssdk.com^
 ||abtest.alibaba.com^
 ||abtt.pufenchuanmu.com^
-||access.toggle.qq.com^
 ||acgshenshicha.cn^
 ||ackcdn.net^
 ||acs4baichuan.m.taobao.com^
@@ -273,7 +264,6 @@
 ||analyse.weather.com.cn^
 ||analytics.163.com^
 ||ancheonyo.fun^
-||android.bugly.qq.com^
 ||annelinterv.fun^
 ||antheaceliacd.com^
 ||aobuygo.com^
@@ -287,7 +277,6 @@
 ||aparvibices.com^
 ||apfobmfr.cn^
 ||api-access.pangolin-sdk-toutiao-*.com^
-||api-access.pangolin-sdk-toutiao.com^
 ||api-shoulei-ssl.xunlei.com^
 ||api.06fgej.com^
 ||api.1101yh.com^
@@ -376,7 +365,6 @@
 ||birjkhm.cn^
 ||biz.weibo.com^
 ||bjkedv*.xyz^
-||bjkedvvelwf.xyz^
 ||bl.emotionalworld.cn^
 ||blsenpg.cn^
 ||blvhq.com^
@@ -397,11 +385,9 @@
 ||bulisite.top^
 ||buyihao.com^
 ||buzien.top^
-||bv.lyszsz.cn^
 ||bwdhuanbao.com^
 ||bxwccii.cn^
 ||c-gtc.getui.net^
-||c.bdhcpll.cn^
 ||c.l.qq.com^
 ||c.leankun.com^
 ||cad.youku.com^
@@ -423,7 +409,6 @@
 ||cdn.7nsc.cn^
 ||cdn.9823df.com^
 ||cdn.anyshare.icu^
-||cdn.betgorebysson.club^
 ||cdn.creative-bars1.com^
 ||cdn.hanaya-m.com^
 ||cdn.holmesmind.com^
@@ -484,7 +469,6 @@
 ||cncnails.net^
 ||cns.wxdal.cn^
 ||cnzz.com^
-||cnzz.mmstat.com^
 ||collector.dcdn.baidu.com^
 ||collegepre.net^
 ||commdata.v.qq.com^
@@ -868,7 +852,6 @@
 ||haoyongdm.com^
 ||haoyundm.com^
 ||haoyundmtaotao.com^
-||happy.new.year.kanwby.com^
 ||hasdser.com^
 ||hbandier.com^
 ||hbv.tobeacon.cn^
@@ -1091,7 +1074,6 @@
 ||js.keeyekey.xyz^
 ||js.loveshop8.com^
 ||js.moeamv.com^
-||js.mosflower.cn^
 ||js.whfyhouse.com^
 ||js.ysfzf.cn^
 ||js6.efyt6.com^
@@ -1160,7 +1142,6 @@
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
 ||kmr.enrosr.cn^
-||kmt.cslpf.cn^
 ||kmyiubbv.xyz^
 ||kmzayrt.cn^
 ||knbtpty.xyz^
@@ -1207,7 +1188,6 @@
 ||larbcc.xyz^
 ||launchingonsetwhirlwind.com^
 ||lccfjszp.cn^
-||lcdn.runative-syndicate.com^
 ||ledaren.cn^
 ||ledni.xyz^
 ||leirsw.com^
@@ -1257,7 +1237,6 @@
 ||lmx7.com^
 ||lmxxxz.com^
 ||log-api.pangolin-sdk-toutiao-*.com^
-||log-api.pangolin-sdk-toutiao.com^
 ||log-sdk.ksapisrv.com^
 ||log.daqi.com^
 ||log.music.baidu.com^
@@ -1295,9 +1274,7 @@
 ||lzjzyjh.com^
 ||lzljhs.com^
 ||lzzzjx.xyz^
-||m.56fba.cn^
 ||m.atm.youku.com^
-||m.chinachooses.com^
 ||m.do.downcdn.top^
 ||m.ffowo.com^
 ||m.gz-bz.cn^
@@ -1392,7 +1369,6 @@
 ||mvlkvth.cn^
 ||mwdwepok.xyz^
 ||mwzbp.iask.com.cn^
-||my.rtmark.net^
 ||myads.cc^
 ||myexpendd.xyz^
 ||mykch.top^
@@ -1496,7 +1472,6 @@
 ||ophwrh.cn^
 ||opjnbmk.com^
 ||opnked*.xyz^
-||opnkedfdye.xyz^
 ||oqjfekdkc.net^
 ||orange-dc.youku.com^
 ||orxsq.xyz^
@@ -1514,7 +1489,6 @@
 ||p1-feedback.byteimg.com^
 ||p26.gejulm*.com^
 ||pageview.kgsz.cn^
-||pageview.shenfire.cn^
 ||panchaxumbilic.com^
 ||pangolin-sdk-toutiao-b.com^
 ||pangolin-sdk-toutiao.com^
@@ -1539,14 +1513,12 @@
 ||piaochong.co^
 ||pimlog.baidu.com^
 ||pingma.qq.com^
-||pix.us.criteo.net^
 ||pj3f7.xyz^
 ||pjogndc8ixoidna.360doc.cn^
 ||pkjl00l.cn^
 ||playstats.v.duowan.com^
 ||pmensrl.cn^
 ||pmvlwjy.cn^
-||pn.sbdebcz.cn^
 ||poae2klya.icu^
 ||poasotha.com^
 ||poereawer.top^
@@ -1563,7 +1535,6 @@
 ||poqwua.cn^
 ||pos.baidu.com^
 ||postserviceuk.com^
-||poweredby.jads.co^
 ||ppedp.cn^
 ||ppyibei.com^
 ||pqjprom.cn^
@@ -1581,7 +1552,6 @@
 ||puqer.cn^
 ||push.m.youku.com^
 ||pv.cheshi.com^
-||pv.dakawm.cc^
 ||pv.quw1234.icu^
 ||pv.zhiding.cn^
 ||pvtest.zol.com.cn^
@@ -1734,12 +1704,9 @@
 ||s.ufile.cc^
 ||s.union.360.cn^
 ||s1.ssl.qhres.com^
-||s11.zhangyumo.top^
-||s3t3d2y7.ackcdn.net^
 ||s3t3d2y8.afcdn.net^
 ||s4te24u.com^
 ||s4zqj3m.cn^
-||s5.cnzz.com^
 ||s65m.win^
 ||saccac11.com^
 ||sacredperpetratorbasketball.com^
@@ -1868,7 +1835,6 @@
 ||stat.xgo.com.cn^
 ||static.cdnativepush.com^
 ||static.gridsumdissector.com^
-||static.lalaping.com^
 ||static.ptoahaistais.com^
 ||statics.woozooo.com^
 ||statics88.vip^
@@ -1894,7 +1860,6 @@
 ||sycrgc.xyz^
 ||sydz.tw^
 ||sygmtz.com^
-||syndication.realsrv.com^
 ||syr66.com.cn^
 ||sytclsb.cyou^
 ||szdaqi88.com^
@@ -1956,7 +1921,6 @@
 ||tnc3-alisc1.snssdk.com^
 ||tnc3-bjlgy.snssdk.com^
 ||tnjvz.cn^
-||tobapplog.ctobsnssdk.com^
 ||toggle.qq.com^
 ||toijr.xyz^
 ||tokendomain.xyz^
@@ -2019,8 +1983,6 @@
 ||uibjhqwkl.com^
 ||uiteligularly.fun^
 ||uk529u0.cn^
-||ulogs.umeng.com^
-||ulogs.umengcloud.com^
 ||um5xcgngmart.xyz^
 ||umbrellaomendear.com,^
 ||umdc.aliapp.org^
@@ -2074,8 +2036,6 @@
 ||viplp.top^
 ||vipwm.cc^
 ||vkjqbb.xyz^
-||vlets.kydb.xyz^
-||vm.aty.sohu.com^
 ||vnfjsus.xyz^
 ||vnvmif.cn^
 ||vokmhydy.xyz^
@@ -2142,7 +2102,6 @@
 ||wschao.xyz^
 ||wshlcgj.com^
 ||wsnew.cn^
-||wss.haoyundm.com^
 ||wtiaw.top^
 ||wuliao.jingyanben.com^
 ||wuplexv.cn^
@@ -2154,12 +2113,9 @@
 ||www.200ps.com^
 ||www.3aym.cn^
 ||www.517xx.com^
-||www.68710266.com^
-||www.88eg.cn^
 ||www.99tianxin.com^
 ||www.abblm.com^
 ||www.abcdlm.com^
-||www.abovede6.com^
 ||www.ad5lm.net^
 ||www.afmykaa.com^
 ||www.antailianmeng.com^
@@ -2259,7 +2215,6 @@
 ||www.xjwrq.com^
 ||www.xpdyqax.cn^
 ||www.xxmh*.com^
-||www.xxmh429.com^
 ||www.ynxjf.com^
 ||www.youzonggw.com^
 ||www.yueyuego.com^
@@ -2313,7 +2268,6 @@
 ||xkcxh.com^
 ||xkqit.com^
 ||xkzjq.cn^
-||xls.go.sohu.com^
 ||xmangoculture.com^
 ||xmkbrfyu.cn^
 ||xmlsxar.cn^
@@ -2383,7 +2337,6 @@
 ||yihehe.xyz^
 ||yijiahyvip.com^
 ||yijiayi07.top^
-||yiqitiao.chushoushijian.cn^
 ||yirendajiankang.com^
 ||yitongwl.cn^
 ||yk-ssp.ad.youku.com^
