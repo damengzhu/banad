@@ -2701,7 +2701,7 @@ chen-xing/figure_bed*
 *tplv-noop.gif*
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
-||163.com/wap/special/article_cooper_piapia/*
+||163.com/wap/special/article_cooper_piapia/
 ||qchannel03.cn$third-party
 ||templates_pc/default/scripts/chapter_bottom.js
 ||zxzj.me/slade2.js
@@ -2736,7 +2736,7 @@ widgets.outbrain.com/outbrain.js
 /obj/ad-app-package
 /yinghuacd/bottom.js
 ||baidu.com/rec?*=ad&
-||download.2345.cn/2345yd1/apk/*
+||download.2345.cn/2345yd1/apk/
 ||ifeng.com/showcode
 ||baidu.com/api/wapui/getrelatedbusiness
 ||music.163.com/weapi/activity/downloadpage/config/get
@@ -2802,8 +2802,8 @@ com/js/lp365.js
 ||zhanzhang.baidu.com/push.js
 /amp-analytics-
 .openx.
-.cfd/video/index/index/user_login/*
-hm.js/*
+.cfd/video/index/index/user_login/
+hm.js/
 /ad/dhgg.js
 /js/hhsyw.js
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
@@ -2870,7 +2870,7 @@ _/bigREDdog.css?
 .xyz/gatsby?$third-party
 .xyz/mithril?$third-party
 .xyz/xefeliffng_$third-party
-91porny.com/api/getPos?jspath=/*
+91porny.com/api/getPos?jspath=/
 /api/getPos?jspath=/videos/view//*
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
@@ -2879,7 +2879,7 @@ _/bigREDdog.css?
 .xyz/?token=
 .shop:*/bid?url=
 .shop:*/ack?s=
-||addthis.com/live/*
+||addthis.com/live/
 ||xn--*.xn--fiqs8s:
 ||zhenbuka.com/gg/lunbo.js
 ||zd518.cn/template/qpg6080/baidufx/baidufx.js
