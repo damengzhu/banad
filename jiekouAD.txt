@@ -2781,10 +2781,10 @@ xyz/stimulus?
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 js/yys/Pfhl365.js
-/vj1/$third-party
-/vj2/$third-party
+/vj1/*$third-party
+/vj2/*$third-party
 /v2/stats/9*$third-party
-/vh2/$third-party
+/vh2/*$third-party
 /v2/stats/1*/1*$third-party
 ||axutongxue.com/js/uuiiio.js
 .live:*/o.js
