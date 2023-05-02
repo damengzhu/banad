@@ -3052,6 +3052,8 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
+www.apkmirror.com##DIV.ains.ains-has-label
 guancha.cn##DIV.g_swiper_container
 guancha.cn##DIV.g_header44
 chinaso.com##DIV.wrap-toolbar
