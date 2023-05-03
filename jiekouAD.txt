@@ -5,6 +5,12 @@
 ! Total Count: 3367
 ! by: 酷安@大萌主
 ! Host
+||zdmbl.xyz^
+||mxevdii.cn^
+||smartnextusa.com^
+||dshapv.xyz^
+||kzjkexn.cn^
+||pepnsnq.cn^
 ||hkk456.cc^
 ||zdo-bdg.xyz^
 ||webnappy.com^
@@ -2760,6 +2766,8 @@ pstatp.com/growth/fe_sdk/bannersdk
 .cyou/xling_*_
 xyz/kallss?
 xyz/stimulus?
+/app/get*?t=*http$third-party
+.xyz/*?16$third-party
 ||91mjw.com/hy-66-90.php
 ||omlube.com/O/1000970O3001405O1O.js
 ||5dm.tv/html/5dmm.jpg
@@ -3352,6 +3360,10 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##A[href*='/adjump/?']
 ##IMG[alt='五一特惠']
 ##[ad_dot_url]
+##[src*='zdmbl.xyz']
+##I.fa.fa-close
+##IMG#diads
+##div.layout-box a > IMG[src*='.gif']
 ##div.stui-player.col-pd DIV[style='text-align:center']
 ##div#hengfu_wap_vod_xia > a
 ##div.mobile > div.content IMG[src*='.gif']
