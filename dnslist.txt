@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2505
-! Update Time:2023-05-03 12:10:00（北京时间） 
+! Total Count:2511
+! Update Time:2023-05-03 13:22:35（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gentags.net^
@@ -606,6 +606,7 @@
 ||drebz4f.shop^
 ||dreemdmbabys.oss-cn-guangzhou.aliyuncs.com^
 ||drfvtgbyk.xyz^
+||dshapv.xyz^
 ||dslenggui.com^
 ||dsqzk.cn^
 ||dt243100.com^
@@ -1177,6 +1178,7 @@
 ||kyzx.xyZ^
 ||kzchyhr.cn^
 ||kzgmpu.com^
+||kzjkexn.cn^
 ||l.glrcy.cn^
 ||l.ykimg.com^
 ||laawmmy.cn^
@@ -1369,6 +1371,7 @@
 ||mvlkvth.cn^
 ||mwdwepok.xyz^
 ||mwzbp.iask.com.cn^
+||mxevdii.cn^
 ||myads.cc^
 ||myexpendd.xyz^
 ||mykch.top^
@@ -1502,6 +1505,7 @@
 ||pdxubxc.cn^
 ||pejrq.xyz^
 ||pengauto.cn^
+||pepnsnq.cn^
 ||pexnjio.cn^
 ||pfdth.cn^
 ||pfiparts.com^
@@ -1797,6 +1801,7 @@
 ||slutcmail.com^
 ||smartmail.cyou^
 ||smartmuchang.com^
+||smartnextusa.com^
 ||smfjfgie.xyz^
 ||smtwm61.com^
 ||so.clzgd.com^
@@ -2446,6 +2451,7 @@
 ||zdkdwk.live^
 ||zdkjr.xyz^
 ||zdlnhv.xyz^
+||zdmbl.xyz^
 ||zdmybl.xyz^
 ||zdo-bdg.xyz^
 ||zdobdg.fyi^

@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2505
-#Update Time: 2023-05-03 12:10:00（北京时间） 
+#Total Count:2511
+#Update Time: 2023-05-03 13:22:35（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -607,6 +607,7 @@
 0.0.0.0 drebz4f.shop
 0.0.0.0 dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
 0.0.0.0 drfvtgbyk.xyz
+0.0.0.0 dshapv.xyz
 0.0.0.0 dslenggui.com
 0.0.0.0 dsqzk.cn
 0.0.0.0 dt243100.com
@@ -1178,6 +1179,7 @@
 0.0.0.0 kyzx.xyZ
 0.0.0.0 kzchyhr.cn
 0.0.0.0 kzgmpu.com
+0.0.0.0 kzjkexn.cn
 0.0.0.0 l.glrcy.cn
 0.0.0.0 l.ykimg.com
 0.0.0.0 laawmmy.cn
@@ -1370,6 +1372,7 @@
 0.0.0.0 mvlkvth.cn
 0.0.0.0 mwdwepok.xyz
 0.0.0.0 mwzbp.iask.com.cn
+0.0.0.0 mxevdii.cn
 0.0.0.0 myads.cc
 0.0.0.0 myexpendd.xyz
 0.0.0.0 mykch.top
@@ -1503,6 +1506,7 @@
 0.0.0.0 pdxubxc.cn
 0.0.0.0 pejrq.xyz
 0.0.0.0 pengauto.cn
+0.0.0.0 pepnsnq.cn
 0.0.0.0 pexnjio.cn
 0.0.0.0 pfdth.cn
 0.0.0.0 pfiparts.com
@@ -1798,6 +1802,7 @@
 0.0.0.0 slutcmail.com
 0.0.0.0 smartmail.cyou
 0.0.0.0 smartmuchang.com
+0.0.0.0 smartnextusa.com
 0.0.0.0 smfjfgie.xyz
 0.0.0.0 smtwm61.com
 0.0.0.0 so.clzgd.com
@@ -2447,6 +2452,7 @@
 0.0.0.0 zdkdwk.live
 0.0.0.0 zdkjr.xyz
 0.0.0.0 zdlnhv.xyz
+0.0.0.0 zdmbl.xyz
 0.0.0.0 zdmybl.xyz
 0.0.0.0 zdo-bdg.xyz
 0.0.0.0 zdobdg.fyi
