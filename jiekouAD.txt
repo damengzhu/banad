@@ -3351,6 +3351,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style='width: 100%; height: 123.75px;']
 ##A[href*='/adjump/?']
 ##IMG[alt='五一特惠']
+##[ad_dot_url]
 ##div.stui-player.col-pd DIV[style='text-align:center']
 ##div#hengfu_wap_vod_xia > a
 ##div.mobile > div.content IMG[src*='.gif']
