@@ -5,6 +5,10 @@
 ! Total Count: 3381
 ! by: 酷安@大萌主
 ! Host
+||zhixin.host^
+||9miwo.com^
+||acqc9.com^
+||022003xs.com^
 ||acsc10.com^
 ||js.kalvinbg.cn^
 ||zdmbl.xyz^
@@ -2889,6 +2893,7 @@ _/bigREDdog.css?
 .xyz/?token=
 .shop:*/bid?url=
 .shop:*/ack?s=
+.xyz/*_*_*.js$third-party
 ||addthis.com/live/
 ||xn--*.xn--fiqs8s:
 ||zhenbuka.com/gg/lunbo.js
@@ -3240,6 +3245,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##A[href^='http://www.kyty1119.com']
 ##A[href='http://kkyty29.cc/']
 ##[href*='.xacg.info/']
+##[style='box-sizing: border-box; position: relative; left: 0px; z-index: 912944; text-indent: -10em;']
+##body#nr_body.nr_all.c_nr > section[id]
 ##A[href^='https://chmjmff.com/']
 ##div.container > IFRAME[align][width][src][border][height]
 ##A[href^='https://d1-dm.online/go/']
