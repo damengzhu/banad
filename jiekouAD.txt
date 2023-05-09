@@ -5,6 +5,8 @@
 ! Total Count: 3390
 ! by: 酷安@大萌主
 ! Host
+||c0.ifengimg.com^
+||9fum.ifeng.com^
 ||adcd7.com^
 ||zhixin.host^
 ||9miwo.com^
@@ -2660,6 +2662,7 @@
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
+||ifeng.com/*&adids=
 .com/sh/to/$third-party
 .xyz/svelte?$third-party
 .xyz/alpine?$third-party
@@ -3068,6 +3071,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+ifeng.com##[href^='https://mall.ifeng.com'],IMG[src^='https://x0.ifengimg.com/']
 www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
 www.apkmirror.com##DIV.ains.ains-has-label
 guancha.cn##DIV.g_swiper_container
