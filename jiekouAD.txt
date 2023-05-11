@@ -5,6 +5,12 @@
 ! Total Count: 3394
 ! by: 酷安@大萌主
 ! Host
+||gujkj.cn^
+||zebjlt.buzz^
+||zebjlt.xyz^
+||bcidnfers.live^
+||cwandlf.top^
+||nogff.top^
 ||c0.ifengimg.com^
 ||9fum.ifeng.com^
 ||adcd7.com^
@@ -2856,6 +2862,8 @@ _/bigREDcat.css?
 .xyz/ack?s=
 .top/qby_
 .xyz/ui_
+.top/?token=$third-party
+.top/gluinfo.php?s=$third-party
 /static/zz*.js$third-party
 /static/o0*.js$third-party
 /static/ys*.js$third-party
