@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2521
-#Update Time: 2023-05-09 14:23:04（北京时间） 
+#Total Count:2527
+#Update Time: 2023-05-11 12:46:31（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -348,6 +348,7 @@
 0.0.0.0 bcbo.cc
 0.0.0.0 bcfeat2.com
 0.0.0.0 bcglkfu.cn
+0.0.0.0 bcidnfers.live
 0.0.0.0 bddwm.com
 0.0.0.0 bdhcpll.cn
 0.0.0.0 bea-s.dinghuoche.com
@@ -516,6 +517,7 @@
 0.0.0.0 cvsheil.com
 0.0.0.0 cw9twua9.shop
 0.0.0.0 cw9twuas.xyz
+0.0.0.0 cwandlf.top
 0.0.0.0 cwc494e.cn
 0.0.0.0 cx0001.cn
 0.0.0.0 cxs.mibaoge.com
@@ -826,6 +828,7 @@
 0.0.0.0 guangzhengtwentynine.top
 0.0.0.0 gubgonx.cn
 0.0.0.0 guiliangtechnology.com
+0.0.0.0 gujkj.cn
 0.0.0.0 guohexinxiang.com
 0.0.0.0 gwertyuadf.com
 0.0.0.0 gwg51.com
@@ -1429,6 +1432,7 @@
 0.0.0.0 nmm9i.xyz
 0.0.0.0 nmrdnqn.cn
 0.0.0.0 nnocsin.cn
+0.0.0.0 nogff.top
 0.0.0.0 norma-external-collect.meizu.com
 0.0.0.0 nourcomip.fun
 0.0.0.0 npftmqv.cn
@@ -2468,6 +2472,8 @@
 0.0.0.0 zdx25.site
 0.0.0.0 zdx30.site
 0.0.0.0 zdznsqb.com
+0.0.0.0 zebjlt.buzz
+0.0.0.0 zebjlt.xyz
 0.0.0.0 zero.wewakir.top
 0.0.0.0 zgdshoes.com
 0.0.0.0 zgfshoes.com

@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2521
-! Update Time:2023-05-09 14:23:04（北京时间） 
+! Total Count:2527
+! Update Time:2023-05-11 12:46:31（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gentags.net^
@@ -347,6 +347,7 @@
 ||bcbo.cc^
 ||bcfeat2.com^
 ||bcglkfu.cn^
+||bcidnfers.live^
 ||bddwm.com^
 ||bdhcpll.cn^
 ||bea-s.dinghuoche.com^
@@ -515,6 +516,7 @@
 ||cvsheil.com^
 ||cw9twua9.shop^
 ||cw9twuas.xyz^
+||cwandlf.top^
 ||cwc494e.cn^
 ||cx0001.cn^
 ||cxs.mibaoge.com^
@@ -825,6 +827,7 @@
 ||guangzhengtwentynine.top^
 ||gubgonx.cn^
 ||guiliangtechnology.com^
+||gujkj.cn^
 ||guohexinxiang.com^
 ||gwertyuadf.com^
 ||gwg51.com^
@@ -1428,6 +1431,7 @@
 ||nmm9i.xyz^
 ||nmrdnqn.cn^
 ||nnocsin.cn^
+||nogff.top^
 ||norma-external-collect.meizu.com^
 ||nourcomip.fun^
 ||npftmqv.cn^
@@ -2467,6 +2471,8 @@
 ||zdx25.site^
 ||zdx30.site^
 ||zdznsqb.com^
+||zebjlt.buzz^
+||zebjlt.xyz^
 ||zero.wewakir.top^
 ||zgdshoes.com^
 ||zgfshoes.com^
