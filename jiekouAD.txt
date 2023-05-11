@@ -3390,6 +3390,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##div.layout-box a > IMG[src*='.gif']
 ##div.stui-player.col-pd DIV[style='text-align:center']
 ##div#hengfu_wap_vod_xia > a
+##div.maomi-content A[href='/baidu/index.html']
 ##section > SPAN[style='display: block; clear: both; overflow: hidden;']
 ##[style^='position: fixed; bottom: 20%; z-index: 19999 !important; ']
 ##div.mobile > div.content IMG[src*='.gif']
