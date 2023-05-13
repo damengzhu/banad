@@ -2837,9 +2837,11 @@ hm.js/
 *.lijie.*/*_*?$third-party
 /zsls.com?s=
 .xyz/hm.html?s=
-mobi*.*.cyou/*_*$third-party
-mobi*.*.cam/*_*$third-party
-mobi*.*.xyz/*_*$third-party
+mobi*.*.cyou/*_$third-party
+mobi*.*.cam/*_$third-party
+mobi*.*.xyz/*_$third-party
+mobi*.*.top/*_$third-party
+/*_*_aubi.js$third-party
 dingbu.*.*.com/dingbu.$third-party
 .xyz/jque*.js?$third-party
 /blxn_*_*_*?*$third-party
