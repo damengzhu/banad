@@ -5,6 +5,7 @@
 ! Total Count: 3407
 ! by: 酷安@大萌主
 ! Host
+||eulaliadoradl.com^
 ||tjjd83.xyz^
 ||u346zd.top^
 ||gujkj.cn^
@@ -2782,6 +2783,8 @@ pstatp.com/growth/fe_sdk/bannersdk
 ||yxdm.tv/js/gad.js
 .live/ty/*-*-*
 .cyou/xling_*_
+.cn/bid?url=*$third-party
+.cn/o.js$third-party
 xyz/kallss?
 xyz/stimulus?
 /app/get*?t=*http$third-party
@@ -3100,6 +3103,9 @@ www.haijiao.com##DIV.addbox,DIV.bannerliststyle,DIV.van-swipe-item,DIV.crossbutt
 inews.qq.com,xw.qq.com##DIV.VideoArticleBottomAdContainer,DIV.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
 boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV[data-text-ad]
+###bottom_ads.hl_bottom_ads
+##A[href*='jialu6699h.vip']
+##DIV.adj
 ##A[href^='https://tv2356.cc']
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
