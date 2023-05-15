@@ -3422,7 +3422,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[src^='https://immmg.owowqrf.cn']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
-##P[style*='background: rgb(255, 255, 255) !important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
+##P[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##[href^='https://mtyshi.com/']
