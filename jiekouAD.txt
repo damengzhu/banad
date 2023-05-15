@@ -3396,6 +3396,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##A[href*='/adjump/?']
 ##IMG[alt='五一特惠']
 ##[ad_dot_url]
+##DIV#pos_nei_content
 ##[src*='zdmbl.xyz']
 ##I.fa.fa-close
 ##IMG#diads
