@@ -3406,6 +3406,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
 ##body.fed-min-width.website-read > [style='bottom: 132px;']
 ##center > div.hengfu
+##DIV.ad-content
 ##div.layout-box a > IMG[src*='.gif']
 ##div.stui-player.col-pd DIV[style='text-align:center']
 ##div#hengfu_wap_vod_xia > a
