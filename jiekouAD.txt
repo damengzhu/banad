@@ -5,6 +5,10 @@
 ! Total Count: 3426
 ! by: 酷安@大萌主
 ! Host
+||zewfbw.xyz^
+||zektch.xyz^
+||zektch.buzz^
+||zelpbp.buzz^
 ||zdvfpa.xyz^
 ||zeatse.buzz^
 ||5wl8x.xyz^
@@ -2827,6 +2831,7 @@ js/yys/Pfhl365.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
 Mplay/kk1.js
+.live/hm.js$third-party
 static/pull/qwe1021.js
 com/js/lp365.js
 ||qsptv.net/tpl/newstyle/js/pv.js
