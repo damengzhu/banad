@@ -5,6 +5,7 @@
 ! Total Count: 3432
 ! by: 酷安@大萌主
 ! Host
+||fronttoad.com^
 ||aliyunapi.org^
 ||zewfbw.xyz^
 ||zektch.xyz^
