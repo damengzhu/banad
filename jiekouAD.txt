@@ -3430,6 +3430,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##IMG[src^='http://socos.gitee.io/ss/poster'][alt][style='width: 100%;']
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
+##div.appad
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
