@@ -5,6 +5,8 @@
 ! Total Count: 3436
 ! by: 酷安@大萌主
 ! Host
+||xtpwfb.xyz^
+||czghjt.com^
 ||iplm.cc^
 ||fronttoad.com^
 ||aliyunapi.org^
@@ -3432,6 +3434,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
 ##div.appad
+##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
 ##a[href*=".com?s="]
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
