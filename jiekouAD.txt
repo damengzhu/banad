@@ -5,6 +5,9 @@
 ! Total Count: 3439
 ! by: 酷安@大萌主
 ! Host
+||qedvcu.com^
+||kszvmqo.cn^
+||dikmnhyxz.xyz^
 ||xtpwfb.xyz^
 ||czghjt.com^
 ||iplm.cc^
@@ -2710,6 +2713,8 @@
 ||jialingmm.net/dm/tj.js
 ||58jingxuan.top/115
 xmh/200/200-*.gif
+.com/qq.js$third-party
+.xyz/st?gp=*$third-party
 ||zhhbqg.com/xxgg/*.js
 ||zhhbqg.com/ee/*.js
 ||trafficstars.com$third-party
