@@ -3440,6 +3440,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
 ##div.appad
+##div#nr_body.nr_all.c_nr div.show-app2
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
 ##a[href*=".com?s="]
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
