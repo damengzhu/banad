@@ -5,6 +5,8 @@
 ! Total Count: 3450
 ! by: 酷安@大萌主
 ! Host
+||dohihf.com^
+||hrngmf.com^
 ||lgecqrb.com^
 ||nezqmud.com^
 ||qedvcu.com^
@@ -2698,6 +2700,7 @@
 .live/o.js
 .cyou/redbaiduct.com
 /js/news2zz.js
+.com:8001/*/*?t=$3p
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /site/mov*$third-party
