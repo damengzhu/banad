@@ -2932,6 +2932,7 @@ _/bigREDdog.css?
 /api/getPos?jspath=/videos/view//*
 /s/page_runtime_*.js
 /v0/amp-addthis-*.js
+.com:8010/cc/
 .xyz/Kfc_
 .xyz/xtub_
 .xyz/?token=
@@ -3443,6 +3444,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
 ##div.appad
+##.cupfox-content.right,.cupfox-content.left
 ##DIV.row.no-gutters.m-0
 ##DIV#top-ads
 ##DIV#bottom-ads
