@@ -2524,7 +2524,6 @@
 ||*.go.sohu.com^
 ||zz.bdstatic.com^
 ||tsearch.snssdk.com^
-||zhanzhang.toutiao.com^
 ||fclick.baidu.com^
 ||ssp.qq.com^
 ||ecmb.bdimg.com^
