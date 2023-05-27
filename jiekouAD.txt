@@ -2988,11 +2988,11 @@ baidu.com##.rel-exp-feed-ad-item
 baidu.com###qtqy_container
 baidu.com##div.se-recommend-word-list,#se-recommend-word-list-container
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
-m.baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
-m.baidu.com##DIV.barea-ad
-m.baidu.com##DIV[data-module='rec:undefined-undefined']
+baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
+baidu.com##DIV.barea-ad
+baidu.com##DIV[data-module='rec:undefined-undefined']
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click]
-m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
+baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
 hanyu.baidu.com##DIV.fengchao-el
 fanyi.baidu.com##H1,H3,DIV.intro-nav.clearfix,DIV.intro-copyrigh,A.app-bar,DIV.intro-copyright
