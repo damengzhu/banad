@@ -5,6 +5,7 @@
 ! Total Count: 3458
 ! by: 酷安@大萌主
 ! Host
+||zaiyuanyqq.com^
 ||187388.com^
 ||zevbzn.xyz^
 ||mfoevvy.com^
@@ -3117,6 +3118,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+so.toutiao.com##DIV[id^='ad_']
 ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
 www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
 www.apkmirror.com##DIV.ains.ains-has-label
