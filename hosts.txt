@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2556
-#Update Time: 2023-05-30 16:34:50（北京时间） 
+#Total Count:2575
+#Update Time: 2023-05-31 12:47:10（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -85,6 +85,7 @@
 0.0.0.0 2pogg4c.cn
 0.0.0.0 32.huanqiu.com
 0.0.0.0 3269x.com
+0.0.0.0 3400.org
 0.0.0.0 36htg.fun
 0.0.0.0 387635.com
 0.0.0.0 3q3l.cn
@@ -307,6 +308,7 @@
 0.0.0.0 applog.uc.cn
 0.0.0.0 appsupport.qq.com
 0.0.0.0 apptime.xyz
+0.0.0.0 aquvg.com
 0.0.0.0 arkn81.com
 0.0.0.0 arts-cloud.net
 0.0.0.0 arwh3scr.world
@@ -475,6 +477,7 @@
 0.0.0.0 clw99.mobi
 0.0.0.0 cmbkgmx.cn
 0.0.0.0 cmgjqqu.cn
+0.0.0.0 cmh2pw.com
 0.0.0.0 cmpxaup.cn
 0.0.0.0 cmspapp83.com
 0.0.0.0 cmspapp84.com
@@ -761,6 +764,7 @@
 0.0.0.0 fuentekj.com
 0.0.0.0 fujifood.hk
 0.0.0.0 fujincenter.com
+0.0.0.0 fumanhua88.info
 0.0.0.0 fumiad.dxys.pro
 0.0.0.0 fvffd678.xyz
 0.0.0.0 fwmbjrl.cn
@@ -874,6 +878,7 @@
 0.0.0.0 haoyundmtaotao.com
 0.0.0.0 hasdser.com
 0.0.0.0 hbandier.com
+0.0.0.0 hbkunye.com
 0.0.0.0 hbv.tobeacon.cn
 0.0.0.0 hbzhenquan.cn
 0.0.0.0 hbzshoes.com
@@ -1163,6 +1168,7 @@
 0.0.0.0 kmgfjc.cn
 0.0.0.0 kmhmyaj.cn
 0.0.0.0 kminker.xyz
+0.0.0.0 kmn1sk.com
 0.0.0.0 kmnhbr.xyz
 0.0.0.0 kmpl.rnqxp.cn
 0.0.0.0 kmpxq.cn
@@ -1376,6 +1382,7 @@
 0.0.0.0 mob.com
 0.0.0.0 mobads.baidu.com
 0.0.0.0 mobrkbb.com
+0.0.0.0 mojoplain.com
 0.0.0.0 monsteredward.com
 0.0.0.0 mosangkeji.com
 0.0.0.0 mosflower.cn
@@ -1406,6 +1413,7 @@
 0.0.0.0 mykch.top
 0.0.0.0 mylmad.com
 0.0.0.0 mywb3.com
+0.0.0.0 mzqf1.com
 0.0.0.0 mzwzo.cn
 0.0.0.0 mzxvib.com
 0.0.0.0 mzya5718.xyz
@@ -1478,6 +1486,7 @@
 0.0.0.0 ognujxj.cn
 0.0.0.0 ohchehw.cn
 0.0.0.0 oi9rp7.online
+0.0.0.0 oiewpw.com
 0.0.0.0 oiknldwlkop.com
 0.0.0.0 oikqwnm.com
 0.0.0.0 oinjkenwok.xyz
@@ -1552,6 +1561,7 @@
 0.0.0.0 pjogndc8ixoidna.360doc.cn
 0.0.0.0 pkjl00l.cn
 0.0.0.0 playstats.v.duowan.com
+0.0.0.0 plmn5.com
 0.0.0.0 pmensrl.cn
 0.0.0.0 pmvlwjy.cn
 0.0.0.0 poae2klya.icu
@@ -1572,6 +1582,7 @@
 0.0.0.0 postserviceuk.com
 0.0.0.0 ppedp.cn
 0.0.0.0 ppyibei.com
+0.0.0.0 pqd.org
 0.0.0.0 pqjprom.cn
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prdohgp.cn
@@ -1791,6 +1802,7 @@
 0.0.0.0 shengminsy.com
 0.0.0.0 shenhl.top
 0.0.0.0 shenlinlive.cn
+0.0.0.0 shentongjiakao.ren
 0.0.0.0 shigl.top
 0.0.0.0 shijixinrui.cn
 0.0.0.0 shixiong.xyz
@@ -1985,6 +1997,7 @@
 0.0.0.0 trustedcpmrevenue.com
 0.0.0.0 tsck.online
 0.0.0.0 tsearch.snssdk.com
+0.0.0.0 tslianm.com
 0.0.0.0 tsyndicate.com
 0.0.0.0 ttly888.com
 0.0.0.0 ttvosc.com
@@ -2002,6 +2015,7 @@
 0.0.0.0 txscn.cn
 0.0.0.0 tyawwj.cn
 0.0.0.0 tydouke.com
+0.0.0.0 tyed6.top
 0.0.0.0 tymh2022.xyz
 0.0.0.0 tyutuyoo.top
 0.0.0.0 tzcfyre.cn
@@ -2040,6 +2054,7 @@
 0.0.0.0 uphzxdv.cn
 0.0.0.0 uporods.com
 0.0.0.0 upzabkw.cn
+0.0.0.0 uqelxct.cn
 0.0.0.0 urimnugocfr.com
 0.0.0.0 urlkwqi.cn
 0.0.0.0 ursegreatm.fun
@@ -2060,12 +2075,14 @@
 0.0.0.0 v6jt.cn
 0.0.0.0 vancuongthinh.com
 0.0.0.0 vaxgyly.cn
+0.0.0.0 vbnmjjda.xyz
 0.0.0.0 vel7.xyz
 0.0.0.0 venator.link
 0.0.0.0 venetrigni.com
 0.0.0.0 venienceilo.fun
 0.0.0.0 vfsdgjrr.xyz
 0.0.0.0 vfsdsdeq.xyz
+0.0.0.0 vfsvv1.com
 0.0.0.0 vgijoh.com
 0.0.0.0 vhulan.com
 0.0.0.0 video.new-eve.com
@@ -2086,6 +2103,7 @@
 0.0.0.0 vulrxr.xyz
 0.0.0.0 vv.nettierbrakier.com
 0.0.0.0 vvfht.fun
+0.0.0.0 vxhsj.cn
 0.0.0.0 w.bnlg.fun
 0.0.0.0 w41.i7x3.fun
 0.0.0.0 wagzqhq.cn
@@ -2378,6 +2396,7 @@
 0.0.0.0 yihehe.xyz
 0.0.0.0 yijiahyvip.com
 0.0.0.0 yijiayi07.top
+0.0.0.0 yingnanyqq.com
 0.0.0.0 yirendajiankang.com
 0.0.0.0 yitongwl.cn
 0.0.0.0 yk-ssp.ad.youku.com

@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2556
-! Update Time:2023-05-30 16:34:50（北京时间） 
+! Total Count:2575
+! Update Time:2023-05-31 12:47:10（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gentags.net^
@@ -84,6 +84,7 @@
 ||2pogg4c.cn^
 ||32.huanqiu.com^
 ||3269x.com^
+||3400.org^
 ||36htg.fun^
 ||387635.com^
 ||3q3l.cn^
@@ -306,6 +307,7 @@
 ||applog.uc.cn^
 ||appsupport.qq.com^
 ||apptime.xyz^
+||aquvg.com^
 ||arkn81.com^
 ||arts-cloud.net^
 ||arwh3scr.world^
@@ -474,6 +476,7 @@
 ||clw99.mobi^
 ||cmbkgmx.cn^
 ||cmgjqqu.cn^
+||cmh2pw.com^
 ||cmpxaup.cn^
 ||cmspapp83.com^
 ||cmspapp84.com^
@@ -760,6 +763,7 @@
 ||fuentekj.com^
 ||fujifood.hk^
 ||fujincenter.com^
+||fumanhua88.info^
 ||fumiad.dxys.pro^
 ||fvffd678.xyz^
 ||fwmbjrl.cn^
@@ -873,6 +877,7 @@
 ||haoyundmtaotao.com^
 ||hasdser.com^
 ||hbandier.com^
+||hbkunye.com^
 ||hbv.tobeacon.cn^
 ||hbzhenquan.cn^
 ||hbzshoes.com^
@@ -1162,6 +1167,7 @@
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
 ||kminker.xyz^
+||kmn1sk.com^
 ||kmnhbr.xyz^
 ||kmpl.rnqxp.cn^
 ||kmpxq.cn^
@@ -1375,6 +1381,7 @@
 ||mob.com^
 ||mobads.baidu.com^
 ||mobrkbb.com^
+||mojoplain.com^
 ||monsteredward.com^
 ||mosangkeji.com^
 ||mosflower.cn^
@@ -1405,6 +1412,7 @@
 ||mykch.top^
 ||mylmad.com^
 ||mywb3.com^
+||mzqf1.com^
 ||mzwzo.cn^
 ||mzxvib.com^
 ||mzya5718.xyz^
@@ -1477,6 +1485,7 @@
 ||ognujxj.cn^
 ||ohchehw.cn^
 ||oi9rp7.online^
+||oiewpw.com^
 ||oiknldwlkop.com^
 ||oikqwnm.com^
 ||oinjkenwok.xyz^
@@ -1551,6 +1560,7 @@
 ||pjogndc8ixoidna.360doc.cn^
 ||pkjl00l.cn^
 ||playstats.v.duowan.com^
+||plmn5.com^
 ||pmensrl.cn^
 ||pmvlwjy.cn^
 ||poae2klya.icu^
@@ -1571,6 +1581,7 @@
 ||postserviceuk.com^
 ||ppedp.cn^
 ||ppyibei.com^
+||pqd.org^
 ||pqjprom.cn^
 ||pr-bh.ybp.yahoo.com^
 ||prdohgp.cn^
@@ -1790,6 +1801,7 @@
 ||shengminsy.com^
 ||shenhl.top^
 ||shenlinlive.cn^
+||shentongjiakao.ren^
 ||shigl.top^
 ||shijixinrui.cn^
 ||shixiong.xyz^
@@ -1984,6 +1996,7 @@
 ||trustedcpmrevenue.com^
 ||tsck.online^
 ||tsearch.snssdk.com^
+||tslianm.com^
 ||tsyndicate.com^
 ||ttly888.com^
 ||ttvosc.com^
@@ -2001,6 +2014,7 @@
 ||txscn.cn^
 ||tyawwj.cn^
 ||tydouke.com^
+||tyed6.top^
 ||tymh2022.xyz^
 ||tyutuyoo.top^
 ||tzcfyre.cn^
@@ -2039,6 +2053,7 @@
 ||uphzxdv.cn^
 ||uporods.com^
 ||upzabkw.cn^
+||uqelxct.cn^
 ||urimnugocfr.com^
 ||urlkwqi.cn^
 ||ursegreatm.fun^
@@ -2059,12 +2074,14 @@
 ||v6jt.cn^
 ||vancuongthinh.com^
 ||vaxgyly.cn^
+||vbnmjjda.xyz^
 ||vel7.xyz^
 ||venator.link^
 ||venetrigni.com^
 ||venienceilo.fun^
 ||vfsdgjrr.xyz^
 ||vfsdsdeq.xyz^
+||vfsvv1.com^
 ||vgijoh.com^
 ||vhulan.com^
 ||video.new-eve.com^
@@ -2085,6 +2102,7 @@
 ||vulrxr.xyz^
 ||vv.nettierbrakier.com^
 ||vvfht.fun^
+||vxhsj.cn^
 ||w.bnlg.fun^
 ||w41.i7x3.fun^
 ||wagzqhq.cn^
@@ -2377,6 +2395,7 @@
 ||yihehe.xyz^
 ||yijiahyvip.com^
 ||yijiayi07.top^
+||yingnanyqq.com^
 ||yirendajiankang.com^
 ||yitongwl.cn^
 ||yk-ssp.ad.youku.com^
