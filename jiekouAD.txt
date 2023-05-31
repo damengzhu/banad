@@ -5,6 +5,25 @@
 ! Total Count: 3460
 ! by: 酷安@大萌主
 ! Host
+||shentongjiakao.ren^
+||vbnmjjda.xyz^
+||plmn5.com^
+||mojoplain.com^
+||tyed6.top^
+||hbkunye.com^
+||vfsvv1.com^
+||mzqf1.com^
+||tslianm.com^
+||kmn1sk.com^
+||aquvg.com^
+||fumanhua88.info^
+||uqelxct.cn^
+||vxhsj.cn^
+||oiewpw.com^
+||cmh2pw.com^
+||yingnanyqq.com^
+||3400.org^
+||pqd.org^
 ||zaiyuanyqq.com^
 ||187388.com^
 ||zevbzn.xyz^
@@ -2752,6 +2771,7 @@ chen-xing/figure_bed*
 .xyz/hm.js?$third-party
 /Distribute/Distribute_g/butterfly/*
 /js/mts.js
+.xyz/o.js$third-party
 *tplv-noop.gif*
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
@@ -3450,6 +3470,10 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
 ##div.appad
+##html.wap [style='left: 40%;']
+##body > DIV[style='bottom: 130px;']
+##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
+##body#wrapper A[ontouchstart='this.click();']
 ##.cupfox-content.right,.cupfox-content.left
 ##DIV.row.no-gutters.m-0
 ##DIV#top-ads
