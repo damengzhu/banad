@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Total Count:2580
-! Update Time:2023-06-01 13:04:55（北京时间） 
+! Update Time:2023-06-01 13:10:45（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gentags.net^
