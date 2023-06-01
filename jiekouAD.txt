@@ -5,6 +5,11 @@
 ! Total Count: 3484
 ! by: 酷安@大萌主
 ! Host
+||elevatorpartsbuy.com^
+||aeletheacd.com^
+||alyssabelen.com^
+||ffriedadl.com^
+||zaiceyjjqq.com^
 ||shentongjiakao.ren^
 ||vbnmjjda.xyz^
 ||plmn5.com^
@@ -2786,6 +2791,10 @@ widgets.outbrain.com/outbrain.js
 /bar/yfgg.js
 /bar/yfdi.js
 /_xa/ads_
+hanman/static/dist/ppm/js/main.js
+.cn:*/*/*?t=$third-party
+.com:*/*/get*.html
+.com:*/*/*?n=$third-party
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
@@ -3470,6 +3479,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
 ##div.appad
+##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
+##a[href^="/ad.html?url="]
 ##html.wap [style='left: 40%;']
 ##body > DIV[style='bottom: 130px;']
 ##[style^='position: fixed; z-index: 2147483616; width: 10%; height: 32.5px;']
