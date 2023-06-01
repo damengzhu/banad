@@ -2792,9 +2792,9 @@ widgets.outbrain.com/outbrain.js
 /bar/yfdi.js
 /_xa/ads_
 hanman/static/dist/ppm/js/main.js
-.cn:*/*/*?t=$third-party
-.com:*/*/get*.html
-.com:*/*/*?n=$third-party
+.cn:8001/*/*?t=$third-party
+.com:10446/*/get*.html
+.com:8001/*/*?n=$third-party
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
