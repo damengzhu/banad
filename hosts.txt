@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count:2575
-#Update Time: 2023-05-31 12:47:10（北京时间） 
+#Total Count:2580
+#Update Time: 2023-06-01 13:04:55（北京时间） 
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 *.51y5.net
@@ -233,6 +233,7 @@
 0.0.0.0 advertpay-vip-ssl.xunlei.com
 0.0.0.0 adx-open-service.youku.com
 0.0.0.0 aefmbeq.cn
+0.0.0.0 aeletheacd.com
 0.0.0.0 af31f.site
 0.0.0.0 afablca.cn
 0.0.0.0 afcav.com
@@ -267,6 +268,7 @@
 0.0.0.0 almabelen.com
 0.0.0.0 als.baidu.com
 0.0.0.0 alwayzcars.com
+0.0.0.0 alyssabelen.com
 0.0.0.0 amdc.alipay.com
 0.0.0.0 amdc.m.taobao.com
 0.0.0.0 amvecurt.cn
@@ -670,6 +672,7 @@
 0.0.0.0 eiykmtb.cn
 0.0.0.0 ejieban.com
 0.0.0.0 elegant-creator.com
+0.0.0.0 elevatorpartsbuy.com
 0.0.0.0 elopatchwork.com
 0.0.0.0 elsmom.xyz
 0.0.0.0 elsynmlw.fun
@@ -726,6 +729,7 @@
 0.0.0.0 ffgpol.com
 0.0.0.0 ffmehcg.cn
 0.0.0.0 ffnvhig.cn
+0.0.0.0 ffriedadl.com
 0.0.0.0 ffzz71.com
 0.0.0.0 fg.daochengwowo.top
 0.0.0.0 fg.yilianqing.com
@@ -2455,6 +2459,7 @@
 0.0.0.0 z6ro5.xyz
 0.0.0.0 zabdybod*.club
 0.0.0.0 zahrvfbd*.xyz
+0.0.0.0 zaiceyjjqq.com
 0.0.0.0 zailet.com
 0.0.0.0 zaiyuanyqq.com
 0.0.0.0 zaqlovh*.xyz

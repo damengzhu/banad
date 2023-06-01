@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2575
-! Update Time:2023-05-31 12:47:10（北京时间） 
+! Total Count:2580
+! Update Time:2023-06-01 13:04:55（北京时间） 
 ||*.51y5.net^
 ||*.aty.sohu.com^
 ||*.gentags.net^
@@ -232,6 +232,7 @@
 ||advertpay-vip-ssl.xunlei.com^
 ||adx-open-service.youku.com^
 ||aefmbeq.cn^
+||aeletheacd.com^
 ||af31f.site^
 ||afablca.cn^
 ||afcav.com^
@@ -266,6 +267,7 @@
 ||almabelen.com^
 ||als.baidu.com^
 ||alwayzcars.com^
+||alyssabelen.com^
 ||amdc.alipay.com^
 ||amdc.m.taobao.com^
 ||amvecurt.cn^
@@ -669,6 +671,7 @@
 ||eiykmtb.cn^
 ||ejieban.com^
 ||elegant-creator.com^
+||elevatorpartsbuy.com^
 ||elopatchwork.com^
 ||elsmom.xyz^
 ||elsynmlw.fun^
@@ -725,6 +728,7 @@
 ||ffgpol.com^
 ||ffmehcg.cn^
 ||ffnvhig.cn^
+||ffriedadl.com^
 ||ffzz71.com^
 ||fg.daochengwowo.top^
 ||fg.yilianqing.com^
@@ -2454,6 +2458,7 @@
 ||z6ro5.xyz^
 ||zabdybod*.club^
 ||zahrvfbd*.xyz^
+||zaiceyjjqq.com^
 ||zailet.com^
 ||zaiyuanyqq.com^
 ||zaqlovh*.xyz^
