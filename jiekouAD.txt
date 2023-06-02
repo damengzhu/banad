@@ -5,6 +5,7 @@
 ! Total Count: 3496
 ! by: 酷安@大萌主
 ! Host
+||razrzh.xyz^
 ||rqxtbr.xyz^
 ||elevatorpartsbuy.com^
 ||aeletheacd.com^
@@ -3489,6 +3490,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##.cupfox-content.right,.cupfox-content.left
 ##DIV.row.no-gutters.m-0
 ##DIV#top-ads
+##a[href^="https://91keep.tv"]
 ##DIV#bottom-ads
 ##div#nr_body.nr_all.c_nr div.show-app2
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
