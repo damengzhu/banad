@@ -2586,3 +2586,24 @@
 0.0.0.0 zzxedr.xyz
 0.0.0.0 zzxlhwyp.com
 0.0.0.0 zzycj.com
+#Reserved area start
+## hosts does not support wildcard
+0.0.0.0 alog.umengcloud.com
+0.0.0.0 alogs.umengcloud.com
+0.0.0.0 ex.umengcloud.com
+0.0.0.0 msg.umengcloud.com
+0.0.0.0 udash.umengcloud.com
+0.0.0.0 ulog.umengcloud.com
+0.0.0.0 ulogs.umengcloud.com
+0.0.0.0 upoll.umengcloud.com
+0.0.0.0 utop.umengcloud.com
+0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
+0.0.0.0 gromore.pangolin-sdk-toutiao.com
+0.0.0.0 log-api.pangolin-sdk-toutiao.com
+0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
+0.0.0.0 sf3-be-pack.pglstatp-toutiao.com
+0.0.0.0 sf3-fe-tos.pglstatp-toutiao.com
+0.0.0.0 sf6-be-pack.pglstatp-toutiao.com
+0.0.0.0 sf6-fe-tos.pglstatp-toutiao.com
+#Reserved area end
