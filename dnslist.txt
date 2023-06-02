@@ -2,18 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count:2581
-! Update Time:2023-06-02 11:38:26（北京时间） 
-||*.51y5.net^
-||*.aty.sohu.com^
-||*.gentags.net^
-||*.getui.com^
-||*.go.sohu.com^
-||*.gtlpa*.com^
-||*.irs03.com^
-||*.miaozhen.com^
-||*.tuisong.baidu.com^
-||*.umengcloud.com^
+! Total Count: 2577
+! Update Time:2023-06-02 15:19:04（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -107,6 +97,7 @@
 ||51jqq.top^
 ||51minbingtuan.net^
 ||51xuex.com.cn^
+||51y5.net^
 ||52aoteman.com^
 ||52pipaxing.com^
 ||54askjdklm.xyz^
@@ -287,7 +278,6 @@
 ||aoyou5.top^
 ||aparvibices.com^
 ||apfobmfr.cn^
-||api-access.pangolin-sdk-toutiao-*.com^
 ||api-shoulei-ssl.xunlei.com^
 ||api.06fgej.com^
 ||api.1101yh.com^
@@ -323,6 +313,7 @@
 ||aspwg.cn^
 ||asycxtz.cn^
 ||atnnf.xyz^
+||aty.sohu.com^
 ||au6w0.xyz^
 ||audid-api.taobao.com^
 ||awdc6.com^
@@ -789,8 +780,10 @@
 ||gdsoq.com^
 ||gdtimg.com^
 ||gdzshoes.com^
+||gentags.net^
 ||geoparker.net^
 ||gepush.com^
+||getui.com^
 ||geziyd.com^
 ||gfrzzzx.cn^
 ||gfvip09at.com^
@@ -835,6 +828,7 @@
 ||gsp0.kj-gov.cn^
 ||gsxbxvd.cn^
 ||gtcqbnu.cn^
+||gtlpa*.com^
 ||gtlpaj.com^
 ||gtoyouin.biz^
 ||gtpxvpi.cn^
@@ -1031,6 +1025,7 @@
 ||iplm.cc^
 ||ipm.atm.youku.com^
 ||ipqc5ejfe.icu^
+||irs03.com^
 ||isdfbvkvsc.xyz^
 ||iswgnn.com^
 ||itheatmoran.com^
@@ -1273,7 +1268,6 @@
 ||lm995.com^
 ||lmx7.com^
 ||lmxxxz.com^
-||log-api.pangolin-sdk-toutiao-*.com^
 ||log-sdk.ksapisrv.com^
 ||log.daqi.com^
 ||log.music.baidu.com^
@@ -1362,6 +1356,7 @@
 ||mg.zgcqxjzny.cn^
 ||mgivkqk.cn^
 ||mhslbgk.cn^
+||miaozhen.com^
 ||mikongdd.top^
 ||mindopu.com^
 ||mingtians.top^
@@ -1791,7 +1786,6 @@
 ||selornews.com^
 ||senxiaopang.top^
 ||seordl.cn^
-||sf*-fe-tos.pglstatp-toutiao.com^
 ||sfbixfd.cn^
 ||sfp.safe.baidu.com^
 ||sglyd.cn^
@@ -1971,10 +1965,12 @@
 ||tjqwb.cn^
 ||tlsgq.cn^
 ||tmochyf.cn^
-||tnc*.zijieapi.com^
 ||tnc3-aliec2.snssdk.com^
+||tnc3-aliec2.zijieapi^
 ||tnc3-alisc1.snssdk.com^
+||tnc3-alisc1.zijieapi^
 ||tnc3-bjlgy.snssdk.com^
+||tnc3-bjlgy.zijieapi^
 ||tnjvz.cn^
 ||toggle.qq.com^
 ||toijr.xyz^
@@ -2045,6 +2041,7 @@
 ||umbrellaomendear.com,^
 ||umdc.aliapp.org^
 ||umeng.com^
+||umengcloud.com^
 ||umkezbh.cn^
 ||umyrn.xyz^
 ||un-acs.youku.com^
@@ -2426,7 +2423,6 @@
 ||ysqlmpo.cn^
 ||yt800h.com^
 ||ytelc.com^
-||ytvwhbejc.com^
 ||yubingyuan.top^
 ||yuehesh.com^
 ||yuhunwang.net^
