@@ -3073,6 +3073,7 @@ sogou.com##.ad_result
 m.nxnba.com##DIV.bootom-fixed
 ifeng.com##div[class^="ad_"]
 m.huya.com##DIV#template
+www.huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 trakt.tv##DIV[id$='-wrapper']
 v11av.xyz##div.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
 v11av.xyz##div.content__body [rel='nofollow'][href][target='_blank']
