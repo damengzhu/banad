@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 2580
-! Update Time:2023-06-03 19:08:30（北京时间）
+! Total Count: 2586
+! Update Time:2023-06-05 15:49:38（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -565,6 +565,7 @@
 ||dg186.cn^
 ||dgaxxjq.cn^
 ||dgfgflod.com^
+||dghehu.com^
 ||dgxlm.xyz^
 ||di2y21.top^
 ||diagnosis.ad.xiaomi.com^
@@ -887,6 +888,7 @@
 ||hdypw.com^
 ||hdzb6.cc^
 ||hefei64.com^
+||hefrpv.xyz^
 ||henanqiuzhige.com^
 ||heshun365.cn^
 ||hezhib.top^
@@ -1467,6 +1469,7 @@
 ||nudpqt.com^
 ||nuheoub.cn^
 ||nutaku.net^
+||nxnjw.com^
 ||nxxyjn.com^
 ||o.zjjrlx4.com^
 ||o2.jyjyj.cn^
@@ -2451,6 +2454,7 @@
 ||yywridi.cn^
 ||yyys.shop^
 ||yzc35326.top^
+||yziwujuzq.live^
 ||yznwyng.cn^
 ||z-xiao.xyz^
 ||z2.fakutownee.cn^
@@ -2460,6 +2464,7 @@
 ||zaiceyjjqq.com^
 ||zailet.com^
 ||zaiyuanyqq.com^
+||zangtankqq.com^
 ||zaqlovh*.xyz^
 ||zaqptv2bo.xyz^
 ||zasjf.xyz^
@@ -2556,6 +2561,7 @@
 ||zljnwzp.cn^
 ||zlnmzc.top^
 ||zmhqhuq.cn^
+||znchw.com^
 ||znnodl.xyz^
 ||zouqiuyyds.com^
 ||zowralr.cn^

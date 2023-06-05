@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 2577
-#Update Time: 2023-06-03 19:08:30（北京时间）
+#Total Count: 2583
+#Update Time: 2023-06-05 15:49:38（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -564,6 +564,7 @@
 0.0.0.0 dg186.cn
 0.0.0.0 dgaxxjq.cn
 0.0.0.0 dgfgflod.com
+0.0.0.0 dghehu.com
 0.0.0.0 dgxlm.xyz
 0.0.0.0 di2y21.top
 0.0.0.0 diagnosis.ad.xiaomi.com
@@ -885,6 +886,7 @@
 0.0.0.0 hdypw.com
 0.0.0.0 hdzb6.cc
 0.0.0.0 hefei64.com
+0.0.0.0 hefrpv.xyz
 0.0.0.0 henanqiuzhige.com
 0.0.0.0 heshun365.cn
 0.0.0.0 hezhib.top
@@ -1463,6 +1465,7 @@
 0.0.0.0 nudpqt.com
 0.0.0.0 nuheoub.cn
 0.0.0.0 nutaku.net
+0.0.0.0 nxnjw.com
 0.0.0.0 nxxyjn.com
 0.0.0.0 o.zjjrlx4.com
 0.0.0.0 o2.jyjyj.cn
@@ -2441,6 +2444,7 @@
 0.0.0.0 yywridi.cn
 0.0.0.0 yyys.shop
 0.0.0.0 yzc35326.top
+0.0.0.0 yziwujuzq.live
 0.0.0.0 yznwyng.cn
 0.0.0.0 z-xiao.xyz
 0.0.0.0 z2.fakutownee.cn
@@ -2448,6 +2452,7 @@
 0.0.0.0 zaiceyjjqq.com
 0.0.0.0 zailet.com
 0.0.0.0 zaiyuanyqq.com
+0.0.0.0 zangtankqq.com
 0.0.0.0 zaqptv2bo.xyz
 0.0.0.0 zasjf.xyz
 0.0.0.0 zasjfget.xyz
@@ -2536,6 +2541,7 @@
 0.0.0.0 zljnwzp.cn
 0.0.0.0 zlnmzc.top
 0.0.0.0 zmhqhuq.cn
+0.0.0.0 znchw.com
 0.0.0.0 znnodl.xyz
 0.0.0.0 zouqiuyyds.com
 0.0.0.0 zowralr.cn
