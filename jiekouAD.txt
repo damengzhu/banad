@@ -5,6 +5,12 @@
 ! Total Count: 3507
 ! by: 酷安@大萌主
 ! Host
+||hefrpv.xyz^
+||dghehu.com^
+||nxnjw.com^
+||znchw.com^
+||yziwujuzq.live^
+||zangtankqq.com^
 ||fhrl2018.com^
 ||zhaozongqq.com^
 ||3.cjcp.cn^
@@ -2738,6 +2744,8 @@
 .club$domain=yinghuacd.com
 ||n5m5.com/static/js/playcon.js
 /js/ads
+unpkg.com/aladug/*.js
+/index.html?channelCode=$~third-party
 /tongji.js
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
@@ -2936,25 +2944,9 @@ _/bigREDcat.css?
 /static/ins.js$third-party
 /baidu/tg.js
 /baidu/189/999.php
-/new/21*.html
-/new/27*.html
-/new/50*.html
-/new/51*.html
-/new/52*.html
-/new/53*.html
-/new/54*.html
-/new/55*.html
-/new/56*.html
-/new/57*.html
-/new/81*.html
-/new/82*.html
-/new/83*.html
-/new/84*.html
-/new/85*.html
-/new/86*.html
-/new/87*.html
-/new/88*.html
-/new/89*.html
+/new/2*.html
+/new/5*.html
+/new/8*.html
 _/bigREDdog.css?
 .xyz/*0*0*==$third-party
 .xyz/foundation?$third-party
