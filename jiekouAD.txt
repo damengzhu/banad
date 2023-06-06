@@ -2963,6 +2963,7 @@ _/bigREDdog.css?
 /v0/amp-addthis-*.js
 .com:8010/cc/
 .xyz/Kfc_
+.buzz/*0*0*0*==$third-party
 .xyz/xtub_
 .xyz/?token=
 .shop:*/bid?url=
