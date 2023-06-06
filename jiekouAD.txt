@@ -5,6 +5,7 @@
 ! Total Count: 3501
 ! by: 酷安@大萌主
 ! Host
+||pohpll.xyz^
 ||zhengliyqq.com^
 ||ajcode.co^
 ||hefrpv.xyz^
@@ -2826,6 +2827,7 @@ hanman/static/dist/ppm/js/main.js
 ||manhuabei.com/assets/xiwang.js
 ||yhdm.tv/bar/yfyh.js
 /js/js4.js
+.top/*/*.js?ts=$third-party
 /obj/ad-app-package
 /yinghuacd/bottom.js
 ||baidu.com/rec?*=ad&
