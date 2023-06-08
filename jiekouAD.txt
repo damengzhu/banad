@@ -5,6 +5,9 @@
 ! Total Count: 3505
 ! by: 酷安@大萌主
 ! Host
+||an.yandex.ru^
+||d2wy8f7a9ursnm.cloudfront.net^
+||zsnfdphz.com^
 ||zewfbw.buzz^
 ||pohpll.xyz^
 ||zhengliyqq.com^
@@ -2748,6 +2751,8 @@
 .club$domain=yinghuacd.com
 ||n5m5.com/static/js/playcon.js
 /js/ads
+/banners/pr_advertising_ads_banner
+.ru/ads/
 unpkg.com/aladug/*.js
 /index.html?channelCode=$~third-party
 /tongji.js
@@ -3230,6 +3235,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ###ad-header-mobile-contener
 ###downapp1
+##[data^='/banners/pr_advertising_ads_banner']
+##[src^='/banners/pr_advertising_ads_banner']
 ##body > DIV[class][style='top: 132px;']
 ##body > DIV[style*='height: 33px'][style*='132px !important;']
 ##body > DIV[style='display: block; width: 100%; height: 132px;']
