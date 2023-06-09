@@ -2605,6 +2605,7 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
+@@||jstatic.3.cn^$domain=m.jd.com
 @@||manwa.me^
 @@||cdn-msp*.18comic.*^
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
