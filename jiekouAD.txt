@@ -3503,6 +3503,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV#top-ads
 ##[style*='width: 100vw; background: url'][style$='no-repeat; position: fixed;'][style*='0px 0px / 100vw ']
 ##A#floating-banner
+##[style$='display:block;width:9.6vw;height:8.5vw;background: #000;opacity:0.01;']
 ##DIV.loc_banner.only-app
 ##div#liveline > l,div#liveline > ll
 ##DIV.duilian[style*='z-index: 9999; top: 0px; ']
