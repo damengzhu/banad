@@ -2448,7 +2448,7 @@
 ||zzxedr.xyz^
 ||zzxlhwyp.com^
 ||zzycj.com^
-||ytvwhbejc.com'
+||ytvwhbejc.com^
 ||bookbk.img.zhangyue01.com
 ||adtago.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
