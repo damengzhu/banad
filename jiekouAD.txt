@@ -5,6 +5,10 @@
 ! Total Count: 3527
 ! by: 酷安@大萌主
 ! Host
+||t0pan.top^
+||lfzk2cp.icu^
+||trafficjunky.net^
+||xlivrdr.com^
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -2764,6 +2768,12 @@
 .ru/ads/
 unpkg.com/aladug/*.js
 /index.html?channelCode=$~third-party
+.com/js/g.js
+trafficjunky.com$third-party
+.com:8007/*/*?n=$third-party
+.com:8007/*/*?t=$third-party
+.com:8007/*/*?c=$third-party
+.cn/2023/*/*.txt$third-party
 /tongji.js
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
