@@ -5,6 +5,7 @@
 ! Total Count: 3537
 ! by: 酷安@大萌主
 ! Host
+||pc768.com^
 ||t0pan.top^
 ||lfzk2cp.icu^
 ||trafficjunky.net^
@@ -3168,6 +3169,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+m.kdslife.com##DIV#app.Card.DownloadGuide
 so.toutiao.com##DIV[id^='ad_']
 ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
 www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-family: Roboto, Arial;']
