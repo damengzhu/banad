@@ -5,6 +5,12 @@
 ! Total Count: 3539
 ! by: 酷安@大萌主
 ! Host
+||najnus.com^
+||ohoyao.com^
+||ecoefh.com^
+||kszvmqo.cn^
+||bis8j.com^
+||yichengjiajupt.com^
 ||pc768.com^
 ||t0pan.top^
 ||lfzk2cp.icu^
@@ -2974,6 +2980,7 @@ _/bigREDcat.css?
 /baidu/tg.js
 /baidu/189/999.php
 /new/2*.html
+/new/4*.html
 /new/5*.html
 /new/8*.html
 _/bigREDdog.css?
