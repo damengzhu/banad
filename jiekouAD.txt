@@ -2778,11 +2778,15 @@
 unpkg.com/aladug/*.js
 /index.html?channelCode=$~third-party
 .com/js/g.js
+.com:8008/cc/2427?is_not=
 trafficjunky.com$third-party
 .com:8007/*/*?n=$third-party
 .com:8007/*/*?t=$third-party
 .com:8007/*/*?c=$third-party
 .cn/2023/*/*.txt$third-party
+.com:8008/*/*?n=$third-party
+.com:8008/*/*?t=$third-party
+.cn/2022/*/*.txt$third-party
 /tongji.js
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
