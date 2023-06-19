@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 2729
-! Update Time:2023-06-17 14:44:39（北京时间）
+! Total Count: 2740
+! Update Time:2023-06-19 13:12:58（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -30,6 +30,7 @@
 ||074adzx.com^
 ||080999.cn^
 ||085cczz.com^
+||087tqb.cn^
 ||093yuht.com^
 ||096iokj.com^
 ||09jsufg.com^
@@ -392,6 +393,7 @@
 ||bcfeat2.com^
 ||bcglkfu.cn^
 ||bcidnfers.live^
+||bd.ahsrst.cn^
 ||bdapi-ads.realmemobile.com^
 ||bdapi-in-ads.realmemobile.com^
 ||bddwm.com^
@@ -511,6 +513,7 @@
 ||chushoushijian.cn^
 ||chuzushijian.cn^
 ||chykohija.pro^
+||ciislunar.com^
 ||city.youpukeji.cn^
 ||ck.ads.oppomobile.com^
 ||ck33.top^
@@ -768,6 +771,7 @@
 ||eybstar.com^
 ||ezu6rd5.houge.in^
 ||f23jjd8.xyz^
+||f53a.com^
 ||f77j6t2b.com^
 ||f77xv3.top^
 ||f8ejqxp.cn^
@@ -880,6 +884,7 @@
 ||go.sohu.com^
 ||goblin.hupu.com^
 ||goeyxwhp.site^
+||goikbnjksdf.com^
 ||golden88.co^
 ||gongxifc.com^
 ||gongyong002.xyz^
@@ -965,6 +970,7 @@
 ||hdzb6.cc^
 ||hefei64.com^
 ||hefrpv.xyz^
+||hegk06a.top^
 ||henanqiuzhige.com^
 ||heshun365.cn^
 ||hezhib.top^
@@ -1629,6 +1635,7 @@
 ||outbrain.com^
 ||outoctillerytor.com^
 ||ouyhh.xyz^
+||owiurjngsd.com^
 ||owlfolk.com^
 ||owlunimmvn.com^
 ||owrkwilxbw.com^
@@ -2317,6 +2324,7 @@
 ||www.baidumanager.club^
 ||www.bibilm.com^
 ||www.bjjabc.com^
+||www.bjjxsb.net^
 ||www.bl2030.com^
 ||www.ceseasons.com^
 ||www.claiks.com^
@@ -2326,6 +2334,7 @@
 ||www.diyuxa.com^
 ||www.dknindsl.com^
 ||www.doca182.com^
+||www.dragonib.com^
 ||www.geodeep.org^
 ||www.govchengdu.cn^
 ||www.govguangxi.cn^
@@ -2407,6 +2416,7 @@
 ||www.xiewje.com^
 ||www.xihufe.com^
 ||www.xingpingmaoyi.cn^
+||www.xiuxiu4.one^
 ||www.xjwrq.com^
 ||www.xpdyqax.cn^
 ||www.xxmh*.com^
@@ -2415,6 +2425,7 @@
 ||www.yueyuego.com^
 ||www.yuyue008.cn^
 ||www.ywquyq.com^
+||www.yymh1113.com^
 ||www.zbinview.com^
 ||www.zhangjiyi.top^
 ||www.zhaohainan.cn^

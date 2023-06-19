@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 2724
-#Update Time: 2023-06-17 14:44:39（北京时间）
+#Total Count: 2735
+#Update Time: 2023-06-19 13:12:58（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -31,6 +31,7 @@
 0.0.0.0 074adzx.com
 0.0.0.0 080999.cn
 0.0.0.0 085cczz.com
+0.0.0.0 087tqb.cn
 0.0.0.0 093yuht.com
 0.0.0.0 096iokj.com
 0.0.0.0 09jsufg.com
@@ -392,6 +393,7 @@
 0.0.0.0 bcfeat2.com
 0.0.0.0 bcglkfu.cn
 0.0.0.0 bcidnfers.live
+0.0.0.0 bd.ahsrst.cn
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
 0.0.0.0 bddwm.com
@@ -510,6 +512,7 @@
 0.0.0.0 chushoushijian.cn
 0.0.0.0 chuzushijian.cn
 0.0.0.0 chykohija.pro
+0.0.0.0 ciislunar.com
 0.0.0.0 city.youpukeji.cn
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 ck33.top
@@ -767,6 +770,7 @@
 0.0.0.0 eybstar.com
 0.0.0.0 ezu6rd5.houge.in
 0.0.0.0 f23jjd8.xyz
+0.0.0.0 f53a.com
 0.0.0.0 f77j6t2b.com
 0.0.0.0 f77xv3.top
 0.0.0.0 f8ejqxp.cn
@@ -879,6 +883,7 @@
 0.0.0.0 go.sohu.com
 0.0.0.0 goblin.hupu.com
 0.0.0.0 goeyxwhp.site
+0.0.0.0 goikbnjksdf.com
 0.0.0.0 golden88.co
 0.0.0.0 gongxifc.com
 0.0.0.0 gongyong002.xyz
@@ -963,6 +968,7 @@
 0.0.0.0 hdzb6.cc
 0.0.0.0 hefei64.com
 0.0.0.0 hefrpv.xyz
+0.0.0.0 hegk06a.top
 0.0.0.0 henanqiuzhige.com
 0.0.0.0 heshun365.cn
 0.0.0.0 hezhib.top
@@ -1624,6 +1630,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 outoctillerytor.com
 0.0.0.0 ouyhh.xyz
+0.0.0.0 owiurjngsd.com
 0.0.0.0 owlfolk.com
 0.0.0.0 owlunimmvn.com
 0.0.0.0 owrkwilxbw.com
@@ -2309,6 +2316,7 @@
 0.0.0.0 www.baidumanager.club
 0.0.0.0 www.bibilm.com
 0.0.0.0 www.bjjabc.com
+0.0.0.0 www.bjjxsb.net
 0.0.0.0 www.bl2030.com
 0.0.0.0 www.ceseasons.com
 0.0.0.0 www.claiks.com
@@ -2318,6 +2326,7 @@
 0.0.0.0 www.diyuxa.com
 0.0.0.0 www.dknindsl.com
 0.0.0.0 www.doca182.com
+0.0.0.0 www.dragonib.com
 0.0.0.0 www.geodeep.org
 0.0.0.0 www.govchengdu.cn
 0.0.0.0 www.govguangxi.cn
@@ -2399,6 +2408,7 @@
 0.0.0.0 www.xiewje.com
 0.0.0.0 www.xihufe.com
 0.0.0.0 www.xingpingmaoyi.cn
+0.0.0.0 www.xiuxiu4.one
 0.0.0.0 www.xjwrq.com
 0.0.0.0 www.xpdyqax.cn
 0.0.0.0 www.ynxjf.com
@@ -2406,6 +2416,7 @@
 0.0.0.0 www.yueyuego.com
 0.0.0.0 www.yuyue008.cn
 0.0.0.0 www.ywquyq.com
+0.0.0.0 www.yymh1113.com
 0.0.0.0 www.zbinview.com
 0.0.0.0 www.zhangjiyi.top
 0.0.0.0 www.zhaohainan.cn
