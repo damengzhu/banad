@@ -5,6 +5,7 @@
 ! Total Count: 3577
 ! by: 酷安@大萌主
 ! Host
+||caardinal.com^
 ||sgegie.fun^
 ||hciea.xyz^
 ||qctcu.com^
@@ -2784,7 +2785,7 @@
 .live/o.js
 .cyou/redbaiduct.com
 /js/news2zz.js
-.com:8001/*/*?t=$3p
+.com:8001/*/*?*=$3p
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /site/mov*$third-party
@@ -2799,15 +2800,14 @@
 unpkg.com/aladug/*.js
 /index.html?channelCode=$~third-party
 .com/js/g.js
-.com:8008/cc/2427?is_not=
+:8008/*/*?is_not=
 trafficjunky.com$third-party
-.com:8007/*/*?n=$third-party
-.com:8007/*/*?t=$third-party
-.com:8007/*/*?c=$third-party
+.com:8007/*/*?*=$third-party
 .cn/2023/*/*.txt$third-party
-.com:8008/*/*?n=$third-party
-.com:8008/*/*?t=$third-party
+.com:8008/*/*?*=$third-party
 .cn/2022/*/*.txt$third-party
+.com:8004/*/*?*=$third-party
+yhdm*.com/js/wap2-jm-ms.js?ver=
 /tongji.js
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
@@ -2861,9 +2861,9 @@ widgets.outbrain.com/outbrain.js
 /bar/yfdi.js
 /_xa/ads_
 hanman/static/dist/ppm/js/main.js
-.cn:8001/*/*?t=$third-party
+.cn:8001/*/*?*=$third-party
 .com:10446/*/get*.html
-.com:8001/*/*?n=$third-party
+.com:8001/*/*?*=$third-party
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
