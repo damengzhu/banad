@@ -3160,7 +3160,7 @@ dm530p.net##DIV[style$='; display: block;']
 m.iqiyi.com##DIV.iqyGuide-content,.cover
 www.zhihu.com##DIV.KfeCollection-VipRecommendCard
 www.zhihu.com##A.MBannerAd
-zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
+www.zhihu.com##A.MHotFeedAd,.MRelateFeedAd,.WeiboAd-wrap,.AdvertImg.AdvertImg--isLoaded.MBannerAd-image,.Banner-adTag,[href='https://maimai.cn/']
 www.zhihu.com##DIV.OpenInAppButton
 acglala.me##DIV.topm,div.donghua_info > DIV[style='width:100%;'],div.donghua_info > a
 ali213.net##DIV.placeholderforpromotion
