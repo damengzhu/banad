@@ -2882,6 +2882,8 @@ hanman/static/dist/ppm/js/main.js
 .top/*/*.js?ts=$third-party
 /obj/ad-app-package
 /yinghuacd/bottom.js
+/hm.js?$third-party
+||www.pkmp*.xyz/template/piankuwap/js/afoot.js
 ||baidu.com/rec?*=ad&
 ||download.2345.cn/2345yd1/apk/
 ||ifeng.com/showcode
