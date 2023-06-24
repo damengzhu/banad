@@ -3062,6 +3062,7 @@ baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##DIV.barea-ad
 baidu.com##DIV[data-module='rec:undefined-undefined']
+baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[data-show='{"mod":"brand-entry-live"}'],A.hui-carousel__item
 www.baidu.com###content_left > *:not([id]) *,[class="result c-container new-pmd"][id="1"][tpl="se_com_default"][data-click]
 baidu.com##DIV#page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
 hanyu.baidu.com##DIV#fengchao_els.c-container.card.fengchao-els
