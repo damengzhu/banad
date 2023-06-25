@@ -2772,6 +2772,7 @@
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 ||qishula.com/css/ding.js
+||yinghuavideo.com/bar/*.js
 ||google-analytics.com/analytics.js
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
