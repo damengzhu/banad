@@ -5,6 +5,7 @@
 ! Total Count: 3571
 ! by: 酷安@大萌主
 ! Host
+||klbvqqqj.com^
 ||caardinal.com^
 ||sgegie.fun^
 ||hciea.xyz^
@@ -2786,7 +2787,8 @@
 .live/o.js
 .cyou/redbaiduct.com
 /js/news2zz.js
-.com:8001/*/*?*=$3p
+/js/lmdas.js
+.com:8001/*/*?*=$third-party
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /site/mov*$third-party
