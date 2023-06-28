@@ -5,6 +5,9 @@
 ! Total Count: 3573
 ! by: 酷安@大萌主
 ! Host
+||surface361.com^
+||destc10.icu^
+||leadc6.icu^
 ||klbvqqqj.com^
 ||caardinal.com^
 ||sgegie.fun^
@@ -2816,6 +2819,10 @@ trafficjunky.com$third-party
 .com:*/*/*?c=$third-party
 .com:*/*/*?t=$third-party
 .com:*/*/*?n=$third-party
+.xyz/qby_*.js?$third-party
+/api/LM/Report?placeUUID=$third-party
+.icu/pssbk?$third-party
+/vhyoydie_*_*.js$third-party
 yhdm*.com/js/wap2-jm-ms.js?ver=
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
@@ -3552,6 +3559,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##div#header-wrapper.header_b > div#header
 ##a[href^="https://91keep.tv"]
 ##DIV#bottom-ads
+##section.wrap > section.f0
 ##DIV#googleads-popup.popup.visible
 ##DIV[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''],[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''] + div
 ##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
