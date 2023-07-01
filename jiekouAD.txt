@@ -3021,6 +3021,7 @@ _/bigREDcat.css?
 /new/5*.html
 /new/8*.html
 _/bigREDdog.css?
+.icu/?token=$third-party
 .xyz/*0*0*==$third-party
 .xyz/foundation?$third-party
 .xyz/gatsby?$third-party
