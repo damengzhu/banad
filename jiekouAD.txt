@@ -5,6 +5,8 @@
 ! Total Count: 3584
 ! by: 酷安@大萌主
 ! Host
+||tainec.fun^
+||newwcrsed.com^
 ||surface361.com^
 ||destc10.icu^
 ||leadc6.icu^
@@ -2859,6 +2861,10 @@ chen-xing/figure_bed*
 /Distribute/Distribute_g/butterfly/*
 /js/mts.js
 .xyz/o.js$third-party
+/bigREDcat.js?$third-party
+.cn/redbaiduct.com?s=$third-party
+/stats.php?adsid=$third-party
+.xyz/*_*_1_*.js?$third-party
 *tplv-noop.gif*
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
