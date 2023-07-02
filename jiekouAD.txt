@@ -5,6 +5,14 @@
 ! Total Count: 3591
 ! by: 酷安@大萌主
 ! Host
+||ftiodfqk.com^
+||xegneils.com^
+||lwksxs.com^
+||ulkoxbra.com^
+||kmihknj.cn^
+||pygokay.cn^
+||dmxfdp.xyz^
+||bvvb9.com^
 ||tainec.fun^
 ||newwcrsed.com^
 ||surface361.com^
@@ -2931,6 +2939,8 @@ hanman/static/dist/ppm/js/main.js
 ||yxdm.tv/js/gad.js
 .live/ty/*-*-*
 .cyou/xling_*_
+/static/*/Lqho7OKcg.js?v=
+/static/*/KdLmbuThM.js?v=
 .cn/bid?url=*$third-party
 .cn/o.js$third-party
 xyz/kallss?
@@ -3384,6 +3394,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[href^='https://xxx.nunxun.com']
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##[at*='尼斯人注册送']
+##a[href*="/?utm_source="]
+##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
 ##body.active > div.myui-panel > DIV#home_slide
 ##IMG[referrerpolicy='no-referrer'][src$='.gif'][width='100%']
