@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 2750
-#Update Time: 2023-07-01 16:23:05（北京时间）
+#Total Count: 2758
+#Update Time: 2023-07-02 15:50:39（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -443,6 +443,7 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 buyihao.com
 0.0.0.0 buzien.top
+0.0.0.0 bvvb9.com
 0.0.0.0 bwdhuanbao.com
 0.0.0.0 bxwccii.cn
 0.0.0.0 c-gtc.getui.net
@@ -664,6 +665,7 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dmfjeu.xyz
 0.0.0.0 dmm.aizhan.com
+0.0.0.0 dmxfdp.xyz
 0.0.0.0 dmyrza.com
 0.0.0.0 dncvj.cn
 0.0.0.0 dnrf0215.com
@@ -834,6 +836,7 @@
 0.0.0.0 fstats.xyz
 0.0.0.0 ft8e.top
 0.0.0.0 fthqzxq.cn
+0.0.0.0 ftiodfqk.com
 0.0.0.0 fuentekj.com
 0.0.0.0 fujifood.hk
 0.0.0.0 fujincenter.com
@@ -1257,6 +1260,7 @@
 0.0.0.0 kmbopoie.com
 0.0.0.0 kmgfjc.cn
 0.0.0.0 kmhmyaj.cn
+0.0.0.0 kmihknj.cn
 0.0.0.0 kminker.xyz
 0.0.0.0 kmn1sk.com
 0.0.0.0 kmnhbr.xyz
@@ -1396,6 +1400,7 @@
 0.0.0.0 luogod.xyz
 0.0.0.0 luoyangjinmeii.com
 0.0.0.0 lvcha99.cc
+0.0.0.0 lwksxs.com
 0.0.0.0 lwlqsgr.cn
 0.0.0.0 lxg8s.xyz
 0.0.0.0 lxksalary.com
@@ -1725,6 +1730,7 @@
 0.0.0.0 pvymlsvo.xyz
 0.0.0.0 px.ucweb.com
 0.0.0.0 pyeditingpro.biz
+0.0.0.0 pygokay.cn
 0.0.0.0 pzkrgcp.cn
 0.0.0.0 q.baminw.com.cn
 0.0.0.0 q.f05.xyz
@@ -2178,6 +2184,7 @@
 0.0.0.0 uibjhqwkl.com
 0.0.0.0 uiteligularly.fun
 0.0.0.0 uk529u0.cn
+0.0.0.0 ulkoxbra.com
 0.0.0.0 um5xcgngmart.xyz
 0.0.0.0 umbrellaomendear.com,
 0.0.0.0 umdc.aliapp.org
@@ -2446,6 +2453,7 @@
 0.0.0.0 xcmz999.com
 0.0.0.0 xcwzq.xyz
 0.0.0.0 xddzshop.com
+0.0.0.0 xegneils.com
 0.0.0.0 xerhibx.cn
 0.0.0.0 xfgctg.com
 0.0.0.0 xflsj.com

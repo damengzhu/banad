@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 2755
-! Update Time:2023-07-01 16:23:05（北京时间）
+! Total Count: 2763
+! Update Time:2023-07-02 15:50:39（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -444,6 +444,7 @@
 ||business-api.tiktok.com^
 ||buyihao.com^
 ||buzien.top^
+||bvvb9.com^
 ||bwdhuanbao.com^
 ||bxwccii.cn^
 ||c-gtc.getui.net^
@@ -665,6 +666,7 @@
 ||dm.toutiao.com^
 ||dmfjeu.xyz^
 ||dmm.aizhan.com^
+||dmxfdp.xyz^
 ||dmyrza.com^
 ||dncvj.cn^
 ||dnrf0215.com^
@@ -835,6 +837,7 @@
 ||fstats.xyz^
 ||ft8e.top^
 ||fthqzxq.cn^
+||ftiodfqk.com^
 ||fuentekj.com^
 ||fujifood.hk^
 ||fujincenter.com^
@@ -1261,6 +1264,7 @@
 ||kmbopoie.com^
 ||kmgfjc.cn^
 ||kmhmyaj.cn^
+||kmihknj.cn^
 ||kminker.xyz^
 ||kmn1sk.com^
 ||kmnhbr.xyz^
@@ -1400,6 +1404,7 @@
 ||luogod.xyz^
 ||luoyangjinmeii.com^
 ||lvcha99.cc^
+||lwksxs.com^
 ||lwlqsgr.cn^
 ||lxg8s.xyz^
 ||lxksalary.com^
@@ -1731,6 +1736,7 @@
 ||pvymlsvo.xyz^
 ||px.ucweb.com^
 ||pyeditingpro.biz^
+||pygokay.cn^
 ||pzkrgcp.cn^
 ||q.baminw.com.cn^
 ||q.f05.xyz^
@@ -2186,6 +2192,7 @@
 ||uibjhqwkl.com^
 ||uiteligularly.fun^
 ||uk529u0.cn^
+||ulkoxbra.com^
 ||um5xcgngmart.xyz^
 ||umbrellaomendear.com,^
 ||umdc.aliapp.org^
@@ -2455,6 +2462,7 @@
 ||xcmz999.com^
 ||xcwzq.xyz^
 ||xddzshop.com^
+||xegneils.com^
 ||xerhibx.cn^
 ||xfgctg.com^
 ||xflsj.com^
