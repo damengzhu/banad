@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 2763
-! Update Time:2023-07-02 15:50:39（北京时间）
+! Total Count: 2768
+! Update Time:2023-07-04 13:19:16（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -447,6 +447,7 @@
 ||bvvb9.com^
 ||bwdhuanbao.com^
 ||bxwccii.cn^
+||bzhn9y.icu^
 ||c-gtc.getui.net^
 ||c.l.qq.com^
 ||c.leankun.com^
@@ -1026,6 +1027,7 @@
 ||hqbuoh.com^
 ||hqnpwzu.cn^
 ||hrngmf.com^
+||hsdawz.com^
 ||hsrgnac.cn^
 ||hssapp.shop^
 ||hswfj.cn^
@@ -1183,6 +1185,7 @@
 ||jmr.nnxiant.cn^
 ||jnmascx.xyz^
 ||jntmwrm.com^
+||jnwpzq.com^
 ||jnyayk.xyz^
 ||joannarace.com^
 ||jocelynrace.com^
@@ -2093,6 +2096,7 @@
 ||tfutcmail.com^
 ||tfzozf.xyz^
 ||tg.loclog.cn^
+||tgbevv.xyz^
 ||tgcfmh.com^
 ||tgfyq.cn^
 ||tgymhwt.cn^
@@ -2705,6 +2709,7 @@
 ||zfmqfh.xyz^
 ||zfmtyv.buzz^
 ||zfnclk.buzz^
+||zfotrq.xyz^
 ||zgdshoes.com^
 ||zgfshoes.com^
 ||zgm1.com^
