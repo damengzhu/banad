@@ -5,6 +5,11 @@
 ! Total Count: 3603
 ! by: 酷安@大萌主
 ! Host
+||bzhn9y.icu^
+||jnwpzq.com^
+||tgbevv.xyz^
+||zfotrq.xyz^
+||hsdawz.com^
 ||ftiodfqk.com^
 ||xegneils.com^
 ||lwksxs.com^
@@ -2903,6 +2908,7 @@ hanman/static/dist/ppm/js/main.js
 /asfile/m/gudings.js
 ?local_ga_js=
 .xyz/xling_*_*_*.js?
+||www.ykjyyy.com/8888/
 /statics/js/guding.js
 /statics/js/dddd.js
 ||x4jdm.tv/mdp.js
@@ -3589,6 +3595,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##div#nr_body.nr_all.c_nr div.show-app2
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
 ##a[href*=".com?s="]
+##A[href='https://icrwt696.com']
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
