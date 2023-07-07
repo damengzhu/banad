@@ -2919,7 +2919,6 @@ hanman/static/dist/ppm/js/main.js
 ||yhdm.tv/bar/yfyh.js
 /js/js4.js
 *.xyz$domain=yinghuavideo.com
-||www.yhdm*.com/js/wap2-jm-ms.js?ver=
 .top/*/*.js?ts=$third-party
 /obj/ad-app-package
 /yinghuacd/bottom.js
