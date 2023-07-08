@@ -5,6 +5,11 @@
 ! Total Count: 3609
 ! by: 酷安@大萌主
 ! Host
+||dhkipdsc.xyz^
+||vcvbnmto.xyz^
+||abalado.com^
+||ssnnn.net^
+||50aqzb.com^
 ||zfteiv.xyz^
 ||bzhn9y.icu^
 ||jnwpzq.com^
@@ -2944,6 +2949,13 @@ hanman/static/dist/ppm/js/main.js
 ||yxdm.tv/js/gad.js
 .live/ty/*-*-*
 .cyou/xling_*_
+/m.html?rmid=*&yd=$~third-party
+/m.html?shareName=*&proxyAccount=$~third-party
+.top/*/2022*/.js$third-party
+.com/sh/*.js$third-party
+3zmmm.net/ggxx/
+.com/z-*-*?123$third-party
+novret.com/?clickid=
 /static/*/Lqho7OKcg.js?v=
 /static/*/KdLmbuThM.js?v=
 .cn/bid?url=*$third-party
