@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 2769
-! Update Time:2023-07-07 19:36:54（北京时间）
+! Total Count: 2774
+! Update Time:2023-07-08 13:09:33（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -92,6 +92,7 @@
 ||4kfv18.cn^
 ||4po6iqp9.cn^
 ||4sexmail.com^
+||50aqzb.com^
 ||51-tour.net^
 ||51.la^
 ||517heiya.com^
@@ -169,6 +170,7 @@
 ||a48505.cn^
 ||a4sz.xyz^
 ||aac.kegood.com^
+||abalado.com^
 ||abb.lxiaoxin.com^
 ||abenshishabi.com^
 ||abovede6.com^
@@ -638,6 +640,7 @@
 ||dgfgflod.com^
 ||dghehu.com^
 ||dgxlm.xyz^
+||dhkipdsc.xyz^
 ||di2y21.top^
 ||diagnosis.ad.xiaomi.com^
 ||dianhanjiw.com^
@@ -2010,6 +2013,7 @@
 ||ssjiancai.com^
 ||ssjy.shop^
 ||ssl.linyiccic.com^
+||ssnnn.net^
 ||ssp.qq.com^
 ||ssqyuvavse.com^
 ||sssxwsry.com^
@@ -2238,6 +2242,7 @@
 ||vancuongthinh.com^
 ||vaxgyly.cn^
 ||vbnmjjda.xyz^
+||vcvbnmto.xyz^
 ||vel7.xyz^
 ||venator.link^
 ||venetrigni.com^
