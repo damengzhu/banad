@@ -21,18 +21,7 @@ jobs:
           git add --all
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
           git push --force -u origin          
-      - name: Git push assets to coding
-        run: |
-          rm -rf .git/
-          git init
-          git config --local user.name "action"
-          git config --local user.email "action@github.com"
-          git branch -m main
-          git add .
-          git commit -m "Updated at $(date)"
-          git remote add origin "https://${{ secrets.CODING_TokenUser }}:${{ secrets.CODING_Token }}@e.coding.net/damengzhu/banad/banad.git"
-          #git fetch --unshallow origin
-          git push -u -f origin main
+
       - name: Manual-Update AdRules Repository
         run: |
           bash ./manual-update.sh
