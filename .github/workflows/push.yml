@@ -28,7 +28,7 @@ jobs:
           git init          
           git config --local user.name "action"
           git config --local user.email "action@github.com"
-          git remote add origin "https://damengzhudamengzhu:${{ secrets.BITBUCKET }}@bitbucket.org/damengzhudamengzhu/banad.git"
+          git remote add origin "https://damengzhud:${{ secrets.BITBUCKET }}@bitbucket.org/damengzhudamengzhu/banad.git"
           git branch -m main          
           git add .
           git commit -am "Update at $(TZ=UTC-8 date +"%Y-%m-%d %H:%M")"
