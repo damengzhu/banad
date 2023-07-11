@@ -22,17 +22,6 @@ jobs:
           git commit -m "Updated at $(TZ=UTC-8 date +'%Y-%m-%d %H:%M:%S')（北京时间）"
           git push --force -u origin          
 
-      - name: Git push assets to other repos
-        run: |
-          rm -rf .git/
-          git init          
-          git config --local user.name "action"
-          git config --local user.email "action@github.com"
-          git remote add origin "https://damengzhu:${{ secrets.BITBUCKET }}@bitbucket.org/damengzhudamengzhu/banad.git"
-          git branch -m main          
-          git add .
-          git commit -am "Update at $(TZ=UTC-8 date +"%Y-%m-%d %H:%M")"
-          git push --force -u main
       - name: Manual-Update AdRules Repository
         run: |
           bash ./manual-update.sh
