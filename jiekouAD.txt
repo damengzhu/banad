@@ -3613,6 +3613,9 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##section.global_video_bottom_dbtc
+##A > IMG[alt][src*='resources/images/']
+##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
+##DIV.bot-per.visible-xs.visible-sm *
 ##div.maomi-content > SECTION.section.section-banner
 ##DIV[style='width: 100%;background-color: black;color: white;padding: 15px 0;']
 ##IMG.lazyload[src='/statics/img/load.gif']
