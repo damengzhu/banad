@@ -5,6 +5,7 @@
 ! Total Count: 3625
 ! by: 酷安@大萌主
 ! Host
+||betcss.site^
 ||dhkipdsc.xyz^
 ||vcvbnmto.xyz^
 ||abalado.com^
@@ -3004,10 +3005,10 @@ com/js/lp365.js
 ||y3600.cc/js/jquery.min.js
 ||shimo.im/lizard-api/ads
 /adjs
+/xxgg/e13dj113a.js
 .com/xz/*?token8=
 ||zhanzhang.baidu.com/push.js
 .cfd/video/index/index/user_login/
-hm.js/
 /ad/dhgg.js
 /js/hhsyw.js
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
