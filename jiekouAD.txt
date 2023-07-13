@@ -2824,7 +2824,7 @@
 /banners/pr_advertising_ads_banner
 .ru/ads/
 unpkg.com/aladug/*.js
-/index.html?channelCode=$~third-party
+/index.html?channelCode=
 .com/js/g.js
 :8008/*/*?is_not=
 trafficjunky.com$third-party
@@ -2951,8 +2951,8 @@ hanman/static/dist/ppm/js/main.js
 ||yxdm.tv/js/gad.js
 .live/ty/*-*-*
 .cyou/xling_*_
-/m.html?rmid=*&yd=$~third-party
-/m.html?shareName=*&proxyAccount=$~third-party
+/m.html?rmid=*&yd=
+/m.html?shareName=*&proxyAccount=
 .top/*/2022*/.js$third-party
 .com/sh/*.js$third-party
 3zmmm.net/ggxx/
