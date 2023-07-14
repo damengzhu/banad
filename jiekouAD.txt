@@ -2910,6 +2910,7 @@ hanman/static/dist/ppm/js/main.js
 ||imanhuapi.com/style/js/mpmh.js
 ?adspot_
 ||scupio.com/js/ad.js
+||www.lezhutv.com/static/jquerys.js
 /template/mytheme/statics/js/listing.js
 /asfile/m/gudings.js
 ?local_ga_js=
