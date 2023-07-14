@@ -3139,7 +3139,7 @@ baike.baidu.com##[onclick^="page.Mixedor.mixedOpen(this,"]
 baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-content"],[class="yitiao-title"]
 zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
-baijiahao.baidu.com##DIV#bdrainrwDragButton
+baidu.com##DIV#bdrainrwDragButton
 bing.com##DIV#bnp_container
 bing.com##.b_ad
 tv.sohu.com##DIV.actv-banner.js-app-topbanner,DIV.banner_yunying,DIV.js-oper-pos,IMG.vrs-banner-act-img
