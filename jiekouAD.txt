@@ -3258,6 +3258,7 @@ chinaso.com##DIV.wrap-toolbar
 m.qidian.com##P.text-content
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
+imgur.com##.Ad.sas.Smart
 www.xda-developers.com##DIV.adzone-above-latest
 www.123pan.com##IMG[src*='-banner']
 m.sm.cn##DIV[ad_seid],DIV.dl-banner-lg.card
