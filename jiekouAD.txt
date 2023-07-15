@@ -5,6 +5,8 @@
 ! Total Count: 3627
 ! by: 酷安@大萌主
 ! Host
+||zfticz.buzz^
+||rcqmvmq.cn^
 ||betcss.site^
 ||dhkipdsc.xyz^
 ||vcvbnmto.xyz^
@@ -2964,6 +2966,8 @@ novret.com/?clickid=
 .cn/o.js$third-party
 xyz/kallss?
 xyz/stimulus?
+||wcanj.com/2345/
+/xtub_*_rony.js$third-party
 /app/get*?t=*http$third-party
 .xyz/*?16$third-party
 ||91mjw.com/hy-66-90.php
@@ -3091,8 +3095,7 @@ template/m1938pc/ads/*.js
 @@||developer.apple.com$generichide
 manwa.me#@#.ad-area
 myqqjd.com##.adsbygoogle
-m.baidu.com#@#div[class*="ads"]
-www.baidu.com#@#div[class*="ads"]
+baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 cupfox.app#@#.adsbygoogle
@@ -3104,13 +3107,13 @@ baidu.com##div[class$="-ecom-ads"]
 baidu.com##.ec-ad
 baidu.com##.ad-wrapper
 baidu.com##div#J-super-layer-promote
-m.baidu.com##DIV#page-copyright.se-page-copyright.se-copyrig
+baidu.com##DIV#page-copyright.se-page-copyright.se-copyrig
 baidu.com##DIV.c-result.result[srcid='mkt_ad_space']
 baidu.com##[class^='ball-wrapper']
-www.baidu.com,m.baidu.com##DIV[class='qrcode call']
+baidu.com##DIV[class='qrcode call']
 baidu.com##.ec_wise_ad
 baidu.com##div.ec_ad_results
-m.baidu.com##DIV.brand-entry
+baidu.com##DIV.brand-entry
 baidu.com###relative_shop_flow
 baidu.com##.rel-exp-feed-ad-item
 baidu.com###qtqy_container
