@@ -3101,7 +3101,7 @@ baidu.com#@##page-pre
 dongmanhuayuan.myheartsite.com##DIV.card-body
 m.guancha.cn##DIV.g_header.go-to-app
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
-cupfox.app##IMG[class^='jsx-'][width='100%'],div.swiper-wrapper img[class^='jsx-'][class*='a']:only-child
+cupfox.app##IMG[class^='jsx-'][width='100%'],div.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##.ec-ad
 baidu.com##.ad-wrapper
