@@ -3184,6 +3184,7 @@ axutongxue.com##DIV[style*='z-index: 9999999;display: flex;justify-content: cent
 axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3px 8px;']
 pornhub.com##DIV.adContainer
 pornhub.com##DIV.topAdContainter
+youtube.com##AD-SLOT-RENDERER
 baike.so.com##section#business-flow.business-flow
 smartapps.cn##swan-nest-banner-ad.ad-expose
 smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
