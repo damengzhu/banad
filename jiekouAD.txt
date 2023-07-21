@@ -2808,7 +2808,7 @@
 ||onesignal.com$third-party
 ||baidu.com/newspage/api/getmobads?
 ||ifeng.com/*&adids=
-.xyz$domain=btsj6.com|dm99.me
+.xyz$domain=btsj6.com|yinghuavideo.com|dm99.me
 .buzz$domain=btsj6.com|yinghuavideo.com|dm99.me
 .com/sh/to/$third-party
 .xyz/svelte?$third-party
