@@ -5,6 +5,8 @@
 ! Total Count: 3635
 ! by: 酷安@大萌主
 ! Host
+||zfticz.xyz^
+||rifyeldz.top^
 ||52acc.cn^
 ||zfvltd.xyz^
 ||awiudbyqbpo.com^
@@ -3423,6 +3425,7 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[href^='https://xxx.nunxun.com']
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##[at*='尼斯人注册送']
+##body#nr_body a[href*="/?utm_source="]
 ##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
 ##body.active > div.myui-panel > DIV#home_slide
