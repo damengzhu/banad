@@ -3255,6 +3255,8 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+sina.cn###float-btn.callApp_fl_btn
+sina.cn##SECTION.sw_c0.sina_sliders_pos
 sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
 m.kdslife.com##DIV#app.Card.DownloadGuide
 so.toutiao.com##DIV[id^='ad_']
