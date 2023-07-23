@@ -2820,6 +2820,8 @@
 .xyz/alpine?$third-party
 .live/o.js
 .cyou/redbaiduct.com
+||sina.cn/cm/sinaads_
+/sinaads/release/sinaads.js
 /js/news2zz.js
 /js/lmdas.js
 .com:8001/*/*?*=$third-party
@@ -3255,6 +3257,7 @@ sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
 sohu.com##DIV#recommendSearch
+sina.com.cn##[id^="fake_div_"].xxl-card
 sina.cn###float-btn.callApp_fl_btn
 sina.cn##SECTION.sw_c0.sina_sliders_pos
 sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
