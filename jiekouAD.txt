@@ -2808,8 +2808,10 @@
 ||yinghuavideo.com/bar/*.js
 ||google-analytics.com/analytics.js
 ||www.cartoon18.com/assets/*/jquery.js
-||onesignal.com$third-party
-||hotjar.com$third-party
+||onesignal.com^$third-party
+||hotjar.com^$third-party
+||sentry.io^$third-party
+||browser.sentry-cdn.com^$third-party
 ||baidu.com/newspage/api/getmobads?
 ||ifeng.com/*&adids=
 .xyz$domain=btsj6.com|yinghuavideo.com|dm99.me
