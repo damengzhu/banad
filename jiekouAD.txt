@@ -3276,7 +3276,7 @@ m.qidian.com##I.icon-logo
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
 www.xda-developers.com##DIV.adzone-above-latest
-www.123pan.com##IMG[src*='-banner'],div.slick-list
+www.123pan.com##IMG[src*='-banner'],.ant-carousel
 woozooo.com##.ves
 m.sm.cn##DIV[ad_seid],DIV.dl-banner-lg.card
 www.dbbqb.com##DIV.MuiPaper-root
