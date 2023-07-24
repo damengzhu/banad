@@ -3230,7 +3230,6 @@ manwa1.me,manwa2.me,manwa.me##[style='transform-origin: left top; margin: 0px au
 manwa1.me,manwa2.me,manwa.me##DIV.swiper-container.swiper-container-horizontal
 m.autohome.com.cn##ol > li,.evade-operate
 match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
-yydstxt234.com##IMG[src^='/images/'][width='100%']
 www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],DIV#slide.layui-carousel,DIV.closeable
 luoqiuzw.com##DIV[id^="a-loading-"]
 m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
@@ -3272,9 +3271,11 @@ chinaso.com##DIV.wrap-toolbar
 m.qidian.com##P.text-content
 m.qidian.com##A.catalog-download
 m.qidian.com##I.icon-logo
+www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
 www.xda-developers.com##DIV.adzone-above-latest
 www.123pan.com##IMG[src*='-banner'],div.slick-list
+woozooo.com##.ves
 m.sm.cn##DIV[ad_seid],DIV.dl-banner-lg.card
 www.dbbqb.com##DIV.MuiPaper-root
 www.haijiao.com##DIV.addbox,DIV.bannerliststyle,DIV.van-swipe-item,DIV.crossbutton
