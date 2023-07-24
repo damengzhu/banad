@@ -2544,7 +2544,6 @@
 ||adm.hotjar.com^
 ||identify.hotjar.com^
 ||insights.hotjar.com^
-||script.hotjar.com^
 ||surveys.hotjar.com^
 ||careers.hotjar.com^
 ||events.hotjar.io^
@@ -2553,7 +2552,6 @@
 ||sessions.bugsnag.com^
 ||api.bugsnag.com^
 ||app.bugsnag.com^
-||browser.sentry-cdn.com^
 ||app.getsentry.com^
 ||pixel.facebook.com^
 ||an.facebook.com^
@@ -2811,6 +2809,7 @@
 ||google-analytics.com/analytics.js
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com$third-party
+||hotjar.com$third-party
 ||baidu.com/newspage/api/getmobads?
 ||ifeng.com/*&adids=
 .xyz$domain=btsj6.com|yinghuavideo.com|dm99.me
