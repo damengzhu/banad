@@ -5,6 +5,7 @@
 ! Total Count: 3646
 ! by: 酷安@大萌主
 ! Host
+||cdmjur.xyz^
 ||zfticz.xyz^
 ||rifyeldz.top^
 ||52acc.cn^
@@ -3628,6 +3629,8 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
 ##a[href*=".com?s="]
 ##div.my-ad > a
+##DIV.zoomout transition.zoomout
+##body.active div#bottommob.bottommob
 ##A[href='https://icrwt696.com']
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
