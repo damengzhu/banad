@@ -2891,6 +2891,7 @@ chen-xing/figure_bed*
 .xyz/hm.js?$third-party
 /Distribute/Distribute_g/butterfly/*
 /js/mts.js
+/bugsnag.min.js$third-party
 .icu/biyys*.js$third-party
 .xyz/o.js$third-party
 /bigREDcat.js?$third-party
