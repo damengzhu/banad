@@ -5,6 +5,7 @@
 ! Total Count: 3652
 ! by: 酷安@大萌主
 ! Host
+||kv8899.com^
 ||69mok.com^
 ||ddgjjj.com^
 ||cdmjur.xyz^
@@ -2855,6 +2856,8 @@ trafficjunky.com$third-party
 .com:*/*/*?t=$third-party
 .com:*/*/*?n=$third-party
 .xyz/qby_*.js?$third-party
+.xyz/get?$third-party
+.xyz/ty/*-*-*$third-party
 /api/LM/Report?placeUUID=$third-party
 .icu/pssbk?$third-party
 /vhyoydie_*_*.js$third-party
@@ -3180,7 +3183,6 @@ www.xvideos.com###ad-footer
 www.xvideos.com##.thumb-ad
 ix6080.com##DIV[style$='vw; display: block;']
 m.hupu.com##[class^="show_ad"]
-hmqg.net###bottommob.bottommob
 m.zzzfun.com###show-2415689770463175004-8179
 sogou.com##.ad_result
 m.nxnba.com##.bootom-fixed
@@ -3632,8 +3634,9 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
 ##a[href*=".com?s="]
 ##div.my-ad > a
-##DIV.zoomout transition.zoomout
-##body.active div#bottommob.bottommob
+##INS[status='done'] A.external
+##body > div#bottommob.bottommob
+##DIV#xfb_lbox.zoomout_transition.zoomout
 ##A[href='https://icrwt696.com']
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
