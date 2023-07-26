@@ -3155,7 +3155,6 @@ bing.com###bnp_container
 bing.com##.b_ad
 tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
 hao123.com##.popup
-yhdmp.net##[style^='bottom:'][style$='block;']
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
@@ -3164,17 +3163,11 @@ mobile.baidu.com##SECTION.detail-banner.banner-ck
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='album_related'],[data-group^='all_bottom']
 m.hupu.com##A[href^='https://mobile.yangkeduo.com/duo_transfer_channel.html']
 m.hupu.com##IMG[alt='NBA英雄'][width='94%']
-www.dmh8.me,dm88.me##DIV[style^='position: fixed; bottom: 0px; display: block; opacity:']
-www.dmh8.me,dm88.me##DIV[style^='width:300px;height:300px;position:fixed;bottom:0;left:0;']
-www.dmh8.me,dm88.me##CENTER
-dmh8.me,dm88.me##DIV[style='display: flex;']
-dmh8.me,dm88.me##DIV[style^='background: url("http']
-dmh8.me,dm88.me##H2[style='display: block;']
+m.douban.com##div.center [style*='padding: 4px;']
 www.xvideos.com###ad-footer
 www.xvideos.com##.thumb-ad
 ix6080.com##DIV[style$='vw; display: block;']
 m.hupu.com##[class^="show_ad"]
-m.zzzfun.com###show-2415689770463175004-8179
 sogou.com##.ad_result
 m.nxnba.com##.bootom-fixed
 ifeng.com##div[class^="ad_"]
