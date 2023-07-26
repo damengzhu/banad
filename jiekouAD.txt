@@ -1186,7 +1186,6 @@
 ||kshuiz.top^
 ||ksqfwxu.cn^
 ||kstj.baidu.com^
-||kszvmqo.cn^
 ||kszxqq.com^
 ||ktdlsb.com^
 ||kuanxin.top^
@@ -1931,8 +1930,6 @@
 ||track.sohu.com^
 ||track.uc.cn^
 ||tracking.kdnet.net^
-||tradplusad.com^
-||trafficjunky.net^
 ||trc.taboola.com^
 ||trektinyreproduce.com^
 ||trognoi.com^
@@ -2652,7 +2649,6 @@
 ||dm.toutiao.com^
 ||gdtimg.com^
 ||dm.bytedance.com^
-||mssdk-bu.bytedance.com^
 ||dm.pstatp.com^
 ||metok.sys.miui.com^
 ||api.tw06.xlmc.sec.miui.com^
@@ -2692,7 +2688,6 @@
 ||tuisong.baidu.com^
 ||sfp.safe.baidu.com^
 ||diagnosis.ad.xiaomi.com^
-||dataflow.biliapi.com^
 ||line1-log.biligame.net^
 ||irs03.com^
 ||o2o.api.xiaomi.com^
@@ -2760,13 +2755,10 @@
 ||ssp.qq.com^
 ||ecmb.bdimg.com^
 ||appc.baidu.com^
-||i.snssdk.com^
 ||d.toutiao.com^
 ||log-sdk.ksapisrv.com^
 ||dig.bdurl.net^
-||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.zijieapi^
-||tnc3-alisc1.snssdk.com^
 ||tnc3-alisc1.zijieapi^
 ||tnc3-bjlgy.snssdk.com^
 ||tnc3-bjlgy.zijieapi^
@@ -2918,7 +2910,6 @@ chen-xing/figure_bed*
 hanman/static/dist/ppm/js/main.js
 .cn:8001/*/*?*=$third-party
 .com:10446/*/get*.html
-.com:8001/*/*?*=$third-party
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
