@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 2780
-#Update Time: 2023-07-25 14:14:15（北京时间）
+#Total Count: 2774
+#Update Time: 2023-07-26 12:00:57（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -620,7 +620,6 @@
 0.0.0.0 data.mistat.rus.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.zhongquanjy.com
-0.0.0.0 dataflow.biliapi.com
 0.0.0.0 db11yy.com
 0.0.0.0 dbkdwe1.com
 0.0.0.0 dcvbnzss.xyz
@@ -1068,7 +1067,6 @@
 0.0.0.0 hzhuang.wang
 0.0.0.0 i-fk.cn
 0.0.0.0 i.cidianwang.com
-0.0.0.0 i.snssdk.com
 0.0.0.0 i1.go2yd.com
 0.0.0.0 i7akpd1.xyz
 0.0.0.0 i7pnx0t.cn
@@ -1520,7 +1518,6 @@
 0.0.0.0 msg.video.qiyi.com
 0.0.0.0 msite.baidu.com
 0.0.0.0 mssdhde.cn
-0.0.0.0 mssdk-bu.bytedance.com
 0.0.0.0 mtawcy.xyz
 0.0.0.0 muchenzhongguo.com
 0.0.0.0 mudroom.aquadisco.xyz
@@ -2124,9 +2121,7 @@
 0.0.0.0 tjqwb.cn
 0.0.0.0 tlsgq.cn
 0.0.0.0 tmochyf.cn
-0.0.0.0 tnc3-aliec2.snssdk.com
 0.0.0.0 tnc3-aliec2.zijieapi
-0.0.0.0 tnc3-alisc1.snssdk.com
 0.0.0.0 tnc3-alisc1.zijieapi
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.zijieapi
@@ -2147,7 +2142,6 @@
 0.0.0.0 tracking.kdnet.net
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
-0.0.0.0 tradplusad.com
 0.0.0.0 trafficjunky.net
 0.0.0.0 trc.taboola.com
 0.0.0.0 trektinyreproduce.com

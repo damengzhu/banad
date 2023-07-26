@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 2785
-! Update Time:2023-07-25 14:14:15（北京时间）
+! Total Count: 2777
+! Update Time:2023-07-26 12:00:57（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -621,7 +621,6 @@
 ||data.mistat.rus.xiaomi.com^
 ||data.mistat.xiaomi.com^
 ||data.zhongquanjy.com^
-||dataflow.biliapi.com^
 ||db11yy.com^
 ||dbkdwe1.com^
 ||dcvbnzss.xyz^
@@ -1070,7 +1069,6 @@
 ||hzhuang.wang^
 ||i-fk.cn^
 ||i.cidianwang.com^
-||i.snssdk.com^
 ||i1.go2yd.com^
 ||i7akpd1.xyz^
 ||i7pnx0t.cn^
@@ -1524,7 +1522,6 @@
 ||msg.video.qiyi.com^
 ||msite.baidu.com^
 ||mssdhde.cn^
-||mssdk-bu.bytedance.com^
 ||mtawcy.xyz^
 ||muchenzhongguo.com^
 ||mudroom.aquadisco.xyz^
@@ -2132,9 +2129,7 @@
 ||tjqwb.cn^
 ||tlsgq.cn^
 ||tmochyf.cn^
-||tnc3-aliec2.snssdk.com^
 ||tnc3-aliec2.zijieapi^
-||tnc3-alisc1.snssdk.com^
 ||tnc3-alisc1.zijieapi^
 ||tnc3-bjlgy.snssdk.com^
 ||tnc3-bjlgy.zijieapi^
@@ -2155,7 +2150,6 @@
 ||tracking.kdnet.net^
 ||tracking.miui.com^
 ||tracking.rus.miui.com^
-||tradplusad.com^
 ||trafficjunky.net^
 ||trc.taboola.com^
 ||trektinyreproduce.com^
