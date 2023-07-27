@@ -5,6 +5,7 @@
 ! Total Count: 3639
 ! by: 酷安@大萌主
 ! Host
+||zfxakx.xyz^
 ||kv8899.com^
 ||69mok.com^
 ||ddgjjj.com^
@@ -2825,6 +2826,7 @@
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /site/mov*$third-party
+||156zw.com/css/js/tools.js
 ||dadatuwz.com^$third-party
 ||pubfuture.com^$third-party
 ||n5m5.com/static/js/playcon.js
