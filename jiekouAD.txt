@@ -5,6 +5,7 @@
 ! Total Count: 3642
 ! by: 酷安@大萌主
 ! Host
+||sbeaje.com^
 ||api.xn--zw0autp42d.cn^
 ||zfxakx.xyz^
 ||kv8899.com^
