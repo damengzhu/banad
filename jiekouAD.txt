@@ -3623,6 +3623,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[style^='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: '][style*='; top: 0px; left: 0px;']
 ##a[href*=".com?s="]
 ##div.my-ad > a
+##div#playlistbtn > A[href='/ht.html']
 ##INS[status='done'] A.external
 ##body > div#bottommob.bottommob
 ##DIV#xfb_lbox.zoomout_transition.zoomout
