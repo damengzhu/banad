@@ -5,6 +5,7 @@
 ! Total Count: 3643
 ! by: 酷安@大萌主
 ! Host
+||hcvegu.com^
 ||sbeaje.com^
 ||api.xn--zw0autp42d.cn^
 ||zfxakx.xyz^
@@ -3159,6 +3160,7 @@ bing.com###bnp_container
 bing.com##.b_ad
 tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
 hao123.com##.popup
+www.lezhutv.com##[style='bottom: 132px;']
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
