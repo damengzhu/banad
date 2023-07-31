@@ -3370,7 +3370,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##.C1U,.C1M,.C2L,.C2R
 ##[src^='/Uploads/ad/'][src$='.gif'][alt='广告']
 ##img#hth[onclick$="hth.html')"]
-##.ads
 ##A[onclick$='()'][target='_top'][style*='.gif) no-repeat;background-size:100% 100%;']
 ##body#nr_body.nr_all.c_nr > div[class] > DIV[style='height:90px;width:100%;']
 ##IMG[src$='.dl'][style='width:100% !important;height:90px'][onclick]
