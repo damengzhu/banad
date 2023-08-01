@@ -2866,6 +2866,7 @@ yhdm*.com/js/wap2-jm-ms.js?ver=
 ||jialingmm.net/dm/tj.js
 ||58jingxuan.top/115
 xmh/200/200-*.gif
+/scripts/snstyle.js?v=2$~third-party
 .com/qq.js$third-party
 .xyz/st?gp=*$third-party
 ||zhhbqg.com/xxgg/*.js
