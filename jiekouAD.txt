@@ -3079,7 +3079,6 @@ _/bigREDdog.css?
 .xyz/xefeliffng_$third-party
 91porny.com/api/getPos?jspath=/
 /api/getPos?jspath=/videos/view//*
-/s/page_runtime_*.js
 /v0/amp-addthis-*.js
 .com:8010/cc/
 .buzz/*0*0*0*==$third-party
