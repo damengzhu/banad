@@ -7,7 +7,7 @@
 ## 规则链接：
 `https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt` [订阅到AdBlock或AdGuard](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
 ### 镜像
-`https://raw.fastgit.ixmu.net/damengzhu/banad/main/jiekouAD.txt` [订阅到AdBlock或AdGuard](https://subscribe.adblockplus.org/?location=https://damengzhu.coding.net/p/banad/d/banad/git/raw/main/jiekouAD.txt)
+`https://ghproxy.com/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt` [订阅到AdBlock或AdGuard](https://subscribe.adblockplus.org/?location=https://ghproxy.com/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
 
 ## 反馈
 🐧群: [715582626](https://jq.qq.com/?_wv=1027&k=1jx8rV2k) 
