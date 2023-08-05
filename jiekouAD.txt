@@ -3245,6 +3245,7 @@ baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
+axutongxue.com##DIV[style='text-align:center']
 www.xda-developers.com##.adzone-above-latest
 www.123pan.com##IMG[src*='-banner'],.ant-carousel
 www.lezhutv.com##[style='bottom: 132px;']
