@@ -3261,6 +3261,7 @@ share.acgnx.se##IMG[src*='share.acgnx.se']
 zol.com.cn##A.dingtong.xianshiyouhui
 dm530p.net##DIV[style$='; display: block;']
 m.iqiyi.com##.iqyGuide-content,.cover
+webtor.io##DIV.ad
 acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
 ali213.net##.placeholderforpromotion
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
