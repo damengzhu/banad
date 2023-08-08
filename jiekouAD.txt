@@ -2659,7 +2659,6 @@
 ||bugly.qq.com^
 ||shuzilm.cn^
 ||dm.toutiao.com^
-||gdtimg.com^
 ||dm.bytedance.com^
 ||dm.pstatp.com^
 ||metok.sys.miui.com^
@@ -2670,7 +2669,6 @@
 ||sdkapp.uve.weibo.com^
 ||miaozhen.com^
 ||conf.hpplay.cn^
-||tdid.m.qq.com^
 ||api-shoulei-ssl.xunlei.com^
 ||aiclk.com^
 ||adkwai.com^
