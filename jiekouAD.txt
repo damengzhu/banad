@@ -1017,7 +1017,6 @@
 ||img.starpc.cn^
 ||img.vue-js.cyou^
 ||img2.qqwangming6.com^
-||imgstat.baidu.com^
 ||imgwdyey.com^
 ||imp.zol.com.cn^
 ||in-page-push.com^
