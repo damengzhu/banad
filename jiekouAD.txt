@@ -3146,6 +3146,8 @@ fanyi.baidu.com##H1,H3,.intro-nav.clearfix,.intro-copyrigh,A.app-bar,.intro-copy
 cpu.baidu.com##A[href*='cpro.baidu.com']
 wk.baidu.com##.fc-ad-wrap
 wk.baidu.com##.middle-box-root
+tieba.baidu.com##.tbui_slideshow_slide
+tieba.baidu.com##.activity_head
 tieba.baidu.com##DIV[id^='aside-ad']
 tieba.baidu.com##div[class*='-ad-pb-']
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
