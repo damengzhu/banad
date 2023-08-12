@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 2787
-! Update Time:2023-08-11 21:49:47（北京时间）
+! Total Count: 2792
+! Update Time:2023-08-12 12:33:58（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -614,6 +614,7 @@
 ||dakawm.cc^
 ||daliantong.com.cn^
 ||dangongshijie.com^
+||dasv10rewq.xyz^
 ||dat.yl-zipper.com^
 ||dat8.cc^
 ||data.ads.oppomobile.com^
@@ -631,6 +632,7 @@
 ||dedcrfvdj.xyz^
 ||deeterno.cn^
 ||dehua.mengtubo.com^
+||derew6xbsc.xyz^
 ||dertyhsf.xyz^
 ||destc10.icu^
 ||device.fishmobi.com^
@@ -1368,6 +1370,7 @@
 ||lizehuandian.top^
 ||ljarfvg.cn^
 ||lkancklanklcav.com^
+||lknhrnd.com^
 ||lknlkndasda.top^
 ||lkpmprksau.com^
 ||llaxl.com^
@@ -2117,6 +2120,7 @@
 ||tgymhwt.cn^
 ||thallus.net^
 ||thefatherofsalmon.com^
+||thesac3.top^
 ||thewindrun.com^
 ||thezbpe5*.xyz^
 ||thinkmd.cn^
@@ -2279,6 +2283,7 @@
 ||vv.nettierbrakier.com^
 ||vvfht.fun^
 ||vxhsj.cn^
+||vxinzheng.xyz^
 ||w.bnlg.fun^
 ||w41.i7x3.fun^
 ||wagzqhq.cn^
