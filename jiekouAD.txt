@@ -5,6 +5,11 @@
 ! Total Count: 3658
 ! by: 酷安@大萌主
 ! Host
+||thesac3.top^
+||vxinzheng.xyz^
+||dasv10rewq.xyz^
+||lknhrnd.com^
+||derew6xbsc.xyz^
 ||zggrxf.life^
 ||mkjnbg.com^
 ||pbaiyho.cn^
@@ -3643,6 +3648,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##section.global_video_bottom_dbtc
+##A[href^='https://www.ids20.co']
 ##A > IMG[alt][src*='resources/images/']
 ##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
 ##DIV.bot-per.visible-xs.visible-sm *
