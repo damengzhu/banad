@@ -5,6 +5,9 @@
 ! Total Count: 3996
 ! by: 酷安@大萌主
 ! Host
+||autchoog.net^
+||dfgwer.com^
+||baidudvbjkbssjvsvv.com^
 ||087tqb.cn^
 ||000123456789.online^
 ||000123456789.site^
@@ -3981,6 +3984,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##section.global_video_bottom_dbtc
 ##A[href^='https://www.ids20.co']
+##DIV[style^='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
 ##A > IMG[alt][src*='resources/images/']
 ##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
 ##DIV.bot-per.visible-xs.visible-sm *
