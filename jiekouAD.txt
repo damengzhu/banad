@@ -3994,6 +3994,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##IMG.lazyload[src='/statics/img/load.gif']
 ##[src^='https://immmg.owowqrf.cn']
 ##A[href^='https://v.frthv.com']
+##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
 ##div#main.main.read_page [id^="set_adds"]
