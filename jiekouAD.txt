@@ -3135,7 +3135,7 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
-@@||1anime.me/template/conch/asset/js/hlhtml.js
+@@||/template/conch/asset/js/hlhtml.js$domain=www.gqdm.net|1anime.me
 @@||css.yhdmtu.xyz^$domain=yinghuavideo.com
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||manwa.me^
