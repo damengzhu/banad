@@ -3135,7 +3135,8 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
-@@css.yhdmtu.xyz$domain=yinghuavideo.com
+@@||1anime.me/template/conch/asset/js/hlhtml.js
+@@||css.yhdmtu.xyz^$domain=yinghuavideo.com
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||manwa.me^
 @@||cdn-msp*.18comic.*^
