@@ -3142,7 +3142,7 @@
 ||stat.meitudata.com^
 ! URL
 @@||/template/conch/asset/js/hlhtml.js$domain=www.gqdm.net|1anime.me
-@@||css.yhdmtu.xyz^$domain=yinghuavideo.com
+@@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
 @@||jstatic.3.cn^$domain=m.jd.com
 @@||manwa.me^
 @@||cdn-msp*.18comic.*^
@@ -3158,7 +3158,7 @@
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 ||qishula.com/css/ding.js
-||yinghuavideo.com/bar/*.js
+/bar/*.js$domain=yinghuavideo.com|yinghua8.tv
 ||google-analytics.com/analytics.js
 ||www.cartoon18.com/assets/*/jquery.js
 ||onesignal.com^$third-party
@@ -3167,8 +3167,8 @@
 ||browser.sentry-cdn.com^$third-party
 ||baidu.com/newspage/api/getmobads?
 ||ifeng.com/*&adids=
-.xyz$domain=btsj6.com|yinghuavideo.com|dm99.me
-.buzz$domain=btsj6.com|yinghuavideo.com|dm99.me
+.xyz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
+.buzz$domain=btsj6.com|yinghua8.tv|yinghuavideo.com|dm99.me
 .com/sh/to/$third-party
 .xyz/svelte?$third-party
 .xyz/alpine?$third-party
