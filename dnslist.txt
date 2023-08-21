@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 3134
-! Update Time:2023-08-21 09:57:14（北京时间）
+! Total Count: 3140
+! Update Time:2023-08-21 12:59:29（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -400,6 +400,7 @@
 ||aykibra.cn^
 ||aymtdcg.cn^
 ||aynanjianyy.com^
+||ayybzhd.cn^
 ||b-gtc.getui.net^
 ||b.1th.app^
 ||b0rbgroup.xyz^
@@ -1257,6 +1258,7 @@
 ||insights.hotjar.com^
 ||intimidatepropel.com^
 ||ioiksw.cn^
+||iojnask.com^
 ||ionksfefe.xyz^
 ||iosppk.com^
 ||iot-eu-logser.realme.com^
@@ -1486,6 +1488,7 @@
 ||kwo-0115.cc^
 ||kydb.xyz^
 ||kyplpw.com^
+||kytesconge.com^
 ||kyxw9itc.xyz^
 ||kyxw9itv.club^
 ||kyzx.xyZ^
@@ -1496,6 +1499,7 @@
 ||l.ykimg.com^
 ||laawmmy.cn^
 ||laipeitu.com^
+||lakefish.xyz^
 ||lakjdskls.zhdchb.com^
 ||lalaping.com^
 ||laljjn.xyz^
@@ -1797,6 +1801,7 @@
 ||nmkghh.com^
 ||nmm9i.xyz^
 ||nmrdnqn.cn^
+||nmssdbgmf.xyz^
 ||nnfyxd.xyz^
 ||nnocsin.cn^
 ||nnqwe.xyz^
@@ -3133,6 +3138,7 @@
 ||zzdsjxsb.com^
 ||zzgxqlzh.com^
 ||zzpzero.com^
+||zztxr.cn^
 ||zzxedr.xyz^
 ||zzxlhwyp.com^
 ||zzycj.com^
