@@ -3634,6 +3634,7 @@ inews.qq.com,xw.qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once
 boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 bimibimi.cc##[src^='https://dd-static.jd.com']
 hao123.com##.popup
+soutubot.moe##.bg-gray-800.overflow-hidden
 ix6080.com##DIV[style$='vw; display: block;']
 sogou.com##.ad_result
 m.nxnba.com##.bootom-fixed
