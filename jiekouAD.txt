@@ -3381,6 +3381,7 @@ Mplay/kk1.js
 .live/hm.js$third-party
 static/pull/qwe1021.js
 com/js/lp365.js
+||halihali.com/js/wap2-jm-ms.js
 ||verysadfun.com/assets/publish/jquery.*.js
 .com/candy*.js$third-party
 ||627txt.com/da/*js
