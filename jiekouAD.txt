@@ -3604,6 +3604,7 @@ cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][
 youtube.com##AD-SLOT-RENDERER
 baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
+cqjschungao.com##[style='bottom: 132px;']
 cqjschungao.com##[style*='px no-repeat; position: relative;']
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
