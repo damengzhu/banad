@@ -5,6 +5,12 @@
 ! Total Count: 4024
 ! by: 酷安@大萌主
 ! Host
+||qhkxs.cn^
+||jrds.net.cn^
+||nndzsw.com^
+||dlrtz.com^
+||shuyu2001.cn^
+||mmftdt.com^
 ||dvnsdo.com^
 ||zgtwzq.xyz^
 ||nmssdbgmf.xyz^
@@ -3282,6 +3288,7 @@ hanman/static/dist/ppm/js/main.js
 /ht.js?site_
 /*/*.add.*.add
 /_xa/ads?
+com:8891/c.php?s=*$third-party
 .com/o.js$third-party
 .cc/o.js$third-party
 /gameapk/*/hongbao.apk
@@ -3800,6 +3807,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href^='https://xxx.nunxun.com']
 ##div.row.col5.clearfix:nth-of-type(2) > dl:nth-of-type(1)
 ##[at*='尼斯人注册送']
+##DIV.ads.ads_w
 ##body#nr_body a[href*="/?utm_source="]
 ##[style*='width:9.6vw;height:8.5vw;background:#000;opacity:0.01;']
 ##IMG[url][onclick='window.open(this.url)'][src$='.gif'][width='100%']
