@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 3137
-#Update Time: 2023-08-26 07:02:21（北京时间）
+#Total Count: 3143
+#Update Time: 2023-08-28 12:29:52（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -741,6 +741,7 @@
 0.0.0.0 dklwddl.cn
 0.0.0.0 dl12349.net
 0.0.0.0 dlads.cn
+0.0.0.0 dlrtz.com
 0.0.0.0 dlswbr.baidu.com
 0.0.0.0 dlxxjsh.top
 0.0.0.0 dm-hl.toutiao.com
@@ -1353,6 +1354,7 @@
 0.0.0.0 jothvz.xyz
 0.0.0.0 jpush0b.xyz
 0.0.0.0 jpvrbt.xyz
+0.0.0.0 jrds.net.cn
 0.0.0.0 js.363lm.com
 0.0.0.0 js.bbdsdy.com
 0.0.0.0 js.kalvinbg.cn
@@ -1701,6 +1703,7 @@
 0.0.0.0 mmead.xyz
 0.0.0.0 mmevt.icu
 0.0.0.0 mmfcezwqaz.com
+0.0.0.0 mmftdt.com
 0.0.0.0 mmgg62.com
 0.0.0.0 mmkkhhnn.cn
 0.0.0.0 mmszxc.top
@@ -1799,6 +1802,7 @@
 0.0.0.0 nmm9i.xyz
 0.0.0.0 nmrdnqn.cn
 0.0.0.0 nmssdbgmf.xyz
+0.0.0.0 nndzsw.com
 0.0.0.0 nnfyxd.xyz
 0.0.0.0 nnocsin.cn
 0.0.0.0 nnqwe.xyz
@@ -2012,6 +2016,7 @@
 0.0.0.0 qfnoyix.cn
 0.0.0.0 qhicumg.cn
 0.0.0.0 qhjm600.com
+0.0.0.0 qhkxs.cn
 0.0.0.0 qhonzpl.cn
 0.0.0.0 qhvws.com
 0.0.0.0 qiabayyds.com
@@ -2232,6 +2237,7 @@
 0.0.0.0 shufapeixun.shop
 0.0.0.0 shulsbs.cn
 0.0.0.0 shunlianhudong.com
+0.0.0.0 shuyu2001.cn
 0.0.0.0 shuzilm.cn
 0.0.0.0 si1.go2yd.com
 0.0.0.0 sifa.aak7.cn
