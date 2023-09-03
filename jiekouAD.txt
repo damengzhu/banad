@@ -5,6 +5,7 @@
 ! Total Count: 4035
 ! by: 酷安@大萌主
 ! Host
+||uchat6.com^
 ||986qka.cn^
 ||shuyu2001.cn^
 ||lestv1.icu^
@@ -4011,6 +4012,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV#xfb_lbox.zoomout_transition.zoomout
 ##A[href^='https://icrwt696.com']
 ##A[href^='https://k.izret.com']
+##div.am-gallery-item > a
 ##div.poi-row IMG[width='950'][height='300'][style='max-width:100%;height:auto']
 ##div.inn-content-reseter > a > IMG[decoding='async'][loading='lazy']
 ##DIV[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important; line-height: 0px !important; height: 150px !important;']
