@@ -3441,11 +3441,7 @@ _/bigREDcat.css?
 .top/gluinfo.php?s=$third-party
 /baidu/tg.js
 /baidu/189/999.php
-/new/2*.html
-/new/4*.html
-/new/5*.html
-/new/8*.html
-_/bigREDdog.css?
+/bigREDdog.css?
 .icu/?token=$third-party
 .xyz/*0*0*==$third-party
 .xyz/foundation?$third-party
