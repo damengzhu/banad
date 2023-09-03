@@ -3125,7 +3125,6 @@
 ||vstat.v.blog.sohu.com^
 ||count.vrs.sohu.com^
 ||qchannel03.cn^
-||zz.bdstatic.com^
 ||tsearch.snssdk.com^
 ||fclick.baidu.com^
 ||ssp.qq.com^
