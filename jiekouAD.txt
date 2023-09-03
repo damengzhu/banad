@@ -5,6 +5,7 @@
 ! Total Count: 4038
 ! by: 酷安@大萌主
 ! Host
+||986qka.cn^
 ||shuyu2001.cn^
 ||lestv1.icu^
 ||zgwsnw.xyz^
@@ -4021,6 +4022,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div#page-back DIV.container.clearfix div > A > IMG[src]
 ##section.global_video_bottom_dbtc
 ##A[href^='https://www.ids20.co']
+##IMG[style='height:120px;width:100%;'][src*='/sucai/']
 ##DIV[style^='box-sizing: border-box; position: relative; left: 0px; z-index: 214748']
 ##A > IMG[alt][src*='resources/images/']
 ##A[rel='nofollow noopener'][href*='/game/xr/?attributionId=']
