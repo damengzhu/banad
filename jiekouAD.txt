@@ -3979,6 +3979,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##IMG[src*='qmfcybwbf']
 ##[href*='.top/?token=']
 ##div.appad
+##[src^="https://img.sobot.com/chatres/"][title="sb"]
 ##[style='z-index: 99999; text-indent: -10em;position: relative; left: 0px;box-sizing: border-box;']
 ##a[href^="/ad.html?url="]
 ##html.wap [style='left: 40%;']
