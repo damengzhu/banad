@@ -5,6 +5,12 @@
 ! Total Count: 4038
 ! by: 酷安@大萌主
 ! Host
+||vhhvldyuhm.xyz^
+||b9b2oe8720j.xyz^
+||dmvckj.icu^
+||htseca.top^
+||xn--m7r781dz66a.cn^
+||gyqifa.com^
 ||uchat6.com^
 ||986qka.cn^
 ||shuyu2001.cn^
@@ -4030,6 +4036,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##IMG.lazyload[src='/statics/img/load.gif']
 ##[src^='https://immmg.owowqrf.cn']
 ##A[href^='https://v.frthv.com']
+##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
