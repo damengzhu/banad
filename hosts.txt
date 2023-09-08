@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 3147
-#Update Time: 2023-09-04 17:49:20（北京时间）
+#Total Count: 3153
+#Update Time: 2023-09-08 19:52:56（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -410,6 +410,7 @@
 0.0.0.0 b2xy4m.xyz
 0.0.0.0 b4g7k9d2.com
 0.0.0.0 b59.xyz
+0.0.0.0 b9b2oe8720j.xyz
 0.0.0.0 bai128.xyz
 0.0.0.0 baidudvbjkbssjvsvv.com
 0.0.0.0 baiwb.com
@@ -751,6 +752,7 @@
 0.0.0.0 dm.toutiao.com
 0.0.0.0 dmfjeu.xyz
 0.0.0.0 dmm.aizhan.com
+0.0.0.0 dmvckj.icu
 0.0.0.0 dmxfdp.xyz
 0.0.0.0 dmyrza.com
 0.0.0.0 dncvj.cn
@@ -1053,6 +1055,7 @@
 0.0.0.0 gxzxiww.com
 0.0.0.0 gyjinchuang.vip
 0.0.0.0 gypowdr.com
+0.0.0.0 gyqifa.com
 0.0.0.0 gyutmrp.com
 0.0.0.0 gz-hongxin.com
 0.0.0.0 gzasiatech.net
@@ -1173,6 +1176,7 @@
 0.0.0.0 hswfj.cn
 0.0.0.0 hsyfcenter.com
 0.0.0.0 htjrlm.com
+0.0.0.0 htseca.top
 0.0.0.0 httpdns.pro
 0.0.0.0 httpsjs.com
 0.0.0.0 huatuo.qq.com
@@ -2562,6 +2566,7 @@
 0.0.0.0 vfsvv1.com
 0.0.0.0 vghnnh.xyz
 0.0.0.0 vgijoh.com
+0.0.0.0 vhhvldyuhm.xyz
 0.0.0.0 vhjxrj.xyz
 0.0.0.0 vhulan.com
 0.0.0.0 video.new-eve.com
@@ -2846,6 +2851,7 @@
 0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--gov-x68dy61b.shop
 0.0.0.0 xn--jvrp4x1zyfta.net
+0.0.0.0 xn--m7r781dz66a.cn
 0.0.0.0 xn--wxtr44c.video
 0.0.0.0 xn--wxtr9fwyxk9c.xn--fiqs8s
 0.0.0.0 xn--wxtr9fwyxk9c.xn--io0a7i
