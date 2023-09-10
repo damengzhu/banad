@@ -3584,6 +3584,11 @@ guancha.cn##.g_swiper_container
 guancha.cn##.g_header44
 so.toutiao.com##section.commonbox.hasfooter
 so.toutiao.com##DIV[id^='ad_']
+www.xhfz2.com##A[href^='https://www.xhfz2.com/ad.php']
+www.xhfz2.com##span.lileft > A[style^='float:left;color:']
+www.xhfz2.com##DIV.pctext
+www.xhfz2.com##DIV.HomeTuList
+www.xhfz2.com##DIV#topcont
 v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block;']
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
