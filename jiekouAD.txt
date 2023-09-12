@@ -3636,6 +3636,7 @@ www.xda-developers.com##.adzone-above-latest
 www.123pan.com##IMG[src*='-banner'],.ant-carousel
 www.lezhutv.com##[style='bottom: 132px;']
 woozooo.com##.ves
+www.67tool.com##.footer-banner
 mini.yyrtv.com##.right-gg
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 www.jmhongyan.com##ins[class],.container p
@@ -4059,5 +4060,6 @@ www.google.com,www.google.com.hk,www.google.co.jp##DIV[data-sokoban-container]:h
 ! gif ads
 www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
+##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
 ##div#h2_player_prevideo > A[href][target='_blank']
