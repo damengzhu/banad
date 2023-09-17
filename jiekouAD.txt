@@ -4344,10 +4344,13 @@ template/m1938pc/ads/*.js
 @@||developer.apple.com$generichide
 manwa.me#@#.ad-area
 myqqjd.com##.adsbygoogle
+m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
 dongmanhuayuan.myheartsite.com##.card-body
+baidu.com##[data-tpl='adv_wenku_fc']
+baidu.com##DIV.c-container.ec-container
 baidu.com##div[class$="-ecom-ads"]
 baidu.com##.ec-ad
 baidu.com##.ad-wrapper
