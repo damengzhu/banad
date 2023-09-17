@@ -4907,6 +4907,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
+##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
+##IMG[src*='qimanwu_wap/static/adimages/']
 ##div#main.main.read_page [id^="set_adds"]
 ##div.container.ff-bg > div.row.ff-row.slide
 ##P[style*='!important; color: transparent !important; font-size: 0px !important; text-indent: -10000px !important;']
@@ -4921,3 +4923,4 @@ ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
 ##a[href*='html?channelCode'] > IMG[src*='.gif'][width='100%']
 ##A[href*='com:'] > IMG[src],A[href*='cc:'] > IMG[src]
 ##div#h2_player_prevideo > A[href][target='_blank']
+##body#reader-m-fix IMG[src*='.gif'][style='width:100%;height:100%']
