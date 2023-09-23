@@ -5,6 +5,10 @@
 ! Total Count: 4923
 ! by: 酷安@大萌主
 ! Host
+||availablesshaother.com^
+||rbbko.com^
+||hebstsmgs.com^
+||livingshonghealth.com^
 ||byjykj.xyz^
 ||xmmnsl.com^
 ||jfyb6.com^
@@ -4475,6 +4479,8 @@ www.huadongty.com##SECTION
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
 www.ghxi.com##.wpcom_ad_wrap
+cqjschungao.com##[style='bottom: 132px;']
+cqjschungao.com##[style*='px no-repeat; position: relative;']
 www.meijuii.cc##DIV[style*='vw; display: block;']
 www.hzw.com.cn##.xfb_close_icon,#xfb_lbox,.xfb_close_btn
 www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
@@ -4485,10 +4491,9 @@ m.guancha.cn##.g_header.go-to-app
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
+www.3ppp.net##DIV.bottom_fixed
 baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
-cqjschungao.com##[style='bottom: 132px;']
-cqjschungao.com##[style*='px no-repeat; position: relative;']
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
 axutongxue.com##DIV[style='text-align:center']
@@ -4540,6 +4545,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ###bottom_ads.hl_bottom_ads
 ##A[href*='jialu6699h.vip']
 ##DIV.adj
+##[style*='px; top: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
+##A[href*='youqu.buzz']
 ##A[href^='https://tv2356.cc']
 ##DIV[class$='_ad_wrap']
 ##DIV[class^='ads_border_']
