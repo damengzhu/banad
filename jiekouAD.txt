@@ -5,6 +5,9 @@
 ! Total Count: 4916
 ! by: 酷安@大萌主
 ! Host
+||byjykj.xyz^
+||xmmnsl.com^
+||jfyb6.com^
 ||tgyxpfjws.com^
 ||jcwtml.icu^
 ||procdn.asia^
@@ -4267,6 +4270,7 @@ com/js/lp365.js
 ||y3600.cc/js/jquery.min.js
 ||shimo.im/lizard-api/ads
 /adjs
+||pki.net.cn/public/1/plugins
 .com/xz/*?token8=
 ||zhanzhang.baidu.com/push.js
 ||qhimgs4.com/*.gif$domain=www.jiaozi.me
@@ -4552,6 +4556,9 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='sohu.com/hy-op']
 ##[href='/jump.html']
 ##[href='/ad.html']
+##DIV._42701c0173
+##DIV._4e544f1dde
+##div.m0auto div.s_h,div.m0auto div.s_h + *
 ##secion#ly LI[role='group'],secion#ly > H2
 ##div.play_boxbg div[class$='_acmsd']
 ##DIV.bot-per-context[data-width='728'][data-height='90']
