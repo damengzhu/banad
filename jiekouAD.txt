@@ -4034,6 +4034,7 @@
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
 @@||jstatic.3.cn^$domain=m.jd.com
+@@||api.nocturnal-narwhal.buzz^$domain=webtor.io
 @@||manwa.me^
 @@||cdn-msp*.18comic.*^
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
