@@ -4404,6 +4404,8 @@ baike.baidu.com##[class="qtqy-container"],[class="yitiao-content J-yitiao-conten
 zhidao.baidu.com###knowledge-answer-list
 zhidao.baidu.com##.doodle-container,.feed-recommend,.wgt-recommend-business,[class*="-ads"],[class*="related-yxiao-item"],[class*="icon-bdad"],[class*="-youx"]
 baidu.com###bdrainrwDragButton
+pan.baidu.com##A.active-msg
+pan.baidu.com##div.content DIV.photo-banner
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 bing.com###bnp_container
 bing.com##.b_ad
@@ -4497,7 +4499,6 @@ www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
 www.3ppp.net##DIV.bottom_fixed
-pan.baidu.com##A.active-msg
 baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
 www.jianshu.com##[aria-label='lwa-ad-one']
