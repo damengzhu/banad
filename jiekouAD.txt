@@ -4827,7 +4827,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div[id] > div[style*='z-index: 2147483647; width: 100vw; background: url']
 ##div#content.content div[id] > DIV[style*='z-index: 2147483647']
 ##div#apage.apage > div > ul > li > a
-##div:not([class]):not([id]) > a > [src*='.gif'][style*='width:100%']
 ##div.module-list-right-title-wrap > div.normal-title-wrap > div > a
 ##div#beijing.article_content.layui-clear > div.left > div > a
 ##ul#page-list.layui-clear.page-wz > ul > li:not([class])
