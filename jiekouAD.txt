@@ -4089,12 +4089,6 @@ trafficjunky.com$third-party
 .com:8008/*/*?*=$third-party
 .cn/2022/*/*.txt$third-party
 .com:8004/*/*?*=$third-party
-.cn:*/*/*?c=$third-party
-.cn:*/*/*?t=$third-party
-.cn:*/*/*?n=$third-party
-.com:*/*/*?c=$third-party
-.com:*/*/*?t=$third-party
-.com:*/*/*?n=$third-party
 .xyz/qby_*.js?$third-party
 .xyz/get?$third-party
 .xyz/ty/*-*-*$third-party
