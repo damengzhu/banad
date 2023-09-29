@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4018
-#Update Time: 2023-09-29 10:36:41（北京时间）
+#Total Count: 4024
+#Update Time: 2023-09-29 12:57:32（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -228,6 +228,7 @@
 0.0.0.0 aa889977aa.com
 0.0.0.0 aac.kegood.com
 0.0.0.0 aaenv48847h.com
+0.0.0.0 aaoffice.cn
 0.0.0.0 abalado.com
 0.0.0.0 abb.lxiaoxin.com
 0.0.0.0 abcd.cnhuoche.com
@@ -330,6 +331,7 @@
 0.0.0.0 afxncq.com
 0.0.0.0 agathacd.com
 0.0.0.0 agdewasmnjktfrdewqjgdser.top
+0.0.0.0 ah.5l59k.com
 0.0.0.0 ahm.jiankang123.net
 0.0.0.0 ahp18.site
 0.0.0.0 ahp19.site
@@ -723,6 +725,7 @@
 0.0.0.0 ciislunar.com
 0.0.0.0 city.youpukeji.cn
 0.0.0.0 cix0wk.com
+0.0.0.0 cjgdch.com
 0.0.0.0 ck.ads.oppomobile.com
 0.0.0.0 ck33.top
 0.0.0.0 ckerw.xyz
@@ -1289,6 +1292,7 @@
 0.0.0.0 godni.xyz
 0.0.0.0 goeyxwhp.site
 0.0.0.0 goikbnjksdf.com
+0.0.0.0 goingsranchange.com
 0.0.0.0 golden88.co
 0.0.0.0 gongxifc.com
 0.0.0.0 gongyong002.xyz
@@ -3211,6 +3215,7 @@
 0.0.0.0 ujgf120.com
 0.0.0.0 ujnkn.com
 0.0.0.0 uk529u0.cn
+0.0.0.0 ukpsal.icu
 0.0.0.0 ulkoxbra.com
 0.0.0.0 ulojlvmejkaem.xyz
 0.0.0.0 um5xcgngmart.xyz
@@ -3816,6 +3821,7 @@
 0.0.0.0 z2.fakutownee.cn
 0.0.0.0 z3yfkdjd.icu
 0.0.0.0 z6ro5.xyz
+0.0.0.0 zacff.com
 0.0.0.0 zaiceyjjqq.com
 0.0.0.0 zailet.com
 0.0.0.0 zaiyuanyqq.com

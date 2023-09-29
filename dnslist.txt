@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4023
-! Update Time:2023-09-29 10:36:41（北京时间）
+! Total Count: 4029
+! Update Time:2023-09-29 12:57:32（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -228,6 +228,7 @@
 ||aa889977aa.com^
 ||aac.kegood.com^
 ||aaenv48847h.com^
+||aaoffice.cn^
 ||abalado.com^
 ||abb.lxiaoxin.com^
 ||abcd.cnhuoche.com^
@@ -330,6 +331,7 @@
 ||afxncq.com^
 ||agathacd.com^
 ||agdewasmnjktfrdewqjgdser.top^
+||ah.5l59k.com^
 ||ahm.jiankang123.net^
 ||ahp18.site^
 ||ahp19.site^
@@ -724,6 +726,7 @@
 ||ciislunar.com^
 ||city.youpukeji.cn^
 ||cix0wk.com^
+||cjgdch.com^
 ||ck.ads.oppomobile.com^
 ||ck33.top^
 ||ckerw.xyz^
@@ -1290,6 +1293,7 @@
 ||godni.xyz^
 ||goeyxwhp.site^
 ||goikbnjksdf.com^
+||goingsranchange.com^
 ||golden88.co^
 ||gongxifc.com^
 ||gongyong002.xyz^
@@ -3220,6 +3224,7 @@
 ||ujgf120.com^
 ||ujnkn.com^
 ||uk529u0.cn^
+||ukpsal.icu^
 ||ulkoxbra.com^
 ||ulojlvmejkaem.xyz^
 ||um5xcgngmart.xyz^
@@ -3828,6 +3833,7 @@
 ||z3yfkdjd.icu^
 ||z6ro5.xyz^
 ||zabdybod*.club^
+||zacff.com^
 ||zahrvfbd*.xyz^
 ||zaiceyjjqq.com^
 ||zailet.com^
