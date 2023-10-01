@@ -4357,7 +4357,6 @@ template/m1938pc/ads/*.js
 @@||developer.apple.com$generichide
 manwa.me#@#.ad-area
 myqqjd.com##.adsbygoogl
-sina.cn#@#.j_callST
 www.jianshu.com#@#div[class$="_0"]
 m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-bar):not(.s-group-result):not(.hint-unsafe)
 baidu.com#@#div[class*="ads"]
