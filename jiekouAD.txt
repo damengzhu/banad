@@ -4927,6 +4927,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href^='https://v.frthv.com']
 ##A[href*='-fghgdf.com']
 ##A[href*='-fghhjj.com']
+##IMG[src$='tywheying/vv2-960x80.gif']
 ##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
