@@ -4383,6 +4383,7 @@ baidu.com##.se-recommend-word-list,#se-recommend-word-list-container
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##.barea-ad
+baidu.com##[data-video-player='true']
 baidu.com##DIV[data-module='rec:undefined-undefined']
 baidu.com##[class*='index_godCard'][class*='index_noGuaranteeTag'][class*='index_adTextPosition'],[class^='index_brandEntry__'],[data-show*='swan-ad-fc-swiper-banner']
 baidu.com###page-copyright.se-page-copyright.se-copyright-zbios[style='margin-bottom: 50px;']
@@ -4456,6 +4457,7 @@ www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-fam
 www.apkmirror.com##.ains.ains-has-label
 guancha.cn##.g_swiper_container
 guancha.cn##.g_header44
+so.toutiao.com##.relative.pointer-events-none
 so.toutiao.com##section.commonbox.hasfooter
 so.toutiao.com##DIV[id^='ad_']
 www.xhfz2.com##A[href^='https://www.xhfz2.com/ad.php']
