@@ -12,4 +12,4 @@
 ## 反馈
 🐧群: [715582626](https://jq.qq.com/?_wv=1027&k=1jx8rV2k) 
  
-✈️https://t.me/AdRules_Offical_Chat
+
