@@ -2,7 +2,7 @@
 ! Title: 轻量规则，反馈🐧群715582626
 ! Homepage: https://github.com/damengzhu/banad
 ! Update Time: 2023-10-02 20:52:44（北京时间）
-! Total Count: 4942
+! Total Count: 4942 
 ! by: 酷安@大萌主
 ! Host
 ||ah.5l59k.com^
