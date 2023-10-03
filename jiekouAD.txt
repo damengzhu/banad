@@ -4362,6 +4362,8 @@ m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-ba
 baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
+sina.cn#@#.look_more_a, .j_callST
+sina.cn#@#.j_callST
 dongmanhuayuan.myheartsite.com##.card-body
 baidu.com##[data-tpl='adv_wenku_fc']
 baidu.com##DIV.c-container.ec-container
