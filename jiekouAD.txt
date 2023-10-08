@@ -5,6 +5,16 @@
 ! Total Count: 4945
 ! by: 酷安@大萌主
 ! Host
+||nhcdn.cn^
+||irtefs.xyz^
+||8mhcc.top^
+||agossuoeach.com^
+||xxfphsg.cn^
+||aabeautiful.cn^
+||65432.pw^
+||98765.pw^
+||ukjwyv.icu^
+||wkrcbszi.xyz^
 ||insfengdata.com^
 ||quzmtpxw.xyz^
 ||ah.5l59k.com^
@@ -4840,6 +4850,10 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href*='//v.wanfumei.net']
 ##IMG[src='/js/imgs/taote.jpg']
 ###imgad
+##IMG[src*='//img4.qv1.ru/data/game/']
+##IMG[src*='/ds3/ssmh/']
+##IMG[src='/adBanner']
+##div.slide-baidu IMG[src='/images/aw1.gif']
 ##div#gmright
 ##[style='top: 0vw; display: block;']
 ##[style='top: 8.2vw; display: block;']
@@ -4945,7 +4959,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV[style*='px; top: 0px; left: 0px; z-index: '][style*='http']
 ##DIV[style='position: fixed; color: transparent; line-height: 100vh; width: 100vw; z-index: 288; top: 0px; left: 0px;']
 ##[href^='https://mtyshi.com/']
-52movieba.com,bimibimi.me,acglala.net,ainuody.com,awaker.cn,cangku.in,ccav1.com,cdsoso.me,cgown.com,cn163.net,cosersuki.org,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hcomic.in,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmog.me,htcui.com,huan.moe,idanmu.at,jiecao123.com,jitapu.com,jiyingw.net,jobbole.com,kisssub.org,languang.co,liuli.pw,moe-acg.cc,moe-acg.us,mydrivers.com,nxing.cn,oyksoft.com,rijutv.com,souxue8.com,speedtest.cn,toutiao.com,tucao.one,vpansou.com,xxshe.info,xxshe.xyz,youku.com##a[href*=".taobao.com"]
+52movieba.com,acglala.me,acglala.net,awaker.cn,bimiacg4.net,bimiacg5.net,ccav1.com,cdsoso.me,cgown.com,cn163.net,comicat.org,cosersuki.org,dzbhdm.net,epinv.com,eroacg.com,galacg.me,gmgard.com,haochi123.com,hexieshe.cn,hexieshe.com,hexieshe.xyz,hggard.com,hmghmg.com,hmoe11.net,idanmu.ee,ifenpaidy.com,jitapu.com,jitashe.org,jiyingw.vip,kelatv.com,kisssub.org,languang.co,llss.bz,mtrend.cn,mydrivers.com,mzh.ren,nxing.cn,oyksoft.com,souxue8.com,speedtest.cn,tingroom.com,whsir.com,xxshe.info,xxshe.xyz##a[href*=".taobao.com"]
 ! gif ads
 www.aiwuav.xyz##A.toptxt,IMG[src*='.gif'][alt],SPAN[class^="clobox"],IMG[width='100%'][src*='.gif']
 ikan6.vip,www.1111modruba.cc##IMG[src$='.gif']
