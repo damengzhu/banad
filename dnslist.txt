@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4031
-! Update Time:2023-10-08 08:19:50（北京时间）
+! Total Count: 4041
+! Update Time:2023-10-08 08:57:26（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -148,6 +148,7 @@
 ||5wl8x.xyz^
 ||61hhdp.com^
 ||637o.top^
+||65432.pw^
 ||670t5x.cn^
 ||68710266.com^
 ||69e7.fun^
@@ -193,11 +194,13 @@
 ||8d7hhh8x.com^
 ||8g0j.cn^
 ||8gp4wjq3.com^
+||8mhcc.top^
 ||8pjqjxmr.com^
 ||91chaodijia.com^
 ||91p20.space^
 ||91xzba.com^
 ||986qka.cn^
+||98765.pw^
 ||98765432100.online^
 ||98765432100.site^
 ||99999999.club^
@@ -226,6 +229,7 @@
 ||a962m.xyz^
 ||a9able.com^
 ||aa889977aa.com^
+||aabeautiful.cn^
 ||aac.kegood.com^
 ||aaenv48847h.com^
 ||aaoffice.cn^
@@ -331,6 +335,7 @@
 ||afxncq.com^
 ||agathacd.com^
 ||agdewasmnjktfrdewqjgdser.top^
+||agossuoeach.com^
 ||ah.5l59k.com^
 ||ahm.jiankang123.net^
 ||ahp18.site^
@@ -1648,6 +1653,7 @@
 ||iqede.xyz^
 ||iqgoukn.cn^
 ||irs03.com^
+||irtefs.xyz^
 ||iruacwa.xyz^
 ||isancio.top^
 ||isdfbvkvsc.xyz^
@@ -2307,6 +2313,7 @@
 ||ngbthf.xyz^
 ||nghdp.cn^
 ||ngishc.top^
+||nhcdn.cn^
 ||nhjkm.com^
 ||nhjsw.cn^
 ||nhpwwd.cn^
@@ -3226,6 +3233,7 @@
 ||ujgf120.com^
 ||ujnkn.com^
 ||uk529u0.cn^
+||ukjwyv.icu^
 ||ukpsal.icu^
 ||ulkoxbra.com^
 ||ulojlvmejkaem.xyz^
@@ -3406,6 +3414,7 @@
 ||widgets.pinterest.com^
 ||widow5blackfr.com^
 ||wipew.com^
+||wkrcbszi.xyz^
 ||wlgxaij.cn^
 ||wlhcb.cn^
 ||wlsyuule.cam^
@@ -3688,6 +3697,7 @@
 ||xxba.cc^
 ||xxczdfb.cn^
 ||xxdongfa.com^
+||xxfphsg.cn^
 ||xxgslt.com^
 ||xxhp2iz.icu^
 ||xxmh456.com^

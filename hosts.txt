@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4026
-#Update Time: 2023-10-08 08:19:50（北京时间）
+#Total Count: 4036
+#Update Time: 2023-10-08 08:57:26（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -148,6 +148,7 @@
 0.0.0.0 5wl8x.xyz
 0.0.0.0 61hhdp.com
 0.0.0.0 637o.top
+0.0.0.0 65432.pw
 0.0.0.0 670t5x.cn
 0.0.0.0 68710266.com
 0.0.0.0 69e7.fun
@@ -193,11 +194,13 @@
 0.0.0.0 8d7hhh8x.com
 0.0.0.0 8g0j.cn
 0.0.0.0 8gp4wjq3.com
+0.0.0.0 8mhcc.top
 0.0.0.0 8pjqjxmr.com
 0.0.0.0 91chaodijia.com
 0.0.0.0 91p20.space
 0.0.0.0 91xzba.com
 0.0.0.0 986qka.cn
+0.0.0.0 98765.pw
 0.0.0.0 98765432100.online
 0.0.0.0 98765432100.site
 0.0.0.0 99999999.club
@@ -226,6 +229,7 @@
 0.0.0.0 a962m.xyz
 0.0.0.0 a9able.com
 0.0.0.0 aa889977aa.com
+0.0.0.0 aabeautiful.cn
 0.0.0.0 aac.kegood.com
 0.0.0.0 aaenv48847h.com
 0.0.0.0 aaoffice.cn
@@ -331,6 +335,7 @@
 0.0.0.0 afxncq.com
 0.0.0.0 agathacd.com
 0.0.0.0 agdewasmnjktfrdewqjgdser.top
+0.0.0.0 agossuoeach.com
 0.0.0.0 ah.5l59k.com
 0.0.0.0 ahm.jiankang123.net
 0.0.0.0 ahp18.site
@@ -1646,6 +1651,7 @@
 0.0.0.0 iqede.xyz
 0.0.0.0 iqgoukn.cn
 0.0.0.0 irs03.com
+0.0.0.0 irtefs.xyz
 0.0.0.0 iruacwa.xyz
 0.0.0.0 isancio.top
 0.0.0.0 isdfbvkvsc.xyz
@@ -2303,6 +2309,7 @@
 0.0.0.0 ngbthf.xyz
 0.0.0.0 nghdp.cn
 0.0.0.0 ngishc.top
+0.0.0.0 nhcdn.cn
 0.0.0.0 nhjkm.com
 0.0.0.0 nhjsw.cn
 0.0.0.0 nhpwwd.cn
@@ -3217,6 +3224,7 @@
 0.0.0.0 ujgf120.com
 0.0.0.0 ujnkn.com
 0.0.0.0 uk529u0.cn
+0.0.0.0 ukjwyv.icu
 0.0.0.0 ukpsal.icu
 0.0.0.0 ulkoxbra.com
 0.0.0.0 ulojlvmejkaem.xyz
@@ -3397,6 +3405,7 @@
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 widow5blackfr.com
 0.0.0.0 wipew.com
+0.0.0.0 wkrcbszi.xyz
 0.0.0.0 wlgxaij.cn
 0.0.0.0 wlhcb.cn
 0.0.0.0 wlsyuule.cam
@@ -3678,6 +3687,7 @@
 0.0.0.0 xxba.cc
 0.0.0.0 xxczdfb.cn
 0.0.0.0 xxdongfa.com
+0.0.0.0 xxfphsg.cn
 0.0.0.0 xxgslt.com
 0.0.0.0 xxhp2iz.icu
 0.0.0.0 xxmh456.com
