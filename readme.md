@@ -1,4 +1,4 @@
-# 几十KB的轻量规则
+# 轻量规则
 **酷安: [大萌主](http://www.coolapk.com/u/843395)**
 # 介绍
 * 适用于 x浏览器 的去广告规则（**兼容大部分浏览器和AdGuard客户端和AdGuard与uBlock Origin浏览器扩展**)
