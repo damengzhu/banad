@@ -4496,6 +4496,8 @@ manwa1.me,manwa2.me,manwa.me##[style='transform-origin: left top; margin: 0px au
 manwa1.me,manwa2.me,manwa.me##.swiper-container.swiper-container-horizontal
 www.huadongty.com##DIV[id$=' img-containers']
 www.huadongty.com##SECTION
+m.jd.com##DIV.modal__mask
+m.jd.com##DIV.modal__wrap
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
