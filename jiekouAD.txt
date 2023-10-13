@@ -5,6 +5,7 @@
 ! Total Count: 4964
 ! by: 酷安@大萌主
 ! Host
+||g13eyx.com^
 ||magsrv.com^
 ||nhcdn.cn^
 ||irtefs.xyz^
@@ -4951,6 +4952,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href*='-fghhjj.com']
 ###mobile-ad.hidden-md
 ##.scaled-juicyads
+##IMG[src*='tupian.guanggao']
+##A[href='/iwagbwfiwehaeyh/']
 ##IMG[src$='tywheying/vv2-960x80.gif']
 ##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
