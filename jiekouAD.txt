@@ -4424,6 +4424,8 @@ pan.baidu.com##div.content DIV.photo-banner
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 bing.com###bnp_container
 bing.com##.b_ad
+www.123pan.com##IMG[src*='-banner'],.ant-carousel
+www.123pan.com##DIV.app-adv-container
 sohu.com##A[href='javascript:void(0);']
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com##.middle-insert-ad
@@ -4524,7 +4526,6 @@ www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
 axutongxue.com##DIV[style='text-align:center']
 www.xda-developers.com##.adzone-above-latest
-www.123pan.com##IMG[src*='-banner'],.ant-carousel
 www.lezhutv.com##[style='bottom: 132px;']
 woozooo.com##.ves
 ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
