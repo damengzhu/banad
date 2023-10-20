@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4045
-! Update Time:2023-10-20 09:57:23（北京时间）
+! Total Count: 4050
+! Update Time:2023-10-20 12:55:52（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -37,6 +37,7 @@
 ||09jsufg.com^
 ||0krdn3.com^
 ||0m483y7.cn^
+||0ns32h.com^
 ||0p7w.cn^
 ||0yq00i.cn^
 ||10090dfs.com^
@@ -1106,6 +1107,7 @@
 ||etienlw.top^
 ||etlanaberez.fun^
 ||etregh.fun^
+||etrvfx.xyz^
 ||euitx.cn^
 ||eujxqgh.cn^
 ||eulaliadoradl.com^
@@ -3241,6 +3243,7 @@
 ||ukpsal.icu^
 ||ulkoxbra.com^
 ||ulojlvmejkaem.xyz^
+||ulyuom.xyz^
 ||um5xcgngmart.xyz^
 ||umbrellaomendear.com,^
 ||umdc.aliapp.org^
@@ -3328,6 +3331,7 @@
 ||video231.oss-cn-beijing.aliyuncs.com^
 ||vidwkd.com^
 ||vieldeold.xyz^
+||viewyentreat.guru^
 ||vihppjk.cn^
 ||vijnhyru.xyz^
 ||viplp.top^
@@ -3801,6 +3805,7 @@
 ||yszpegh.xyz^
 ||yt800h.com^
 ||ytelc.com^
+||ytqlyw.xyz^
 ||ytvwhbejc.com^
 ||yuanlin15.cn^
 ||yuanmengbi.com^
