@@ -5,6 +5,11 @@
 ! Total Count: 4972
 ! by: 酷安@大萌主
 ! Host
+||0ns32h.com^
+||etrvfx.xyz^
+||ytqlyw.xyz^
+||ulyuom.xyz^
+||viewyentreat.guru^
 ||dvnqhdmze.xyz^
 ||idd1.com^
 ||g13eyx.com^
@@ -4251,6 +4256,9 @@ xyz/stimulus?
 /xtub_*_rony.js$third-party
 /app/get*?t=*http$third-party
 .xyz/*?16$third-party
+/dj*ll5c20ff.js
+||tinghao8.com/assets/publish/
+||sofunlib.com/assets/publish
 ||91mjw.com/hy-66-90.php
 ||omlube.com/O/1000970O3001405O1O.js
 ||5dm.tv/html/5dmm.jpg
@@ -4956,6 +4964,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href*='-fghhjj.com']
 ###mobile-ad.hidden-md
 ##.scaled-juicyads
+##DIV.bottom-ad.hidden-lg
 ##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
 ##IMG[src*='tupian.guanggao']
 ##A[href='/iwagbwfiwehaeyh/']
