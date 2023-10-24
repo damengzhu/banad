@@ -5,6 +5,7 @@
 ! Total Count: 4985
 ! by: 酷安@大萌主
 ! Host
+||z0a1b2c3d4.com^
 ||adsco.re^
 ||sqevnrb.com^
 ||clcmdie.com^
@@ -4239,6 +4240,8 @@ com:8891/c.php?s=*$third-party
 ||shimo.im/*/ads?
 ||shimo.im/kong-api/ads
 ||yxdm.tv/js/gad.js
+||277txt.com/da/*.js
+.com:8005/*/2483?
 .live/ty/*-*-*
 .cyou/xling_*_
 /m.html?rmid=*&yd=
