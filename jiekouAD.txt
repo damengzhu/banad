@@ -5,6 +5,9 @@
 ! Total Count: 4990
 ! by: 酷安@大萌主
 ! Host
+||faxffjo.com^
+||fptdxkm.com^
+||ignulsniy.com^
 ||volgreal.com^
 ||2u3v4w5x6y.com^
 ||z0a1b2c3d4.com^
@@ -4133,6 +4136,9 @@ trafficjunky.com$third-party
 .icu/pssbk?$third-party
 /vhyoydie_*_*.js$third-party
 yhdm*.com/js/wap2-jm-ms.js?ver=
+.com:8008/sc/*?n=$third-party
+.com:8003/d/*&n=$third-party
+||liuyingtv.com/common/api_getAcode.php
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
 ||killcovid2021.com/*.mp4
