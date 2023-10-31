@@ -5,6 +5,13 @@
 ! Total Count: 4996
 ! by: 酷安@大萌主
 ! Host
+||88lajs4.com^
+||nyvgbt.xyz^
+||88la.la^
+||bvsfv6.com^
+||feq853.com^
+||iikrmw.xyz^
+||bnnfvd.xyz^
 ||faxffjo.com^
 ||fptdxkm.com^
 ||ignulsniy.com^
@@ -4356,6 +4363,7 @@ _/bigREDcat.css?
 /baidu/tg.js
 /baidu/189/999.php
 /bigREDdog.css?
+.com:7891/stats$third-party
 .icu/?token=$third-party
 .xyz/*0*0*==$third-party
 .xyz/foundation?$third-party
@@ -4532,6 +4540,11 @@ m.jd.com##DIV.modal__wrap
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
 www.ghxi.com##.wpcom_ad_wrap
+webtor.io##DIV.ad
+webtor.io##[data-element='empty']
+webtor.io##IFRAME[scrolling='no']
+achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
+achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
 cqjschungao.com##[style='bottom: 132px;']
 cqjschungao.com##[style*='px no-repeat; position: relative;']
 www.meijuii.cc##DIV[style*='vw; display: block;']
@@ -4568,9 +4581,6 @@ share.acgnx.se##IMG[src*='share.acgnx.se']
 zol.com.cn##A.dingtong.xianshiyouhui
 dm530p.net##DIV[style$='; display: block;']
 m.iqiyi.com##.iqyGuide-content,.cover
-webtor.io##DIV.ad
-webtor.io##[data-element='empty']
-webtor.io##IFRAME[scrolling='no']
 acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
 ali213.net##.placeholderforpromotion
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
