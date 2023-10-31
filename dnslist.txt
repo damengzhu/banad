@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4060
-! Update Time:2023-10-29 13:50:10（北京时间）
+! Total Count: 4067
+! Update Time:2023-10-31 12:35:12（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -188,8 +188,10 @@
 ||8861198.com^
 ||888lianmeng.com^
 ||88eg.cn^
+||88la.la^
 ||88lajs1.com^
 ||88lajs2.com^
+||88lajs4.com^
 ||89mtdab.xyz^
 ||8chj9.com^
 ||8cnd.com^
@@ -584,6 +586,7 @@
 ||bngpt.com^
 ||bnhxxj.xyz^
 ||bnl2bii.icu^
+||bnnfvd.xyz^
 ||bnrdnx.xyz^
 ||bny9.cn^
 ||boats8.top^
@@ -622,6 +625,7 @@
 ||business-api.tiktok.com^
 ||buyihao.com^
 ||buzien.top^
+||bvsfv6.com^
 ||bvvb9.com^
 ||bwdhuanbao.com^
 ||bxackzj.icu^
@@ -1166,6 +1170,7 @@
 ||feed.baidu.com^
 ||feiln.xyz^
 ||fengyukun03.cn^
+||feq853.com^
 ||ffgpol.com^
 ||ffmehcg.cn^
 ||ffnvhig.cn^
@@ -1613,6 +1618,7 @@
 ||ihwdun.xyz^
 ||ii.joqtfa.cn^
 ||iifyeldo.top^
+||iikrmw.xyz^
 ||ijfksdwe.xyz^
 ||ijgbuj.xyz^
 ||ijgocb.cn^
@@ -2390,6 +2396,7 @@
 ||nxhwvt.xyz^
 ||nxnjw.com^
 ||nxxyjn.com^
+||nyvgbt.xyz^
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
 ||nzymeedg.icu^

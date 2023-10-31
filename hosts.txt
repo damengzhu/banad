@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4055
-#Update Time: 2023-10-29 13:50:10（北京时间）
+#Total Count: 4062
+#Update Time: 2023-10-31 12:35:12（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -188,8 +188,10 @@
 0.0.0.0 8861198.com
 0.0.0.0 888lianmeng.com
 0.0.0.0 88eg.cn
+0.0.0.0 88la.la
 0.0.0.0 88lajs1.com
 0.0.0.0 88lajs2.com
+0.0.0.0 88lajs4.com
 0.0.0.0 89mtdab.xyz
 0.0.0.0 8chj9.com
 0.0.0.0 8cnd.com
@@ -583,6 +585,7 @@
 0.0.0.0 bngpt.com
 0.0.0.0 bnhxxj.xyz
 0.0.0.0 bnl2bii.icu
+0.0.0.0 bnnfvd.xyz
 0.0.0.0 bnrdnx.xyz
 0.0.0.0 bny9.cn
 0.0.0.0 boats8.top
@@ -621,6 +624,7 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 buyihao.com
 0.0.0.0 buzien.top
+0.0.0.0 bvsfv6.com
 0.0.0.0 bvvb9.com
 0.0.0.0 bwdhuanbao.com
 0.0.0.0 bxackzj.icu
@@ -1165,6 +1169,7 @@
 0.0.0.0 feed.baidu.com
 0.0.0.0 feiln.xyz
 0.0.0.0 fengyukun03.cn
+0.0.0.0 feq853.com
 0.0.0.0 ffgpol.com
 0.0.0.0 ffmehcg.cn
 0.0.0.0 ffnvhig.cn
@@ -1611,6 +1616,7 @@
 0.0.0.0 ihwdun.xyz
 0.0.0.0 ii.joqtfa.cn
 0.0.0.0 iifyeldo.top
+0.0.0.0 iikrmw.xyz
 0.0.0.0 ijfksdwe.xyz
 0.0.0.0 ijgbuj.xyz
 0.0.0.0 ijgocb.cn
@@ -2386,6 +2392,7 @@
 0.0.0.0 nxhwvt.xyz
 0.0.0.0 nxnjw.com
 0.0.0.0 nxxyjn.com
+0.0.0.0 nyvgbt.xyz
 0.0.0.0 nzrlx6wc.icu
 0.0.0.0 nzrovf.xyz
 0.0.0.0 nzymeedg.icu
