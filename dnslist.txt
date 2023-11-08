@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4072
-! Update Time:2023-11-01 19:39:06（北京时间）
+! Total Count: 4083
+! Update Time:2023-11-08 12:41:55（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -351,6 +351,7 @@
 ||aiclk.com^
 ||ailehui9149.com^
 ||aisnj.cn^
+||aispyd.icu^
 ||aiwei365.net^
 ||aj4j.icu^
 ||ajcode.co^
@@ -449,6 +450,7 @@
 ||asdffe22.com^
 ||asdx55.com^
 ||asdyui16.cn^
+||asdzxc1.top^
 ||asklcnlkacnklnl.com^
 ||asldmlws.cn^
 ||asleyty.com^
@@ -935,6 +937,7 @@
 ||dianying-1304791696.cos.ap-shanghai.myqcloud.com^
 ||dibaiweiai.com^
 ||dicancele.fun^
+||dididy.xyz^
 ||dieka888.com^
 ||dig.bdurl.net^
 ||dig.qbao.com^
@@ -1033,6 +1036,7 @@
 ||dygtulfe.icu^
 ||dyhnbgtsl.xyz^
 ||dykeep.com^
+||dzfzfv.xyz^
 ||dzkwj0y.xyz^
 ||e.kuaishou.com^
 ||e49.xyz^
@@ -1703,6 +1707,7 @@
 ||j6zh4g0.cn^
 ||j7ifivzy.icu^
 ||ja.yushuha.com^
+||jackdd.xyz^
 ||jacksonyee.club^
 ||jads.co^
 ||jakid.xyz^
@@ -1788,6 +1793,7 @@
 ||jpush0b.xyz^
 ||jpvrbt.xyz^
 ||jqkcett.icu^
+||jqtkzuco.xyz^
 ||jrds.net.cn^
 ||jrltdiu.cn^
 ||jrmrijv.icu^
@@ -2282,6 +2288,7 @@
 ||mujkdna.xyz^
 ||musicoholics.com^
 ||muxing.city^
+||muyxmmz.cn^
 ||mvamnng.cn^
 ||mvgucp.com^
 ||mvlkvth.cn^
@@ -2316,6 +2323,7 @@
 ||nchxzmhr.com^
 ||ncmxwhf.icu^
 ||ncnfjasd.net^
+||ndbaxn.xyz^
 ||ndfsl.com^
 ||ndqcz0e.xyz^
 ||nefbjp.xyz^
@@ -2942,6 +2950,7 @@
 ||simiyue2.com^
 ||simplewebanalysis.com^
 ||sinawap.com^
+||singmwn54g.com^
 ||siwei.pub^
 ||sixiuwl.cn^
 ||siz3wxt8p.shop^
@@ -3157,6 +3166,7 @@
 ||toijr.xyz^
 ||tokendomain.xyz^
 ||tongji.xinmin.cn^
+||tongjiniao.com^
 ||tonxzq.com^
 ||tools.3g.qq.com^
 ||toutiao.xn--fiqs8s^
@@ -3795,6 +3805,7 @@
 ||yjnhkd.com^
 ||yjnhndt.com^
 ||yjnkas.com^
+||yjuhqy.xyz^
 ||yk-ssp.ad.youku.com^
 ||ykad-data.youku.com^
 ||ykcjxvg.cn^
