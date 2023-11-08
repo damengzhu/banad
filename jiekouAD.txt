@@ -5,6 +5,17 @@
 ! Total Count: 5011
 ! by: 酷安@大萌主
 ! Host
+||tongjiniao.com^
+||jqtkzuco.xyz^
+||muyxmmz.cn^
+||asdzxc1.top^
+||yjuhqy.xyz^
+||ndbaxn.xyz^
+||jackdd.xyz^
+||dzfzfv.xyz^
+||aispyd.icu^
+||singmwn54g.com^
+||dididy.xyz^
 ||rkgwzfwjgk.com^
 ||gmxvmvptfm.com^
 ||statcounter.com^
@@ -4225,6 +4236,9 @@ com:8891/c.php?s=*$third-party
 /asfile/m/gudings.js
 ?local_ga_js=
 .xyz/xling_*_*_*.js?
+||pinyuege.net/template/pinygm/public/js/
+.com:8005/*&n=$third-party
+||myhaitang.xyz/assets/public/
 ||www.ykjyyy.com/8888/
 /statics/js/guding.js
 /statics/js/dddd.js
@@ -4998,6 +5012,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
 ##IMG[src*='tupian.guanggao']
 ##A[href='/iwagbwfiwehaeyh/']
+##IMG[src^='https://dzfzfv.xyz/']
+##body#read.read DIV[style$=' width: 100vw; position: relative;']
 ##IMG[src$='tywheying/vv2-960x80.gif']
 ##DIV[style='background-color: rgb(249, 249, 249); display: flex; align-items: center; justify-content: center;']
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
