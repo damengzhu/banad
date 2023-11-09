@@ -5010,6 +5010,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##.scaled-juicyads
 ##DIV.div_sticky2.hidden-lg
 ##DIV.bottom-ad.hidden-lg
+##[href^='https://uod217.com/']
 ##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
 ##IMG[src*='tupian.guanggao']
 ##A[href='/iwagbwfiwehaeyh/']
