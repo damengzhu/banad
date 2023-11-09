@@ -5008,6 +5008,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href*='-fghhjj.com']
 ###mobile-ad.hidden-md
 ##.scaled-juicyads
+##DIV.div_sticky2.hidden-lg
 ##DIV.bottom-ad.hidden-lg
 ##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
 ##IMG[src*='tupian.guanggao']
