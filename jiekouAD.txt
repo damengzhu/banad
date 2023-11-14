@@ -4476,7 +4476,6 @@ pan.baidu.com##div.content DIV.photo-banner
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 bing.com###bnp_container
 bing.com##.b_ad
-www.123pan.com##.banner-container-h5
 www.123pan.com##IMG[src*='-banner'],.ant-carousel
 www.123pan.com##DIV.app-adv-container
 www.123pan.com##.advBanner
