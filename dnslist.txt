@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4084
-! Update Time:2023-11-14 20:27:26（北京时间）
+! Total Count: 4093
+! Update Time:2023-11-17 10:03:35（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -698,6 +698,7 @@
 ||cdnlog.zhenai.com^
 ||cdns.mbxt.net^
 ||cdrhjt.com^
+||cdvsd9.com^
 ||ceh.cehbh.com^
 ||ceshi1.ink^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
@@ -1893,6 +1894,7 @@
 ||kgfjrb711.com^
 ||khgjfm16.com^
 ||kifyeldd.top^
+||kiitsl.icu^
 ||kinhincauking.website^
 ||kinleung.cn^
 ||kissfang.cn^
@@ -1983,6 +1985,7 @@
 ||l23jhjfasd.xyz^
 ||l3r6p0d5.com^
 ||l4efwdtg.icu^
+||l80ays.com^
 ||laawmmy.cn^
 ||laink.xyz^
 ||laipeitu.com^
@@ -2208,6 +2211,7 @@
 ||metauniverse88.com^
 ||metaversemolecule.com^
 ||metaword.cn^
+||metheny.cn^
 ||metok.sys.miui.com^
 ||metrics.apple.com^
 ||metrics.data.hicloud.com^
@@ -2895,6 +2899,7 @@
 ||sdkdfjksl.com^
 ||sdqoi2d.com^
 ||sdvfvgj.cn^
+||sdvsv.com^
 ||sdzhongke.cn^
 ||sealine.youku.com^
 ||securitymobile.club^
@@ -3684,6 +3689,7 @@
 ||xlardaxq.com^
 ||xlivrdr.com^
 ||xlvqhx.xyz^
+||xman.asia^
 ||xmangoculture.com^
 ||xmawwbz.icu^
 ||xmjajv.xyz^
@@ -3828,6 +3834,7 @@
 ||yonsandileer.com^
 ||youku6.top^
 ||youp05.com^
+||youtubee.top^
 ||ypzps.com^
 ||yqgzaewe.cn^
 ||yquqoj.com^
@@ -4023,6 +4030,7 @@
 ||zhizhunbao.top^
 ||zhuangxiu567.com^
 ||zhuozhongfangshui.cn^
+||ziccattws.com^
 ||zifyeldq.top^
 ||zihuiguochao.top^
 ||ziravd.xyz^
@@ -4080,6 +4088,7 @@
 ||zzdsjxsb.com^
 ||zzgxqlzh.com^
 ||zzisnvb.cn^
+||zzmyrz.com^
 ||zzpzero.com^
 ||zzqrr.com^
 ||zzrjdp.xyz^

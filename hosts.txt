@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4079
-#Update Time: 2023-11-14 20:27:26（北京时间）
+#Total Count: 4088
+#Update Time: 2023-11-17 10:03:35（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -697,6 +697,7 @@
 0.0.0.0 cdnlog.zhenai.com
 0.0.0.0 cdns.mbxt.net
 0.0.0.0 cdrhjt.com
+0.0.0.0 cdvsd9.com
 0.0.0.0 ceh.cehbh.com
 0.0.0.0 ceshi1.ink
 0.0.0.0 ceshi127722.obs.cn-north-4.myhuaweicloud.com
@@ -1889,6 +1890,7 @@
 0.0.0.0 kgfjrb711.com
 0.0.0.0 khgjfm16.com
 0.0.0.0 kifyeldd.top
+0.0.0.0 kiitsl.icu
 0.0.0.0 kinhincauking.website
 0.0.0.0 kinleung.cn
 0.0.0.0 kissfang.cn
@@ -1979,6 +1981,7 @@
 0.0.0.0 l23jhjfasd.xyz
 0.0.0.0 l3r6p0d5.com
 0.0.0.0 l4efwdtg.icu
+0.0.0.0 l80ays.com
 0.0.0.0 laawmmy.cn
 0.0.0.0 laink.xyz
 0.0.0.0 laipeitu.com
@@ -2204,6 +2207,7 @@
 0.0.0.0 metauniverse88.com
 0.0.0.0 metaversemolecule.com
 0.0.0.0 metaword.cn
+0.0.0.0 metheny.cn
 0.0.0.0 metok.sys.miui.com
 0.0.0.0 metrics.apple.com
 0.0.0.0 metrics.data.hicloud.com
@@ -2888,6 +2892,7 @@
 0.0.0.0 sdkdfjksl.com
 0.0.0.0 sdqoi2d.com
 0.0.0.0 sdvfvgj.cn
+0.0.0.0 sdvsv.com
 0.0.0.0 sdzhongke.cn
 0.0.0.0 sealine.youku.com
 0.0.0.0 securitymobile.club
@@ -3674,6 +3679,7 @@
 0.0.0.0 xlardaxq.com
 0.0.0.0 xlivrdr.com
 0.0.0.0 xlvqhx.xyz
+0.0.0.0 xman.asia
 0.0.0.0 xmangoculture.com
 0.0.0.0 xmawwbz.icu
 0.0.0.0 xmjajv.xyz
@@ -3817,6 +3823,7 @@
 0.0.0.0 yonsandileer.com
 0.0.0.0 youku6.top
 0.0.0.0 youp05.com
+0.0.0.0 youtubee.top
 0.0.0.0 ypzps.com
 0.0.0.0 yqgzaewe.cn
 0.0.0.0 yquqoj.com
@@ -4002,6 +4009,7 @@
 0.0.0.0 zhizhunbao.top
 0.0.0.0 zhuangxiu567.com
 0.0.0.0 zhuozhongfangshui.cn
+0.0.0.0 ziccattws.com
 0.0.0.0 zifyeldq.top
 0.0.0.0 zihuiguochao.top
 0.0.0.0 ziravd.xyz
@@ -4059,6 +4067,7 @@
 0.0.0.0 zzdsjxsb.com
 0.0.0.0 zzgxqlzh.com
 0.0.0.0 zzisnvb.cn
+0.0.0.0 zzmyrz.com
 0.0.0.0 zzpzero.com
 0.0.0.0 zzqrr.com
 0.0.0.0 zzrjdp.xyz
