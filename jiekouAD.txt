@@ -5,6 +5,15 @@
 ! Total Count: 5030
 ! by: 酷安@大萌主
 ! Host
+||youtubee.top^
+||zzmyrz.com^
+||cdvsd9.com^
+||sdvsv.com^
+||l80ays.com^
+||xman.asia^
+||kiitsl.icu^
+||metheny.cn^
+||ziccattws.com^
 ||xfztgxt.com^
 ||tongjiniao.com^
 ||jqtkzuco.xyz^
@@ -4328,6 +4337,7 @@ js/yys/Pfhl365.js
 /v2/stats/1*/1*$third-party
 ||axutongxue.com/js/uuiiio.js
 .live:*/o.js
+.com:8003/sc/*?n=$third-party
 ||tz659.com/js/chapte*.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
