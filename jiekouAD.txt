@@ -4103,6 +4103,7 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
+@@.com/o.js$domain=2biqu.com
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||css.yhdmtu.xyz^$domain=yinghuavideo.com|yinghua8.tv
 @@||jstatic.3.cn^$domain=m.jd.com
