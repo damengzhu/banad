@@ -5042,6 +5042,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[src^='data:image/png;base64,iVBORw0KGgoAAAANSU'][style*='position: fixed; z-index: 2000000000; width: 30px; bottom:']
 ##DIV[allowtransparency='true'][scrolling='no']
 ##DIV.advertisingConfiguration
+##[src^='/static/resources/lp.php'][style^='max-width: 100%; transform-origin: left top;']
+##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
 ##[style$=' 0% 0% / 100% no-repeat; height: 130px; width: 100%; position: relative;']
 ##IMG[src*='qimanwu_wap/static/adimages/']
 ##div#main.main.read_page [id^="set_adds"]
