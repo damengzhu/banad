@@ -4377,6 +4377,7 @@ dingbu.*.*.com/dingbu.$third-party
 .top/*q=*form=*&*url=http*$third-party
 _/bigREDdog.js
 /redbaiduct.com?s=
+/exads-adblock-3.10
 .net/vh1/1*$third-party
 .net/v2/stats/1*$third-party
 .com/c.php?s=*=*=$third-party
