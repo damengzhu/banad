@@ -4577,6 +4577,8 @@ ifeng.com##[class^='index_pageBottomBrand']
 91porny.com##A.display.d-block[href^='http'],A.display.d-block[href^='http'] ~ *
 www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0;z-index: ']
 www.ghxi.com##.wpcom_ad_wrap
+qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
+qq.com##A[dt-eid^='em_item_ad']
 webtor.io##DIV.ad
 webtor.io##[data-element='empty']
 webtor.io##IFRAME[scrolling='no']
@@ -4627,7 +4629,6 @@ m.douban.com##div.center [style*='padding: 4px;']
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
 www.dbbqb.com##.MuiPaper-root
 www.haijiao.com##.addbox,.bannerliststyle,.van-swipe-item,.crossbutton
-inews.qq.com,xw.qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
 boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 bimibimi.cc##[src^='https://dd-static.jd.com']
 hao123.com##.popup
