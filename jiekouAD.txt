@@ -4579,6 +4579,7 @@ www.ghxi.com##DIV[style^='padding:10px;position: fixed;bottom: 0;left: 0;right:0
 www.ghxi.com##.wpcom_ad_wrap
 qq.com##.VideoArticleBottomAdContainer,.ssp.nospl[data-boss-once='true'],DIV[data-boss-expo*='ad&s_or'],DIV[id^='App_WAP_share_page_']
 qq.com##A[dt-eid^='em_item_ad']
+qq.com##[class^='normal_padding']
 webtor.io##DIV.ad
 webtor.io##[data-element='empty']
 webtor.io##IFRAME[scrolling='no']
