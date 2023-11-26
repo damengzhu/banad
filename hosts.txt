@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4092
-#Update Time: 2023-11-23 08:44:56（北京时间）
+#Total Count: 4117
+#Update Time: 2023-11-26 11:43:54（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -102,6 +102,7 @@
 0.0.0.0 360114.xyz
 0.0.0.0 36htg.fun
 0.0.0.0 36mghtd.xyz
+0.0.0.0 37.1.213.100
 0.0.0.0 387635.com
 0.0.0.0 38kmute.xyz
 0.0.0.0 39mydp.xyz
@@ -122,6 +123,7 @@
 0.0.0.0 4kfv18.cn
 0.0.0.0 4po6iqp9.cn
 0.0.0.0 4sexmail.com
+0.0.0.0 5.61.55.143
 0.0.0.0 50aqzb.com
 0.0.0.0 51-tour.net
 0.0.0.0 51.la
@@ -375,6 +377,8 @@
 0.0.0.0 allcp.xyz
 0.0.0.0 allykitchen.com
 0.0.0.0 almabelen.com
+0.0.0.0 alog.umeng.com
+0.0.0.0 alog.umengcloud.com
 0.0.0.0 als.baidu.com
 0.0.0.0 alwayzcars.com
 0.0.0.0 alyssabelen.com
@@ -399,6 +403,7 @@
 0.0.0.0 analytics.yahoo.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 ancheonyo.fun
+0.0.0.0 android.bugly.qq.com
 0.0.0.0 annelinterv.fun
 0.0.0.0 antheaceliacd.com
 0.0.0.0 anwqj0i.xyz
@@ -467,6 +472,7 @@
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audid-api.taobao.com
 0.0.0.0 autchoog.net
+0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 availablesshaother.com
 0.0.0.0 awdc6.com
 0.0.0.0 awiudbyqbpo.com
@@ -707,6 +713,7 @@
 0.0.0.0 cfepws.com
 0.0.0.0 cgigc.com.cn
 0.0.0.0 cgmalight.com
+0.0.0.0 chabadokor.com
 0.0.0.0 changshuohr.net
 0.0.0.0 changyangadvertising.com
 0.0.0.0 chaoku.oss-cn-chengdu.aliyuncs.com
@@ -1041,6 +1048,7 @@
 0.0.0.0 dzfzfv.xyz
 0.0.0.0 dzkwj0y.xyz
 0.0.0.0 e.kuaishou.com
+0.0.0.0 e.qq.com
 0.0.0.0 e49.xyz
 0.0.0.0 eabids.com
 0.0.0.0 eamqbaqzaewwq.top
@@ -1140,6 +1148,7 @@
 0.0.0.0 excsyrv.cn
 0.0.0.0 exdynsrv.com
 0.0.0.0 exevcl.cn
+0.0.0.0 exinariuminix.info
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 eybstar.com
 0.0.0.0 eyq3nog.icu
@@ -1280,6 +1289,7 @@
 0.0.0.0 gdls114.com
 0.0.0.0 gdoibwfvjqf.com
 0.0.0.0 gdsoq.com
+0.0.0.0 gdt.qq.com
 0.0.0.0 gdzshoes.com
 0.0.0.0 geiod.xyz
 0.0.0.0 gemini.yahoo.com
@@ -1317,6 +1327,7 @@
 0.0.0.0 gnrnws.cn
 0.0.0.0 go.live.missav.com
 0.0.0.0 go.sohu.com
+0.0.0.0 go2click.online
 0.0.0.0 goblin.hupu.com
 0.0.0.0 godni.xyz
 0.0.0.0 goeyxwhp.site
@@ -1698,9 +1709,11 @@
 0.0.0.0 ivzfpwm.cn
 0.0.0.0 iweiweb.com
 0.0.0.0 ixelrsd.cn
+0.0.0.0 ixisivomer.com
 0.0.0.0 ixjtpbj.cn
 0.0.0.0 ixnrmco.com
 0.0.0.0 iyes.youku.com
+0.0.0.0 iyfbodn.com
 0.0.0.0 iytrn.xyz
 0.0.0.0 j.dailiqing.net
 0.0.0.0 j.guanjiabo.net
@@ -2089,6 +2102,7 @@
 0.0.0.0 lmxxxz.com
 0.0.0.0 lnaevr.fun
 0.0.0.0 lnzjlr.xyz
+0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log.byteoversea.com
 0.0.0.0 log.daqi.com
@@ -2980,6 +2994,7 @@
 0.0.0.0 smetrics.samsung.com
 0.0.0.0 smfjfgie.xyz
 0.0.0.0 smtwm61.com
+0.0.0.0 sncop.uioozpxq.com
 0.0.0.0 so.clzgd.com
 0.0.0.0 soa-vip-ssl.xunlei.com
 0.0.0.0 sobakenchmaphk.com
@@ -3092,6 +3107,7 @@
 0.0.0.0 tcsgcdn.top
 0.0.0.0 tcuqqhj.icu
 0.0.0.0 tdavopl.icu
+0.0.0.0 tdid.m.qq.com
 0.0.0.0 tdigcw.com
 0.0.0.0 techain.baidu.com
 0.0.0.0 techspecndt.com
@@ -3102,6 +3118,7 @@
 0.0.0.0 tetiao9.com
 0.0.0.0 teusyxz.icu
 0.0.0.0 tfbulkidn.com
+0.0.0.0 tfcdn.jingmiuyyds.com
 0.0.0.0 tfdmzsgy.icu
 0.0.0.0 tfexcludes.shop
 0.0.0.0 tfgotoai.shop
@@ -3163,6 +3180,8 @@
 0.0.0.0 tnebxv.top
 0.0.0.0 tnjvz.cn
 0.0.0.0 toastspinner.com
+0.0.0.0 tobapplog.ctobsnssdk.com
+0.0.0.0 toblog.ctobsnssdk.com
 0.0.0.0 toggle.qq.com
 0.0.0.0 toijr.xyz
 0.0.0.0 tokendomain.xyz
@@ -3178,9 +3197,11 @@
 0.0.0.0 tqdpqq.com
 0.0.0.0 tqmcj.cn
 0.0.0.0 tqytqdrq.icu
+0.0.0.0 trace.qq.com
 0.0.0.0 track.hujiang.com
 0.0.0.0 track.sohu.com
 0.0.0.0 track.uc.cn
+0.0.0.0 tracker.ai.xiaomi.com
 0.0.0.0 tracking.kdnet.net
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
@@ -3194,6 +3215,7 @@
 0.0.0.0 trqhf.xyz
 0.0.0.0 trslw.cn
 0.0.0.0 trustedcpmrevenue.com
+0.0.0.0 truthfulsensor.com
 0.0.0.0 tsancii.top
 0.0.0.0 tsck.online
 0.0.0.0 tsearch.snssdk.com
@@ -3272,6 +3294,8 @@
 0.0.0.0 ukjwyv.icu
 0.0.0.0 ukpsal.icu
 0.0.0.0 ulkoxbra.com
+0.0.0.0 ulogs.umeng.com
+0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulojlvmejkaem.xyz
 0.0.0.0 ulyuom.xyz
 0.0.0.0 um5xcgngmart.xyz
@@ -3408,6 +3432,7 @@
 0.0.0.0 vyreat.icu
 0.0.0.0 vyye.cn
 0.0.0.0 vzeuvcdi.icu
+0.0.0.0 vzttq.brfvyrrp.com
 0.0.0.0 vzvvifw.cn
 0.0.0.0 w.bnlg.fun
 0.0.0.0 w41.i7x3.fun

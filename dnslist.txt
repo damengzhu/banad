@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4097
-! Update Time:2023-11-23 08:44:56（北京时间）
+! Total Count: 4121
+! Update Time:2023-11-26 11:43:54（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -102,6 +102,7 @@
 ||360114.xyz^
 ||36htg.fun^
 ||36mghtd.xyz^
+||37.1.213.100^
 ||387635.com^
 ||38kmute.xyz^
 ||39mydp.xyz^
@@ -122,6 +123,7 @@
 ||4kfv18.cn^
 ||4po6iqp9.cn^
 ||4sexmail.com^
+||5.61.55.143^
 ||50aqzb.com^
 ||51-tour.net^
 ||51.la^
@@ -375,6 +377,8 @@
 ||allcp.xyz^
 ||allykitchen.com^
 ||almabelen.com^
+||alog.umeng.com^
+||alog.umengcloud.com^
 ||als.baidu.com^
 ||alwayzcars.com^
 ||alyssabelen.com^
@@ -399,6 +403,7 @@
 ||analytics.yahoo.com^
 ||analyticsengine.s3.amazonaws.com^
 ||ancheonyo.fun^
+||android.bugly.qq.com^
 ||annelinterv.fun^
 ||antheaceliacd.com^
 ||anwqj0i.xyz^
@@ -467,6 +472,7 @@
 ||auction.unityads.unity3d.com^
 ||audid-api.taobao.com^
 ||autchoog.net^
+||auth.be.sec.miui.com^
 ||availablesshaother.com^
 ||awdc6.com^
 ||awiudbyqbpo.com^
@@ -708,6 +714,7 @@
 ||cfepws.com^
 ||cgigc.com.cn^
 ||cgmalight.com^
+||chabadokor.com^
 ||changshuohr.net^
 ||changyangadvertising.com^
 ||chaoku.oss-cn-chengdu.aliyuncs.com^
@@ -1042,6 +1049,7 @@
 ||dzfzfv.xyz^
 ||dzkwj0y.xyz^
 ||e.kuaishou.com^
+||e.qq.com^
 ||e49.xyz^
 ||eabids.com^
 ||eamqbaqzaewwq.top^
@@ -1141,6 +1149,7 @@
 ||excsyrv.cn^
 ||exdynsrv.com^
 ||exevcl.cn^
+||exinariuminix.info^
 ||extmaps-api.yandex.net^
 ||eybstar.com^
 ||eyq3nog.icu^
@@ -1281,6 +1290,7 @@
 ||gdls114.com^
 ||gdoibwfvjqf.com^
 ||gdsoq.com^
+||gdt.qq.com^
 ||gdzshoes.com^
 ||geiod.xyz^
 ||gemini.yahoo.com^
@@ -1318,6 +1328,7 @@
 ||gnrnws.cn^
 ||go.live.missav.com^
 ||go.sohu.com^
+||go2click.online^
 ||goblin.hupu.com^
 ||godni.xyz^
 ||goeyxwhp.site^
@@ -1700,9 +1711,11 @@
 ||ivzfpwm.cn^
 ||iweiweb.com^
 ||ixelrsd.cn^
+||ixisivomer.com^
 ||ixjtpbj.cn^
 ||ixnrmco.com^
 ||iyes.youku.com^
+||iyfbodn.com^
 ||iytrn.xyz^
 ||j.dailiqing.net^
 ||j.guanjiabo.net^
@@ -2093,6 +2106,7 @@
 ||lmxxxz.com^
 ||lnaevr.fun^
 ||lnzjlr.xyz^
+||log-api.pangolin-sdk-toutiao.com^
 ||log-sdk.ksapisrv.com^
 ||log.byteoversea.com^
 ||log.daqi.com^
@@ -2987,6 +3001,7 @@
 ||smetrics.samsung.com^
 ||smfjfgie.xyz^
 ||smtwm61.com^
+||sncop.uioozpxq.com^
 ||so.clzgd.com^
 ||soa-vip-ssl.xunlei.com^
 ||sobakenchmaphk.com^
@@ -3099,6 +3114,7 @@
 ||tcsgcdn.top^
 ||tcuqqhj.icu^
 ||tdavopl.icu^
+||tdid.m.qq.com^
 ||tdigcw.com^
 ||techain.baidu.com^
 ||techspecndt.com^
@@ -3109,6 +3125,7 @@
 ||tetiao9.com^
 ||teusyxz.icu^
 ||tfbulkidn.com^
+||tfcdn.jingmiuyyds.com^
 ||tfdmzsgy.icu^
 ||tfexcludes.shop^
 ||tfgotoai.shop^
@@ -3171,6 +3188,8 @@
 ||tnebxv.top^
 ||tnjvz.cn^
 ||toastspinner.com^
+||tobapplog.ctobsnssdk.com^
+||toblog.ctobsnssdk.com^
 ||toggle.qq.com^
 ||toijr.xyz^
 ||tokendomain.xyz^
@@ -3186,9 +3205,11 @@
 ||tqdpqq.com^
 ||tqmcj.cn^
 ||tqytqdrq.icu^
+||trace.qq.com^
 ||track.hujiang.com^
 ||track.sohu.com^
 ||track.uc.cn^
+||tracker.ai.xiaomi.com^
 ||tracking.kdnet.net^
 ||tracking.miui.com^
 ||tracking.rus.miui.com^
@@ -3202,6 +3223,7 @@
 ||trqhf.xyz^
 ||trslw.cn^
 ||trustedcpmrevenue.com^
+||truthfulsensor.com^
 ||tsancii.top^
 ||tsck.online^
 ||tsearch.snssdk.com^
@@ -3281,6 +3303,8 @@
 ||ukjwyv.icu^
 ||ukpsal.icu^
 ||ulkoxbra.com^
+||ulogs.umeng.com^
+||ulogs.umengcloud.com^
 ||ulojlvmejkaem.xyz^
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
@@ -3417,6 +3441,7 @@
 ||vyreat.icu^
 ||vyye.cn^
 ||vzeuvcdi.icu^
+||vzttq.brfvyrrp.com^
 ||vzvvifw.cn^
 ||w.bnlg.fun^
 ||w41.i7x3.fun^
