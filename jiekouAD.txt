@@ -4263,7 +4263,6 @@ hanman/static/dist/ppm/js/main.js
 /*/*.add.*.add
 /_xa/ads?
 com:8891/c.php?s=*$third-party
-.cc/o.js$third-party
 /gameapk/*/hongbao.apk
 /dibu.adadadad
 ||imanhuapi.com/style/js/mpmh.js
