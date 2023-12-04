@@ -4619,6 +4619,7 @@ www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
 www.ydyse.com##.left,.bottom,.right,.ad,.adimage
 m.kdslife.com###app.Card.DownloadGuide
 m.guancha.cn##.g_header.go-to-app
+thepaper.cn##[class^='index_footer_banner']
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
@@ -4662,13 +4663,13 @@ hao123.com##.popup
 soutubot.moe##.bg-gray-800.overflow-hidden
 ix6080.com##DIV[style$='vw; display: block;']
 sogou.com##.ad_result
-m.nxnba.com##.bootom-fixed
+nxnba.com##.bootom-fixed
 ifeng.com##div[class^="ad_"]
-m.autohome.com.cn##ol > li,.evade-operate
+autohome.com.cn##ol > li,.evade-operate
 match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
-www.pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
+pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
 luoqiuzw.com##DIV[id^="a-loading-"]
-m.qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
+qilishusong.cn##[style*='display: block'],[style*='position: absolute; width: 100%;'],[style*='height:120px;']
 javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV[data-text-ad]
 ###bottom_ads.hl_bottom_ads
