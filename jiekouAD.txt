@@ -5,6 +5,9 @@
 ! Total Count: 5081
 ! by: 酷安@大萌主
 ! Host
+||hailfi.top^
+||ioswhi.com^
+||wiczcu.xyz^
 ||gfbdb1.com^
 ||3i2i.com^
 ||iobvmtx.xyz^
@@ -4422,6 +4425,7 @@ _/bigREDcat.css?
 /baidu/tg.js
 /baidu/189/999.php
 /bigREDdog.css?
+||golengmen.com/assets/publish/
 .com:7891/stats$third-party
 .icu/?token=$third-party
 .xyz/*0*0*==$third-party
