@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4122
-#Update Time: 2023-12-04 09:04:54（北京时间）
+#Total Count: 4125
+#Update Time: 2023-12-07 09:02:19（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -1420,6 +1420,7 @@
 0.0.0.0 haejkmm.cn
 0.0.0.0 haffo70.com
 0.0.0.0 haihongzg.com
+0.0.0.0 hailfi.top
 0.0.0.0 haili-spitzer.com
 0.0.0.0 hairoak.com
 0.0.0.0 haise10.top
@@ -1680,6 +1681,7 @@
 0.0.0.0 iojnask.com
 0.0.0.0 ionksfefe.xyz
 0.0.0.0 iosppk.com
+0.0.0.0 ioswhi.com
 0.0.0.0 iot-eu-logser.realme.com
 0.0.0.0 iot-logser.realme.com
 0.0.0.0 ip.tianqiapi.com
@@ -3479,6 +3481,7 @@
 0.0.0.0 whe0nqk.icu
 0.0.0.0 whwxxny.com
 0.0.0.0 whyfate.cn
+0.0.0.0 wiczcu.xyz
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 widow5blackfr.com
 0.0.0.0 wipew.com
