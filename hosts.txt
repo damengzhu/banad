@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4126
-#Update Time: 2023-12-11 10:22:44（北京时间）
+#Total Count: 4127
+#Update Time: 2023-12-11 11:11:54（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -2564,6 +2564,7 @@
 0.0.0.0 pftdmmc.xyz
 0.0.0.0 pgght17.com
 0.0.0.0 pglstatp-toutiao.com
+0.0.0.0 phfqumvi.xyz
 0.0.0.0 phoorned.com
 0.0.0.0 phputils.wc-os.com
 0.0.0.0 piaochong.co
