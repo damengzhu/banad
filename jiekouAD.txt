@@ -4653,6 +4653,7 @@ www.jmhongyan.com##ins[class],.container p
 www.jjtyss.com##ins[class],.myui-player.clearfix p,.container p
 www.olevod.com##.B1Lss,.B1Rss
 5dm.app##[src*="sinaimg.cn"]
+ddzzxs.com###inglestore.inglestore
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
 zol.com.cn##A.dingtong.xianshiyouhui
