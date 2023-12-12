@@ -5070,6 +5070,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
 ##IMG[src*='tupian.guanggao']
 ##A[href='/iwagbwfiwehaeyh/']
+##div#ad > div[align='center']
+##div#ad > div#gotoPlay
 ##[href^='https://down.erperweima.top/']
 ##IMG[src^='https://dzfzfv.xyz/']
 ##body#read.read DIV[style$=' width: 100vw; position: relative;']
