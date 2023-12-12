@@ -4643,6 +4643,7 @@ axutongxue.com##DIV[style='text-align:center']
 www.xda-developers.com##.adzone-above-latest
 www.lezhutv.com##[style='bottom: 132px;']
 woozooo.com##.ves
+baifumeiba.com##DIV#ad
 ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
 heiliao346.pro###post-card-1234,#post-card-518,#post-card-1000,#post-card-666,#post-card-1588,#post-card-1555,#post-card-1118,#post-card-618,#post-card-888,#post-card-999
 www.67tool.com##.footer-banner
@@ -5070,8 +5071,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV[style*='px; bottom: 0px; left: 0px; animation: 1.5s ease 0.2s infinite normal none running shakegwegs; z-index:']
 ##IMG[src*='tupian.guanggao']
 ##A[href='/iwagbwfiwehaeyh/']
-##div#ad > div[align='center']
-##div#ad > div#gotoPlay
 ##[href^='https://down.erperweima.top/']
 ##IMG[src^='https://dzfzfv.xyz/']
 ##body#read.read DIV[style$=' width: 100vw; position: relative;']
