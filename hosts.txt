@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4135
-#Update Time: 2023-12-18 13:13:39（北京时间）
+#Total Count: 4141
+#Update Time: 2023-12-18 13:22:31（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -25,6 +25,7 @@
 0.0.0.0 039nez.com
 0.0.0.0 03asdf.com
 0.0.0.0 056opui.com
+0.0.0.0 05pg9z.com
 0.0.0.0 063tutu.com
 0.0.0.0 064ioio.com
 0.0.0.0 065yuyu.com
@@ -321,6 +322,7 @@
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 adtech.yahooinc.com
 0.0.0.0 adtng.com
+0.0.0.0 adtx2.cn
 0.0.0.0 adv-sv-show.focus.cn
 0.0.0.0 adv-sv-stat.focus.cn
 0.0.0.0 advertising-api-eu.amazon.com
@@ -638,6 +640,7 @@
 0.0.0.0 business-api.tiktok.com
 0.0.0.0 buyihao.com
 0.0.0.0 buzien.top
+0.0.0.0 bvpqrydt.xyz
 0.0.0.0 bvsfv6.com
 0.0.0.0 bvvb9.com
 0.0.0.0 bwdhuanbao.com
@@ -1924,6 +1927,7 @@
 0.0.0.0 kjggk1.xyz
 0.0.0.0 kjuwxmi.xyz
 0.0.0.0 kjvaqbyebqarl.top
+0.0.0.0 kkisoo.com
 0.0.0.0 kklpe.xyz
 0.0.0.0 kkmbbvz.xyz
 0.0.0.0 kkpgv2.xunlei.com
@@ -3510,6 +3514,7 @@
 0.0.0.0 wohewodejxp.top
 0.0.0.0 wonderhsjnsd.com
 0.0.0.0 worjeklmq.com
+0.0.0.0 worlderva.com
 0.0.0.0 worldwide.sogou.com
 0.0.0.0 wowreality.info
 0.0.0.0 wpcihg.com
@@ -4076,6 +4081,7 @@
 0.0.0.0 znnodl.xyz
 0.0.0.0 znyjmbh.icu
 0.0.0.0 zonyff.xyz
+0.0.0.0 zotcjeig.xyz
 0.0.0.0 zouqiuyyds.com
 0.0.0.0 zowralr.cn
 0.0.0.0 zpotkvpy.icu

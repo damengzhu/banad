@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4139
-! Update Time:2023-12-18 13:13:39（北京时间）
+! Total Count: 4146
+! Update Time:2023-12-18 13:22:31（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -24,6 +24,7 @@
 ||039nez.com^
 ||03asdf.com^
 ||056opui.com^
+||05pg9z.com^
 ||063tutu.com^
 ||064ioio.com^
 ||065yuyu.com^
@@ -321,6 +322,7 @@
 ||adtago.s3.amazonaws.com^
 ||adtech.yahooinc.com^
 ||adtng.com^
+||adtx2.cn^
 ||adv-sv-show.focus.cn^
 ||adv-sv-stat.focus.cn^
 ||advertising-api-eu.amazon.com^
@@ -639,6 +641,7 @@
 ||business-api.tiktok.com^
 ||buyihao.com^
 ||buzien.top^
+||bvpqrydt.xyz^
 ||bvsfv6.com^
 ||bvvb9.com^
 ||bwdhuanbao.com^
@@ -1928,6 +1931,7 @@
 ||kjggk1.xyz^
 ||kjuwxmi.xyz^
 ||kjvaqbyebqarl.top^
+||kkisoo.com^
 ||kklpe.xyz^
 ||kkmbbvz.xyz^
 ||kkpgv2.xunlei.com^
@@ -3519,6 +3523,7 @@
 ||wohewodejxp.top^
 ||wonderhsjnsd.com^
 ||worjeklmq.com^
+||worlderva.com^
 ||worldwide.sogou.com^
 ||wowreality.info^
 ||wpcihg.com^
@@ -4097,6 +4102,7 @@
 ||znnodl.xyz^
 ||znyjmbh.icu^
 ||zonyff.xyz^
+||zotcjeig.xyz^
 ||zouqiuyyds.com^
 ||zowralr.cn^
 ||zpotkvpy.icu^
