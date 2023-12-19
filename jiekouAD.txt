@@ -5,6 +5,10 @@
 ! Total Count: 5115
 ! by: 酷安@大萌主
 ! Host
+||ectyet.top^
+||iephrenhq.com^
+||sovelswpq.com^
+||uckgqa.xyz^
 ||zotcjeig.xyz^
 ||kkisoo.com^
 ||l80ays.com^
@@ -5112,6 +5116,9 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href^='https://mtyshi.com/']
 ##A[href*='exuvu.com']
 ##A[href*='xzzkx.com']
+##[href*='anrvl.com']
+##[href*='zthbe.com']
+##[href*='snnrb.com']
 ##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
 ##DIV[style='position: fixed; left: 0px; bottom: 0px; width: 100%; height: 120px; z-index: 2147483647 !important;']
 ##A[href*='jdbfknsbkldns.com']
