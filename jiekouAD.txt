@@ -4452,6 +4452,7 @@ _/bigREDcat.css?
 /baidu/tg.js
 /baidu/189/999.php
 /bigREDdog.css?
+||cgdyw.net/xx/
 ||golengmen.com/assets/publish/
 .com:7891/stats$third-party
 .icu/?token=$third-party
