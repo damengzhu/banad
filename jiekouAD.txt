@@ -4613,8 +4613,10 @@ v11av.xyz##.row.q-ma-none A[rel='noopener nofollow'][href][style='display: block
 v11av.xyz##.content__body [rel='nofollow'][href][target='_blank']
 www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.top_link_hidden,[src$='.gif']
 www.itdog.cn#%#window.alert=function(str){return}
-m.huya.com###template
-www.huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
+apkcombo.com##[data-d-ad-id]
+apkcombo.com##.diseanmevrtt
+huya.com###template
+huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 smartapps.cn##swan-nest-banner-ad.ad-expose
 smartapps.cn##.sw-22__bdad-wrap,.sw-22__ad-expose
 www.zhihu.com##.KfeCollection-VipRecommendCard
