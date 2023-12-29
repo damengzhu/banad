@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4155
-! Update Time:2023-12-27 08:26:13（北京时间）
+! Total Count: 4165
+! Update Time:2023-12-29 15:49:27（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -91,11 +91,13 @@
 ||24klm.cn^
 ||24klm.net^
 ||2cursjb.com^
+||2dctkld.com^
 ||2g9x9uf.cn^
 ||2pogg4c.cn^
 ||2qpqwkx.cn^
 ||2rwonuh.com^
 ||2u3v4w5x6y.com^
+||2wgolxk.com^
 ||2xmzazd.cn^
 ||3.cjcp.cn^
 ||32.huanqiu.com^
@@ -103,6 +105,7 @@
 ||3337126.com^
 ||3338637.com^
 ||3338652.com^
+||3562wsgkbcm.xyz^
 ||35vc.com^
 ||360114.xyz^
 ||36htg.fun^
@@ -537,6 +540,7 @@
 ||bcglkfu.cn^
 ||bcidnfers.live^
 ||bcsijjgck.xyz^
+||bcthd12.shop^
 ||bd-a-1.appmobile.cn^
 ||bd-js.duote.com^
 ||bd.ahsrst.cn^
@@ -724,6 +728,7 @@
 ||cfepws.com^
 ||cgigc.com.cn^
 ||cgmalight.com^
+||cgyx.tv^
 ||chabadokor.com^
 ||changshuohr.net^
 ||changyangadvertising.com^
@@ -920,6 +925,7 @@
 ||dertyhsf.xyz^
 ||desac10.icu^
 ||desac7.icu^
+||despiteto.com^
 ||destc10.icu^
 ||destc8.icu^
 ||device.fishmobi.com^
@@ -1701,6 +1707,7 @@
 ||ip.ws.126.net^
 ||ip1398.com^
 ||ipadf.xyz^
+||iparty.asia^
 ||ipc08dt.com^
 ||iplm.cc^
 ||ipm.atm.youku.com^
@@ -2358,6 +2365,7 @@
 ||nbsdk-baichuan.alicdn.com^
 ||nbsxazr.icu^
 ||nbtfbb.xyz^
+||nbudas92.shop^
 ||ncgqmzm.cn^
 ||nchxzmhr.com^
 ||ncmxwhf.icu^
@@ -3789,6 +3797,7 @@
 ||xsxmvb.xyz^
 ||xtbzff.xyz^
 ||xtjpdfr.cn^
+||xtnwxhjv.xyz^
 ||xtpwfb.xyz^
 ||xuanyaosp.com^
 ||xudgjz.xyz^
@@ -4095,6 +4104,7 @@
 ||zifyeldq.top^
 ||zihuiguochao.top^
 ||ziravd.xyz^
+||zisnuthz.com^
 ||zj-yxw.com^
 ||zjjbtl.com^
 ||zjkssw.com^

@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4150
-#Update Time: 2023-12-27 08:26:13（北京时间）
+#Total Count: 4160
+#Update Time: 2023-12-29 15:49:27（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -91,11 +91,13 @@
 0.0.0.0 24klm.cn
 0.0.0.0 24klm.net
 0.0.0.0 2cursjb.com
+0.0.0.0 2dctkld.com
 0.0.0.0 2g9x9uf.cn
 0.0.0.0 2pogg4c.cn
 0.0.0.0 2qpqwkx.cn
 0.0.0.0 2rwonuh.com
 0.0.0.0 2u3v4w5x6y.com
+0.0.0.0 2wgolxk.com
 0.0.0.0 2xmzazd.cn
 0.0.0.0 3.cjcp.cn
 0.0.0.0 32.huanqiu.com
@@ -103,6 +105,7 @@
 0.0.0.0 3337126.com
 0.0.0.0 3338637.com
 0.0.0.0 3338652.com
+0.0.0.0 3562wsgkbcm.xyz
 0.0.0.0 35vc.com
 0.0.0.0 360114.xyz
 0.0.0.0 36htg.fun
@@ -537,6 +540,7 @@
 0.0.0.0 bcglkfu.cn
 0.0.0.0 bcidnfers.live
 0.0.0.0 bcsijjgck.xyz
+0.0.0.0 bcthd12.shop
 0.0.0.0 bd-a-1.appmobile.cn
 0.0.0.0 bd-js.duote.com
 0.0.0.0 bd.ahsrst.cn
@@ -723,6 +727,7 @@
 0.0.0.0 cfepws.com
 0.0.0.0 cgigc.com.cn
 0.0.0.0 cgmalight.com
+0.0.0.0 cgyx.tv
 0.0.0.0 chabadokor.com
 0.0.0.0 changshuohr.net
 0.0.0.0 changyangadvertising.com
@@ -919,6 +924,7 @@
 0.0.0.0 dertyhsf.xyz
 0.0.0.0 desac10.icu
 0.0.0.0 desac7.icu
+0.0.0.0 despiteto.com
 0.0.0.0 destc10.icu
 0.0.0.0 destc8.icu
 0.0.0.0 device.fishmobi.com
@@ -1699,6 +1705,7 @@
 0.0.0.0 ip.ws.126.net
 0.0.0.0 ip1398.com
 0.0.0.0 ipadf.xyz
+0.0.0.0 iparty.asia
 0.0.0.0 ipc08dt.com
 0.0.0.0 iplm.cc
 0.0.0.0 ipm.atm.youku.com
@@ -2354,6 +2361,7 @@
 0.0.0.0 nbsdk-baichuan.alicdn.com
 0.0.0.0 nbsxazr.icu
 0.0.0.0 nbtfbb.xyz
+0.0.0.0 nbudas92.shop
 0.0.0.0 ncgqmzm.cn
 0.0.0.0 nchxzmhr.com
 0.0.0.0 ncmxwhf.icu
@@ -3779,6 +3787,7 @@
 0.0.0.0 xsxmvb.xyz
 0.0.0.0 xtbzff.xyz
 0.0.0.0 xtjpdfr.cn
+0.0.0.0 xtnwxhjv.xyz
 0.0.0.0 xtpwfb.xyz
 0.0.0.0 xuanyaosp.com
 0.0.0.0 xudgjz.xyz
@@ -4074,6 +4083,7 @@
 0.0.0.0 zifyeldq.top
 0.0.0.0 zihuiguochao.top
 0.0.0.0 ziravd.xyz
+0.0.0.0 zisnuthz.com
 0.0.0.0 zj-yxw.com
 0.0.0.0 zjjbtl.com
 0.0.0.0 zjkssw.com
