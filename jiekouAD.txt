@@ -4942,6 +4942,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://js.iconiclee.com']
 ##[alt='ad']
+##A[href*='zbkrv.com']
 ##div.container > DIV.t-img-box
 ##A[href='/?'][target='_blank']
 ##DIV#video-player-ads-wrap
