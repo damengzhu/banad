@@ -4578,6 +4578,7 @@ sohu.com##DIV[id^="ceans_"]
 sohu.com##.float-discuss-up.float-discuss-enter
 sohu.com##.float-discuss-container
 sohu.com##.feedback
+sohu.com##[data-spm-content='ad']
 sohu.com###recommendSearch
 tv.sohu.com##.actv-banner.js-app-topbanner,.banner_yunying,.js-oper-pos,IMG.vrs-banner-act-img
 axutongxue.com##ASIDE[style*='height:58px;overflow:hidden;width:322px;border:dashed .5px']
