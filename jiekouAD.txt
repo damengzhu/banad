@@ -4911,6 +4911,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV.appdownload_ad
 ##A[href^='https://yongle008.com']
 ##DIV#bfad
+##DIV.hidden-lg[style='position: absolute;bottom: 0px;z-index: 10;']
 ##A[href^='https://js.pico4pro.com']
 ##IMG[alt='155.fun']
 ##div#detail.selector-zero > div > DIV[style]
