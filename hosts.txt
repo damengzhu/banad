@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4167
-#Update Time: 2024-01-11 10:18:18（北京时间）
+#Total Count: 4172
+#Update Time: 2024-01-15 12:44:04（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -622,6 +622,7 @@
 0.0.0.0 boyidianqi.com.cn
 0.0.0.0 boyvtr8.com
 0.0.0.0 bozhou666.com
+0.0.0.0 bpztsxx.com
 0.0.0.0 bqdzvl.xyz
 0.0.0.0 br.bendan.shop
 0.0.0.0 brendanbc.com
@@ -1318,6 +1319,7 @@
 0.0.0.0 geo.yahoo.com
 0.0.0.0 geoparker.net
 0.0.0.0 gepush.com
+0.0.0.0 gepvgv.icu
 0.0.0.0 getui.com
 0.0.0.0 geziyd.com
 0.0.0.0 gfbdb1.com
@@ -1720,6 +1722,7 @@
 0.0.0.0 iruacwa.xyz
 0.0.0.0 isancio.top
 0.0.0.0 isdfbvkvsc.xyz
+0.0.0.0 isine88.com
 0.0.0.0 islbaho.top
 0.0.0.0 iswgnn.com
 0.0.0.0 iszbxqps.com
@@ -2941,6 +2944,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkdfjksl.com
+0.0.0.0 sdklnlsknvcks.com
 0.0.0.0 sdqoi2d.com
 0.0.0.0 sdvfvgj.cn
 0.0.0.0 sdvsv.com
@@ -3763,6 +3767,7 @@
 0.0.0.0 xmxupz.xyz
 0.0.0.0 xmywlyh.cn
 0.0.0.0 xn--2qu92fhtxsxexqab.xn--fiqs8s
+0.0.0.0 xn--2qux23cs4e63q.com
 0.0.0.0 xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s
 0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--521-x72fh66s.cn

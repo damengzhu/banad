@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4172
-! Update Time:2024-01-11 10:18:18（北京时间）
+! Total Count: 4177
+! Update Time:2024-01-15 12:44:04（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -623,6 +623,7 @@
 ||boyidianqi.com.cn^
 ||boyvtr8.com^
 ||bozhou666.com^
+||bpztsxx.com^
 ||bqdzvl.xyz^
 ||br.bendan.shop^
 ||brendanbc.com^
@@ -1319,6 +1320,7 @@
 ||geo.yahoo.com^
 ||geoparker.net^
 ||gepush.com^
+||gepvgv.icu^
 ||getui.com^
 ||geziyd.com^
 ||gfbdb1.com^
@@ -1722,6 +1724,7 @@
 ||iruacwa.xyz^
 ||isancio.top^
 ||isdfbvkvsc.xyz^
+||isine88.com^
 ||islbaho.top^
 ||iswgnn.com^
 ||iszbxqps.com^
@@ -2948,6 +2951,7 @@
 ||sdkconfig.ad.intl.xiaomi.com^
 ||sdkconfig.ad.xiaomi.com^
 ||sdkdfjksl.com^
+||sdklnlsknvcks.com^
 ||sdqoi2d.com^
 ||sdvfvgj.cn^
 ||sdvsv.com^
@@ -3773,6 +3777,7 @@
 ||xmxupz.xyz^
 ||xmywlyh.cn^
 ||xn--2qu92fhtxsxexqab.xn--fiqs8s^
+||xn--2qux23cs4e63q.com^
 ||xn--2qux23cwrdmnaz3gj3w.xn--fiqs8s^
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--521-x72fh66s.cn^
