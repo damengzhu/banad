@@ -5,6 +5,16 @@
 ! Total Count: 5163
 ! by: 酷安@大萌主
 ! Host
+||wdadad.cn
+||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
+||ovnrmvg.cn^
+||sdtsad.com^
+||eccki.cn^
+||wwxufo.com^
+||xerqfh.xyz^
+||jhdvcjvsjkvjkb.com^
+||3rsppty.cn^
+||2vqgtxw.cn^
 ||chdezxp.com^
 ||1222dfm3l.cc^
 ||bpztsxx.com^
@@ -4300,7 +4310,7 @@ chen-xing/figure_bed*
 .cn/redbaiduct.com?s=$third-party
 /stats.php?adsid=$third-party
 .xyz/*_*_1_*.js?$third-party
-*tplv-noop.gif*
+||aiqu28.com/da/
 .cn:*/vh5$third-party
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
