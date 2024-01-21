@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4174
-#Update Time: 2024-01-16 20:45:11（北京时间）
+#Total Count: 4183
+#Update Time: 2024-01-21 12:21:47（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -98,6 +98,7 @@
 0.0.0.0 2qpqwkx.cn
 0.0.0.0 2rwonuh.com
 0.0.0.0 2u3v4w5x6y.com
+0.0.0.0 2vqgtxw.cn
 0.0.0.0 2wgolxk.com
 0.0.0.0 2xmzazd.cn
 0.0.0.0 3.cjcp.cn
@@ -119,6 +120,7 @@
 0.0.0.0 3er88wn.com
 0.0.0.0 3i2i.com
 0.0.0.0 3q3l.cn
+0.0.0.0 3rsppty.cn
 0.0.0.0 3t769up6.com
 0.0.0.0 3v7c7y.online
 0.0.0.0 3yej.xyz
@@ -1078,6 +1080,7 @@
 0.0.0.0 ebten.xyz
 0.0.0.0 ebuqxsjq.com
 0.0.0.0 eccbb.com
+0.0.0.0 eccki.cn
 0.0.0.0 ecmb.bdimg.com
 0.0.0.0 eco.taobao.com
 0.0.0.0 ecoefh.com
@@ -1787,6 +1790,7 @@
 0.0.0.0 jghklz.xyz
 0.0.0.0 jgsajfggv.xyz
 0.0.0.0 jh16csf.com
+0.0.0.0 jhdvcjvsjkvjkb.com
 0.0.0.0 jhkggrr.icu
 0.0.0.0 jhlazsot.icu
 0.0.0.0 jhvchv.xyz
@@ -2540,6 +2544,7 @@
 0.0.0.0 outbrain.com
 0.0.0.0 outoctillerytor.com
 0.0.0.0 ouyhh.xyz
+0.0.0.0 ovnrmvg.cn
 0.0.0.0 owiurjngsd.com
 0.0.0.0 owlfolk.com
 0.0.0.0 owlinggnomist.com
@@ -2948,6 +2953,7 @@
 0.0.0.0 sdkdfjksl.com
 0.0.0.0 sdklnlsknvcks.com
 0.0.0.0 sdqoi2d.com
+0.0.0.0 sdtsad.com
 0.0.0.0 sdvfvgj.cn
 0.0.0.0 sdvsv.com
 0.0.0.0 sdzhongke.cn
@@ -2963,6 +2969,7 @@
 0.0.0.0 sfbixfd.cn
 0.0.0.0 sfg11rr.com
 0.0.0.0 sfp.safe.baidu.com
+0.0.0.0 sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com
 0.0.0.0 sgegie.fun
 0.0.0.0 sgeth7.icu
 0.0.0.0 sglyd.cn
@@ -3687,6 +3694,7 @@
 0.0.0.0 www.zbinview.com
 0.0.0.0 www.zhangjiyi.top
 0.0.0.0 www.zhaohainan.cn
+0.0.0.0 wwxufo.com
 0.0.0.0 wx.uc.downcdn.top
 0.0.0.0 wxddid.cn
 0.0.0.0 wxdqgmr.cn
@@ -3715,6 +3723,7 @@
 0.0.0.0 xegneils.com
 0.0.0.0 xeikwh.icu
 0.0.0.0 xerhibx.cn
+0.0.0.0 xerqfh.xyz
 0.0.0.0 xeynozl.icu
 0.0.0.0 xfgctg.com
 0.0.0.0 xflsj.com

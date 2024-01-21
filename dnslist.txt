@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4179
-! Update Time:2024-01-16 20:45:11（北京时间）
+! Total Count: 4188
+! Update Time:2024-01-21 12:21:47（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -98,6 +98,7 @@
 ||2qpqwkx.cn^
 ||2rwonuh.com^
 ||2u3v4w5x6y.com^
+||2vqgtxw.cn^
 ||2wgolxk.com^
 ||2xmzazd.cn^
 ||3.cjcp.cn^
@@ -119,6 +120,7 @@
 ||3er88wn.com^
 ||3i2i.com^
 ||3q3l.cn^
+||3rsppty.cn^
 ||3t769up6.com^
 ||3v7c7y.online^
 ||3yej.xyz^
@@ -1079,6 +1081,7 @@
 ||ebten.xyz^
 ||ebuqxsjq.com^
 ||eccbb.com^
+||eccki.cn^
 ||ecmb.bdimg.com^
 ||eco.taobao.com^
 ||ecoefh.com^
@@ -1789,6 +1792,7 @@
 ||jghklz.xyz^
 ||jgsajfggv.xyz^
 ||jh16csf.com^
+||jhdvcjvsjkvjkb.com^
 ||jhkggrr.icu^
 ||jhlazsot.icu^
 ||jhvchv.xyz^
@@ -2545,6 +2549,7 @@
 ||outbrain.com^
 ||outoctillerytor.com^
 ||ouyhh.xyz^
+||ovnrmvg.cn^
 ||owiurjngsd.com^
 ||owlfolk.com^
 ||owlinggnomist.com^
@@ -2955,6 +2960,7 @@
 ||sdkdfjksl.com^
 ||sdklnlsknvcks.com^
 ||sdqoi2d.com^
+||sdtsad.com^
 ||sdvfvgj.cn^
 ||sdvsv.com^
 ||sdzhongke.cn^
@@ -2970,6 +2976,7 @@
 ||sfbixfd.cn^
 ||sfg11rr.com^
 ||sfp.safe.baidu.com^
+||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||sgegie.fun^
 ||sgeth7.icu^
 ||sglyd.cn^
@@ -3697,6 +3704,7 @@
 ||www.zbinview.com^
 ||www.zhangjiyi.top^
 ||www.zhaohainan.cn^
+||wwxufo.com^
 ||wx.uc.downcdn.top^
 ||wxddid.cn^
 ||wxdqgmr.cn^
@@ -3725,6 +3733,7 @@
 ||xegneils.com^
 ||xeikwh.icu^
 ||xerhibx.cn^
+||xerqfh.xyz^
 ||xeynozl.icu^
 ||xfgctg.com^
 ||xflsj.com^
