@@ -5,6 +5,7 @@
 ! Total Count: 5173
 ! by: 酷安@大萌主
 ! Host
+||courtoyz.com^
 ||wdadad.cn
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
 ||ovnrmvg.cn^
@@ -5151,6 +5152,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV.advertisingConfiguration
 ##[src='/static/ads.png']
 ##ul.thread_detail_ads
+##[style='position:relative !important;padding:0px !important;margin:0px !important;line-height:1 !important;']
 ##DIV.swiper2.swiper-initialized.swiper-horizontal
 ##[src^='/static/resources/lp.php'][style^='max-width: 100%; transform-origin: left top;']
 ##DIV[style^='display: block; aspect-ratio: 728 / 90; background-image: url("/static/resources/lp.php']
