@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4184
-#Update Time: 2024-01-23 15:58:23（北京时间）
+#Total Count: 4190
+#Update Time: 2024-01-28 12:41:02（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -981,6 +981,7 @@
 0.0.0.0 dismantlepenantiterrorist.com
 0.0.0.0 ditorialproce.biz
 0.0.0.0 dj09j5u.cn
+0.0.0.0 djbgfit.com
 0.0.0.0 djv99sxoqpv11.cloudfront.net
 0.0.0.0 dklwddl.cn
 0.0.0.0 dl12349.net
@@ -1704,6 +1705,7 @@
 0.0.0.0 insfengdata.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 intimidatepropel.com
+0.0.0.0 inudpbi.com
 0.0.0.0 iobvmtx.xyz
 0.0.0.0 ioiksw.cn
 0.0.0.0 iojnask.com
@@ -2233,6 +2235,7 @@
 0.0.0.0 manguan.vip
 0.0.0.0 manlungkey.com
 0.0.0.0 maobujie.com
+0.0.0.0 maoskk.com
 0.0.0.0 mapsmnx.cyou
 0.0.0.0 margueritenice.com
 0.0.0.0 marjorienice.com
@@ -2321,6 +2324,7 @@
 0.0.0.0 moon.ibytecdn.cn
 0.0.0.0 mosangkeji.com
 0.0.0.0 mosflower.cn
+0.0.0.0 motsjnv.cn
 0.0.0.0 motuopj.cn
 0.0.0.0 mouseflow.com
 0.0.0.0 moxiaoqihuoguo.com
@@ -3144,6 +3148,7 @@
 0.0.0.0 tahltanboutell.com
 0.0.0.0 tainec.fun
 0.0.0.0 taiqingjiu.com
+0.0.0.0 takjttz.cn
 0.0.0.0 tangk.top
 0.0.0.0 taoyao.tech
 0.0.0.0 tarqk5.com
@@ -3381,6 +3386,7 @@
 0.0.0.0 usfw2eu.icu
 0.0.0.0 uslbaht.top
 0.0.0.0 uslsxe.com
+0.0.0.0 uspauline.com
 0.0.0.0 utienlt.top
 0.0.0.0 uttlinediv.top
 0.0.0.0 utywsi.cn

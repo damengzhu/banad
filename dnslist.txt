@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4189
-! Update Time:2024-01-23 15:58:23（北京时间）
+! Total Count: 4195
+! Update Time:2024-01-28 12:41:02（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -982,6 +982,7 @@
 ||dismantlepenantiterrorist.com^
 ||ditorialproce.biz^
 ||dj09j5u.cn^
+||djbgfit.com^
 ||djv99sxoqpv11.cloudfront.net^
 ||dklwddl.cn^
 ||dl12349.net^
@@ -1706,6 +1707,7 @@
 ||insfengdata.com^
 ||insights.hotjar.com^
 ||intimidatepropel.com^
+||inudpbi.com^
 ||iobvmtx.xyz^
 ||ioiksw.cn^
 ||iojnask.com^
@@ -2237,6 +2239,7 @@
 ||manguan.vip^
 ||manlungkey.com^
 ||maobujie.com^
+||maoskk.com^
 ||mapsmnx.cyou^
 ||margueritenice.com^
 ||marjorienice.com^
@@ -2325,6 +2328,7 @@
 ||moon.ibytecdn.cn^
 ||mosangkeji.com^
 ||mosflower.cn^
+||motsjnv.cn^
 ||motuopj.cn^
 ||mouseflow.com^
 ||moxiaoqihuoguo.com^
@@ -3151,6 +3155,7 @@
 ||tahltanboutell.com^
 ||tainec.fun^
 ||taiqingjiu.com^
+||takjttz.cn^
 ||tangk.top^
 ||taoyao.tech^
 ||tarqk5.com^
@@ -3390,6 +3395,7 @@
 ||usfw2eu.icu^
 ||uslbaht.top^
 ||uslsxe.com^
+||uspauline.com^
 ||utienlt.top^
 ||uttlinediv.top^
 ||utywsi.cn^
