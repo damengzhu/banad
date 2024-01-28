@@ -5,6 +5,12 @@
 ! Total Count: 5175
 ! by: 酷安@大萌主
 ! Host
+||maoskk.com^
+||inudpbi.com^
+||djbgfit.com^
+||motsjnv.cn^
+||takjttz.cn^
+||uspauline.com^
 ||courtoyz.com^
 ||wdadad.cn
 ||sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com^
@@ -4707,6 +4713,7 @@ baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
+soshu888.net##[style$='width: 100vw; position: relative;']
 axutongxue.com##DIV[style='text-align:center']
 www.xda-developers.com##.adzone-above-latest
 www.lezhutv.com##[style='bottom: 132px;']
@@ -4740,6 +4747,7 @@ www.haijiao.com##.addbox,.bannerliststyle,.van-swipe-item,.crossbutton
 boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 bimibimi.cc##[src^='https://dd-static.jd.com']
 hao123.com##.popup
+xian360.top##CENTER
 soutubot.moe##.bg-gray-800.overflow-hidden
 ix6080.com##DIV[style$='vw; display: block;']
 sogou.com##.ad_result
@@ -5172,6 +5180,9 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='zthbe.com']
 ##IMG[src='https://tanju.vip/wapxiezi.png']
 ##[href*='snnrb.com']
+##[href*='slkdnlkfnskl.com']
+##[src^='https://kykqss.xyz']
+##[rel='nofollow'][href^='/book/baidu_verify_code']
 ##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
 ##DIV[style='position: fixed; left: 0px; bottom: 0px; width: 100%; height: 120px; z-index: 2147483647 !important;']
 ##A[href*='jdbfknsbkldns.com']
