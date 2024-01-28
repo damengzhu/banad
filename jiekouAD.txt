@@ -4275,6 +4275,9 @@ trafficjunky.com$third-party
 yhdm*.com/js/wap2-jm-ms.js?ver=
 .com:8008/sc/*?n=$third-party
 .com:8003/d/*&n=$third-party
+baimakanshu.com/assets/public/
+lengmen.cc/assets/public/
+aiqu222.com/da/
 ||liuyingtv.com/common/api_getAcode.php
 ||anluyg.net/static/js/channel*.js
 ||google-analytics.com$third-party
