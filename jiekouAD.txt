@@ -4732,6 +4732,7 @@ oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/t
 www.jmhongyan.com##ins[class],.container p
 www.jjtyss.com##ins[class],.myui-player.clearfix p,.container p
 www.olevod.com##.B1Lss,.B1Rss
+www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 5dm.app##[src*="sinaimg.cn"]
 ddzzxs.com###inglestore.inglestore
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
