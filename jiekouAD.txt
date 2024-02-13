@@ -5,6 +5,7 @@
 ! Total Count: 5194
 ! by: 酷安@大萌主
 ! Host
+||3prndxd.cn^
 ||ruliaoqi.com^
 ||kkjshsj.com^
 ||n3xpjc.xyz^
@@ -4714,6 +4715,7 @@ www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
 www.3ppp.net##DIV.bottom_fixed
+apkpure.net##DIV.js-ad-slot
 dongmanhuayuan.myheartsite.com##.card-body
 baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
