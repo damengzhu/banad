@@ -5194,6 +5194,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='zthbe.com']
 ##IMG[src='https://tanju.vip/wapxiezi.png']
 ##[href*='snnrb.com']
+##A.wrapper_bg_c.hidden-xs
 ##[href*='slkdnlkfnskl.com']
 ##[src^='https://kykqss.xyz']
 ##[rel='nofollow'][href^='/book/baidu_verify_code']
