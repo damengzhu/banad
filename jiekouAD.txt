@@ -5193,6 +5193,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href*='exuvu.com']
 ##A[href*='xzzkx.com']
 ##DIV#wwads
+##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background:#000;opacity:0.01;']
 ##A[href*='ds2f1sd31g.vip']
 ##IMG.playVideo-checkin-img
 ##DIV.playVideo-centerAd
