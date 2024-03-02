@@ -4236,6 +4236,7 @@
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
 ||qishula.com/css/ding.js
+||adutp.com^$third-party
 /bar/*.js$domain=yinghuavideo.com|yinghua8.tv
 ||google-analytics.com/analytics.js
 ||www.cartoon18.com/assets/*/jquery.js
