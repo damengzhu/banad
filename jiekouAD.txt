@@ -5208,6 +5208,9 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##IMG[src='https://tanju.vip/wapxiezi.png']
 ##[href*='snnrb.com']
 ##A.wrapper_bg_c.hidden-xs
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
+##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: relative;']
+##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
 ##[href*='slkdnlkfnskl.com']
 ##.globalPadding
 ##[href*='pojuko.buzz']
