@@ -5,6 +5,9 @@
 ! Total Count: 5219
 ! by: 酷安@大萌主
 ! Host
+||37bhof.com^
+||shanvezhu.com^
+||qrjsz.top^
 ||nshvhfw.cn^
 ||vainews.cn^
 ||gushi.network^
@@ -5213,6 +5216,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
 ##[href*='slkdnlkfnskl.com']
 ##.globalPadding
+##.adwap
+##[href^='https://31jrx5y7.com/']
 ##[href*='pojuko.buzz']
 ##[src^='https://kykqss.xyz']
 ##[rel='nofollow'][href^='/book/baidu_verify_code']
