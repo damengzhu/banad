@@ -5210,6 +5210,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A.wrapper_bg_c.hidden-xs
 ##[href*='slkdnlkfnskl.com']
 ##.globalPadding
+##[href*='pojuko.buzz']
 ##[src^='https://kykqss.xyz']
 ##[rel='nofollow'][href^='/book/baidu_verify_code']
 ##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
