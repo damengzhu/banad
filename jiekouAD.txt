@@ -4278,6 +4278,7 @@ unpkg.com/aladug/*.js
 /index.html?channelCode=
 .com/js/g.js
 :8008/*/*?is_not=
+.cn:8005/cc/*?is_not=
 trafficjunky.com$third-party
 .com:8007/*/*?*=$third-party
 .cn/2023/*/*.txt$third-party
