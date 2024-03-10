@@ -4220,6 +4220,7 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
+@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com
 @@.com/o.js$domain=2biqu.com
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
