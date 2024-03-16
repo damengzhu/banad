@@ -5137,7 +5137,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV#bottom-ads
 ##section.wrap > section.f0
 ##DIV#googleads-popup.popup.visible
-##DIV[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''],[onclick='if (!window.__cfRLUnblockHandlers) return false; window.location.href=\'https://a.biquge-app.com/apps/\''] + div
 ##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
 ##[style*='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147'][style*='bottom: 132px;']
 ##div#nr_body.nr_all.c_nr div.show-app2
