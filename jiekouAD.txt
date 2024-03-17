@@ -5219,6 +5219,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='slkdnlkfnskl.com']
 ##.globalPadding
 ##.adwap
+##[src^='https://369x520.com']
 ##[href^='https://31jrx5y7.com/']
 ##[href*='pojuko.buzz']
 ##[src^='https://kykqss.xyz']
