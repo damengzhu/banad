@@ -3,7 +3,6 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! Update Time: 2024-03-21 12:35:26（北京时间）
 ! Total Count: 5230
-
 ! by: 酷安@大萌主
 ! Host
 ||qjsp48.xyz^
