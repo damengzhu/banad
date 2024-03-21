@@ -4737,6 +4737,7 @@ dongmanhuayuan.myheartsite.com##.card-body
 baike.so.com##section#business-flow.business-flow
 chinaso.com##.wrap-toolbar
 sm.cn##.ad-wolong-container
+moegirl.org.cn##[class^='stevrhgmNo']
 www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
 soshu888.net##[style$='width: 100vw; position: relative;']
