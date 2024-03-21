@@ -5,6 +5,8 @@
 ! Total Count: 5229
 ! by: 酷安@大萌主
 ! Host
+||wbvfj.xyz^
+||kssolo.com^
 ||qjsp48.xyz^
 ||37bhof.com^
 ||shanvezhu.com^
@@ -5213,6 +5215,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##IMG[onclick='godown()'][src$='gif']
 ##IMG[src='https://tanju.vip/wapxiezi.png']
 ##[href*='snnrb.com']
+##[style='display: block; width: 100%; height: 125px; background-size: 100% 100%;']
+##DIV[style='position: absolute; inset: 0px; background: rgba(0, 0, 0, 0);']
 ##DIV[class][id][style$='px; background-size: 400px 127px !important;']
 ##A.wrapper_bg_c.hidden-xs
 ##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
