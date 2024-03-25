@@ -4670,6 +4670,12 @@ www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-fam
 www.apkmirror.com##.ains.ains-has-label
 guancha.cn##.g_swiper_container
 guancha.cn##.g_header44
+so.com##.c-title-tag
+so.com##.res-mediav-right
+so.com##.inner_left
+so.com###so-activity-entry
+so.com##.e_result
+so.com##.tg-wrap
 so.toutiao.com##.relative.pointer-events-none
 so.toutiao.com##section.commonbox.hasfooter
 so.toutiao.com##DIV[id^='ad_']
