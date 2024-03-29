@@ -4793,6 +4793,7 @@ ix6080.com##DIV[style$='vw; display: block;']
 sogou.com##.ad_result
 nxnba.com##.bootom-fixed
 ifeng.com##div[class^="ad_"]
+docin.com##.moneyBox
 autohome.com.cn##ol > li,.evade-operate
 match.tdping.com##P[style='text-align:left;margin:0;'],td.livetitle > L
 pabopa.com##DIV[style='width: 100%;'],DIV[carousel-item],#slide.layui-carousel,.closeable
