@@ -5,6 +5,10 @@
 ! Total Count: 5243
 ! by: 酷安@大萌主
 ! Host
+||cnalzlf.top^
+||truxalsl.com^
+||6cyfvvs.com^
+||6functf.com^
 ||llksja.com^
 ||aqilk66444a.xyz^
 ||4vgyjja.cn^
@@ -4311,6 +4315,7 @@ yhdm*.com/js/wap2-jm-ms.js?ver=
 ||jialingmm.net/dm/tj.js
 ||58jingxuan.top/115
 xmh/200/200-*.gif
+||missav.com/pop?url=
 /scripts/snstyle.js?v=2$~third-party
 .com/qq.js$third-party
 .xyz/st?gp=*$third-party
