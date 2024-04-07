@@ -4233,7 +4233,7 @@
 ||mobads.baidu.com^
 ||stat.meitudata.com^
 ! URL
-@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com
+@@.cn:8005/$domain=www.ntdm9.com|www.mxdm9.com|mxdm6.com|ntdm6.com
 @@.com/o.js$domain=2biqu.com
 @@||/template/conch/asset/js/hlhtml.js$domain=www.lldm.net|1anime.me
 @@||css.yhdmtu.xyz^$domain=iyinghua.io|yinghua8.tv
@@ -4787,7 +4787,7 @@ ali213.net##.placeholderforpromotion
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 skyroad.downallbook.com##IMG[height='60'][width='98%']
 trakt.tv##DIV[id$='-wrapper']
-www.mxdm9.com,www.ntdm9.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
+mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 ximalaya.com##.change-logo.S_q,.packet-container._PC,.less-tips._PC *
 m.douban.com##div.center [style*='padding: 4px;']
 m.sm.cn##DIV[ad_seid],.dl-banner-lg.card
