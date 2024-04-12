@@ -4258,6 +4258,7 @@
 @@||guokr.com/apis/flowingboard/item/m_home_
 ||qishula.com/css/ding.js
 ||adutp.com^$third-party
+||aiqu2727.com/da/
 ||www.hdmp4.cc/js/foot.js
 ||google-analytics.com/analytics.js
 ||www.cartoon18.com/assets/*/jquery.js
