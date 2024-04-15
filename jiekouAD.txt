@@ -4112,7 +4112,6 @@
 ||sdkapp.mobile.sina.cn^
 ||biz.weibo.com^
 ||sdkapp.uve.weibo.com^
-||miaozhen.com^
 ||conf.hpplay.cn^
 ||api-shoulei-ssl.xunlei.com^
 ||aiclk.com^
@@ -4475,6 +4474,7 @@ js/yys/Pfhl365.js
 /vj1/*$third-party
 /vj2/*$third-party
 /v2/stats/9*$third-party
+||miaozhen.com^$third-party
 /vh2/*$third-party
 /v2/stats/1*/1*$third-party
 ||axutongxue.com/js/uuiiio.js
