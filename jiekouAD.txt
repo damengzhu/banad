@@ -5,6 +5,7 @@
 ! Total Count: 5258
 ! by: 酷安@大萌主
 ! Host
+||miaozhen.com^
 ||6yfcuuw.com^
 ||jmesxbe.icu^
 ||5vkyqkc.cn^
@@ -4245,6 +4246,7 @@
 @@||api.nocturnal-narwhal.buzz^$domain=webtor.io
 @@||manwa.me^
 @@||cdn-msp*.18comic.*^
+@@||miaozhen.com^$domain=miaozhen.com
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@||qhres2.com^$domain=baike.so.com
@@ -4476,7 +4478,6 @@ js/yys/Pfhl365.js
 /vj1/*$third-party
 /vj2/*$third-party
 /v2/stats/9*$third-party
-||miaozhen.com^$third-party
 /vh2/*$third-party
 /v2/stats/1*/1*$third-party
 ||axutongxue.com/js/uuiiio.js
