@@ -5,6 +5,7 @@
 ! Total Count: 5259
 ! by: 酷安@大萌主
 ! Host
+||xn--49s928hlshoya.cn^
 ||miaozhen.com^
 ||6yfcuuw.com^
 ||jmesxbe.icu^
@@ -4276,6 +4277,7 @@
 .com/sh/to/$third-partyyhdmba.net
 .xyz/svelte?$third-party
 .xyz/alpine?$third-party
+||iyinghua.io/bar/
 ||boshishuwu.com/js/middlestyle.js
 ||boshishuwu.com/js/zhuanhua.js
 ||www.288txt.com/da/*.js
