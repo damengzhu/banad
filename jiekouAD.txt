@@ -4472,6 +4472,7 @@ xyz/stimulus?
 ||yxdm.tv/js/mbootstrap_nei.js
 ||halihali2.com/js/wap2-jm-100ftop.js
 ||pufei8.com/skin/t6.html
+||sp5vip.com/h.js
 ||baikebcs.bdimg.com/*banner*.jpg
 ||milimili.tv/js/loadjs/jquery10.8.js
 ||dlili.tv/ufile/22222.js
@@ -5081,6 +5082,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##DIV.index_adpic
 ##[onclick*='pypyj.com']
 ##DIV.div_adhost
+##[href*='baidugg123.cc']
 ##DIV.stui-player__item.clearfix > img[url]
 ##[style*='width: 100% !important; margin: 0px !important; padding: 0px !important; display: flex !'] *
 ##[style='width:100%;height:auto;min-height:120px;position:relative;display:block;']
