@@ -5,6 +5,10 @@
 ! Total Count: 5271
 ! by: 酷安@大萌主
 ! Host
+||ipsoazr.icu^
+||kaosts.com^
+||dbhfre.xyz^
+||7ccsch4.com^
 ||romiyee.icu^
 ||7qo2met.com^
 ||xn--swt207gl1hzc.net^
@@ -5266,6 +5270,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[src^='https://369x520.com']
 ##[href^='https://31jrx5y7.com/']
 ##[href*='pojuko.buzz']
+##[href*='3400.org']
 ##[src^='https://kykqss.xyz']
 ##[rel='nofollow'][href^='/book/baidu_verify_code']
 ##DIV[style$='display:block;width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
