@@ -4820,7 +4820,6 @@ boylove.today,boylove1.cc,boyloves.fun,boylove3.cc##DIV[style='bottom: 80px;']
 bimibimi.cc##[src^='https://dd-static.jd.com']
 hao123.com##.popup
 xian360.top##CENTER
-bde4.icu##[style='position: fixed;bottom: -40px;right:0;z-index:999;width:150px']
 soutubot.moe##.bg-gray-800.overflow-hidden
 ix6080.com##DIV[style$='vw; display: block;']
 sogou.com##.ad_result
