@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4244
-! Update Time:2024-05-01 17:48:04（北京时间）
+! Total Count: 4249
+! Update Time:2024-05-02 18:25:08（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -2544,6 +2544,7 @@
 ||oiqwnfk.com^
 ||oiunga.com^
 ||oiuqwppcsdf.com^
+||oiwlnlu.com^
 ||ojbkmcsdx.xyz^
 ||ok-11-cai.cc^
 ||okbd2ou.icu^
@@ -3420,6 +3421,7 @@
 ||unpleasantconcrete.com^
 ||unypud.cn^
 ||uo12.com^
+||uoosqk.xyz^
 ||uopsawxst.cyou^
 ||upgrade.xl9.xunlei.com^
 ||uphzxdv.cn^
@@ -3532,6 +3534,7 @@
 ||vuhidf.cn^
 ||vujzkkz.cn^
 ||vulrxr.xyz^
+||vuyibsm.icu^
 ||vv.nettierbrakier.com^
 ||vvdzucs.cn^
 ||vvfht.fun^
@@ -3858,6 +3861,7 @@
 ||xn--zw0autp42d.cn^
 ||xne1ocient87zxz.360doc.cn^
 ||xnzetb.xyz^
+||xnzxeu.com^
 ||xokcaxw.cn^
 ||xolerkr.cn^
 ||xopxptn.cn^
@@ -3932,6 +3936,7 @@
 ||yenauddk.com^
 ||yenyshy.com^
 ||yes-24-go.cc^
+||yfhtbdn.com^
 ||ygwdai.cn^
 ||ygxgk.cn^
 ||ygzqlnt.cn^

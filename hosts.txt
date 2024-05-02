@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4237
-#Update Time: 2024-05-01 17:48:04（北京时间）
+#Total Count: 4242
+#Update Time: 2024-05-02 18:25:08（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -2539,6 +2539,7 @@
 0.0.0.0 oiqwnfk.com
 0.0.0.0 oiunga.com
 0.0.0.0 oiuqwppcsdf.com
+0.0.0.0 oiwlnlu.com
 0.0.0.0 ojbkmcsdx.xyz
 0.0.0.0 ok-11-cai.cc
 0.0.0.0 okbd2ou.icu
@@ -3410,6 +3411,7 @@
 0.0.0.0 unpleasantconcrete.com
 0.0.0.0 unypud.cn
 0.0.0.0 uo12.com
+0.0.0.0 uoosqk.xyz
 0.0.0.0 uopsawxst.cyou
 0.0.0.0 upgrade.xl9.xunlei.com
 0.0.0.0 uphzxdv.cn
@@ -3522,6 +3524,7 @@
 0.0.0.0 vuhidf.cn
 0.0.0.0 vujzkkz.cn
 0.0.0.0 vulrxr.xyz
+0.0.0.0 vuyibsm.icu
 0.0.0.0 vv.nettierbrakier.com
 0.0.0.0 vvdzucs.cn
 0.0.0.0 vvfht.fun
@@ -3847,6 +3850,7 @@
 0.0.0.0 xn--zw0autp42d.cn
 0.0.0.0 xne1ocient87zxz.360doc.cn
 0.0.0.0 xnzetb.xyz
+0.0.0.0 xnzxeu.com
 0.0.0.0 xokcaxw.cn
 0.0.0.0 xolerkr.cn
 0.0.0.0 xopxptn.cn
@@ -3921,6 +3925,7 @@
 0.0.0.0 yenauddk.com
 0.0.0.0 yenyshy.com
 0.0.0.0 yes-24-go.cc
+0.0.0.0 yfhtbdn.com
 0.0.0.0 ygwdai.cn
 0.0.0.0 ygxgk.cn
 0.0.0.0 ygzqlnt.cn
