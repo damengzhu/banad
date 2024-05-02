@@ -5,6 +5,11 @@
 ! Total Count: 5276
 ! by: 酷安@大萌主
 ! Host
+||oiwlnlu.com^
+||yfhtbdn.com^
+||vuyibsm.icu^
+||xnzxeu.com^
+||uoosqk.xyz^
 ||areyoutherenow.com^
 ||ipsoazr.icu^
 ||kaosts.com^
@@ -4413,6 +4418,7 @@ com:8891/c.php?s=*$third-party
 /statics/js/guding.js
 /statics/js/dddd.js
 ||x4jdm.tv/mdp.js
+||uuoozz.com/L7QQ.js
 ||cbu01.alicdn.com/img/ibank/2020/714/563/22725365417_967741881.jpg
 ||xinxindm.com/gog.js
 ||manhuabei.com/assets/xiwang.js
