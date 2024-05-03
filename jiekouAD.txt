@@ -4582,6 +4582,7 @@ _/bigREDcat.css?
 .shop:*/ack?s=
 ||addthis.com/live/
 ||xn--*.xn--fiqs8s:
+/template/piankuwap/js/afoot.js
 ||zhenbuka.com/gg/lunbo.js
 ||zd518.cn/template/qpg6080/baidufx/baidufx.js
 ||ykmh.com/js/aajquery.img01.js
