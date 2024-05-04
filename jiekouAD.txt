@@ -4756,6 +4756,8 @@ ifeng.com##[class^='index_fixSlideBox']
 ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
 ifeng.com##[class^='index_bottom_box']
 ifeng.com##[class^='index_wutong']
+hentaicomic.ru#@#.pcd_ad
+hentaicomic.ru#@#.Flagrow-Ads-under-header
 ifeng.com##[class^='index_pageBottomBrand']
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
