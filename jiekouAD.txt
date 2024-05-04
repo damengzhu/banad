@@ -5,6 +5,8 @@
 ! Total Count: 5283
 ! by: 酷安@大萌主
 ! Host
+||hlegsdh.icu^
+||xzvhyx.com^
 ||oiwlnlu.com^
 ||yfhtbdn.com^
 ||vuyibsm.icu^
@@ -4497,6 +4499,7 @@ xyz/stimulus?
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 js/yys/Pfhl365.js
+||xsbiquge.la/js/detail.js
 /vj1/*$third-party
 /vj2/*$third-party
 /v2/stats/9*$third-party
