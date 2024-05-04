@@ -4615,6 +4615,8 @@ m.baidu.com#@##results > div[class]:not(.result):not(.result-op):not(.sp-rslt-ba
 baidu.com#@#div[class*="ads"]
 baidu.com#@##header > div:last-child
 baidu.com#@##page-pre
+hentaicomic.ru#@#.pcd_ad
+hentaicomic.ru#@#.Flagrow-Ads-under-header
 baidu.com##[data-tpl='adv_wenku_fc']
 baidu.com##DIV.c-container.ec-container
 baidu.com##div[class$="-ecom-ads"]
@@ -4756,8 +4758,6 @@ ifeng.com##[class^='index_fixSlideBox']
 ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
 ifeng.com##[class^='index_bottom_box']
 ifeng.com##[class^='index_wutong']
-hentaicomic.ru#@#.pcd_ad
-hentaicomic.ru#@#.Flagrow-Ads-under-header
 ifeng.com##[class^='index_pageBottomBrand']
 91porny.com###playerJsvLayer.jsv-layer
 91porny.com##.mobile-jsv-bottom,.mb-3.p-0,.d-sm-none,.mb-0.p-0
