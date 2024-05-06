@@ -4773,7 +4773,6 @@ qq.com##[id^='App_WAP_share_page']
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 stbemucode.com##DIV.header-ads
 jav777.cc,jav777.xyz##P[style='margin-left:5px; margin-right:5px; text-align:center']
-jav777.cc,jav777.xyz##[style=' padding:5px;']
 jav777.cc,jav777.xyz###playertopads
 jav777.cc,jav777.xyz##.myad_alert_82_box
 jav777.cc,jav777.xyz##[src='/close.gif']
