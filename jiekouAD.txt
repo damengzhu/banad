@@ -5,6 +5,9 @@
 ! Total Count: 5288
 ! by: 酷安@大萌主
 ! Host
+||dtscout.com^
+||xlviirdr.com^
+||amung.us^
 ||hlegsdh.icu^
 ||xzvhyx.com^
 ||oiwlnlu.com^
@@ -4769,6 +4772,12 @@ qq.com##A[dt-eid^='em_item_ad']
 qq.com##[id^='App_WAP_share_page']
 stbemucode.com##IFRAME[frameborder='0'][marginheight='0']
 stbemucode.com##DIV.header-ads
+jav777.cc,jav777.xyz##DIV.player_wrapper[style='text-align:center;']
+jav777.cc,jav777.xyz###playertopads
+jav777.cc,jav777.xyz##[src^='https://video.520cc.cc/player777G.php']
+jav777.cc,jav777.xyz##.myad_alert_82_box
+jav777.cc,jav777.xyz##[src='/close.gif']
+jav777.cc,jav777.xyz##.myad_alert_82
 webtor.io##DIV.ad
 webtor.io##[data-element='empty']
 webtor.io##IFRAME[scrolling='no']
@@ -4867,6 +4876,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href='/ad.html']
 ##DIV._42701c0173
 ##DIV._4e544f1dde
+##[href='https://okok.com.tw/']
 ##div.m0auto div.s_h,div.m0auto div.s_h + *
 ##secion#ly LI[role='group'],secion#ly > H2
 ##div.play_boxbg div[class$='_acmsd']
