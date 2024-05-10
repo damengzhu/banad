@@ -4611,6 +4611,7 @@ template/m1938pc/ads/*.js
 /static/js/miniyyrtv-config.js
 ! CSS
 @@||developer.apple.com$generichide
+18comic.vip,18comic.org#@#.col-lg-3.col-xs-6 > .well
 manwa.me#@#.ad-area
 myqqjd.com##.adsbygoogl
 www.jianshu.com#@#div[class$="_0"]
@@ -5044,6 +5045,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##center > a > IMG[alt$='到期']
 ##body#nr_body font > [id]
 ##IMG.cupfox[src$='gif']
+##[href='https://ttaxz087b.xyz']
 ##[href^='https://luodi.aitaokeji.top/']
 ##[poster^='https://dingbu.bj.bcebos.com/']
 ##[src^='https://dingbu.bj.bcebos.com/']
