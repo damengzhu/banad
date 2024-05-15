@@ -4658,6 +4658,8 @@ tieba.baidu.com##.activity_head
 tieba.baidu.com##DIV[id^='aside-ad']
 tieba.baidu.com##div[class*='-ad-pb-']
 tieba.baidu.com##DIV[id^='mediago-tb-frs-list']
+zhidao.baidu.com###wap-youx-change-asp
+zhidao.baidu.com##[class$='-ecom-ads']
 jingyan.baidu.com##.ad-card
 jingyan.baidu.com##.asp-self-rander > .asp-wrap
 jingyan.baidu.com###wrapper > .exp-container:nth-child(2) > aside.wgt-ad-guess.content-box:nth-child(2)
