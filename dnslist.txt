@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4257
-! Update Time:2024-05-17 17:57:08（北京时间）
+! Total Count: 4264
+! Update Time:2024-05-27 12:21:23（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -189,6 +189,7 @@
 ||6v4.work^
 ||6v6.work^
 ||6yfcuuw.com^
+||70r8fo5.com^
 ||767drv.cn^
 ||7701zxcv.com^
 ||777aa999aa.com^
@@ -205,8 +206,11 @@
 ||7ccsch4.com^
 ||7cl.app^
 ||7dh26aja.com^
+||7dqjgdk.com^
+||7j4tpio.com^
 ||7jkzmbd.cn^
 ||7kjiiu.cn^
+||7li0ohd.com^
 ||7qo2met.com^
 ||7r227ut.cn^
 ||7xixi.site^
@@ -680,6 +684,7 @@
 ||byjykj.xyz^
 ||byvlph.xyz^
 ||bzhn9y.icu^
+||bzqqftz.icu^
 ||bzxvtj.xyz^
 ||c-gtc.getui.net^
 ||c.l.qq.com^
@@ -2973,6 +2978,7 @@
 ||sacfasv.com^
 ||sacre.cn^
 ||sacredperpetratorbasketball.com^
+||sahqoo.com^
 ||saitef.cn^
 ||samsung-com.112.2o7.net^
 ||samsungads.com^
@@ -3305,6 +3311,7 @@
 ||tqdctl.xyz^
 ||tqdpqq.com^
 ||tqmcj.cn^
+||tquspo.com^
 ||tqytqdrq.icu^
 ||trace.qq.com^
 ||track.hujiang.com^

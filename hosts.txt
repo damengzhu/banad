@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4250
-#Update Time: 2024-05-17 17:57:08（北京时间）
+#Total Count: 4257
+#Update Time: 2024-05-27 12:21:23（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -189,6 +189,7 @@
 0.0.0.0 6v4.work
 0.0.0.0 6v6.work
 0.0.0.0 6yfcuuw.com
+0.0.0.0 70r8fo5.com
 0.0.0.0 767drv.cn
 0.0.0.0 7701zxcv.com
 0.0.0.0 777aa999aa.com
@@ -205,8 +206,11 @@
 0.0.0.0 7ccsch4.com
 0.0.0.0 7cl.app
 0.0.0.0 7dh26aja.com
+0.0.0.0 7dqjgdk.com
+0.0.0.0 7j4tpio.com
 0.0.0.0 7jkzmbd.cn
 0.0.0.0 7kjiiu.cn
+0.0.0.0 7li0ohd.com
 0.0.0.0 7qo2met.com
 0.0.0.0 7r227ut.cn
 0.0.0.0 7xixi.site
@@ -678,6 +682,7 @@
 0.0.0.0 byjykj.xyz
 0.0.0.0 byvlph.xyz
 0.0.0.0 bzhn9y.icu
+0.0.0.0 bzqqftz.icu
 0.0.0.0 bzxvtj.xyz
 0.0.0.0 c-gtc.getui.net
 0.0.0.0 c.l.qq.com
@@ -2966,6 +2971,7 @@
 0.0.0.0 sacfasv.com
 0.0.0.0 sacre.cn
 0.0.0.0 sacredperpetratorbasketball.com
+0.0.0.0 sahqoo.com
 0.0.0.0 saitef.cn
 0.0.0.0 samsung-com.112.2o7.net
 0.0.0.0 samsungads.com
@@ -3296,6 +3302,7 @@
 0.0.0.0 tqdctl.xyz
 0.0.0.0 tqdpqq.com
 0.0.0.0 tqmcj.cn
+0.0.0.0 tquspo.com
 0.0.0.0 tqytqdrq.icu
 0.0.0.0 trace.qq.com
 0.0.0.0 track.hujiang.com
