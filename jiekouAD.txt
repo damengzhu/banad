@@ -4181,9 +4181,7 @@
 ||line1-log.biligame.net^
 ||irs03.com^
 ||o2o.api.xiaomi.com^
-||si1.go2yd.com^
 ||a.market.xiaomi.com^
-||i1.go2yd.com^
 ||fourier.taobao.com^
 ||dp3.qq.com^
 ||omgid.qq.com^
