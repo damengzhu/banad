@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4256
-#Update Time: 2024-05-30 08:25:47（北京时间）
+#Total Count: 4262
+#Update Time: 2024-05-30 12:10:51（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -186,6 +186,7 @@
 0.0.0.0 6mh8.com
 0.0.0.0 6quspne.com
 0.0.0.0 6tofsu.com
+0.0.0.0 6uzxtlv.cn
 0.0.0.0 6v4.work
 0.0.0.0 6v6.work
 0.0.0.0 6yfcuuw.com
@@ -933,6 +934,7 @@
 0.0.0.0 dbnsd2viud.xyz
 0.0.0.0 dbnwlp.xyz
 0.0.0.0 dbxok6uo.icu
+0.0.0.0 dceuhnpc57.shop
 0.0.0.0 dciep.xyz
 0.0.0.0 dcsxv.com
 0.0.0.0 dcvbnzss.xyz
@@ -2524,6 +2526,7 @@
 0.0.0.0 oajfpqojev.net
 0.0.0.0 obertsiamw.fun
 0.0.0.0 obgbok.com
+0.0.0.0 obl74.xyz
 0.0.0.0 oceanbot-steam.com
 0.0.0.0 oehhq.xyz
 0.0.0.0 oewtuho.cn
@@ -2659,6 +2662,7 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pj3f7.xyz
 0.0.0.0 pjogndc8ixoidna.360doc.cn
+0.0.0.0 pjoo8.com
 0.0.0.0 pjsbuhl.icu
 0.0.0.0 pjy55d.com
 0.0.0.0 pkjl00l.cn
@@ -3195,6 +3199,7 @@
 0.0.0.0 t33ng.com
 0.0.0.0 t7cp4fldl.com
 0.0.0.0 t7x22m7c.com
+0.0.0.0 ta20k.xyz
 0.0.0.0 tahltanboutell.com
 0.0.0.0 tainec.fun
 0.0.0.0 taiqingjiu.com
@@ -3375,6 +3380,7 @@
 0.0.0.0 u1022.com
 0.0.0.0 u22aeey.xyz
 0.0.0.0 u346zd.top
+0.0.0.0 u7em6.xyz
 0.0.0.0 u7s546.com
 0.0.0.0 ubxqerc.cn
 0.0.0.0 uc.qq.uuaoz.com

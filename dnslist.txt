@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4263
-! Update Time:2024-05-30 08:25:47（北京时间）
+! Total Count: 4269
+! Update Time:2024-05-30 12:10:51（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -186,6 +186,7 @@
 ||6mh8.com^
 ||6quspne.com^
 ||6tofsu.com^
+||6uzxtlv.cn^
 ||6v4.work^
 ||6v6.work^
 ||6yfcuuw.com^
@@ -935,6 +936,7 @@
 ||dbnsd2viud.xyz^
 ||dbnwlp.xyz^
 ||dbxok6uo.icu^
+||dceuhnpc57.shop^
 ||dciep.xyz^
 ||dcsxv.com^
 ||dcvbnzss.xyz^
@@ -2529,6 +2531,7 @@
 ||oajfpqojev.net^
 ||obertsiamw.fun^
 ||obgbok.com^
+||obl74.xyz^
 ||oceanbot-steam.com^
 ||oehhq.xyz^
 ||oewtuho.cn^
@@ -2666,6 +2669,7 @@
 ||pixel.facebook.com^
 ||pj3f7.xyz^
 ||pjogndc8ixoidna.360doc.cn^
+||pjoo8.com^
 ||pjsbuhl.icu^
 ||pjy55d.com^
 ||pkjl00l.cn^
@@ -3203,6 +3207,7 @@
 ||t33ng.com^
 ||t7cp4fldl.com^
 ||t7x22m7c.com^
+||ta20k.xyz^
 ||tahltanboutell.com^
 ||tainec.fun^
 ||taiqingjiu.com^
@@ -3385,6 +3390,7 @@
 ||u1022.com^
 ||u22aeey.xyz^
 ||u346zd.top^
+||u7em6.xyz^
 ||u7s546.com^
 ||ubxqerc.cn^
 ||uc.qq.uuaoz.com^
