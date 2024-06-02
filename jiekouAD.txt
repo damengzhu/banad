@@ -4471,7 +4471,7 @@ com:8891/c.php?s=*$third-party
 ||yxdm.tv/js/gad.js
 ||277txt.com/da/*.js
 .live/ty/*-*-*$third-party
-sump4.cc/js/wcount.js
+||sump4.cc/js/wcount.js
 :8891/v*$third-party
 .cyou/xling_*_$third-party
 /m.html?rmid=*&yd=
