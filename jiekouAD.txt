@@ -966,7 +966,6 @@
 ||cpro.baidustatic.com^
 ||cpro.zol.com.cn^
 ||cpro88.vip^
-||cpt.9136.com^
 ||cpucdn.baidu.com^
 ||cqbuchouhua.com^
 ||cqtlimi.cn^
