@@ -4740,6 +4740,7 @@ www.apkmirror.com##DIV[style$=' display: flex; justify-content: center; font-fam
 www.apkmirror.com##.ains.ains-has-label
 guancha.cn##.g_swiper_container
 guancha.cn##.g_header44
+so.com##.res-mediav
 so.com##.c-title-tag
 so.com##.res-mediav-right
 so.com##.inner_left
@@ -5084,10 +5085,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div.bf_qy DIV.copy_div_btn
 ##DIV#advertisings.advertising
 ##A[href^='http://cszb420.tinawd81.com/']
-##ul.content-list > li.content-tb
-##div.video-box > div.hf > a
-##body > h1 > strong > title > a
-##UL.myui-extra.clearfix
 ##A[href^='https://www.nonstopclub.xyz']
 ##A[href^='https://js.iconiclee.com']
 ##[alt='ad']
