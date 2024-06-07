@@ -5,6 +5,7 @@
 ! Total Count: 5315
 ! by: 酷安@大萌主
 ! Host
+||dtnaximya.360doc.cn^
 ||uuysiaq.com^
 ||qrmozsc.icu^
 ||pjoo8.com^
@@ -5306,6 +5307,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='slkdnlkfnskl.com']
 ##.globalPadding
 ##.adwap
+##[style^='display: block; z-index: 2147483646; width: 17px; ']
+##[style^='display: block; z-index: 2147483646; width: 10%;']
 ##[src^='https://369x520.com']
 ##[href^='https://31jrx5y7.com/']
 ##[href*='pojuko.buzz']
