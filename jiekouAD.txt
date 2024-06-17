@@ -5,6 +5,7 @@
 ! Total Count: 5327
 ! by: 酷安@大萌主
 ! Host
+||mqwmgs.xyz^
 ||thoohizoogli.xyz^
 ||gloaphoo.net^
 ||rouwhapt.com^
@@ -4491,20 +4492,14 @@ com:8891/c.php?s=*$third-party
 .top/*/2022*/.js$third-party
 .com/sh/*.js$third-party
 ||3zmmm.net/ggxx/
-.com/z-*-*?123$third-party
 /biyys*hh.js$third-party
 /vj3/*$third-party
 ||novret.com/?clickid=
-/static/*/Lqho7OKcg.js?v=
-/static/*/KdLmbuThM.js?v=
 .cn/bid?url=*$third-party
-xyz/kallss?
-xyz/stimulus?
 ||wcanj.com/2345/
 /xtub_*_rony.js$third-party
 /app/get*?t=*http$third-party
 .xyz/*?16$third-party
-/dj*ll5c20ff.js
 ||tinghao8.com/assets/publish/
 ||sofunlib.com/assets/publish
 ||91mjw.com/hy-66-90.php
@@ -4536,7 +4531,8 @@ js/yys/Pfhl365.js
 /vh2/*$third-party
 /v2/stats/1*/1*$third-party
 ||axutongxue.com/js/uuiiio.js
-.com:8003/sc/*?n=$third-party
+.com:*/sc/*?n=$third-party
+.com:*/d/*?c=*$third-party
 ||tz659.com/js/chapte*.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
