@@ -4533,6 +4533,8 @@ js/yys/Pfhl365.js
 ||axutongxue.com/js/uuiiio.js
 .com:*/sc/*?n=$third-party
 .com:*/d/*?c=*$third-party
+.cn:*/sc/*?n=$third-party
+.cn:*/d/*?c=*$third-party
 ||tz659.com/js/chapte*.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
