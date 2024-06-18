@@ -5,6 +5,7 @@
 ! Total Count: 5325
 ! by: 酷安@大萌主
 ! Host
+||fjbglfrv.com^
 ||mqwmgs.xyz^
 ||thoohizoogli.xyz^
 ||gloaphoo.net^
@@ -4352,12 +4353,9 @@ unpkg.com/aladug/*.js
 .com/js/g.js
 :8008/*/*?is_not=
 .cn:8005/cc/*?is_not=
-trafficjunky.com$third-party
-.com:8007/*/*?*=$third-party
+trafficjunky.com$third-part
 .cn/2023/*/*.txt$third-party
-.com:8008/*/*?*=$third-party
 .cn/2022/*/*.txt$third-party
-.com:8004/*/*?*=$third-party
 .xyz/qby_*.js?$third-party
 .xyz/get?$third-party
 .xyz/ty/*-*-*$third-party
@@ -4427,7 +4425,6 @@ chen-xing/figure_bed*
 ||1biqug.com/js/ajax.js
 /_xa/ads_
 hanman/static/dist/ppm/js/main.js
-.cn:8001/*/*?*=$third-party
 .com:10446/*/get*.html
 /ht.js?site_
 /*/*.add.*.add
@@ -5312,7 +5309,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[class][style*='px; top: 0px; left: 0px; z-index'][style$='width: 100vw; position: relative;']
 ##[class][style*='px; bottom: 0px; left: 0px; z-index'][style$='width: 100vw; position: fixed;']
 ##[href*='slkdnlkfnskl.com']
-##.globalPadding
+##[onclick*='fjbglfrv.com']
 ##.adwap
 ##[style^='display: block; z-index: 2147483646; width: 17px; ']
 ##[style^='display: block; z-index: 2147483646; width: 10%;']
