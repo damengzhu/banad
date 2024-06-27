@@ -4310,11 +4310,13 @@
 @@||www.google-analytics.com^$domain=myqqjd.com
 @@||www.googletagmanager.com^$domain=myqqjd.com
 @@||myqqjd.com^
-@@||stripe.com$domain=pay.openai.com
+@@||stripe.com^$domain=pay.openai.com
 @@||aliyuncs.com/*.png
 @@||f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
 @@||guokr.com/apis/flowingboard/item/m_article
 @@||guokr.com/apis/flowingboard/item/m_home_
+@@||sobot.com^
+@@||wan.douyu.com^
 ||qishula.com/css/ding.js
 ||adutp.com^$third-party
 ||aiqu2727.com/da/
