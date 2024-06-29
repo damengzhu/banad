@@ -4347,7 +4347,6 @@
 ||static.missav.com/js/plyr.js
 ||boxmp4.com/js/foot.js
 /site/mov*$third-party
-||www.wdbay.com/static/gdw.js
 ||156zw.com/css/js/tools.js
 ||dadatuwz.com^$third-party
 ||pubfuture.com^$third-party
