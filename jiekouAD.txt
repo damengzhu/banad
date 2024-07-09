@@ -5,6 +5,11 @@
 ! Total Count: 5333
 ! by: 酷安@大萌主
 ! Host
+||lfbz317s.icu^
+||hwgzp5.com^
+||dcxdtp.com^
+||tvgkatu.icu^
+||wipbbok.com^
 ||ipgsgtptgatf.xyz^
 ||fxnmjb.xyz^
 ||a1bw2cup.top^
@@ -4586,6 +4591,7 @@ dingbu.*.*.*/*.add$third-party
 .icu/*_*_*.js$third-party
 .xyz/base*.js?$third-party
 /show_ads_
+.com:*/cc/*?is_not=*&target=*
 .cn/ack?s=*$third-party
 /js/pingbi.js
 _/bigREDcat.css?
