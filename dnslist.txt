@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4288
-! Update Time:2024-07-06 12:18:29（北京时间）
+! Total Count: 4293
+! Update Time:2024-07-09 12:43:33（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -941,6 +941,7 @@
 ||dcsxv.com^
 ||dcvbnzss.xyz^
 ||dcvefz.xyz^
+||dcxdtp.com^
 ||dd112233dd.com^
 ||dd667788dd.com^
 ||dd778899dd.com^
@@ -1658,6 +1659,7 @@
 ||hushenqiquan.com^
 ||hvdath.xyz^
 ||hwfoct.icu^
+||hwgzp5.com^
 ||hwivedn.icu^
 ||hwnod.xyz^
 ||hxdwsfg.cn^
@@ -2117,6 +2119,7 @@
 ||lestv10.icu^
 ||lestv7.icu^
 ||lezbrja.cn^
+||lfbz317s.icu^
 ||lfffzv.xyz^
 ||lfjtiuy.cn^
 ||lflmdm.com^
@@ -3376,6 +3379,7 @@
 ||tuyyex.icu^
 ||tvabqt.cn^
 ||tvdpebx.cn^
+||tvgkatu.icu^
 ||tvrshv.xyz^
 ||tvszazx.icu^
 ||twbymc.cn^
@@ -3631,6 +3635,7 @@
 ||widgets.pinterest.com^
 ||widow5blackfr.com^
 ||winniephc.com^
+||wipbbok.com^
 ||wipew.com^
 ||wkrcbszi.xyz^
 ||wlgxaij.cn^
