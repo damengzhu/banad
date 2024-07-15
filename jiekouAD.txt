@@ -5,6 +5,7 @@
 ! Total Count: 5341
 ! by: 酷安@大萌主
 ! Host
+||duyewnf.icu^
 ||fundingchoicesmessages.google.com^
 ||lfbz317s.icu^
 ||hwgzp5.com^
@@ -5320,6 +5321,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##IMG[onclick='godown()'][src$='gif']
 ##IMG[src='https://tanju.vip/wapxiezi.png']
 ##[href*='snnrb.com']
+##body#nr_body #appss
+##body#nr_body [onclick='goAppHtml();']
 ##[style='display: block; width: 100%; height: 125px; background-size: 100% 100%;']
 ##DIV[style='position: absolute; inset: 0px; background: rgba(0, 0, 0, 0);']
 ##DIV[class][id][style$='px; background-size: 400px 127px !important;']
