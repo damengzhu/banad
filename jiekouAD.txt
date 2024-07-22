@@ -5,6 +5,7 @@
 ! Total Count: 5346
 ! by: 酷安@大萌主
 ! Host
+||bun1.dayi.org.cn^
 ||d-test.39.net^
 ||classic.39health.com^
 ||duyewnf.icu^
