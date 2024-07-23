@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4291
-#Update Time: 2024-07-22 13:06:06（北京时间）
+#Total Count: 4321
+#Update Time: 2024-07-23 16:33:42（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -345,6 +345,7 @@
 0.0.0.0 adservice.google.com
 0.0.0.0 adsfs.oppomobile.com
 0.0.0.0 adskeeper.co.uk
+0.0.0.0 adsmind.ugdtimg.com
 0.0.0.0 adstat.izuiyou.com
 0.0.0.0 adstats.tencentmusic.com
 0.0.0.0 adtago.s3.amazonaws.com
@@ -453,7 +454,11 @@
 0.0.0.0 aparvibices.com
 0.0.0.0 apdfmhp.cn
 0.0.0.0 apfobmfr.cn
+0.0.0.0 api-access.pangolin-sdk-toutiao-b.com
+0.0.0.0 api-access.pangolin-sdk-toutiao.com
+0.0.0.0 api-access.pangolin-sdk-toutiao1.com
 0.0.0.0 api-adservices.apple.com
+0.0.0.0 api-htp.beizi.biz
 0.0.0.0 api-shoulei-ssl.xunlei.com
 0.0.0.0 api.06fgej.com
 0.0.0.0 api.1101yh.com
@@ -477,6 +482,7 @@
 0.0.0.0 app.getsentry.com
 0.0.0.0 appc.baidu.com
 0.0.0.0 applog.uc.cn
+0.0.0.0 applog.zijieapi.com
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 appsupport.qq.com
 0.0.0.0 apptime.xyz
@@ -578,6 +584,7 @@
 0.0.0.0 bdhcpll.cn
 0.0.0.0 bea-s.dinghuoche.com
 0.0.0.0 beacon-api.aliyuncs.com
+0.0.0.0 beacon.qq.com
 0.0.0.0 beap.gemini.yahoo.com
 0.0.0.0 beatricecathy.com
 0.0.0.0 beatricenba.com
@@ -1424,6 +1431,7 @@
 0.0.0.0 greatnumeric.com
 0.0.0.0 greenxcx.com
 0.0.0.0 grjasq.com
+0.0.0.0 gromore.pangolin-sdk-toutiao.com
 0.0.0.0 grs.hicloud.com
 0.0.0.0 gscatk.cn
 0.0.0.0 gshsne.xyz
@@ -1472,6 +1480,7 @@
 0.0.0.0 gzsjym.xyz
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 h.baminw.cn
+0.0.0.0 h.trace.qq.com
 0.0.0.0 h2ji5.xyz
 0.0.0.0 h45pmx1.cn
 0.0.0.0 h4b0srs.cn
@@ -1807,6 +1816,7 @@
 0.0.0.0 jads.co
 0.0.0.0 jakid.xyz
 0.0.0.0 jakisity.top
+0.0.0.0 janapi.jd.com
 0.0.0.0 janwzsqi.icu
 0.0.0.0 jaowd.xyz
 0.0.0.0 jashautchord.com
@@ -2194,6 +2204,7 @@
 0.0.0.0 lmxxxz.com
 0.0.0.0 lnaevr.fun
 0.0.0.0 lnzjlr.xyz
+0.0.0.0 log-api.pangolin-sdk-toutiao-b.com
 0.0.0.0 log-api.pangolin-sdk-toutiao.com
 0.0.0.0 log-sdk.ksapisrv.com
 0.0.0.0 log.byteoversea.com
@@ -2203,6 +2214,7 @@
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.snssdk.com
 0.0.0.0 log.vdisk.cn
+0.0.0.0 log.zijieapi.com
 0.0.0.0 log.zongheng.com
 0.0.0.0 logbak.hicloud.com
 0.0.0.0 logs.amap.com
@@ -2336,6 +2348,7 @@
 0.0.0.0 mh616.org
 0.0.0.0 mhslbgk.cn
 0.0.0.0 mhysbwo.xyz
+0.0.0.0 mi.gdt.qq.com
 0.0.0.0 miaozhen.com
 0.0.0.0 mifyeldx.top
 0.0.0.0 mikongdd.top
@@ -2392,6 +2405,7 @@
 0.0.0.0 msg.video.qiyi.com
 0.0.0.0 msite.baidu.com
 0.0.0.0 mssdhde.cn
+0.0.0.0 mssdk.volces.com
 0.0.0.0 mt4v4.com
 0.0.0.0 mtawcy.xyz
 0.0.0.0 mtguwx.xyz
@@ -2592,6 +2606,8 @@
 0.0.0.0 oopej.xyz
 0.0.0.0 ooqwc.xyz
 0.0.0.0 ootyx24.com
+0.0.0.0 open.e.kuaishou.cn
+0.0.0.0 open.e.kuaishou.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 openrcv.baidu.com
 0.0.0.0 ophwrh.cn
@@ -2607,6 +2623,7 @@
 0.0.0.0 oslbahk.top
 0.0.0.0 osnignsk.xyz
 0.0.0.0 ossfile001.com
+0.0.0.0 otheve.beacon.qq.com
 0.0.0.0 otienlk.top
 0.0.0.0 oueia.xyz
 0.0.0.0 ougannike.com
@@ -2630,6 +2647,7 @@
 0.0.0.0 p1-feedback.byteimg.com
 0.0.0.0 p11q.cn
 0.0.0.0 p2kfynrr.icu
+0.0.0.0 p3-be-pack-sign.pglstatp-toutiao.com
 0.0.0.0 p52q.cn
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -2666,6 +2684,7 @@
 0.0.0.0 pflrv.cn
 0.0.0.0 pfqwbqs.cn
 0.0.0.0 pftdmmc.xyz
+0.0.0.0 pgdt.ugdtimg.com
 0.0.0.0 pgght17.com
 0.0.0.0 pglstatp-toutiao.com
 0.0.0.0 phfqumvi.xyz
@@ -2737,6 +2756,7 @@
 0.0.0.0 ptgdb.cn
 0.0.0.0 ptmabek.cn
 0.0.0.0 ptvfzv.xyz
+0.0.0.0 public.gdtimg.com
 0.0.0.0 public.wlbaike.com
 0.0.0.0 pufhzpt.cn
 0.0.0.0 puqer.cn
@@ -2873,6 +2893,7 @@
 0.0.0.0 qzpbwq.com
 0.0.0.0 qzpmx.cn
 0.0.0.0 qzqd2.com
+0.0.0.0 qzs.gdtimg.com
 0.0.0.0 r36ku.site
 0.0.0.0 r5dfwjtb.icu
 0.0.0.0 r6pt6kfz.com
@@ -3023,6 +3044,8 @@
 0.0.0.0 sdfyiu.com
 0.0.0.0 sdhjueue.com
 0.0.0.0 sdhuawen.cn
+0.0.0.0 sdk.beizi.biz
+0.0.0.0 sdk.e.qq.com
 0.0.0.0 sdk.sipujia.cn
 0.0.0.0 sdkapp.mobile.sina.cn
 0.0.0.0 sdkapp.uve.weibo.com
@@ -3030,6 +3053,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkdfjksl.com
 0.0.0.0 sdklnlsknvcks.com
+0.0.0.0 sdktmp.hubcloud.com.cn
 0.0.0.0 sdqoi2d.com
 0.0.0.0 sdtsad.com
 0.0.0.0 sdvfvgj.cn
@@ -3044,6 +3068,7 @@
 0.0.0.0 sephreoqy.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 settings.luckyorange.net
+0.0.0.0 sf3-fe-tos.pglstatp-toutiao.com
 0.0.0.0 sfbixfd.cn
 0.0.0.0 sfg11rr.com
 0.0.0.0 sfp.safe.baidu.com
@@ -3307,8 +3332,10 @@
 0.0.0.0 tmwbszn.icu
 0.0.0.0 tnc3-aliec2.zijieapi
 0.0.0.0 tnc3-alisc1.zijieapi
+0.0.0.0 tnc3-alisc1.zijieapi.com
 0.0.0.0 tnc3-bjlgy.snssdk.com
 0.0.0.0 tnc3-bjlgy.zijieapi
+0.0.0.0 tnc3-bjlgy.zijieapi.com
 0.0.0.0 tnebxv.top
 0.0.0.0 tnjvz.cn
 0.0.0.0 toastspinner.com
@@ -3491,9 +3518,11 @@
 0.0.0.0 uym11.xyz
 0.0.0.0 uyq3ruf.icu
 0.0.0.0 uyt79.top
+0.0.0.0 v.adx.hubcloud.com.cn
 0.0.0.0 v00yvd.xyz
 0.0.0.0 v1gyb.xyz
 0.0.0.0 v2.dakang-energy.com
+0.0.0.0 v2.gdt.qq.com
 0.0.0.0 v2.uyan.cc
 0.0.0.0 v4dwkcv.com
 0.0.0.0 v6jt.cn
@@ -3866,6 +3895,7 @@
 0.0.0.0 xkzjq.cn
 0.0.0.0 xlardaxq.com
 0.0.0.0 xlivrdr.com
+0.0.0.0 xlog.jd.com
 0.0.0.0 xlviirdr.com
 0.0.0.0 xlvqhx.xyz
 0.0.0.0 xman.asia

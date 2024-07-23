@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4298
-! Update Time:2024-07-22 13:06:06（北京时间）
+! Total Count: 4326
+! Update Time:2024-07-23 16:33:42（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -345,6 +345,7 @@
 ||adservice.google.com^
 ||adsfs.oppomobile.com^
 ||adskeeper.co.uk^
+||adsmind.ugdtimg.com^
 ||adstat.izuiyou.com^
 ||adstats.tencentmusic.com^
 ||adtago.s3.amazonaws.com^
@@ -453,7 +454,11 @@
 ||aparvibices.com^
 ||apdfmhp.cn^
 ||apfobmfr.cn^
+||api-access.pangolin-sdk-toutiao-b.com^
+||api-access.pangolin-sdk-toutiao.com^
+||api-access.pangolin-sdk-toutiao1.com^
 ||api-adservices.apple.com^
+||api-htp.beizi.biz^
 ||api-shoulei-ssl.xunlei.com^
 ||api.06fgej.com^
 ||api.1101yh.com^
@@ -477,6 +482,7 @@
 ||app.getsentry.com^
 ||appc.baidu.com^
 ||applog.uc.cn^
+||applog.zijieapi.com^
 ||appmetrica.yandex.ru^
 ||appsupport.qq.com^
 ||apptime.xyz^
@@ -579,6 +585,7 @@
 ||bdhcpll.cn^
 ||bea-s.dinghuoche.com^
 ||beacon-api.aliyuncs.com^
+||beacon.qq.com^
 ||beap.gemini.yahoo.com^
 ||beatricecathy.com^
 ||beatricenba.com^
@@ -1426,6 +1433,7 @@
 ||greatnumeric.com^
 ||greenxcx.com^
 ||grjasq.com^
+||gromore.pangolin-sdk-toutiao.com^
 ||grs.hicloud.com^
 ||gscatk.cn^
 ||gshsne.xyz^
@@ -1475,6 +1483,7 @@
 ||gzsjym.xyz^
 ||h-adashx.ut.taobao.com^
 ||h.baminw.cn^
+||h.trace.qq.com^
 ||h2ji5.xyz^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
@@ -1810,6 +1819,7 @@
 ||jads.co^
 ||jakid.xyz^
 ||jakisity.top^
+||janapi.jd.com^
 ||janwzsqi.icu^
 ||jaowd.xyz^
 ||jashautchord.com^
@@ -2199,6 +2209,7 @@
 ||lmxxxz.com^
 ||lnaevr.fun^
 ||lnzjlr.xyz^
+||log-api.pangolin-sdk-toutiao-b.com^
 ||log-api.pangolin-sdk-toutiao.com^
 ||log-sdk.ksapisrv.com^
 ||log.byteoversea.com^
@@ -2208,6 +2219,7 @@
 ||log.pinterest.com^
 ||log.snssdk.com^
 ||log.vdisk.cn^
+||log.zijieapi.com^
 ||log.zongheng.com^
 ||logbak.hicloud.com^
 ||logs.amap.com^
@@ -2341,6 +2353,7 @@
 ||mh616.org^
 ||mhslbgk.cn^
 ||mhysbwo.xyz^
+||mi.gdt.qq.com^
 ||miaozhen.com^
 ||mifyeldx.top^
 ||mikongdd.top^
@@ -2397,6 +2410,7 @@
 ||msg.video.qiyi.com^
 ||msite.baidu.com^
 ||mssdhde.cn^
+||mssdk.volces.com^
 ||mt4v4.com^
 ||mtawcy.xyz^
 ||mtguwx.xyz^
@@ -2597,6 +2611,8 @@
 ||oopej.xyz^
 ||ooqwc.xyz^
 ||ootyx24.com^
+||open.e.kuaishou.cn^
+||open.e.kuaishou.com^
 ||open.oneplus.net^
 ||openrcv.baidu.com^
 ||ophwrh.cn^
@@ -2613,6 +2629,7 @@
 ||oslbahk.top^
 ||osnignsk.xyz^
 ||ossfile001.com^
+||otheve.beacon.qq.com^
 ||otienlk.top^
 ||oueia.xyz^
 ||ougannike.com^
@@ -2637,6 +2654,7 @@
 ||p11q.cn^
 ||p26.gejulm*.com^
 ||p2kfynrr.icu^
+||p3-be-pack-sign.pglstatp-toutiao.com^
 ||p52q.cn^
 ||pagead2.googleadservices.com^
 ||pagead2.googlesyndication.com^
@@ -2673,6 +2691,7 @@
 ||pflrv.cn^
 ||pfqwbqs.cn^
 ||pftdmmc.xyz^
+||pgdt.ugdtimg.com^
 ||pgght17.com^
 ||pglstatp-toutiao.com^
 ||phfqumvi.xyz^
@@ -2744,6 +2763,7 @@
 ||ptgdb.cn^
 ||ptmabek.cn^
 ||ptvfzv.xyz^
+||public.gdtimg.com^
 ||public.wlbaike.com^
 ||pufhzpt.cn^
 ||puqer.cn^
@@ -2880,6 +2900,7 @@
 ||qzpbwq.com^
 ||qzpmx.cn^
 ||qzqd2.com^
+||qzs.gdtimg.com^
 ||r36ku.site^
 ||r5dfwjtb.icu^
 ||r6pt6kfz.com^
@@ -3031,6 +3052,8 @@
 ||sdfyiu.com^
 ||sdhjueue.com^
 ||sdhuawen.cn^
+||sdk.beizi.biz^
+||sdk.e.qq.com^
 ||sdk.sipujia.cn^
 ||sdkapp.mobile.sina.cn^
 ||sdkapp.uve.weibo.com^
@@ -3038,6 +3061,7 @@
 ||sdkconfig.ad.xiaomi.com^
 ||sdkdfjksl.com^
 ||sdklnlsknvcks.com^
+||sdktmp.hubcloud.com.cn^
 ||sdqoi2d.com^
 ||sdtsad.com^
 ||sdvfvgj.cn^
@@ -3052,6 +3076,7 @@
 ||sephreoqy.com^
 ||sessions.bugsnag.com^
 ||settings.luckyorange.net^
+||sf3-fe-tos.pglstatp-toutiao.com^
 ||sfbixfd.cn^
 ||sfg11rr.com^
 ||sfp.safe.baidu.com^
@@ -3315,8 +3340,10 @@
 ||tmochyf.cn^
 ||tmwbszn.icu^
 ||tnc3-aliec2.zijieapi^
+||tnc3-alisc1.zijieapi.com^
 ||tnc3-alisc1.zijieapi^
 ||tnc3-bjlgy.snssdk.com^
+||tnc3-bjlgy.zijieapi.com^
 ||tnc3-bjlgy.zijieapi^
 ||tnebxv.top^
 ||tnjvz.cn^
@@ -3501,9 +3528,11 @@
 ||uym11.xyz^
 ||uyq3ruf.icu^
 ||uyt79.top^
+||v.adx.hubcloud.com.cn^
 ||v00yvd.xyz^
 ||v1gyb.xyz^
 ||v2.dakang-energy.com^
+||v2.gdt.qq.com^
 ||v2.uyan.cc^
 ||v4dwkcv.com^
 ||v6jt.cn^
@@ -3877,6 +3906,7 @@
 ||xkzjq.cn^
 ||xlardaxq.com^
 ||xlivrdr.com^
+||xlog.jd.com^
 ||xlviirdr.com^
 ||xlvqhx.xyz^
 ||xman.asia^
