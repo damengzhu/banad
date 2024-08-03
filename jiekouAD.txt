@@ -5,6 +5,8 @@
 ! Total Count: 5380
 ! by: 酷安@大萌主
 ! domain name
+||doubanio.top^
+||xlhdicw.top^
 ||1.11130.com.cn^
 ||mwzbp.ccbangong.com^
 ||pgcciax.icu^
