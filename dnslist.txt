@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4333
-! Update Time:2024-08-03 21:00:43（北京时间）
+! Total Count: 4339
+! Update Time:2024-08-06 20:31:35（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -96,6 +96,7 @@
 ||2dctkld.com^
 ||2g9x9uf.cn^
 ||2jse6.icu^
+||2lb.cc^
 ||2pogg4c.cn^
 ||2qpqwkx.cn^
 ||2rwonuh.com^
@@ -3035,6 +3036,7 @@
 ||samsungads.com^
 ||sange20221226.xyz^
 ||sanme2.taisantech.com^
+||sascwt.cn^
 ||saviourketonic.com^
 ||sb4you1.com^
 ||sb6k.top^
@@ -3123,6 +3125,7 @@
 ||shuzilm.cn^
 ||sifa.aak7.cn^
 ||sifyeldb.top^
+||sikaq.top^
 ||simblotusitate.com^
 ||simi1234.com^
 ||simi2345.com^
@@ -3461,8 +3464,10 @@
 ||uebohjhh.xyz^
 ||uejdsw.com^
 ||ufgg55.xyz^
+||ufvauj.cn^
 ||ug.snssdk.com^
 ||ugbjqwe.com^
+||ugugct.xyz^
 ||uhwnrfu.cn^
 ||uhyhdrh.cn^
 ||uibjhqwkl.com^
@@ -3862,6 +3867,7 @@
 ||xcvwrj.xyz^
 ||xcwzq.xyz^
 ||xddzshop.com^
+||xdns.asia^
 ||xecner.top^
 ||xeghes.fun^
 ||xegneils.com^

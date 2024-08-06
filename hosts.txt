@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4328
-#Update Time: 2024-08-03 21:00:43（北京时间）
+#Total Count: 4334
+#Update Time: 2024-08-06 20:31:35（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -96,6 +96,7 @@
 0.0.0.0 2dctkld.com
 0.0.0.0 2g9x9uf.cn
 0.0.0.0 2jse6.icu
+0.0.0.0 2lb.cc
 0.0.0.0 2pogg4c.cn
 0.0.0.0 2qpqwkx.cn
 0.0.0.0 2rwonuh.com
@@ -3028,6 +3029,7 @@
 0.0.0.0 samsungads.com
 0.0.0.0 sange20221226.xyz
 0.0.0.0 sanme2.taisantech.com
+0.0.0.0 sascwt.cn
 0.0.0.0 saviourketonic.com
 0.0.0.0 sb4you1.com
 0.0.0.0 sb6k.top
@@ -3115,6 +3117,7 @@
 0.0.0.0 shuzilm.cn
 0.0.0.0 sifa.aak7.cn
 0.0.0.0 sifyeldb.top
+0.0.0.0 sikaq.top
 0.0.0.0 simblotusitate.com
 0.0.0.0 simi1234.com
 0.0.0.0 simi2345.com
@@ -3451,8 +3454,10 @@
 0.0.0.0 uebohjhh.xyz
 0.0.0.0 uejdsw.com
 0.0.0.0 ufgg55.xyz
+0.0.0.0 ufvauj.cn
 0.0.0.0 ug.snssdk.com
 0.0.0.0 ugbjqwe.com
+0.0.0.0 ugugct.xyz
 0.0.0.0 uhwnrfu.cn
 0.0.0.0 uhyhdrh.cn
 0.0.0.0 uibjhqwkl.com
@@ -3851,6 +3856,7 @@
 0.0.0.0 xcvwrj.xyz
 0.0.0.0 xcwzq.xyz
 0.0.0.0 xddzshop.com
+0.0.0.0 xdns.asia
 0.0.0.0 xecner.top
 0.0.0.0 xeghes.fun
 0.0.0.0 xegneils.com
