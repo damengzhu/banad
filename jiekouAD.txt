@@ -4616,6 +4616,8 @@ Mplay/kk1.js
 *.lijie.*/*_*?$third-party
 .xyz/hm.html?s=
 :8007/*/*?is_not=
+/delivery/afr.
+||rmhfrtnd.com^$third-party
 mobi*.*.cyou/*_$third-party
 mobi*.*.cam/*_$third-party
 mobi*.*.xyz/*_$third-party
