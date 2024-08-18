@@ -4675,6 +4675,7 @@ _/bigREDcat.css?
 .xyz/?token=
 .shop:*/bid?url=
 .shop:*/ack?s=
+x.com/*/videoads/
 ||addthis.com/live/
 ||xn--*.xn--fiqs8s:
 /template/piankuwap/js/afoot.js
