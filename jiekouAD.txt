@@ -4320,7 +4320,6 @@
 ||tsearch.snssdk.com^
 ||fclick.baidu.com^
 ||ssp.qq.com^
-||ecmb.bdimg.com^
 ||appc.baidu.com^
 ||d.toutiao.com^
 ||log-sdk.ksapisrv.com^
