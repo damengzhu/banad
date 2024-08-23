@@ -4929,7 +4929,6 @@ acglala.me##.topm,.donghua_info > DIV[style='width:100%;'],.donghua_info > a
 ali213.net##.placeholderforpromotion
 happymh.com##[src="https://c.nationaltcm.com/ad/tm1111dd.png"]
 skyroad.downallbook.com##IMG[height='60'][width='98%']
-trakt.tv##DIV[id$='-wrapper']
 mxdm9.com,ntdm9.com,mxdm6.com,ntdm6.com##[style$='background-size: 400px 127px !important;'],[style$='bottom: 127px;']
 ximalaya.com##.change-logo.S_q,.packet-container._PC,.less-tips._PC *
 m.douban.com##div.center [style*='padding: 4px;']
