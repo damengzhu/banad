@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4338
-#Update Time: 2024-08-29 13:38:23（北京时间）
+#Total Count: 4337
+#Update Time: 2024-08-29 17:38:15（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -3378,7 +3378,6 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.rus.miui.com
 0.0.0.0 trafficjunky.net
-0.0.0.0 trafficmanager.net
 0.0.0.0 trc.taboola.com
 0.0.0.0 trektinyreproduce.com
 0.0.0.0 trfmxf.xyz
