@@ -5403,6 +5403,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='slkdnlkfnskl.com']
 ##[onclick*='fjbglfrv.com']
 ##.adwap
+##DIV.theme-hope-content.ads-container
 ##[href*='amu6v.com']
 ##.vp-project-home > .ads-container
 ##A.gotoclick[adv_id]
