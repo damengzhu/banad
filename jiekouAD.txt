@@ -5,6 +5,10 @@
 ! Total Count: 5420
 ! by: 酷安@大萌主
 ! domain name
+
+||itweepinbelltor.com^
+||besmeargleor.com^
+||tzegilo.com^
 ||gg3a.cc^
 ||uuiaoq.top^
 ||ooksq.top^
@@ -4929,6 +4933,8 @@ www.olevod.com##.B1Lss,.B1Rss
 www.ksksy.com##[style$='vw;background:#000;opacity:0.01;']
 5dm.app##[src*="sinaimg.cn"]
 www.wdbay.com##[class][classname]
+mefcl.com##article:has(span.sticky-icon)
+423down.com##LI.item:has(.sticky-post)
 ddzzxs.com###inglestore.inglestore
 yemancomic.com##div > center > strong > button[onclick^="window.location.href"]
 share.acgnx.se##IMG[src*='share.acgnx.se']
