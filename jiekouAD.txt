@@ -4806,6 +4806,7 @@ axutongxue.com##DIV[style*='px;position:relative;box-shadow:rgb(0 0 0/24%)0px 3p
 sina.com.cn##[id^="fake_div_"].xxl-card
 sina.cn###float-btn.callApp_fl_btn
 sina.cn##SECTION.sw_c0.sina_sliders_pos
+sina.cn##.wap-msg-bar-wap-bottom,#m-sentiment3,.broadcast,.animated.pluse
 sina.cn##[sax-type='proxy'][data-pos][data-saxname][loaded='loaded']
 18comic.org,18comic.vip,jmcomic1.city,jmcomic1.win,jmcomic1.group##[data-group^='photo_center_']
 18comic.vip##IMG[src^='//18comic.vip/media/albums/']
