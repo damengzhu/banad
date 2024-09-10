@@ -4424,6 +4424,8 @@
 /js/ads
 /banners/pr_advertising_ads_banner
 .ru/ads/
+:800*/d/*n=$third-party
+:800*/sc/*n=$third-party
 ||tongji.trafficmanager.net/?
 unpkg.com/aladug/*.js
 /index.html?channelCode=
