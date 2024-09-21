@@ -4920,6 +4920,7 @@ www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
 163.com##.js-open-app
+m.autohome.com.cn##section > ol
 www.3ppp.net##DIV.bottom_fixed
 apkpure.net,apkpure.com##DIV.js-ad-slot
 dongmanhuayuan.myheartsite.com##.card-body
