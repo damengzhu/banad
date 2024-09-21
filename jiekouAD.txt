@@ -5,6 +5,7 @@
 ! Total Count: 5443
 ! by: 酷安@大萌主
 ! domain name
+||yaacdn.top^
 ||jauql.top^
 ||kzaawga.icu^
 ||zcypmsp.icu^
