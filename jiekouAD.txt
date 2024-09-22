@@ -5,6 +5,9 @@
 ! Total Count: 5446
 ! by: 酷安@大萌主
 ! domain name
+||8181zx.com^
+||csfds000.fun^
+||baggvon.icu^
 ||ceiqox.com^
 ||yaacdn.top^
 ||jauql.top^
@@ -4543,9 +4546,11 @@ com:8891/c.php?s=*$third-party
 ||manhuabei.com/assets/xiwang.js
 ||yhdm.tv/bar/yfyh.js
 /js/js4.js
+.com:*.js?v=17$third-party
 .top/*/*.js?ts=$third-party
 /obj/ad-app-package
 /yinghuacd/bottom.js
+chusixs.com/5ygsh/
 /hm.js?$third-party
 ||www.pkmp*.xyz/template/piankuwap/js/afoot.js
 ||baidu.com/rec?*=ad&
