@@ -4551,7 +4551,6 @@ com:8891/c.php?s=*$third-party
 /js/js4.js
 .com:*.js?v=17$third-party
 .top/*/*.js?ts=$third-party
-/obj/ad-app-package
 /yinghuacd/bottom.js
 chusixs.com/5ygsh/
 /hm.js?$third-party
