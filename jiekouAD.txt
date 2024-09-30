@@ -4536,6 +4536,7 @@ com:8891/c.php?s=*$third-party
 /template/mytheme/statics/js/listing.js
 /asfile/m/gudings.js
 ?local_ga_js=
+||555ysys.com/gg/g.js
 .xyz/xling_*_*_*.js?
 ||pinyuege.net/template/pinygm/public/js/
 .com:8005/*&n=$third-party
