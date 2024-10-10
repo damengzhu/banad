@@ -2,7 +2,7 @@
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
 #Total Count: 4362
-#Update Time: 2024-10-06 12:05:50（北京时间）
+#Update Time: 2024-10-10 17:38:28（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -3498,7 +3498,7 @@
 0.0.0.0 ulojlvmejkaem.xyz
 0.0.0.0 ulyuom.xyz
 0.0.0.0 um5xcgngmart.xyz
-0.0.0.0 umbrellaomendear.com,
+0.0.0.0 umbrellaomendear.com
 0.0.0.0 umdc.aliapp.org
 0.0.0.0 umeng.com
 0.0.0.0 umengcloud.com
@@ -3903,7 +3903,7 @@
 0.0.0.0 xianzhice.com
 0.0.0.0 xiaobao8888.com
 0.0.0.0 xiaodongrui.com
-0.0.0.0 xiaofangtongzhi.xy
+0.0.0.0 xiaofangtongzhi.xyz
 0.0.0.0 xiaojifly.cn
 0.0.0.0 xiaomifood.cn
 0.0.0.0 xiaoqurong.com

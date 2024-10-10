@@ -3,7 +3,7 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
 ! Total Count: 4367
-! Update Time:2024-10-06 12:05:50（北京时间）
+! Update Time:2024-10-10 17:38:28（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -3508,7 +3508,7 @@
 ||ulojlvmejkaem.xyz^
 ||ulyuom.xyz^
 ||um5xcgngmart.xyz^
-||umbrellaomendear.com,^
+||umbrellaomendear.com^
 ||umdc.aliapp.org^
 ||umeng.com^
 ||umengcloud.com^
@@ -3914,7 +3914,7 @@
 ||xianzhice.com^
 ||xiaobao8888.com^
 ||xiaodongrui.com^
-||xiaofangtongzhi.xy^
+||xiaofangtongzhi.xyz^
 ||xiaojifly.cn^
 ||xiaomifood.cn^
 ||xiaoqurong.com^
