@@ -5,6 +5,7 @@
 ! Total Count: 5462
 ! by: 酷安@大萌主
 ! domain name
+||ouplc.icu^
 ||cnzz.trafficmanager.net^
 ||hauqou.top^
 ||yzldy.info^
