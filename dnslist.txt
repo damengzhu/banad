@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4370
-! Update Time:2024-10-21 17:42:23（北京时间）
+! Total Count: 4381
+! Update Time:2024-10-22 11:28:02（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -36,6 +36,7 @@
 ||093yuht.com^
 ||096iokj.com^
 ||09jsufg.com^
+||0er7pc8.xyz^
 ||0krdn3.com^
 ||0m483y7.cn^
 ||0ns32h.com^
@@ -92,6 +93,7 @@
 ||2431.vainews.cn^
 ||24klm.cn^
 ||24klm.net^
+||2axpwa4.xyz^
 ||2cursjb.com^
 ||2dctkld.com^
 ||2g9x9uf.cn^
@@ -658,6 +660,7 @@
 ||bohanhengtian.cn^
 ||bookbk.img.zhangyue01.com^
 ||books-analytics-events.apple.com^
+||bootstron.com^
 ||botnrr.xyz^
 ||botonmetaverse.com^
 ||boxwcr.icu^
@@ -857,6 +860,7 @@
 ||countpage.sznews.com^
 ||couplestupidity.com^
 ||courtoyz.com^
+||couvxlif.top^
 ||cp.eoncreativity.com^
 ||cpoml.iask.sina.com.cn^
 ||cpro.baidustatic.com^
@@ -1075,6 +1079,7 @@
 ||dpbgnf.xyz^
 ||dpijohb.icu^
 ||dpjzzgw.cn^
+||dpw202504.com^
 ||dq06u9lt5akr2.cloudfront.net^
 ||dqazwsxd.xyz^
 ||dqcgkpp.icu^
@@ -2132,6 +2137,7 @@
 ||laipeitu.com^
 ||lakefish.xyz^
 ||lakjdskls.zhdchb.com^
+||lalabaos1022.top^
 ||lalaping.com^
 ||laljjn.xyz^
 ||lamkghx.icu^
@@ -2189,6 +2195,7 @@
 ||lijie.in^
 ||lijunkai.com^
 ||likdie.com^
+||limbecculvers.com^
 ||line1-log.biligame.net^
 ||lingcde.cn^
 ||lingke05.top^
@@ -3164,6 +3171,7 @@
 ||sjbgyak.cn^
 ||sjdfuvz.cn^
 ||sjoy7rq.cn^
+||sjyhead.icu^
 ||skfj5d.com^
 ||skfjd1.xyz^
 ||skfqxkk.cn^
@@ -3294,6 +3302,7 @@
 ||tangk.top^
 ||taoyao.tech^
 ||tarqk5.com^
+||taxismaned.top^
 ||tbcgumkadc.xyz^
 ||tc6tc.com^
 ||tcbox.baidu.com^
@@ -3964,6 +3973,7 @@
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--49s928hlshoya.cn^
 ||xn--521-x72fh66s.cn^
+||xn--bqro42frpg5up.cn^
 ||xn--gov-x68dy61b.shop^
 ||xn--jvrp4x1zyfta.net^
 ||xn--m7r781dz66a.cn^
@@ -4329,6 +4339,7 @@
 ||zotcjeig.xyz^
 ||zouqiuyyds.com^
 ||zowralr.cn^
+||zpeqosn.icu^
 ||zpotkvpy.icu^
 ||zppfjh.xyz^
 ||zpsovpgyk.xyz^

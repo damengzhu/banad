@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4365
-#Update Time: 2024-10-21 17:42:23（北京时间）
+#Total Count: 4376
+#Update Time: 2024-10-22 11:28:02（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -37,6 +37,7 @@
 0.0.0.0 093yuht.com
 0.0.0.0 096iokj.com
 0.0.0.0 09jsufg.com
+0.0.0.0 0er7pc8.xyz
 0.0.0.0 0krdn3.com
 0.0.0.0 0m483y7.cn
 0.0.0.0 0ns32h.com
@@ -92,6 +93,7 @@
 0.0.0.0 2431.vainews.cn
 0.0.0.0 24klm.cn
 0.0.0.0 24klm.net
+0.0.0.0 2axpwa4.xyz
 0.0.0.0 2cursjb.com
 0.0.0.0 2dctkld.com
 0.0.0.0 2g9x9uf.cn
@@ -656,6 +658,7 @@
 0.0.0.0 bohanhengtian.cn
 0.0.0.0 bookbk.img.zhangyue01.com
 0.0.0.0 books-analytics-events.apple.com
+0.0.0.0 bootstron.com
 0.0.0.0 botnrr.xyz
 0.0.0.0 botonmetaverse.com
 0.0.0.0 boxwcr.icu
@@ -855,6 +858,7 @@
 0.0.0.0 countpage.sznews.com
 0.0.0.0 couplestupidity.com
 0.0.0.0 courtoyz.com
+0.0.0.0 couvxlif.top
 0.0.0.0 cp.eoncreativity.com
 0.0.0.0 cpoml.iask.sina.com.cn
 0.0.0.0 cpro.baidustatic.com
@@ -1073,6 +1077,7 @@
 0.0.0.0 dpbgnf.xyz
 0.0.0.0 dpijohb.icu
 0.0.0.0 dpjzzgw.cn
+0.0.0.0 dpw202504.com
 0.0.0.0 dq06u9lt5akr2.cloudfront.net
 0.0.0.0 dqazwsxd.xyz
 0.0.0.0 dqcgkpp.icu
@@ -2127,6 +2132,7 @@
 0.0.0.0 laipeitu.com
 0.0.0.0 lakefish.xyz
 0.0.0.0 lakjdskls.zhdchb.com
+0.0.0.0 lalabaos1022.top
 0.0.0.0 lalaping.com
 0.0.0.0 laljjn.xyz
 0.0.0.0 lamkghx.icu
@@ -2184,6 +2190,7 @@
 0.0.0.0 lijie.in
 0.0.0.0 lijunkai.com
 0.0.0.0 likdie.com
+0.0.0.0 limbecculvers.com
 0.0.0.0 line1-log.biligame.net
 0.0.0.0 lingcde.cn
 0.0.0.0 lingke05.top
@@ -3156,6 +3163,7 @@
 0.0.0.0 sjbgyak.cn
 0.0.0.0 sjdfuvz.cn
 0.0.0.0 sjoy7rq.cn
+0.0.0.0 sjyhead.icu
 0.0.0.0 skfj5d.com
 0.0.0.0 skfjd1.xyz
 0.0.0.0 skfqxkk.cn
@@ -3286,6 +3294,7 @@
 0.0.0.0 tangk.top
 0.0.0.0 taoyao.tech
 0.0.0.0 tarqk5.com
+0.0.0.0 taxismaned.top
 0.0.0.0 tbcgumkadc.xyz
 0.0.0.0 tc6tc.com
 0.0.0.0 tcbox.baidu.com
@@ -3953,6 +3962,7 @@
 0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--49s928hlshoya.cn
 0.0.0.0 xn--521-x72fh66s.cn
+0.0.0.0 xn--bqro42frpg5up.cn
 0.0.0.0 xn--gov-x68dy61b.shop
 0.0.0.0 xn--jvrp4x1zyfta.net
 0.0.0.0 xn--m7r781dz66a.cn
@@ -4307,6 +4317,7 @@
 0.0.0.0 zotcjeig.xyz
 0.0.0.0 zouqiuyyds.com
 0.0.0.0 zowralr.cn
+0.0.0.0 zpeqosn.icu
 0.0.0.0 zpotkvpy.icu
 0.0.0.0 zppfjh.xyz
 0.0.0.0 zpsovpgyk.xyz
