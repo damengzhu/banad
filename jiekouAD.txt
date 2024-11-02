@@ -5,6 +5,9 @@
 ! Total Count: 5477
 ! by: 酷安@大萌主
 ! domain name
+||myfenxi.com^
+||fanjs.top^
+||dayujs.top^
 ||chaseherbalpasty.com^
 ||kuresdd.top^
 ||sjyhead.icu^
@@ -4607,6 +4610,8 @@ chusixs.com/5ygsh/
 .top/*/2022*/.js$third-party
 .com/sh/*.js$third-party
 ||3zmmm.net/ggxx/
+||qushucheng.com/public/
+:800*/d/*n=$third-party
 /biyys*hh.js$third-party
 /vj3/*$third-party
 ||novret.com/?clickid=
@@ -4934,6 +4939,8 @@ jav777.cc,jav777.xyz##.myad_alert_82
 webtor.io##DIV.ad
 webtor.io##[data-element='empty']
 webtor.io##IFRAME[scrolling='no']
+qushucheng.com##.hotcmd-wp
+qushucheng.com##.appguide-wrap
 achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
 cqjschungao.com##[style='bottom: 132px;']
