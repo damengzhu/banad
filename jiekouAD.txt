@@ -4823,11 +4823,6 @@ pan.baidu.com##div.content DIV.photo-banner
 mobile.baidu.com##SECTION.detail-banner.banner-ck
 bing.com###bnp_container
 bing.com##.b_ad
-www.123pan.com##.banner-container-h5
-www.123pan.com##.btn_reward.hide
-www.123pan.com##IMG[src*='-banner'],.ant-carousel
-www.123pan.com##DIV.app-adv-container
-www.123pan.com##.advBanner
 sohu.com##A[href='javascript:void(0);']
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com##.middle-insert-ad
@@ -5099,6 +5094,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
 ###ad-header-mobile-contener
 ###downapp1
+##.banner-container-h5 > .banner_all_wrap
 ##[data^='/banners/pr_advertising_ads_banner']
 ##[src^='/banners/pr_advertising_ads_banner']
 ##body > DIV[class][style='top: 132px;']
