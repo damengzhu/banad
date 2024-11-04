@@ -5469,6 +5469,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='amu6v.com']
 ##.vp-project-home > .ads-container
 ##A.gotoclick[adv_id]
+##[onclick='goAppHtml();']
+##DIV#appss[style='padding:15px;']
 ##body.conch-adjust-fix #component
 ##IFRAME[src^='/Banner/index.html'][allowfullscreen='true']
 ##div#notice_container > div.event-notice > div.modal
