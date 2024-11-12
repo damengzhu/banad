@@ -5,6 +5,7 @@
 ! Total Count: 5489
 ! by: 酷安@大萌主
 ! domain name
+||41grk.icu^
 ||commonwealthproficient.com^
 ||pubfuture-ad.com^
 ||myfenxi.com^
@@ -5472,6 +5473,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##.vp-project-home > .ads-container
 ##A.gotoclick[adv_id]
 ##[onclick='goAppHtml();']
+##.ads-bg.ads-bg-home
 ##DIV#playlistbtn[style='padding: 10px;']
 ##DIV#appss[style='padding:15px;']
 ##body.conch-adjust-fix #component
