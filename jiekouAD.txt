@@ -5,6 +5,7 @@
 ! Total Count: 5502
 ! by: 酷安@大萌主
 ! domain name
+||rgimbys.icu^
 ||41grk.icu^
 ||commonwealthproficient.com^
 ||pubfuture-ad.com^
@@ -4485,6 +4486,7 @@ trafficjunky.com$third-part
 yhdm*.com/js/wap2-jm-ms.js?ver=
 .com:8008/sc/*?n=$third-party
 .com:8003/d/*&n=$third-party
+||5dscw.com/public/
 ||baimakanshu.com/assets/public/
 ||lengmen.cc/assets/public/
 ||aiqu222.com/da/
