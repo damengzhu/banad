@@ -5,6 +5,12 @@
 ! Total Count: 5509
 ! by: 酷安@大萌主
 ! domain name
+||aoao11241iis.top^
+||javascript.trafficmanager.net^
+||gifcdncn.trafficmanager.net^
+||status-un.trafficmanager.net^
+||ayads-network-centor.com^
+||dxlxjvmo.icu^
 ||citadelpathstatue.com^
 ||rgimbys.icu^
 ||41grk.icu^
