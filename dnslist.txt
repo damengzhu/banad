@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4391
-! Update Time:2024-11-23 21:36:42（北京时间）
+! Total Count: 4397
+! Update Time:2024-11-24 12:07:24（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -450,6 +450,7 @@
 ||antheaceliacd.com^
 ||anwqj0i.xyz^
 ||anyunwl04.com^
+||aoao11241iis.top^
 ||aobuygo.com^
 ||aoqinglv.cn^
 ||aornkmae.com^
@@ -531,6 +532,7 @@
 ||axcdt.cn^
 ||axcdy.cn^
 ||axz650.com^
+||ayads-network-centor.com^
 ||ayidaye.m.zwdu.com^
 ||aykibra.cn^
 ||aymtdcg.cn^
@@ -1127,6 +1129,7 @@
 ||dwfjtz.xyz^
 ||dwibjkdsn.com^
 ||dwyngjb.icu^
+||dxlxjvmo.icu^
 ||dxp.baidu.com^
 ||dxqck.com^
 ||dxwsty.cn^
@@ -1414,6 +1417,7 @@
 ||ghghgf.xuexiwa.com^
 ||ghland.site^
 ||ghsnhjk.cn^
+||gifcdncn.trafficmanager.net^
 ||gjh9v.tianshilv.cn^
 ||gjipd.xyz^
 ||gjkame6.com^
@@ -1858,6 +1862,7 @@
 ||jaowd.xyz^
 ||jashautchord.com^
 ||jauql.top^
+||javascript.trafficmanager.net^
 ||javase.top^
 ||jayhou.top^
 ||jbazhaheia.top^
@@ -3259,6 +3264,7 @@
 ||statis1.mama.cn^
 ||stats.v.duowan.com^
 ||stats.wp.com^
+||status-un.trafficmanager.net^
 ||stescud.com^
 ||stgowan.com^
 ||stienlb.top^

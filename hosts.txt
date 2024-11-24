@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4386
-#Update Time: 2024-11-23 21:36:42（北京时间）
+#Total Count: 4392
+#Update Time: 2024-11-24 12:07:24（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -450,6 +450,7 @@
 0.0.0.0 antheaceliacd.com
 0.0.0.0 anwqj0i.xyz
 0.0.0.0 anyunwl04.com
+0.0.0.0 aoao11241iis.top
 0.0.0.0 aobuygo.com
 0.0.0.0 aoqinglv.cn
 0.0.0.0 aornkmae.com
@@ -530,6 +531,7 @@
 0.0.0.0 axcdt.cn
 0.0.0.0 axcdy.cn
 0.0.0.0 axz650.com
+0.0.0.0 ayads-network-centor.com
 0.0.0.0 ayidaye.m.zwdu.com
 0.0.0.0 aykibra.cn
 0.0.0.0 aymtdcg.cn
@@ -1125,6 +1127,7 @@
 0.0.0.0 dwfjtz.xyz
 0.0.0.0 dwibjkdsn.com
 0.0.0.0 dwyngjb.icu
+0.0.0.0 dxlxjvmo.icu
 0.0.0.0 dxp.baidu.com
 0.0.0.0 dxqck.com
 0.0.0.0 dxwsty.cn
@@ -1412,6 +1415,7 @@
 0.0.0.0 ghghgf.xuexiwa.com
 0.0.0.0 ghland.site
 0.0.0.0 ghsnhjk.cn
+0.0.0.0 gifcdncn.trafficmanager.net
 0.0.0.0 gjh9v.tianshilv.cn
 0.0.0.0 gjipd.xyz
 0.0.0.0 gjkame6.com
@@ -1855,6 +1859,7 @@
 0.0.0.0 jaowd.xyz
 0.0.0.0 jashautchord.com
 0.0.0.0 jauql.top
+0.0.0.0 javascript.trafficmanager.net
 0.0.0.0 javase.top
 0.0.0.0 jayhou.top
 0.0.0.0 jbazhaheia.top
@@ -3251,6 +3256,7 @@
 0.0.0.0 statis1.mama.cn
 0.0.0.0 stats.v.duowan.com
 0.0.0.0 stats.wp.com
+0.0.0.0 status-un.trafficmanager.net
 0.0.0.0 stescud.com
 0.0.0.0 stgowan.com
 0.0.0.0 stienlb.top
