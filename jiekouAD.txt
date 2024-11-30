@@ -5,6 +5,8 @@
 ! Total Count: 5518
 ! by: 酷安@大萌主
 ! domain name
+||hdwiey.com^
+||youjiudilai.com^
 ||aoao11241iis.top^
 ||javascript.trafficmanager.net^
 ||gifcdncn.trafficmanager.net^
