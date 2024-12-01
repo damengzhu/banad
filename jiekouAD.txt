@@ -894,7 +894,6 @@
 ||boewgph.icu^
 ||bofnhn.com^
 ||bohanhengtian.cn^
-||bookbk.img.zhangyue01.com^
 ||books-analytics-events.apple.com^
 ||botnrr.xyz^
 ||botonmetaverse.com^
