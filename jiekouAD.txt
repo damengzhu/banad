@@ -5,6 +5,7 @@
 ! Total Count: 5520
 ! by: 酷安@大萌主
 ! domain name
+||h1v3fa.com^
 ||hdwiey.com^
 ||youjiudilai.com^
 ||aoao11241iis.top^
@@ -4985,6 +4986,7 @@ www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
 163.com##.js-open-app
+90mh.org##[style$='background-size: 393px 125px !important;']
 118pan.com##.card.mt-2:nth-child(2)
 m.autohome.com.cn##section > ol
 www.3ppp.net##DIV.bottom_fixed
