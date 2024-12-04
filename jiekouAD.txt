@@ -4849,7 +4849,6 @@ wen.baidu.com##.related-asp-new
 pan.baidu.com##A.active-msg
 pan.baidu.com##div.content DIV.photo-banner
 mobile.baidu.com##SECTION.detail-banner.banner-ck
-bing.com,cn.bing.net##.b_algo:has(.b_lineclamp2.b_algoSlug)
 bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.pa_sb
