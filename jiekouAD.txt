@@ -4859,6 +4859,7 @@ bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##DIV#bnp_container
 bing.com,cn.bing.net##li.b_ad
 bing.com,cn.bing.net##.ad_sc
+sogou.com##DIV.banner-container
 sohu.com##A[href='javascript:void(0);']
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com##.middle-insert-ad
