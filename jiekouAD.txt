@@ -2,7 +2,7 @@
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
 ! Update Time: 2024-12-04 14:50:22（北京时间）
-! Total Count: 5524
+! Total Count: 5524 
 ! by: 酷安@大萌主
 ! domain name
 ||xn--jor0b302fdhgwnccw8g.com^
