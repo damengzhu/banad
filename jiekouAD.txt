@@ -4210,7 +4210,7 @@
 ||zzxedr.xyz^
 ||zzxlhwyp.com^
 ||zzycj.com^
-! APP Host
+! APP domain name
 ||android.bugly.qq.com^
 ||trace.qq.com^
 ||api-access.pangolin-sdk-toutiao.com^
