@@ -4490,6 +4490,9 @@ trafficjunky.com$third-part
 .xyz/qby_*.js?$third-party
 .xyz/get?$third-party
 .xyz/ty/*-*-*$third-party
+/assets/publish/chart.1.js$~third-party
+/assets/publish/react.3.js$~third-party
+/assets/publish/d3.2.js$~third-party
 ||ciliyinqing.top^$third-party
 ||feijisu*.com/js/huimi-
 /api/LM/Report?placeUUID=$third-party
