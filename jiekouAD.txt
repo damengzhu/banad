@@ -4650,6 +4650,7 @@ xyz:9002/*?x=$third-party
 ||5dm.tv/html/5dmm.jpg
 ||domp4.cc/js/wcount.js
 ||www.*yydstxt*/js/cdn.js
+://*mp4*/js/wcount.js$~third-party
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
 ||milimili.tv/js/loadjs/jquery10.4.js
 ||milimili.tv/js/loadjs/jquery10.7.js
