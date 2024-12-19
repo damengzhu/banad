@@ -4987,6 +4987,7 @@ achaec.cc##[style*='px; top: 0px; left: 0px; z-index:']
 achaec.cc##[style*='px; bottom: 0px; left: 0px; z-index: ']
 cqjschungao.com##[style='bottom: 132px;']
 cqjschungao.com##[style*='px no-repeat; position: relative;']
+quark.cn##.ad-wolong-container
 www.meijuii.cc##DIV[style*='vw; display: block;']
 www.hzw.com.cn##.xfb_close_icon,#xfb_lbox,.xfb_close_btn
 www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
