@@ -4786,6 +4786,8 @@ x.com/*/videoads/
 ||ykmh.com/js/aajquery.img01.js
 ||zd518.cn/statics/js/home.js
 template/m1938pc/ads/*.js
+||dyxz*.com/static/jquery.js?
+||dyxz*.com/static/gdw.js
 ||mipcdn.com/c/s/by.manhuachi.com
 ||qimiaomh.com/muban/m/static/js/hhh.js
 ||qimiaomh.com/muban/m/static/js/common.js
