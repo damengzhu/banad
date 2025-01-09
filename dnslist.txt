@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4404
-! Update Time:2024-12-31 11:03:09（北京时间）
+! Total Count: 4411
+! Update Time:2025-01-09 19:19:36（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -285,6 +285,7 @@
 ||abcd.cnhuoche.com^
 ||abdluv.xyz^
 ||abenshishabi.com^
+||abernc.xyz^
 ||abovede6.com^
 ||abram.xin^
 ||abrnfctkn.xyz^
@@ -622,6 +623,7 @@
 ||bh0874.online^
 ||bhaabom.cn^
 ||bhcnmrn.icu^
+||bhgzwqy.top^
 ||bhjuy10.com^
 ||bhpprfk.cn^
 ||bhulgot.com^
@@ -1501,6 +1503,7 @@
 ||gxhzv.cn^
 ||gxlsjt.com^
 ||gxxie.com^
+||gxxyclub.top^
 ||gxzxiww.com^
 ||gyhgcgj.xyz^
 ||gyjinchuang.vip^
@@ -2290,6 +2293,7 @@
 ||lpxmall.com^
 ||lqe3.icu^
 ||lqjinx.xyz^
+||lqweqk61qlih.click^
 ||lrlsrz.xyz^
 ||lrqpyhn.icu^
 ||lsancil.top^
@@ -2473,6 +2477,7 @@
 ||mvamnng.cn^
 ||mvgucp.com^
 ||mvlkvth.cn^
+||mvwitz.xyz^
 ||mwandlx.top^
 ||mwdwepok.xyz^
 ||mwzbp.ccbangong.com^
@@ -3323,6 +3328,7 @@
 ||tarqk5.com^
 ||taxismaned.top^
 ||tbcgumkadc.xyz^
+||tbl258ym4.cc^
 ||tc6tc.com^
 ||tcbox.baidu.com^
 ||tchkcc.cn^
@@ -4091,6 +4097,7 @@
 ||yfhtbdn.com^
 ||ygwdai.cn^
 ||ygxgk.cn^
+||ygz1pd7.online^
 ||ygzqlnt.cn^
 ||yh.zg-zxzx.net^
 ||yh18h8s.com^

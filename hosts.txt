@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4399
-#Update Time: 2024-12-31 11:03:09（北京时间）
+#Total Count: 4406
+#Update Time: 2025-01-09 19:19:36（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -285,6 +285,7 @@
 0.0.0.0 abcd.cnhuoche.com
 0.0.0.0 abdluv.xyz
 0.0.0.0 abenshishabi.com
+0.0.0.0 abernc.xyz
 0.0.0.0 abovede6.com
 0.0.0.0 abram.xin
 0.0.0.0 abrnfctkn.xyz
@@ -621,6 +622,7 @@
 0.0.0.0 bh0874.online
 0.0.0.0 bhaabom.cn
 0.0.0.0 bhcnmrn.icu
+0.0.0.0 bhgzwqy.top
 0.0.0.0 bhjuy10.com
 0.0.0.0 bhpprfk.cn
 0.0.0.0 bhulgot.com
@@ -1498,6 +1500,7 @@
 0.0.0.0 gxhzv.cn
 0.0.0.0 gxlsjt.com
 0.0.0.0 gxxie.com
+0.0.0.0 gxxyclub.top
 0.0.0.0 gxzxiww.com
 0.0.0.0 gyhgcgj.xyz
 0.0.0.0 gyjinchuang.vip
@@ -2285,6 +2288,7 @@
 0.0.0.0 lpxmall.com
 0.0.0.0 lqe3.icu
 0.0.0.0 lqjinx.xyz
+0.0.0.0 lqweqk61qlih.click
 0.0.0.0 lrlsrz.xyz
 0.0.0.0 lrqpyhn.icu
 0.0.0.0 lsancil.top
@@ -2468,6 +2472,7 @@
 0.0.0.0 mvamnng.cn
 0.0.0.0 mvgucp.com
 0.0.0.0 mvlkvth.cn
+0.0.0.0 mvwitz.xyz
 0.0.0.0 mwandlx.top
 0.0.0.0 mwdwepok.xyz
 0.0.0.0 mwzbp.ccbangong.com
@@ -3315,6 +3320,7 @@
 0.0.0.0 tarqk5.com
 0.0.0.0 taxismaned.top
 0.0.0.0 tbcgumkadc.xyz
+0.0.0.0 tbl258ym4.cc
 0.0.0.0 tc6tc.com
 0.0.0.0 tcbox.baidu.com
 0.0.0.0 tchkcc.cn
@@ -4080,6 +4086,7 @@
 0.0.0.0 yfhtbdn.com
 0.0.0.0 ygwdai.cn
 0.0.0.0 ygxgk.cn
+0.0.0.0 ygz1pd7.online
 0.0.0.0 ygzqlnt.cn
 0.0.0.0 yh.zg-zxzx.net
 0.0.0.0 yh18h8s.com
