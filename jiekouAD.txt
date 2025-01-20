@@ -4472,7 +4472,6 @@
 ||ifeng.com/*&adids=
 .xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 .buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
-.com/sh/to/$third-partyyhdmba.net
 .xyz/svelte?$third-party
 .xyz/alpine?$third-party
 ||iyinghua.io/bar/
