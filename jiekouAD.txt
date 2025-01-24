@@ -4471,6 +4471,7 @@
 ||browser.sentry-cdn.com^$third-party
 ||baidu.com/newspage/api/getmobads?
 ||ifeng.com/*&adids=
+.xyz$third-party,domain=xiakexsw.com
 .xyz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 .buzz$domain=btsj6.com|yinghua8.tv|iyinghua.io|yhdmba.net
 .xyz/svelte?$third-party
