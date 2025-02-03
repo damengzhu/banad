@@ -4826,6 +4826,7 @@ template/m1938pc/ads/*.js
 /js/statistics/user_ad.js
 /static/js/miniyyrtv-config.js
 ! element
+colamanga.com#@#.gg_950
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 91porn.com#@#.vjs-preroll
 @@||developer.apple.com$generichide
