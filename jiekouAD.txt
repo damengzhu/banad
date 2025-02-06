@@ -5556,6 +5556,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A.gotoclick[adv_id]
 ##[onclick='goAppHtml();']
 ##.ads-bg.ads-bg-home
+###kp-hid-sport-m.fed-part-layout.fed-back-whits.fed-hide-md.uk-alert
+###bc_dp_m
 ##DIV#playlistbtn[style='padding: 10px;']
 ##DIV#appss[style='padding:15px;']
 ##body.conch-adjust-fix #component
