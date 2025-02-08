@@ -4976,6 +4976,8 @@ www.itdog.cn##IMG[src^='/upload/images/'][width='270'][height='80'],.gg_link,.to
 www.itdog.cn#%#window.alert=function(str){return}
 apkcombo.com##[data-d-ad-id]
 apkcombo.com##.diseanmevrtt
+izaiwen.cn##DIV[carousel-item]
+izaiwen.cn##.item-box
 huya.com###template
 huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 smartapps.cn##swan-nest-banner-ad.ad-expose
