@@ -4464,6 +4464,7 @@
 ||adutp.com^$third-party
 ||aiqu2727.com/da/
 ||www.hdmp4.cc/js/foot.js
+||huakai2025.com/color.js
 .fun/*/17*/*.css?r=0$third-party
 .fun/*.jss?17*&r=0$third-party
 .top/*_*_vw*sbjs?$third-party
@@ -5419,7 +5420,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[ad_dot_url]
 ##DIV#pos_nei_content
 ##[src*='zdmbl.xyz']
-##I.fa.fa-close
 ##IMG#diads
 ##[style='display: block; width: 100%; left: 0px; position: fixed; z-index: 2147483646; height: 49px; bottom: 132px;']
 ##body.fed-min-width.website-read > [style='bottom: 132px;']
