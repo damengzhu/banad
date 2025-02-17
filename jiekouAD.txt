@@ -5,6 +5,11 @@
 ! Total Count: 5580
 ! by: 酷安@大萌主
 ! domain name
+||ixbua.xyz^
+||x1abo.com^
+||990215.xyz^
+||epxlt.xyz^
+||jsdelivr.vip^
 ||chenhao97.top^
 ||aizhantj.com^
 ||usrzh.cn^
@@ -4695,6 +4700,7 @@ xyz:9002/*?x=$third-party
 ||pufei.cc/skin/footer.js
 ||pufei.cc/skin/middle.js
 js/yys/Pfhl365.js
+||ffdm2.cc/ht_cpc.js
 ||zokjds.com/js/xiao.js
 /static/jietiandixs/jtd.js$~third-party
 ||xsbiquge.la/js/detail.js
@@ -5552,6 +5558,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='slkdnlkfnskl.com']
 ##[onclick*='fjbglfrv.com']
 ##.adwap
+##[style='z-index: 2147483647; width: 100%;height: auto;left: 0;right: 0;margin: auto;']
 ##DIV[style='position:relative !important;padding:0px !important;margin:0px !important;width:100% !important;overflow:hidden !important;font-size:0px !important;line-height:0px !important;']
 ##DIV.theme-hope-content.ads-container
 ##[href*='amu6v.com']
