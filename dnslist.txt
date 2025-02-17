@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4420
-! Update Time:2025-02-14 12:56:13（北京时间）
+! Total Count: 4425
+! Update Time:2025-02-17 20:52:44（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -249,6 +249,7 @@
 ||98765.pw^
 ||98765432100.online^
 ||98765432100.site^
+||990215.xyz^
 ||99999999.club^
 ||999gg.net^
 ||999pro.top^
@@ -1211,6 +1212,7 @@
 ||epaes.com.cn^
 ||epoid.xyz^
 ||epoun.top^
+||epxlt.xyz^
 ||eqghuu.com^
 ||eqlidke.cn^
 ||eqqi.cn^
@@ -1848,6 +1850,7 @@
 ||ivqtrjt.cn^
 ||ivzfpwm.cn^
 ||iweiweb.com^
+||ixbua.xyz^
 ||ixelrsd.cn^
 ||ixisivomer.com^
 ||ixjtpbj.cn^
@@ -1968,6 +1971,7 @@
 ||js.ysfzf.cn^
 ||js6.efyt6.com^
 ||jsczde.cn^
+||jsdelivr.vip^
 ||jsdocker.com^
 ||jsebmcv.cn^
 ||jsgdvkjz.com^
@@ -3922,6 +3926,7 @@
 ||wyqaafplm.live^
 ||wyxcb3.top^
 ||wzctuv.xyz^
+||x1abo.com^
 ||x3zy2.icu^
 ||x5hnj21.com^
 ||x8kwcr3l.xyz^
