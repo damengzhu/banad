@@ -5,6 +5,7 @@
 ! Total Count: 5595
 ! by: 酷安@大萌主
 ! domain name
+||wrth.cn^
 ||yetcdn.com^
 ||fqquzqd.top^
 ||ixbua.xyz^
@@ -4812,6 +4813,8 @@ _/bigREDcat.css?
 .shop:*/bid?url=
 .shop:*/ack?s=
 x.com/*/videoads/
+/xxgg/pf*.js
+/xxgg/gd*.js
 ||addthis.com/live/
 ||xn--*.xn--fiqs8s:
 /template/piankuwap/js/afoot.js
