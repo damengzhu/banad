@@ -4511,6 +4511,7 @@
 /js/ads
 /banners/pr_advertising_ads_banner
 .ru/ads/
+||palmertx.com/template/js/img-1.php
 :800*/d/*n=$third-party
 :800*/sc/*n=$third-party
 ||tongji.trafficmanager.net/?
