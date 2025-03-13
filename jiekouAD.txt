@@ -4454,10 +4454,6 @@
 @@https://static.ws.126.net/163/frontend/libs/antanalysis.min.js
 @@guokr.com/apis/flowingboard/item/guokrapp_download_source.json
 @@||qhres2.com^$domain=baike.so.com
-@@||pagead2.googlesyndication.com^$domain=myqqjd.com
-@@||www.google-analytics.com^$domain=myqqjd.com
-@@||www.googletagmanager.com^$domain=myqqjd.com
-@@||myqqjd.com^
 @@||stripe.com^$domain=pay.openai.com
 @@||aliyuncs.com/*.png
 @@||f*.baidu.com/it/u=*,*&fm=$domain=baidu.com
