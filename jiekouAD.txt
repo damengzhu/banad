@@ -4841,7 +4841,6 @@ template/m1938pc/ads/*.js
 /js/statistics/user_ad.js
 /static/js/miniyyrtv-config.js
 ! element
-bing.com#@#DIV#bnp_container
 colamanga.com#@#.gg_950
 facebook.com#@#script:not([src]) + style + div[id]:not([class]):not([style])
 91porn.com#@#.vjs-preroll
@@ -4918,7 +4917,6 @@ bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
-bing.com,cn.bing.net##DIV#bnp_container
 bing.com,cn.bing.net##li.b_ad
 bing.com,cn.bing.net##.ad_sc
 sogou.com##DIV.banner-container
