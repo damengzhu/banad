@@ -5479,6 +5479,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##div#header-wrapper.header_b > div#header
 ##a[href^="https://91keep.tv"]
 ##DIV#bottom-ads
+##.guding312
 ##section.wrap > section.f0
 ##DIV#googleads-popup.popup.visible
 ##DIV[style='clear: both; position: relative; width: 396px; height: 130px;']
