@@ -5,6 +5,7 @@
 ! Total Count: 5602
 ! by: 酷安@大萌主
 ! domain name
+||bd-retrieval1.2345.com^
 ||wrth.cn^
 ||yetcdn.com^
 ||fqquzqd.top^
