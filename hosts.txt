@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4422
-#Update Time: 2025-03-15 12:48:32（北京时间）
+#Total Count: 4423
+#Update Time: 2025-03-15 15:59:52（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -588,6 +588,7 @@
 0.0.0.0 bcthd12.shop
 0.0.0.0 bd-a-1.appmobile.cn
 0.0.0.0 bd-js.duote.com
+0.0.0.0 bd-retrieval1.2345.com
 0.0.0.0 bd.ahsrst.cn
 0.0.0.0 bdapi-ads.realmemobile.com
 0.0.0.0 bdapi-in-ads.realmemobile.com
