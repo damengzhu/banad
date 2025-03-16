@@ -5087,7 +5087,6 @@ ckizma.com###post-card-64841,#post-card-50163,.post-card-ads,.popup-container
 heiliao346.pro###post-card-1234,#post-card-518,#post-card-1000,#post-card-666,#post-card-1588,#post-card-1555,#post-card-1118,#post-card-618,#post-card-888,#post-card-999
 www.67tool.com##.footer-banner
 mini.yyrtv.com##.right-gg
-hahahd.com##.cpcad
 oss-cn-hangzhou.aliyuncs.com##A.hm_item[href^='https://tcs-devops.aliyuncs.com/thumbnail/']
 www.jmhongyan.com##ins[class],.container p
 www.jjtyss.com##ins[class],.myui-player.clearfix p,.container p
@@ -5595,6 +5594,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href^='https://31jrx5y7.com/']
 ##[href*='pojuko.buzz']
 ##[href*='3400.org']
+##.cpcad
 ##[src*='tif'][style='width:100%;height:120px'],[src*='tif'][onerror='this.style.display=\'none\'']
 ##body#read.read > a.appguide-wrap
 ##[onclick*='m.kanshuapp.net']
