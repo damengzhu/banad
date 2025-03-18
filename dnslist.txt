@@ -2,8 +2,8 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Total Count: 4429
-! Update Time:2025-03-18 12:41:27（北京时间）
+! Total Count: 4434
+! Update Time:2025-03-18 13:00:58（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -1151,6 +1151,7 @@
 ||e.kuaishou.com^
 ||e.qq.com^
 ||e49.xyz^
+||e5nnk.com^
 ||eabids.com^
 ||eamqbaqzaewwq.top^
 ||eblnzoq.cn^
@@ -2972,6 +2973,7 @@
 ||qzqd2.com^
 ||qzs.gdtimg.com^
 ||r36ku.site^
+||r3nvrr4uzh.com^
 ||r5dfwjtb.icu^
 ||r6pt6kfz.com^
 ||r75tia.cn^
@@ -3738,6 +3740,7 @@
 ||wefoidnknsl.net^
 ||wegowan.com^
 ||weifengtianxia.com^
+||weitietl.com^
 ||weixin.qq.huigun.top^
 ||weizhenwx.com^
 ||wenjinsai.top^
@@ -4084,6 +4087,7 @@
 ||y0tf2wp.online^
 ||y74s.xyz^
 ||yaacdn.top^
+||yaaumqa.top^
 ||yac5t.cn^
 ||yahekby.cn^
 ||yangjie.asia^
@@ -4245,6 +4249,7 @@
 ||zbc6hy*.live^
 ||zbc6hye*.xyz^
 ||zbc6hyip.xyz^
+||zbhuafx.com^
 ||zblz.me^
 ||zbv7kxrteclub.xyz^
 ||zbvchabjbcj.com^

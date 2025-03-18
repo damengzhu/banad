@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4423
-#Update Time: 2025-03-18 12:41:27（北京时间）
+#Total Count: 4428
+#Update Time: 2025-03-18 13:00:58（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -1149,6 +1149,7 @@
 0.0.0.0 e.kuaishou.com
 0.0.0.0 e.qq.com
 0.0.0.0 e49.xyz
+0.0.0.0 e5nnk.com
 0.0.0.0 eabids.com
 0.0.0.0 eamqbaqzaewwq.top
 0.0.0.0 eblnzoq.cn
@@ -2965,6 +2966,7 @@
 0.0.0.0 qzqd2.com
 0.0.0.0 qzs.gdtimg.com
 0.0.0.0 r36ku.site
+0.0.0.0 r3nvrr4uzh.com
 0.0.0.0 r5dfwjtb.icu
 0.0.0.0 r6pt6kfz.com
 0.0.0.0 r75tia.cn
@@ -3728,6 +3730,7 @@
 0.0.0.0 wefoidnknsl.net
 0.0.0.0 wegowan.com
 0.0.0.0 weifengtianxia.com
+0.0.0.0 weitietl.com
 0.0.0.0 weixin.qq.huigun.top
 0.0.0.0 weizhenwx.com
 0.0.0.0 wenjinsai.top
@@ -4073,6 +4076,7 @@
 0.0.0.0 y0tf2wp.online
 0.0.0.0 y74s.xyz
 0.0.0.0 yaacdn.top
+0.0.0.0 yaaumqa.top
 0.0.0.0 yac5t.cn
 0.0.0.0 yahekby.cn
 0.0.0.0 yangjie.asia
@@ -4225,6 +4229,7 @@
 0.0.0.0 zawqwpajq.club
 0.0.0.0 zb.516624.com
 0.0.0.0 zbc6hyip.xyz
+0.0.0.0 zbhuafx.com
 0.0.0.0 zblz.me
 0.0.0.0 zbv7kxrteclub.xyz
 0.0.0.0 zbvchabjbcj.com
