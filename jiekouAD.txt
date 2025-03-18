@@ -4443,7 +4443,7 @@
 ||sugar.zhihu.com^
 ||stat.meitudata.com^
 ! url
-@@googlesyndication.com@bilinovel.com
+@@googlesyndication.com$domain=bilinovel.com
 @@||cqshuda.com/template/conch/asset/js/conch.vip.js
 @@||cloudflare.com/cdn-cgi/trace$domain=net.ljxnet.cn
 @@||ecmb.bdimg.com/*.jpg
