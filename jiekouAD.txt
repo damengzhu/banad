@@ -4989,6 +4989,9 @@ so.com##.inner_left
 so.com###so-activity-entry
 so.com##.e_result
 so.com##.tg-wrap
+so.douyin.com##[class*='h5-ad-']
+so.douyin.com##[class^='layout-']
+so.douyin.com##X-VIEW.container
 so.toutiao.com##.relative.pointer-events-none
 so.toutiao.com##section.commonbox.hasfooter
 so.toutiao.com##DIV[id^='ad_']
@@ -5061,7 +5064,6 @@ www.hbhtyl.com##P[style^='width: 100% !important; margin: 0p']
 www.ydyse.com##.left,.bottom,.right,.ad,.adimage
 m.kdslife.com###app.Card.DownloadGuide
 m.guancha.cn##.g_header.go-to-app
-douyin.com##[class*='h5-ad-']
 120ask.com##IFRAME[width='400']
 thepaper.cn##[class^='index_footer_banner']
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
