@@ -5,6 +5,7 @@
 ! Total Count: 5619
 ! by: 酷安@大萌主
 ! domain name
+||51korean.com^
 ||lpo03240aou.com^
 ||vxcewh.cn^
 ||yxqmryq.top^
@@ -4797,6 +4798,9 @@ _/bigREDcat.css?
 .top/?token=$third-party
 .top/gluinfo.php?s=$third-party
 /baidu/tg.js
+/js/tj.js
+_300x250.js
+.xyz:*/js/b.php?v=*
 .xyz:*/bug?*=$third-party
 ||hongosi.xn--*.cc$third-party
 ||diyibanzhu*/js/cdn.js$~third-party
