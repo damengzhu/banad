@@ -4803,6 +4803,7 @@ _/bigREDcat.css?
 /baidu/tg.js
 /js/tj.js
 _300x250.js
+||auete.pro/js/mcenter/
 .xyz:*/js/b.php?v=*
 .xyz:*/bug?*=$third-party
 ||hongosi.xn--*.cc$third-party
