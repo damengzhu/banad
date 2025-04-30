@@ -4621,6 +4621,8 @@ hanman/static/dist/ppm/js/main.js
 com:8891/c.php?s=*$third-party
 /gameapk/*/hongbao.apk
 /dibu.adadadad
+||sudugu.com/config/tj.js
+||sudugu.com/config/v7.js
 ||imanhuapi.com/style/js/mpmh.js
 ?adspot_
 ://pic*.com/upload/*.js$third-party
