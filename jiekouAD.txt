@@ -4478,6 +4478,7 @@
 @@||guokr.com/apis/flowingboard/item/m_home_
 @@||sobot.com^
 @@||wan.douyu.com^
+.xyz/$domain=pan.huang1111.cn
 ||172.247.208.87/js/head.js
 ||cupfox*.com/statics/js/ing.js
 ||qishula.com/css/ding.js
