@@ -4752,6 +4752,7 @@ js/yys/Pfhl365.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
 Mplay/kk1.js
+||hax.co.id/dist/js/ajax.js
 .live/hm.js$third-party
 ||dbmp4.com/js/foot.js
 ||halihali*.com/js/wap2-jm-ms.js
