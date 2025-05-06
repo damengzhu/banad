@@ -5113,6 +5113,7 @@ youtube.com##AD-SLOT-RENDERER
 90mh.org##[style$='background-size: 393px 125px !important;']
 118pan.com##.card.mt-2:nth-child(2)
 m.autohome.com.cn##section > ol
+xxooo.cf###overlay
 www.3ppp.net##DIV.bottom_fixed
 apkpure.net,apkpure.com##DIV.js-ad-slot
 dongmanhuayuan.myheartsite.com##.card-body
