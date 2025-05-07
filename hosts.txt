@@ -1,8 +1,8 @@
 #Title: 几十KB的轻量规则
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
-#Total Count: 4439
-#Update Time: 2025-05-06 14:47:02（北京时间）
+#Total Count: 4440
+#Update Time: 2025-05-07 11:34:28（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -2804,6 +2804,7 @@
 0.0.0.0 polkkqm.com
 0.0.0.0 polkmerth.com
 0.0.0.0 polkmnhytgb.com
+0.0.0.0 polyfill-js.cn
 0.0.0.0 poqiod.com
 0.0.0.0 poqjnkdsou.net
 0.0.0.0 poqwnllkm.com
