@@ -5,6 +5,7 @@
 ! Total Count: 5658
 ! by: 酷安@大萌主
 ! domain name
+||polyfill-js.cn^
 ||saptorge.com^
 ||mmcegkfrue.xyz^
 ||appmobile.cn^
@@ -4610,6 +4611,8 @@ chen-xing/figure_bed*
 .xyz/*_*_1_*.js?$third-party
 ||aiqu28.com/da/
 .cn:*/vh5$third-party
+/tj/tongji.js?v=$third-party
+/js/gd.js
 ||nex.163.com/q?
 ||g.163.com/*&affiliate=
 ||163.com/wap/special/article_cooper_piapia/
