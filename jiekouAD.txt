@@ -5,6 +5,7 @@
 ! Total Count: 5661
 ! by: 酷安@大萌主
 ! domain name
+||kklq05121p0i.com^
 ||polyfill-js.cn^
 ||saptorge.com^
 ||mmcegkfrue.xyz^
@@ -4762,6 +4763,8 @@ js/yys/Pfhl365.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
 Mplay/kk1.js
+cloudflareinsights.com$third-party
+/theme/damn_b.js$~third-party
 ||hax.co.id/dist/js/ajax.js
 .live/hm.js$third-party
 ||dbmp4.com/js/foot.js
