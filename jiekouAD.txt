@@ -6,6 +6,7 @@
 ! by: 酷安@大萌主
 ! domain name
 ||kuiv.cn^
+||fgfhgvtj.com^
 ||kklq05121p0i.com^
 ||polyfill-js.cn^
 ||saptorge.com^
