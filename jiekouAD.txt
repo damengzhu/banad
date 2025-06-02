@@ -6,7 +6,6 @@
 ! by: 酷安@大萌主
 ! domain name
 ||kuiv.cn^
-||xfztgxt.com^
 ||fgfhgvtj.com^
 ||kklq05121p0i.com^
 ||polyfill-js.cn^
