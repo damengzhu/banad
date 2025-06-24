@@ -4899,6 +4899,7 @@ template/m1938pc/ads/*.js
 /js/statistics/user_ad.js
 /static/js/miniyyrtv-config.js
 ! element
+cloud.189.cn#@#.ad-container
 hax.co.id#@#.ad-box
 hax.co.id#@#.ad-wrapper
 hanime1.me#@#[class*="juicyads"]
