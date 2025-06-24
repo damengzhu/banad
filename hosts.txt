@@ -2,7 +2,7 @@
 #Homepage: https://github.com/damengzhu/banad
 #by: 酷安@大萌主
 #Total Count: 4444
-#Update Time: 2025-06-17 16:29:20（北京时间）
+#Update Time: 2025-06-24 18:57:27（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
