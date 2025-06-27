@@ -7,7 +7,7 @@
 ## 规则链接：
 [https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) 
 ### 镜像: 
-[https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt](https://slink.ltd/https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
+[https://ghproxy.1888866.xyz/raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt](https://ghproxy.1888866.xyz/raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt)
 
 ## 反馈: 
 🐧群: [715582626](https://jq.qq.com/?_wv=1027&k=1jx8rV2k) 
