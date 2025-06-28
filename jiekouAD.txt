@@ -4766,6 +4766,7 @@ js/yys/Pfhl365.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
 Mplay/kk1.js
+||ffdm*.cc/dd.js
 cloudflareinsights.com$third-party
 /theme/damn_b.js$~third-party
 ||hax.co.id/dist/js/ajax.js
