@@ -5104,6 +5104,8 @@ jav777.cc,jav777.xyz##[src='/close.gif']
 jav777.cc,jav777.xyz##.myad_alert_82
 163.com##.js-open-app
 163.com##.freeVip
+eastmoney.com##.dc-layer-tc
+eastmoney.com###dc-result-tc
 webtor.io##DIV.ad
 webtor.io##[data-element='empty']
 webtor.io##IFRAME[scrolling='no']
