@@ -4989,6 +4989,7 @@ bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="=AdsPlus"])
 bing.com,cn.bing.net##li.b_ad
 bing.com,cn.bing.net##.ad_sc
+sogou.com##.qb-download-banner-non-share
 sogou.com##.pc-brand-wrapper
 sogou.com##.ips-overwrite-width
 sogou.com##.banner-container
