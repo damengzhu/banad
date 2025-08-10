@@ -5092,6 +5092,7 @@ www.huadongty.com##DIV[id$=' img-containers']
 www.huadongty.com##SECTION
 m.jd.com##DIV.modal__mask
 m.jd.com##DIV.modal__wrap
+ifeng.com##IFRAME[frameborder='0'][border='0']
 ifeng.com##[class^='index_fixSlideBox']
 ifeng.com##[href^='https://mall.ifeng.com'],IMG[class^='picMark-'][src^='https://x0.ifengimg.com/']
 ifeng.com##[class^='index_bottom_box']
