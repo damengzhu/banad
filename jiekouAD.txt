@@ -4986,6 +4986,9 @@ bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
 bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.pa_sb
+cn.bing.com,cn.bing.net##.b_bza_pole
+bing.com,cn.bing.net##li:has(a[h$=",Ads"])
+bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
 bing.com,cn.bing.net##.b_algo:has(.rms_img[src*="/th?id=OADD2."][src$="21.2"])
