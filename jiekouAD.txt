@@ -4727,6 +4727,8 @@ xyz:9002/*?x=$third-party
 ||omlube.com/O/1000970O3001405O1O.js
 ||5dm.tv/html/5dmm.jpg
 ||domp4.cc/js/wcount.js
+/gg/gg.js
+/astyle/wap.js$~third-party
 ||www.*yydstxt*/js/cdn.js
 ://*mp4*/js/wcount.js$~third-party
 ||bimiacg4.net/template/JOELEO/asset/js/jquery.common.js
