@@ -4718,6 +4718,7 @@ xyz:9002/*?x=$third-party
 ||novret.com/?clickid=
 .cn/bid?url=*$third-party
 ||wcanj.com/2345/
+/hm/ytymer?x=
 /xtub_*_rony.js$third-party
 /app/get*?t=*http$third-party
 .xyz/*?16$third-party
