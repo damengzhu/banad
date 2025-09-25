@@ -1,9 +1,9 @@
 # Title: 几十KB的轻量规则
 # Homepage: https://github.com/damengzhu/banad
 # by: 酷安@大萌主
-# Version: 20250907225801
-# Total Count: 4448
-# Update Time: 2025-09-07 22:58:01（北京时间）
+# Version: 20250925170733
+# Total Count: 4453
+# Update Time: 2025-09-25 17:07:33（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -781,6 +781,7 @@
 0.0.0.0 cdvsd9.com
 0.0.0.0 ceh.cehbh.com
 0.0.0.0 ceiqox.com
+0.0.0.0 cekrfk.com
 0.0.0.0 ceshi1.ink
 0.0.0.0 ceshi127722.obs.cn-north-4.myhuaweicloud.com
 0.0.0.0 cfdns.vip
@@ -1139,6 +1140,7 @@
 0.0.0.0 dvzk66.cn
 0.0.0.0 dwfjtz.xyz
 0.0.0.0 dwibjkdsn.com
+0.0.0.0 dwuupq.com
 0.0.0.0 dwyngjb.icu
 0.0.0.0 dxlxjvmo.icu
 0.0.0.0 dxp.baidu.com
@@ -2623,6 +2625,7 @@
 0.0.0.0 nxnjw.com
 0.0.0.0 nxxyjn.com
 0.0.0.0 nyvgbt.xyz
+0.0.0.0 nzl09251oa.com
 0.0.0.0 nzrlx6wc.icu
 0.0.0.0 nzrovf.xyz
 0.0.0.0 nzymeedg.icu
@@ -2981,6 +2984,7 @@
 0.0.0.0 qzpmx.cn
 0.0.0.0 qzqd2.com
 0.0.0.0 qzs.gdtimg.com
+0.0.0.0 r0l7cp.com
 0.0.0.0 r36ku.site
 0.0.0.0 r3nvrr4uzh.com
 0.0.0.0 r5dfwjtb.icu
@@ -3493,6 +3497,7 @@
 0.0.0.0 tuhzjrr.cn
 0.0.0.0 tuisong.baidu.com
 0.0.0.0 tumeite.cn
+0.0.0.0 tuobeng.net
 0.0.0.0 tuplzt.xyz
 0.0.0.0 tushwjp.icu
 0.0.0.0 tuvtpxp.cn

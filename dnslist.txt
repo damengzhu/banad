@@ -2,9 +2,9 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Version: 20250907225801
-! Total Count: 4454
-! Update Time: 2025-09-07 22:58:01（北京时间）
+! Version: 20250925170733
+! Total Count: 4459
+! Update Time: 2025-09-25 17:07:33（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -783,6 +783,7 @@
 ||cdvsd9.com^
 ||ceh.cehbh.com^
 ||ceiqox.com^
+||cekrfk.com^
 ||ceshi1.ink^
 ||ceshi127722.obs.cn-north-4.myhuaweicloud.com^
 ||cfdns.vip^
@@ -1141,6 +1142,7 @@
 ||dvzk66.cn^
 ||dwfjtz.xyz^
 ||dwibjkdsn.com^
+||dwuupq.com^
 ||dwyngjb.icu^
 ||dxlxjvmo.icu^
 ||dxp.baidu.com^
@@ -2628,6 +2630,7 @@
 ||nxnjw.com^
 ||nxxyjn.com^
 ||nyvgbt.xyz^
+||nzl09251oa.com^
 ||nzrlx6wc.icu^
 ||nzrovf.xyz^
 ||nzymeedg.icu^
@@ -2988,6 +2991,7 @@
 ||qzpmx.cn^
 ||qzqd2.com^
 ||qzs.gdtimg.com^
+||r0l7cp.com^
 ||r36ku.site^
 ||r3nvrr4uzh.com^
 ||r5dfwjtb.icu^
@@ -3502,6 +3506,7 @@
 ||tuhzjrr.cn^
 ||tuisong.baidu.com^
 ||tumeite.cn^
+||tuobeng.net^
 ||tupian888.*.bcebos.com^
 ||tuplzt.xyz^
 ||tushwjp.icu^
