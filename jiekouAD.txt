@@ -4997,6 +4997,7 @@ bing.com,cn.bing.net##.adsMvC
 bing.com,cn.bing.net##.pa_sb
 cn.bing.com,cn.bing.net##.b_bza_pole
 bing.com,cn.bing.net##li:has(a[h$=",Ads"])
+bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
 bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
 bing.com,cn.bing.net##a[h$=",Ads"]
 bing.com,cn.bing.net##a[href*="/aclick?ld="]
