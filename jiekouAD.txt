@@ -5176,6 +5176,7 @@ axutongxue.com##DIV[style='text-align:center']
 www.xda-developers.com##.adzone-above-latest
 www.lezhutv.com##[style='bottom: 132px;']
 woozooo.com##.ves
+olevod.com##.ads-bg
 ai-chatbot.top##.right-14
 pianbas.com##.nopc.cpcad
 eastday.com##DIV.lfyinliu
