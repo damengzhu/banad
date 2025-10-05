@@ -4819,6 +4819,7 @@ mobi*.*.xyz/*_$third-party
 mobi*.*.top/*_$third-party
 /*_*_aubi.js$third-party
 :800*/d/*n=$third-party
+mumu*.com/js/cdn.js$~third-party
 /public/tingshu/foor.js$~third-party
 dingbu.*.*.com/dingbu.$third-party
 .xyz/jque*.js?$third-party
