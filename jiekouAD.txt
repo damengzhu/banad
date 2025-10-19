@@ -4471,6 +4471,7 @@
 ||sugar.zhihu.com^
 ||stat.meitudata.com^
 ! url
+@@||x2.ifengimg.com^
 @@||lobechat.com/_next/static/chunks/
 @@googlesyndication.com$domain=bilinovel.com
 @@||cqshuda.com/template/conch/asset/js/conch.vip.js
