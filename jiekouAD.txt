@@ -5705,6 +5705,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='pojuko.buzz']
 ##[href*='3400.org']
 ##.cpcad
+##main.quote-main > .section_btn.clearfix.mt20
 ##body > embed[id][src*="://"][src$="="]
 ##[id^="__ehbc0ejbc0hib"]
 ##[id^="__ehbc0gjbc0ajb"]
