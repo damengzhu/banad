@@ -5686,6 +5686,8 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##.vp-project-home > .ads-container
 ##A.gotoclick[adv_id]
 ##[onclick='goAppHtml();']
+##.jtAms_container > .count_a
+##.m_kxbtm_ad
 ##.ads-bg.ads-bg-home
 ###kp-hid-sport-m.fed-part-layout.fed-back-whits.fed-hide-md.uk-alert
 ###bc_dp_m
