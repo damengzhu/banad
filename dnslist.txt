@@ -2,9 +2,9 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Version: 20251020181951
+! Version: 20251022182822
 ! Total Count: 4461
-! Update Time: 2025-10-20 18:19:51（北京时间）
+! Update Time: 2025-10-22 18:28:22（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
