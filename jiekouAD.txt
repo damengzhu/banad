@@ -5102,6 +5102,8 @@ apkcombo.com##[data-d-ad-id]
 apkcombo.com##.diseanmevrtt
 izaiwen.cn##DIV[carousel-item]
 izaiwen.cn##.item-box
+jianshu.com##[aria-label='lwa-ad-one']
+jianshu.com##.app-float-btn
 huya.com###template
 huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 smartapps.cn##swan-nest-banner-ad.ad-expose
@@ -5179,7 +5181,6 @@ chinaso.com##.wrap-toolbar
 sm.cn##.ad-wolong-container
 momxs.com###inglestore.inglestore
 moegirl.org.cn##[class^='stevrhgmNo']
-www.jianshu.com##[aria-label='lwa-ad-one']
 imgur.com##.Ad.sas.Smart
 soshu888.net##[style$='width: 100vw; position: relative;']
 axutongxue.com##DIV[style='text-align:center']
