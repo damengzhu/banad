@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/damengzhu/banad
 ! Update Time: 2025-11-21 07:29:34（北京时间）
 ! Version: 20251121072934
-! Total Count: 5728
+! Total Count: 5728 
 ! by: 酷安@大萌主
-||tagtd.cn^
 ! domain name
+||tagtd.cn^
 ||hwwzqi.cn^
 ||blzgeuuz.icu^
 ||iefmvk.cn^
