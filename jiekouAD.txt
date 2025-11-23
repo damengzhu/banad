@@ -4810,6 +4810,9 @@ cloudflareinsights.com$third-party
 ||y3600.cc/js/jquery.min.js
 ||shimo.im/lizard-api/ads
 /adjs
+/tjjs.js
+/xx/d.js
+/xx/f12.js
 /assets/js/se.js$~third-party
 /assets/publish/*.2.js$~third-party
 /assets/publish/*.1.js$~third-party
@@ -5322,7 +5325,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href^='https://gougew.lanzoub.com/']
 ##[href='/ad/bfy.html']
 ##[href='/my/gd.html']
-##[style^="pointer-events: none;background-image:url('https://33789.qqqwww987.site"],[style^='z-index: 2147483647; height: 123px; ']
+##[style^="pointer-events: none;background-image:url(': 2147483647; height: 123px; ']
 ###ad-header-mobile-contener
 ###downapp1
 ##.banner-container-h5 > .banner_all_wrap
