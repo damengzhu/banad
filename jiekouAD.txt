@@ -4849,6 +4849,7 @@ _/bigREDdog.js
 /js/htmlka.js
 /js/htmlkb.js
 /js/htmlkc.js
+||statics.123*.com/static/ks/
 .com/17*?rid=17$third-party
 ||www.aiqu*.com/da/*.js
 ||zzccseo.com/statics/js/di.js
