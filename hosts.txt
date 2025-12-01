@@ -1,9 +1,9 @@
 # Title: 几十KB的轻量规则
 # Homepage: https://github.com/damengzhu/banad
 # by: 酷安@大萌主
-# Version: 20251129192105
-# Total Count: 4461
-# Update Time: 2025-11-29 19:21:05（北京时间）
+# Version: 20251201181743
+# Total Count: 4466
+# Update Time: 2025-12-01 18:17:43（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -1265,6 +1265,7 @@
 0.0.0.0 exdynsrv.com
 0.0.0.0 exevcl.cn
 0.0.0.0 exinariuminix.info
+0.0.0.0 ext.baidu.com
 0.0.0.0 extmaps-api.yandex.net
 0.0.0.0 eybstar.com
 0.0.0.0 eyq3nog.icu
@@ -1541,6 +1542,7 @@
 0.0.0.0 h.trace.qq.com
 0.0.0.0 h1v3fa.com
 0.0.0.0 h2ji5.xyz
+0.0.0.0 h2tcbox.baidu.com
 0.0.0.0 h45pmx1.cn
 0.0.0.0 h4b0srs.cn
 0.0.0.0 h5.dzgsdswh5.xyz
@@ -1596,6 +1598,7 @@
 0.0.0.0 hdypw.com
 0.0.0.0 hdzb6.cc
 0.0.0.0 hebstsmgs.com
+0.0.0.0 hectorstatic.baidu.com
 0.0.0.0 hefei64.com
 0.0.0.0 hefei668.com
 0.0.0.0 hefrpv.xyz
@@ -3100,6 +3103,7 @@
 0.0.0.0 rzkptd.com
 0.0.0.0 rznscya.cn
 0.0.0.0 rzsgxmm.cn
+0.0.0.0 s.bdstatic.com
 0.0.0.0 s.btime.com
 0.0.0.0 s.ufile.cc
 0.0.0.0 s.union.360.cn
@@ -3258,6 +3262,7 @@
 0.0.0.0 somewhate.club
 0.0.0.0 soulsoul.xyz
 0.0.0.0 sovelswpq.com
+0.0.0.0 sp1.baidu.com
 0.0.0.0 sportsdream.top
 0.0.0.0 spplamt.xyz
 0.0.0.0 sq59.cn

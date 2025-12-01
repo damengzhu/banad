@@ -2,9 +2,9 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Version: 20251129192105
-! Total Count: 4467
-! Update Time: 2025-11-29 19:21:05（北京时间）
+! Version: 20251201181743
+! Total Count: 4471
+! Update Time: 2025-12-01 18:17:43（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -1267,6 +1267,7 @@
 ||exdynsrv.com^
 ||exevcl.cn^
 ||exinariuminix.info^
+||ext.baidu.com^
 ||extmaps-api.yandex.net^
 ||eybstar.com^
 ||eyq3nog.icu^
@@ -1544,6 +1545,7 @@
 ||h.trace.qq.com^
 ||h1v3fa.com^
 ||h2ji5.xyz^
+||h2tcbox.baidu.com^
 ||h45pmx1.cn^
 ||h4b0srs.cn^
 ||h5.dzgsdswh5.xyz^
@@ -1599,6 +1601,7 @@
 ||hdypw.com^
 ||hdzb6.cc^
 ||hebstsmgs.com^
+||hectorstatic.baidu.com^
 ||hefei64.com^
 ||hefei668.com^
 ||hefrpv.xyz^
@@ -3107,6 +3110,7 @@
 ||rzkptd.com^
 ||rznscya.cn^
 ||rzsgxmm.cn^
+||s.bdstatic.com^
 ||s.btime.com^
 ||s.ufile.cc^
 ||s.union.360.cn^
@@ -3266,6 +3270,7 @@
 ||somewhate.club^
 ||soulsoul.xyz^
 ||sovelswpq.com^
+||sp1.baidu.com^
 ||sportsdream.top^
 ||spplamt.xyz^
 ||sq59.cn^
