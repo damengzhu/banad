@@ -5033,6 +5033,7 @@ sogou.com##.banner-container
 sohu.com##A[href='javascript:void(0);']
 sohu.com###bottomBanner[data-spm='b-mb'][data-spm-stop='init']
 sohu.com##.middle-insert-ad
+sohu.com##IFRAME[width='325'][frameborder='0']
 sohu.com###middleBanner[data-spm='a-mb'][data-spm-stop='init']
 sohu.com##.top-bill-wrapper[data-spm='a-tb'][data-spm-stop='init']
 sohu.com##[data-spm^='ad-']
