@@ -4923,6 +4923,7 @@ x.com/*/videoads/
 template/m1938pc/ads/*.js
 ||dyxz*.com/static/jquery.js?
 ||dyxz*.com/static/gdw.js
+.vip/shenshang.js
 ||mipcdn.com/c/s/by.manhuachi.com
 ||qimiaomh.com/muban/m/static/js/hhh.js
 ||qimiaomh.com/muban/m/static/js/common.js
