@@ -1,9 +1,9 @@
 # Title: 几十KB的轻量规则
 # Homepage: https://github.com/damengzhu/banad
 # by: 酷安@大萌主
-# Version: 20251216201647
-# Total Count: 4468
-# Update Time: 2025-12-16 20:16:47（北京时间）
+# Version: 20251219150939
+# Total Count: 4473
+# Update Time: 2025-12-19 15:09:39（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -36,6 +36,7 @@
 0.0.0.0 085cczz.com
 0.0.0.0 087tqb.cn
 0.0.0.0 093yuht.com
+0.0.0.0 094kk.com
 0.0.0.0 096iokj.com
 0.0.0.0 09jsufg.com
 0.0.0.0 0er7pc8.xyz
@@ -1303,6 +1304,7 @@
 0.0.0.0 fdgem.com
 0.0.0.0 fdhvczd.cn
 0.0.0.0 fds-1230.cc
+0.0.0.0 fedoq.com
 0.0.0.0 feed.baidu.com
 0.0.0.0 feiln.xyz
 0.0.0.0 fengyukun03.cn
@@ -1955,6 +1957,7 @@
 0.0.0.0 jljftl.xyz
 0.0.0.0 jmbluyxkl.xyz
 0.0.0.0 jmesxbe.icu
+0.0.0.0 jmosl.com
 0.0.0.0 jmr.nnxiant.cn
 0.0.0.0 jnhgm.com
 0.0.0.0 jnmascx.xyz
@@ -2621,6 +2624,7 @@
 0.0.0.0 nqoxurf.icu
 0.0.0.0 nrjzkj.cn
 0.0.0.0 nryqr.cn
+0.0.0.0 nsb42.com
 0.0.0.0 nsclick.baidu.com
 0.0.0.0 nshvhfw.cn
 0.0.0.0 nswtojdi.icu
@@ -4191,6 +4195,7 @@
 0.0.0.0 ynslvyou.com
 0.0.0.0 yoda.kwd.inkuai.com
 0.0.0.0 yofprpv.cn
+0.0.0.0 yohle.com
 0.0.0.0 yonsandileer.com
 0.0.0.0 youjiudilai.com
 0.0.0.0 youku6.top

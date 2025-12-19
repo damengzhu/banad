@@ -2,9 +2,9 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Version: 20251216201647
-! Total Count: 4473
-! Update Time: 2025-12-16 20:16:47（北京时间）
+! Version: 20251219150939
+! Total Count: 4478
+! Update Time: 2025-12-19 15:09:39（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -35,6 +35,7 @@
 ||085cczz.com^
 ||087tqb.cn^
 ||093yuht.com^
+||094kk.com^
 ||096iokj.com^
 ||09jsufg.com^
 ||0er7pc8.xyz^
@@ -1305,6 +1306,7 @@
 ||fdgem.com^
 ||fdhvczd.cn^
 ||fds-1230.cc^
+||fedoq.com^
 ||feed.baidu.com^
 ||feiln.xyz^
 ||fengyukun03.cn^
@@ -1958,6 +1960,7 @@
 ||jljftl.xyz^
 ||jmbluyxkl.xyz^
 ||jmesxbe.icu^
+||jmosl.com^
 ||jmr.nnxiant.cn^
 ||jnhgm.com^
 ||jnmascx.xyz^
@@ -2626,6 +2629,7 @@
 ||nqoxurf.icu^
 ||nrjzkj.cn^
 ||nryqr.cn^
+||nsb42.com^
 ||nsclick.baidu.com^
 ||nshvhfw.cn^
 ||nswtojdi.icu^
@@ -4203,6 +4207,7 @@
 ||ynslvyou.com^
 ||yoda.kwd.inkuai.com^
 ||yofprpv.cn^
+||yohle.com^
 ||yonsandileer.com^
 ||youjiudilai.com^
 ||youku6.top^
