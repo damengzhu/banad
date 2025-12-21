@@ -5190,6 +5190,7 @@ thepaper.cn##[class^='index_footer_banner']
 www.wenshushu.cn##A[href^='https://wenshushu.cn/ad/']
 cupfox.app##IMG[class^='jsx-'][width='100%'],.swiper-wrapper img[class^='jsx-'][class*='a']:only-child,.cupfox-content.right,.cupfox-content.left
 youtube.com##AD-SLOT-RENDERER
+iplark.com##div.search-container > [style='display: block;']
 90mh.org##[style$='background-size: 393px 125px !important;']
 118pan.com##.card.mt-2:nth-child(2)
 m.autohome.com.cn##section > ol
