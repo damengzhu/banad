@@ -5,7 +5,7 @@
 * 主要去除色情悬浮广告
 
 ## 规则链接：
-[https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt](https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt) 
+[https://raw.githubusercontent.com/damengzhu/banad/refs/heads/main/jiekouAD.txt](https://raw.githubusercontent.com/damengzhu/banad/refs/heads/main/jiekouAD.txt) 
 
 
 ## 反馈: 
