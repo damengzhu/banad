@@ -5219,6 +5219,7 @@ www.xda-developers.com##.adzone-above-latest
 www.lezhutv.com##[style='bottom: 132px;']
 woozooo.com##.ves
 olevod.com##.ads-bg
+m.smzdm.com##.damo-footer-open-app__fixed-logo
 ai-chatbot.top##.right-14
 pianbas.com##.nopc.cpcad
 eastday.com##DIV.lfyinliu
