@@ -4615,7 +4615,6 @@ yhdm*.com/js/wap2-jm-ms.js?ver=
 ||jialingmm.net/dm/tj.js
 ||58jingxuan.top/115
 xmh/200/200-*.gif
-/*_09c09p09v.js
 ||missav.com/pop?url=
 /scripts/snstyle.js?v=2$~third-party
 .com/qq.js$third-party
@@ -4813,7 +4812,6 @@ js/yys/Pfhl365.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
 Mplay/kk1.js
-/*_10c10p10v.js
 ||ffdm*.cc/dd.js
 /resolve?type=*&short=*&name=$third-party
 .com/hm/*?*=*$third-party
