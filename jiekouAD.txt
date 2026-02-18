@@ -4813,6 +4813,7 @@ js/yys/Pfhl365.js
 ||tz659.com/js/html*.js
 ||tz659.com/js/cdn.js
 Mplay/kk1.js
+/*_10c10p10v.js
 ||ffdm*.cc/dd.js
 /resolve?type=*&short=*&name=$third-party
 .com/hm/*?*=*$third-party
