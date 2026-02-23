@@ -4492,6 +4492,7 @@
 ||sugar.zhihu.com^
 ||stat.meitudata.com^
 ! url
+@@gimg*.baidu.com/gimg/app=$domain=kimivod.com
 @@||iqiyi.com/static/js/adfe.5aa3302c.js
 @@||qhres2.com^$domain=www.n.cn
 @@||x2.ifengimg.com^
