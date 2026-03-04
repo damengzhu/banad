@@ -5043,7 +5043,8 @@ bing.com,cn.bing.net###bnp_rich_div
 bing.com,cn.bing.net##.b_ans:has([class^="xm_"][class*="_ansCont"])
 bing.com,cn.bing.net##.pa_sb
 bing.com,cn.bing.net##.adsMvC
-cn.bing.com,cn.bing.net##.b_bza_pole
+bing.com,cn.bing.net##.b_ans
+bing.com,cn.bing.net##.b_bza_pole
 bing.com,cn.bing.net##li:has(a[h$=",Ads"])
 bing.com,cn.bing.net##.b_algo:has([tabindex="0"][role="link"])
 bing.com,cn.bing.net##.b_algo:has(.b_ads1line)
