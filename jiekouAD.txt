@@ -4593,6 +4593,7 @@ unpkg.com/aladug/*.js
 .xyz/qby_*.js?$third-party
 .xyz/get?$third-party
 .xyz/ty/*-*-*$third-party
+||bz*.com/js/cdn.
 /assets/publish/chart.1.js$~third-party
 /assets/publish/react.3.js$~third-party
 /assets/publish/d3.2.js$~third-party
