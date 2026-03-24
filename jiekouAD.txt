@@ -5012,6 +5012,7 @@ baidu.com##.se-recommend-word-list,#se-recommend-word-list-container
 baidu.com##a.ball-wrapper__3BTBO.c-blocka
 baidu.com##DIV[data-module='swan-ad-fc-feed'] DIV[sid][posid][prank]
 baidu.com##.barea-ad
+baidu.com##.ec_resitem *
 baidu.com##[data-log-view*='swan-ad-fc-ad-item']
 baidu.com###bdrainrwDragButton
 baidu.com##[data-video-player='true']
