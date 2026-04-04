@@ -5799,6 +5799,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##a[href*=".cc:"][target="_blank"][class] > span
 ##a[href*=".cc:"] > img[src]
 ##.my-2.md\:my-3
+##[style*='width:9.6vw;height:7.96875vw;background: #000;opacity:0.01;']
 ##img[alt^="PG"][alt*="爆率"]
 ##a[href*=".vip:"] > img[src]
 ##a[href*="?channelCode="] > img[src]
