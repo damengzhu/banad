@@ -6,6 +6,7 @@
 ! Total Count: 5805
 ! by: 酷安@大萌主
 ! domain name
+||sntcbhv.com^
 ||ahfqiraq.in^
 ||wuqwruavhah.in^
 ||orqmimfug.in^
@@ -5796,6 +5797,7 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##A[href*='cc:'] > IMG[src]
 ##a[href][target="_blank"][rel="external nofollow"] > img[src]
 ##img[alt="澳门新葡京"]
+##[style='display: block; width: 100%; height: 127px; background-size: 100% 100%;']
 ##a[href*=".cc:"][target="_blank"][class] > span
 ##a[href*=".cc:"] > img[src]
 ##.my-2.md\:my-3
