@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2026-04-04 18:37:20（北京时间）
-! Version: 20260404183720
-! Total Count: 5808
+! Update Time: 2026-04-08 16:01:10（北京时间）
+! Version: 20260408160110
+! Total Count: 5811
 ! by: 酷安@大萌主
 ! domain name
 ||xfidfuxidr.in^
