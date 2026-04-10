@@ -2,9 +2,9 @@
 ! Title: 几十KB的轻量规则
 ! Homepage: https://github.com/damengzhu/banad
 ! by: 酷安@大萌主
-! Version: 20260408160110
-! Total Count: 4489
-! Update Time: 2026-04-08 16:01:10（北京时间）
+! Version: 20260410152641
+! Total Count: 4501
+! Update Time: 2026-04-10 15:26:41（北京时间）
 ||000123456789.online^
 ||000123456789.site^
 ||00xvppy.cn^
@@ -578,6 +578,7 @@
 ||baitaiz.com^
 ||baiwb.com^
 ||baiyishaonian.cn^
+||bajielm.com^
 ||bangyuandianzi.top^
 ||banhui.xyz^
 ||banners-cdn77.trafficfactory.biz^
@@ -809,6 +810,7 @@
 ||cheda10.icu^
 ||cheda7.icu^
 ||cheh9k4t.com^
+||chemist68.top^
 ||chenhao97.top^
 ||chicmifi.com^
 ||chiese.site^
@@ -1827,6 +1829,7 @@
 ||img.vue-js.cyou^
 ||img2.qqwangming6.com^
 ||imgcacaca.vip^
+||imgsdy8iyf8723y97g.top^
 ||imgwdyey.com^
 ||imp.zol.com.cn^
 ||imtmp.net^
@@ -2300,6 +2303,7 @@
 ||lm882.com^
 ||lm995.com^
 ||lmnpd.xyz^
+||lmtjapi.com^
 ||lmx7.com^
 ||lmxxxz.com^
 ||lnaevr.fun^
@@ -2631,6 +2635,7 @@
 ||nourcomip.fun^
 ||npftmqv.cn^
 ||nphqw.cn^
+||npzc1yzag7.com^
 ||nqdufv.xyz^
 ||nqoxurf.icu^
 ||nrjzkj.cn^
@@ -3048,6 +3053,7 @@
 ||rengbali.fun^
 ||renhadmasandbab.info^
 ||renzhen8.cn^
+||report123.help^
 ||reportlog.dftoutiao.com^
 ||restorationbowelsunflower.com^
 ||rf.cnlongshou.com^
@@ -3555,6 +3561,7 @@
 ||txcv68f.com^
 ||txjfso.com^
 ||txscn.cn^
+||txutayo.com^
 ||ty8bz.com^
 ||tyawwj.cn^
 ||tydouke.com^
@@ -3645,6 +3652,7 @@
 ||usphfiona.com^
 ||usrzh.cn^
 ||utienlt.top^
+||utmtmkfjbitxzlhijfce.top^
 ||uttlinediv.top^
 ||utywsi.cn^
 ||uuiaoq.top^
@@ -3848,6 +3856,7 @@
 ||wtiaw.top^
 ||wtienle.top^
 ||wubizigeng.com^
+||wukongtongji.com^
 ||wuliao.jingyanben.com^
 ||wuplexv.cn^
 ||wuqwruavhah.in^
@@ -4072,6 +4081,7 @@
 ||xn--2ss830adjbqy7h.xn--fiqs8s^
 ||xn--49s928hlshoya.cn^
 ||xn--521-x72fh66s.cn^
+||xn--9krv3x413bbyb.com^
 ||xn--bqro42frpg5up.cn^
 ||xn--gov-x68dy61b.shop^
 ||xn--jor0b302fdhgwnccw8g.com^
@@ -4212,6 +4222,7 @@
 ||ymima360.com^
 ||ymm17.cc^
 ||ymm19.cc^
+||ymmiyun.com^
 ||ymyile.xyz^
 ||yncjsc.cn^
 ||ynfxxbp.xyz^

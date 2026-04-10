@@ -1,9 +1,9 @@
 # Title: 几十KB的轻量规则
 # Homepage: https://github.com/damengzhu/banad
 # by: 酷安@大萌主
-# Version: 20260408160110
-# Total Count: 4484
-# Update Time: 2026-04-08 16:01:10（北京时间）
+# Version: 20260410152641
+# Total Count: 4495
+# Update Time: 2026-04-10 15:26:41（北京时间）
 127.0.0.1 localhost
 ::1 localhost
 0.0.0.0 000123456789.online
@@ -577,6 +577,7 @@
 0.0.0.0 baitaiz.com
 0.0.0.0 baiwb.com
 0.0.0.0 baiyishaonian.cn
+0.0.0.0 bajielm.com
 0.0.0.0 bangyuandianzi.top
 0.0.0.0 banhui.xyz
 0.0.0.0 banners-cdn77.trafficfactory.biz
@@ -807,6 +808,7 @@
 0.0.0.0 cheda10.icu
 0.0.0.0 cheda7.icu
 0.0.0.0 cheh9k4t.com
+0.0.0.0 chemist68.top
 0.0.0.0 chenhao97.top
 0.0.0.0 chicmifi.com
 0.0.0.0 chiese.site
@@ -1824,6 +1826,7 @@
 0.0.0.0 img.vue-js.cyou
 0.0.0.0 img2.qqwangming6.com
 0.0.0.0 imgcacaca.vip
+0.0.0.0 imgsdy8iyf8723y97g.top
 0.0.0.0 imgwdyey.com
 0.0.0.0 imp.zol.com.cn
 0.0.0.0 imtmp.net
@@ -2295,6 +2298,7 @@
 0.0.0.0 lm882.com
 0.0.0.0 lm995.com
 0.0.0.0 lmnpd.xyz
+0.0.0.0 lmtjapi.com
 0.0.0.0 lmx7.com
 0.0.0.0 lmxxxz.com
 0.0.0.0 lnaevr.fun
@@ -2626,6 +2630,7 @@
 0.0.0.0 nourcomip.fun
 0.0.0.0 npftmqv.cn
 0.0.0.0 nphqw.cn
+0.0.0.0 npzc1yzag7.com
 0.0.0.0 nqdufv.xyz
 0.0.0.0 nqoxurf.icu
 0.0.0.0 nrjzkj.cn
@@ -3041,6 +3046,7 @@
 0.0.0.0 rengbali.fun
 0.0.0.0 renhadmasandbab.info
 0.0.0.0 renzhen8.cn
+0.0.0.0 report123.help
 0.0.0.0 reportlog.dftoutiao.com
 0.0.0.0 restorationbowelsunflower.com
 0.0.0.0 rf.cnlongshou.com
@@ -3545,6 +3551,7 @@
 0.0.0.0 txcv68f.com
 0.0.0.0 txjfso.com
 0.0.0.0 txscn.cn
+0.0.0.0 txutayo.com
 0.0.0.0 ty8bz.com
 0.0.0.0 tyawwj.cn
 0.0.0.0 tydouke.com
@@ -3635,6 +3642,7 @@
 0.0.0.0 usphfiona.com
 0.0.0.0 usrzh.cn
 0.0.0.0 utienlt.top
+0.0.0.0 utmtmkfjbitxzlhijfce.top
 0.0.0.0 uttlinediv.top
 0.0.0.0 utywsi.cn
 0.0.0.0 uuiaoq.top
@@ -3838,6 +3846,7 @@
 0.0.0.0 wtiaw.top
 0.0.0.0 wtienle.top
 0.0.0.0 wubizigeng.com
+0.0.0.0 wukongtongji.com
 0.0.0.0 wuliao.jingyanben.com
 0.0.0.0 wuplexv.cn
 0.0.0.0 wuqwruavhah.in
@@ -4061,6 +4070,7 @@
 0.0.0.0 xn--2ss830adjbqy7h.xn--fiqs8s
 0.0.0.0 xn--49s928hlshoya.cn
 0.0.0.0 xn--521-x72fh66s.cn
+0.0.0.0 xn--9krv3x413bbyb.com
 0.0.0.0 xn--bqro42frpg5up.cn
 0.0.0.0 xn--gov-x68dy61b.shop
 0.0.0.0 xn--jor0b302fdhgwnccw8g.com
@@ -4200,6 +4210,7 @@
 0.0.0.0 ymima360.com
 0.0.0.0 ymm17.cc
 0.0.0.0 ymm19.cc
+0.0.0.0 ymmiyun.com
 0.0.0.0 ymyile.xyz
 0.0.0.0 yncjsc.cn
 0.0.0.0 ynfxxbp.xyz
