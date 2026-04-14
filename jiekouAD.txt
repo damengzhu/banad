@@ -6,6 +6,8 @@
 ! Total Count: 5830
 ! by: 酷安@大萌主
 ! domain name
+||zzuccikqt.com^
+||edgelib.net^
 ||fourier.alibaba.com^
 ||lmtjapi.com^
 ||ymmiyun.com^
@@ -4785,6 +4787,12 @@ xyz:9002/*?x=$third-party
 ||5dm.tv/html/5dmm.jpg
 ||domp4.cc/js/wcount.js
 /gg/gg.js
+/tongji/ad.js
+/tong*ji.js
+:800*/d/*n=$third-party
+.com:*/cc/*?is_not=*&target=*
+.com:*/d/*?t=
+.com:*/bug?*=$third-party
 .com:*/cc/*?is_not=*&target=*
 /template/piankuwap/js/afixed.js
 ://tj.*.com$third-party
