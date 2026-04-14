@@ -115,7 +115,6 @@
 ||g7htk7ls7.com^
 ||ktgpgoa.top^
 ||xxsmad4.com^
-||xn--jor0b302fdhgwnccw8g.com^
 ||h1v3fa.com^
 ||hdwiey.com^
 ||youjiudilai.com^
@@ -4789,11 +4788,9 @@ xyz:9002/*?x=$third-party
 /gg/gg.js
 /tongji/ad.js
 /tong*ji.js
-:800*/d/*n=$third-party
 .com:*/cc/*?is_not=*&target=*
 .com:*/d/*?t=
 .com:*/bug?*=$third-party
-.com:*/cc/*?is_not=*&target=*
 /template/piankuwap/js/afixed.js
 ://tj.*.com$third-party
 /astyle/wap.js$~third-party
@@ -5794,7 +5791,6 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##[href*='3400.org']
 ##.cpcad
 ##DIV#ad-float.kyty
-##.banner-container-h5 > .banner_all_wrap
 ##DIV.floating-ad
 ##.ant-modal-root > .tuia-modal-wrap
 ##.ant-modal-root > .ant-modal-mask
