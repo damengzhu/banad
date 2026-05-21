@@ -6,6 +6,8 @@
 ! Total Count: 5855
 ! by: 酷安@大萌主
 ! domain name
+||tcmxmlu.com^
+||okeeblr.com^
 ||qnywjs.buzz^
 ||edg-n2.top^
 ||aoc-p2.shop^
@@ -4929,6 +4931,7 @@ dingbu.*.*.*/*.add$third-party
 .cn/ack?s=*$third-party
 /js/pingbi.js
 /css/ad.
+/*.css?*r=0$third-party
 /statics/govv.js$~third-party
 .jkn0*loi.com$third-party
 ||hhplayer.com/cdn/fb.js
