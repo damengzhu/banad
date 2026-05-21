@@ -6,6 +6,9 @@
 ! Total Count: 5858
 ! by: 酷安@大萌主
 ! domain name
+||malluktig.in^
+||mavrtracktor.com^
+||renamereptiliantrance.com^
 ||tcmxmlu.com^
 ||okeeblr.com^
 ||qnywjs.buzz^
@@ -4930,6 +4933,7 @@ dingbu.*.*.*/*.add$third-party
 /show_ads_
 .cn/ack?s=*$third-party
 /js/pingbi.js
+||ininav.com/sites/default/files/js/js
 /css/ad.
 /*.css?*r=0$third-party
 /statics/govv.js$~third-party
