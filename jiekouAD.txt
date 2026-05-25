@@ -4948,6 +4948,7 @@ _/bigREDcat.css?
 .com:8*/mj*$third-party
 /js/tj.js
 _300x250.js
+.org/config/v7.js
 ||auete.pro/js/mcenter/
 .xyz:*/js/b.php?v=*
 ||hongosi.xn--*.cc$third-party
