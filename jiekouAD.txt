@@ -6,6 +6,8 @@
 ! Total Count: 5869
 ! by: 酷安@大萌主
 ! domain name
+||cmos3.org^
+||mc.yandex.ru^
 ||ttkxny.com^
 ||vdo3c.org^
 ||qihang168.top^
