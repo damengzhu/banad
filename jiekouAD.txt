@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2026-06-24 23:37:53（北京时间）
-! Version: 20260624233753
-! Total Count: 5878
+! Update Time: 2026-06-27 07:14:17（北京时间）
+! Version: 20260627071417
+! Total Count: 5877
 ! by: 酷安@大萌主
 ! domain name
 ||musclesaskewfeeding.com^
