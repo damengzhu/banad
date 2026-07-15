@@ -5216,6 +5216,8 @@ izaiwen.cn##DIV[carousel-item]
 izaiwen.cn##.item-box
 jianshu.com##[aria-label='lwa-ad-one']
 jianshu.com##.app-float-btn
+blog.csdn.net##.passport-login-container
+blog.csdn.net##[class^='mobileContainer_']
 huya.com###template
 huya.com##A[data-edesc='点击/推荐/左侧导航推荐图']
 smartapps.cn##swan-nest-banner-ad.ad-expose
