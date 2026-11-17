@@ -6,6 +6,8 @@
 ! Total Count: 5907
 ! by: 酷安@大萌主
 ! domain name
+||usnorbert.com^
+||cloudflareinsights.com^
 ||reke.at.sohu.com^
 ||f7qh.top^
 ||xn--jc2a749bpa.com^
