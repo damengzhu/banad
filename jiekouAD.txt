@@ -1,12 +1,13 @@
 [Adblock Plus 2.0]
 ! Title: 轻量广告拦截规则
 ! Homepage: https://github.com/damengzhu/banad
-! Update Time: 2026-11-19 12:21:02（北京时间）
-! Version: 20261119122102
-! Total Count: 5927
+! Update Time: 2026-11-18 07:49:13（北京时间）
+! Version: 20261118074913
+! Total Count: 5912
 ! by: 酷安@大萌主
 ! domain name
 ||usnorbert.com^
+||cloudflareinsights.com^
 ||reke.at.sohu.com^
 ||f7qh.top^
 ||xn--jc2a749bpa.com^
@@ -5019,7 +5020,6 @@ _300x250.js
 x.com/*/videoads/
 /xxgg/pf*.js
 /xxgg/gd*.js
-||cloudflareinsights.com^$third-party
 /poster/zj-gd.js
 /poster/zj-mhz-ding.js
 ||addthis.com/live/
@@ -5898,20 +5898,20 @@ javbus.com##.container-fluid:nth-child(9) > .row > .ad-list:nth-child(3)
 ##.adspop
 ##.horizontal-banner
 ##.page-nav ~ .addbox[style]
-##[class="card-ads"]
-##[onclick="'Ad Click'"]
-##[onclick="ad_slot"]
-##a[href]:not([target="_blank"]) + a[href][rel="sponsored"][target="_blank"]
-##a[href][target="_blank"][rel="sponsored"] > img[alt="棋牌"]
-##a[href][target="_blank"][rel="sponsored"] > img[alt^="PG"]
-##a[onclick="棋牌"]
-##a[onclick="澳门"]
-##a[onclick="约炮"]
-##a[rel="sponsored"][onclick]
 ##a[title="PG电子"]
 ##a[title="开元棋牌"]
 ##img[alt$="约炮"]
-##img[alt^="PG"][alt="电子"]
+##[class*="card-ads"]
+##[onclick*="'Ad Click'"]
+##[onclick*="ad_slot"]
+##a[href]:not([target="_blank"]) + a[href][rel*="sponsored"][target="_blank"]
+##a[href][target="_blank"][rel*="sponsored"] > img[alt*="棋牌"]
+##a[href][target="_blank"][rel*="sponsored"] > img[alt^="PG"]
+##a[onclick*="棋牌"]
+##a[onclick*="澳门"]
+##a[onclick*="约炮"]
+##a[rel*="sponsored"][onclick]
+##img[alt^="PG"][alt*="电子"]
 ##.dx-recommend-icons
 ##img[alt="开元电子"]
 ##img[alt*="PG"][alt*="娱乐"]
