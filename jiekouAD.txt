@@ -7,7 +7,6 @@
 ! by: 酷安@大萌主
 ! domain name
 ||usnorbert.com^
-||cloudflareinsights.com^
 ||reke.at.sohu.com^
 ||f7qh.top^
 ||xn--jc2a749bpa.com^
@@ -5020,6 +5019,7 @@ _300x250.js
 x.com/*/videoads/
 /xxgg/pf*.js
 /xxgg/gd*.js
+||cloudflareinsights.com^$third-party
 /poster/zj-gd.js
 /poster/zj-mhz-ding.js
 ||addthis.com/live/
