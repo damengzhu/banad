@@ -4951,7 +4951,8 @@ _/bigREDdog.js
 /config/tj.js
 ||*.org/config/v7.js
 ||jjjxsw.com/js/common.*
-||/js/0x1a2b3c4d.js
+/js/0x1a2b3c4d.js
+.com:30009/*t*$third-party
 /js/j*s*r*u*n*n*e*r.js$~third-party
 /js/kaixin.js
 ||familydoctor.com.cn/c/a/000/ggw_
